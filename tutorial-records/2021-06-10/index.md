@@ -1,7 +1,7 @@
 ### Topics
 - Java OOP basic concepts
     - Primitive vs Null Primitive
-    - Pass by Value vs by preference
+    - Pass by Value vs by reference
     - Abstraction oriented programming
     - ADT
 
