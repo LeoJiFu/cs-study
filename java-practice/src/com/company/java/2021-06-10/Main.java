@@ -136,7 +136,15 @@ class ArrayArray extends BaseArray{
 
     }
 }
+// Calculator c1 = new Calculator([1,2,3,4])
+// c1.sum() => 10
+// sum = 0
+// this.array.forEach(item => sum += item)
+// return sum 
 
+// c1.add(5)
+// this.array.add(5)
+// decouple 
 class Calculator{
     BaseArray array;
     
