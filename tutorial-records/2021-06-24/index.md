@@ -1,6 +1,10 @@
 Topics/ Key Concepts
 - Primitive vs Object value passing
     - pass by value (copied the value and allocated a new space)
+        - bad practice (concat too much string, every +, it will construct a new string, will lead to performace issues. Can use string builder instead)
+            ```java
+            String sql =  "select * from a" + "" + "" + "" + "" + "" + "" ...
+            ```
     - pass by reference (refered to the same location)
 ![](2021-06-24-1.png)
 - class for encapsulation
