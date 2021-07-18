@@ -16,11 +16,11 @@ public class Main {
         list.get(3);
         list.get(2);
     }
-    
+
     static void traverseSingleLinkedNodes(){
-        Node n1 = new Node("Node-1");
-        Node n2 = new Node("Node-2");
-        Node n3 = new Node("Node-3");
+        MyNode n1 = new MyNode("Node-1");
+        MyNode n2 = new MyNode("Node-2");
+        MyNode n3 = new MyNode("Node-3");
 
         n1.next = n2;
         n2.next = n3;
@@ -28,7 +28,7 @@ public class Main {
         // to traverse the nodes map only once
 
         // termination condition -> next == null
-        Node pointer = n1;
+        MyNode pointer = n1;
 
         while(pointer.next != null){
             System.out.println(pointer.item);
@@ -37,11 +37,11 @@ public class Main {
 
         System.out.println(pointer.item);
     }
-    
+
     static void traverseTwiceCircularLinkedNodes(){
-        Node n1 = new Node("Node-1");
-        Node n2 = new Node("Node-2");
-        Node n3 = new Node("Node-3");
+        MyNode n1 = new MyNode("Node-1");
+        MyNode n2 = new MyNode("Node-2");
+        MyNode n3 = new MyNode("Node-3");
 
         n1.next = n2;
         n2.next = n3;
@@ -49,17 +49,17 @@ public class Main {
 
         // termination condition -> 2 time of full traverse
         // cursor/point to the head node  
-        Node pointer = n1;
+        MyNode pointer = n1;
         int counter = 0;
-        
+
         // provide an infinite loop 
         while(pointer.next != null){
             // termination condition
             if(counter >= 2) break;
-            
+
             System.out.println(pointer.item);
             pointer = pointer.next;
-            
+
             // a way to measure one full traverse
             // compare with reference
             if(pointer == n1){
@@ -67,6 +67,6 @@ public class Main {
             }
         }
     }
-    
+
 
 }

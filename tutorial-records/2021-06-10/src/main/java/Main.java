@@ -1,7 +1,7 @@
-package com.company.java;
 
-import com.company.java.oop.Student;
-import com.company.java.oop.TopStudent;
+
+import oop.Student;
+import oop.TopStudent;
 
 import java.util.ArrayList;
 

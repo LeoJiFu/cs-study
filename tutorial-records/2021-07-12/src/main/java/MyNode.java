@@ -1,12 +1,12 @@
-public class Node {
+public class MyNode {
     Object item;
-    Node next;
+    MyNode next;
     
-    Node(Object value){
+    MyNode(Object value){
         this.item = value;
     }
 
-    Node(Object value, Node next){
+    MyNode(Object value, MyNode next){
         this.item = value;
         this.next = next;
     }

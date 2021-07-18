@@ -1,12 +1,12 @@
-- Node
+- MyNode
 ![](2021-06-16-23-07-01.png)
 
-- Node assigned by reference
+- MyNode assigned by reference
 ![](2021-06-16-23-08-04.png)
 
-- Node class is a fatory, produced instances (similar node with different fields)
-- LinkedList is the impelementation for BaseArray, by making use of on Node class
-- Relateionship between LinkedList with Node: LinkedList(Composite) has one or many Node(Component)
+- MyNode class is a fatory, produced instances (similar node with different fields)
+- LinkedList is the impelementation for BaseArray, by making use of on MyNode class
+- Relateionship between LinkedList with MyNode: LinkedList(Composite) has one or many MyNode(Component)
 
 ![](2021-06-16-23-09-13.png)
 

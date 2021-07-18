@@ -1,4 +1,4 @@
-package com.company.java.oop;
+package oop;
 
 public class Student {
     String name;

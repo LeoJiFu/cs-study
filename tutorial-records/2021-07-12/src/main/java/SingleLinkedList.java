@@ -1,5 +1,5 @@
 public class SingleLinkedList {
-    Node head;
+    MyNode head;
     
     int size;
     
@@ -7,9 +7,9 @@ public class SingleLinkedList {
         
     }
     
-    private Node traverseToNthNode(int targetIndex){
+    private MyNode traverseToNthNode(int targetIndex){
         int curIndex = 0;
-        Node pointer = head;
+        MyNode pointer = head;
         
         while (head.next != null) {
             
@@ -24,8 +24,8 @@ public class SingleLinkedList {
         return pointer;
     }
 
-    private Node traverseToLastNode(){
-        Node pointer = head;
+    private MyNode traverseToLastNode(){
+        MyNode pointer = head;
         
         while (true) {
             if(pointer == null || pointer.next == null) {
@@ -38,8 +38,8 @@ public class SingleLinkedList {
     }
 
     public void add(Object item){
-        Node newNode = new Node(item);
-        Node lastNode = traverseToLastNode();
+        MyNode newNode = new MyNode(item);
+        MyNode lastNode = traverseToLastNode();
         
         if(lastNode == null) {
             head = newNode;
