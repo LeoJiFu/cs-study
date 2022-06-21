@@ -1,0 +1,502 @@
+INPUT: blockchain
+TOTAL BOOKS: 500
+1.  21  Mastering Bitcoin
+2.  20  Mastering Ethereum
+3.  18  Bitcoin, the Blockchain, and Their Potential to Change Our World
+4.  17  Getting Started with Blockchain and Cryptocurrency
+5.  17  Blockchain Basics: A Non-Technical Introduction in 25 Steps
+6.  15  Hands-On RESTful API Design Patterns and Best Practices
+7.  15  Full Stack Testing
+8.  14  Blockchain
+9.  14  CISSP, 3rd Edition
+10.  11  What Is Blockchain?
+11.  11  Mastering Bitcoin, 2nd Edition
+12.  11  CompTIA Security+ SY0-601
+13.  10  Mastering Corda
+14.  10  OSCON 2017 - Austin, Texas
+15.  9  Mastering Blockchain - Second Edition
+16.  9  CompTIA Security+ Certification SY0-601: The Total Course
+17.  8  Architecting Data-Intensive Applications
+18.  8  Learn Social Engineering
+19.  7  Certified Blockchain Developer--Hyperledger Fabric (CBDH)
+20.  7  Architecting Blockchain Solutions
+21.  7  Decentralized Applications
+22.  7  Building Blockchain Projects
+23.  7  The Bitcoin Standard
+24.  7  FBML Essentials
+25.  7  OSCON 2018 - Portland, Oregon
+26.  7  Strata Data Conference - San Jose 2018
+27.  7  AZ-900: Microsoft Azure Fundamentals Certification - 2021
+28.  7  AWS Certified Cloud Practitioner (CLF-C01) [Updated for 2021]
+29.  6  Certified Blockchain Solution Architect (CBSA)
+30.  6  Mastering Blockchain
+31.  6  Blockchain Applications and Smart Contracts: Developing with Ethereum and Solidity
+32.  6  Programming Bitcoin
+33.  6  Essential Facebook® Development: Build Successful Applications for the Facebook Platform
+34.  6  Solidity Programming Essentials
+35.  6  Strata + Hadoop World 2016 - San Jose, California: Video Compilation
+36.  6  Microservice Patterns and Best Practices
+37.  5  Blockchain in Action
+38.  5  Blockchain For Dummies
+39.  5  Hands-On Smart Contract Development with Solidity and Ethereum
+40.  5  Bitcoin Essentials
+41.  5  O’Reilly Software Architecture Conference New York 2018
+42.  5  What Is WebAssembly?
+43.  5  Apache Hive Essentials
+44.  5  Solutions Architect's Handbook - Second Edition
+45.  4  Suits and Spooks Washington DC 2014: Complete Video Compilation
+46.  4  Hands-On Guide to Spring Cloud Contract: Creating Consumer-Driven Contracts to Leverage Contract Tests and Improve Your Code
+47.  4  Ethereum Smart Contract Development
+48.  4  Strata Data Conference - New York, NY 2018
+49.  4  Artificial Intelligence By Example
+50.  4  Google Cloud Platform for Developers
+51.  4  Jira Quick Start Guide
+52.  4  The Future of Work
+53.  4  Building Digital Experience Platforms: A Guide to Developing Next-Generation Enterprise Applications
+54.  4  Hands-On Microservices - Monitoring and Testing
+55.  4  RESTful Web API Design with Node.js 10 - Third Edition
+56.  3  Mastering Blockchain - Third Edition
+57.  3  Mastering Blockchain
+58.  3  Foundations of Blockchain
+59.  3  Hands-On Blockchain with Hyperledger
+60.  3  Seeing Beyond the Blockchain Hype
+61.  3  What Are Enterprise Blockchains?
+62.  3  Introducing Ethereum and Solidity: Foundations of Cryptocurrency and Blockchain Programming for Beginners
+63.  3  Building Ethereum Dapps
+64.  3  Facebook Cookbook
+65.  3  Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond
+66.  3  TypeScript Quickly
+67.  3  Strata Data Conference 2019 - San Francisco, California
+68.  3  ODSC East 2018 (Open Data Science Conference)
+69.  3  Hands-On Machine Learning for Cybersecurity
+70.  3  The Modern C++ Challenge
+71.  3  Hands-On Dark Web Analysis
+72.  3  Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps
+73.  3  Strata Data Conference - London, UK 2018
+74.  3  Hands-On Industrial Internet of Things
+75.  3  AWS Certified Solutions Architect - Associate Guide
+76.  3  Hands-On Artificial Intelligence for IoT
+77.  3  The Joy of JavaScript
+78.  3  Progressive Web Apps with React
+79.  3  Hands-On Artificial Intelligence for Search
+80.  2  Blockchain For Dummies, 2nd Edition
+81.  2  Hands-On Smart Contract Development with Hyperledger Fabric V2
+82.  2  Learn Blockchain by Building One: A Concise Path to Understanding Cryptocurrencies
+83.  2  The Complete Blockchain Professional Course
+84.  2  Beginning Blockchain: A Beginner's Guide to Building Blockchain Solutions
+85.  2  Hands-On Cybersecurity with Blockchain
+86.  2  Blockchain across Oracle
+87.  2  Blockchain: A Practical Guide to Developing Business, Law, and Technology Solutions
+88.  2  The Business Blockchain
+89.  2  Mastering the Lightning Network
+90.  2  An O'Reilly Radar Summit: Bitcoin & the Blockchain: Complete Video Compilation
+91.  2  Grokking Bitcoin
+92.  2  Ethereum for Architects and Developers: With Case Studies and Code Samples in Solidity
+93.  2  Truffle Quick Start Guide
+94.  2  Understanding Bitcoin: Cryptography, Engineering and Economics
+95.  2  Bitcoin for the Befuddled
+96.  2  Blockchain in Swift: Decentralized iOS Programming
+97.  2  Computer Science Illuminated, 7th Edition
+98.  2  Internet of Things for Architects
+99.  2  How to Speak Tech: The Non-Techie’s Guide to Key Technology Concepts
+100.  2  Fluent Conference - San Jose, CA 2018
+101.  2  Internet of Things
+102.  2  Industrial Internet Application Development
+103.  2  R3 Corda for Architects and Developers: With Case Studies in Finance, Insurance, Healthcare, Travel, Telecom, and Agriculture
+104.  2  Docker for Serverless Applications
+105.  2  The Digital Future of Management
+106.  2  D3.js Quick Start Guide
+107.  2  Machine Learning for Finance
+108.  2  State of Healthcare Technology
+109.  2  Kotlin Blueprints
+110.  2  Practical Internet of Things Security
+111.  2  Information Governance, 2nd Edition
+112.  2  O'Reilly Strata Data Conference 2019 - New York, New York
+113.  2  Times Series Analysis for Everyone
+114.  2  Preventing Ransomware
+115.  2  The Capital Markets
+116.  2  Hands-On Edge Analytics with Azure IoT
+117.  2  Practical Site Reliability Engineering
+118.  2  Mastering Firebase for Android Development
+119.  1  Blockchain Success Stories
+120.  1  Blockchain Data Analytics For Dummies
+121.  1  The Blockchain Developer: A Practical Guide for Designing, Implementing, Publishing, Testing, and Securing Distributed Blockchain-based Projects
+122.  1  Blockchain Development for Finance Projects
+123.  1  Blockchain as a Service
+124.  1  Learn Python by Building a Blockchain and Cryptocurrency
+125.  1  Blockchain for Business
+126.  1  Hands-On Blockchain for Python Developers
+127.  1  Commercializing Blockchain
+128.  1  Blockchain By Example
+129.  1  Role of Blockchain Technology in IoT Applications
+130.  1  Oracle Blockchain Quick Start Guide
+131.  1  Blockchain for Enterprise
+132.  1  The Real Business of Blockchain
+133.  1  Unlocking Blockchain on Azure: Design and Develop Decentralized Applications
+134.  1  Ripple Quick Start Guide
+135.  1  Unblocked
+136.  1  What Is the Token Economy?
+137.  1  Cryptocurrency Investing For Dummies
+138.  1  Tokenomics
+139.  1  What Is Libra?
+140.  1  Solidity Smart Contracts: Build DApps in Ethereum Blockchain
+141.  1  Blockchain Quick Start Guide
+142.  1  Navigating the Next Wave of Blockchain Innovation: Smart Contracts
+143.  1  The Promise of Bitcoin: The Future of Money and How It Can Work for You
+144.  1  Kings of Crypto
+145.  1  Understanding Crypto Currencies, Bitcoins, and Blockchains
+146.  1  Meet the Expert: Jimmy Song on Why Bitcoin Matters
+147.  1  Ethereum Cookbook
+148.  1  A Developer's Guide to Ethereum
+149.  1  Hands-On Bitcoin Programming with Python
+150.  1  Ethereum Projects for Beginners
+151.  1  Make: FPGAs
+152.  1  The Ultimate Guide to Bitcoin™
+153.  1  More Fearless Change: Strategies for Making Your Ideas Happen
+154.  1  What Problems Will You Solve with Blockchain?
+155.  1  AWS Certified Cloud Practitioner CLF-C01: Exam and Beyond
+156.  1  Self-Sovereign Identity
+157.  1  OSCON 2019 - Portland, Oregon
+158.  1  Identity Attack Vectors: Implementing an Effective Identity and Access Management Solution
+159.  1  Electron Projects
+160.  1  Hands-On GPU Programming with Python and CUDA
+161.  1  Recommender System with Machine Learning and Artificial Intelligence
+162.  1  Cybersecurity of Industrial Systems
+163.  1  Machine Learning Approach for Cloud Data Analytics in IoT
+164.  1  Architecting Cloud Computing Solutions
+165.  1  Hands-On Cybersecurity for Finance
+166.  1  The INSURTECH Book
+167.  1  The Artificial Intelligence Conference - San Francisco 2018
+168.  1  Practical Industrial Internet of Things Security
+169.  1  Velocity Conference 2017 - London, UK
+170.  1  HBR's Year in Business and Technology: 2021 (2 Books)
+171.  1  Hands-On Microservices with C#
+172.  1  How to Compete in the Age of Artificial Intelligence: Implementing a Collaborative Human-Machine Strategy for Your Business
+173.  1  The Business of Cybersecurity
+174.  1  Veracity of Big Data: Machine Learning and Other Approaches to Verifying Truthfulness
+175.  1  Futureproof
+176.  1  Modern JavaScript Web Development Cookbook
+177.  1  Machine Learning with Apache Spark Quick Start Guide
+178.  1  PySpark Cookbook
+179.  1  Quantum Computing in Practice with Qiskit® and IBM Quantum Experience®
+180.  1  Artificial Intelligence
+181.  1  Cybersecurity
+182.  1  Coronavirus and Business: The Insights You Need from Harvard Business Review
+183.  1  Bootstrap 4 Cookbook
+184.  1  Artificial Intelligence By Example - Second Edition
+185.  1  New World Technologies
+186.  1  Mastering MongoDB 4.x - Second Edition
+187.  1  iOS 12 Programming for Beginners - Third Edition
+188.  1  Introduction to Cryptography with Coding Theory, 3rd Edition
+189.  1  Hands-On Ensemble Learning with Python
+190.  1  Orchestrating and Automating Security for the Internet of Things: Delivering Advanced Security Capabilities from Edge to Cloud for IoT
+191.  1  Hands-On Cryptography with Python
+192.  1  Hands-On Artificial Intelligence for Beginners
+193.  1  Native Docker Clustering with Swarm
+194.  1  Why Digital Transformations Fail
+195.  1  Practical Cyber Forensics: An Incident-Based Approach to Forensic Investigations
+196.  1  The New Leadership Literacies
+197.  1  Serverless Integration Design Patterns with Azure
+198.  1  Implementing Azure Cloud Design Patterns
+199.  1  OSCON 2016 - London, United Kingdom
+200.  1  Hands-On Data Structures and Algorithms with Kotlin
+201.  1  Hands-On Machine Learning with Azure
+202.  1  Python Artificial Intelligence Projects for Beginners
+203.  1  Spring 5.0 Cookbook
+204.  1  Intelligent Projects Using Python
+205.  1  Learning D3.js 5 Mapping - Second Edition
+206.  0  Introducing Blockchain Applications: Understand and Develop Blockchain Applications Through Distributed Systems
+207.  0  Blockchain Enabled Applications: Understand the Blockchain Ecosystem and How to Make it Work for You
+208.  0  Blockchain with Hyperledger Fabric - Second Edition
+209.  0  Blockchain for Business
+210.  0  Introducing Blockchain with Java: Program, Implement, and Extend Blockchains with Java
+211.  0  Architecting Enterprise Blockchain Solutions
+212.  0  Blockchain Technology
+213.  0  State of Blockchain
+214.  0  Blockchain Basics
+215.  0  Blockchain
+216.  0  Securing Blockchain Networks like Ethereum and Hyperledger Fabric
+217.  0  Blockchain
+218.  0  Introducing Blockchain with Lisp: Implement and Extend Blockchains with the Racket Language
+219.  0  A Book About Blockchain
+220.  0  Case Study: How Synaptic Health Alliance Used Blockchain to Improve Data Management
+221.  0  Advanced Blockchain Development
+222.  0  Decoding Blockchain for Business: Understand the Tech and Prepare for the Blockchain Future
+223.  0  Building Blockchain Apps
+224.  0  Cryptocurrencies and Blockchain Technology Applications
+225.  0  Machine Learning Approaches for Convergence of IoT and Blockchain
+226.  0  Learn Blockchain Programming with JavaScript
+227.  0  Meet the Expert: Blockchain Best Practices with John Hargrave and Evan Karnoupakis
+228.  0  Blockchain Developer's Guide
+229.  0  Blockchain for Decision Makers
+230.  0  Introduction to Blockchain for Azure Developers: Understanding the Basic Foundations of Blockchain
+231.  0  Blockchain For Dummies
+232.  0  Getting Started with Enterprise Blockchain
+233.  0  What We’ve Learned So Far About Blockchain for Business
+234.  0  Blockchain: The Insights You Need from Harvard Business Review
+235.  0  Hyperledger and Blockchain at IBM
+236.  0  Blockchain Value
+237.  0  Blockchain Development with Hyperledger
+238.  0  Blockchain for Business 2019
+239.  0  Blockchain Quick Reference
+240.  0  Blockchain Hurricane
+241.  0  Spotlight on Innovation: Blockchain for Intellectual Property with Saga Arvidsdotter
+242.  0  The Real Business of Blockchain
+243.  0  Spotlight on Innovation: How Blockchain Will Change Your Business with Alison McCauley
+244.  0  Spotlight on Learning from Failure: Stablecoin Derisks The Blockchain Landscape with Wayne Chang
+245.  0  Developing a Blockchain Business Network with Hyperledger Composer using the IBM Blockchain Platform Starter Plan
+246.  0  Preparing for a Blockchain Future
+247.  0  Blockchain Enabled Applications: Understand the Blockchain Ecosystem and How to Make it Work for You
+248.  0  The Hype Handbook: 12 Indispensable Success Secrets From the World’s Greatest Propagandists, Self-Promoters, Cult Leaders, Mischief Makers, and Boundary Breakers
+249.  0  Practical Blockchains and Cryptocurrencies: Speed Up Your Application Development Process and Develop Distributed Applications with Confidence
+250.  0  Hands-On Blockchain Development on Azure
+251.  0  Blockchain Is Changing How Media and Entertainment Companies Compete
+252.  0  The Blockchain Alternative: Rethinking Macroeconomic Policy and Economic Theory
+253.  0  Unblocked
+254.  0  How Blockchain Will Change Organizations
+255.  0  Mastering Snowflake Solutions: Supporting Analytics and Data Sharing
+256.  0  Complete Cryptocurrency & Blockchain Course | Learn Solidity
+257.  0  Developing Modern Applications with a Converged Database
+258.  0  Data Where You Want It
+259.  0  Debugging application performance: Lessons from HPE
+260.  0  Understanding Cryptocurrencies
+261.  0  The Everything Guide to Investing in Cryptocurrency
+262.  0  The Introvert Advantage
+263.  0  Mastering Blockchain Programming with Solidity
+264.  0  Facebook For Dummies, 8th Edition
+265.  0  Cryptocurrency Investing For Dummies
+266.  0  Understanding Cryptocurrencies
+267.  0  Smoothing Splines
+268.  0  Building the Facebook experience for the mobile world
+269.  0  Hands-On Blockchain Development in 7 Days
+270.  0  Navigating the Patent Minefield Through Consortia
+271.  0  Learn Bitcoin and Blockchain
+272.  0  Ethereum for Web Developers: Learn to Build Web Applications on top of the Ethereum Blockchain
+273.  0  Blockchain and the Law
+274.  0  Cryptocurrency All-in-One For Dummies
+275.  0  Blogging For Dummies, 5th Edition
+276.  0  Quality of Service for Internet Multimedia
+277.  0  The Complete 2020 Ethereum and Solidity Developer Bootcamp
+278.  0  Learn Ethereum
+279.  0  Ethereum Fundamentals
+280.  0  Cryptocurrency Mining For Dummies
+281.  0  Beginning Ethereum Smart Contracts Programming: With Examples in Python, Solidity, and JavaScript
+282.  0  Surface Mount Technology Terms and Concepts
+283.  0  Ethereum For Dummies
+284.  0  Run Your Own Full Bitcoin Node on Linux
+285.  0  Investigating Cryptocurrencies
+286.  0  Money Without Boundaries
+287.  0  The Promise of Bitcoin
+288.  0  Practical Free Alternatives to Commercial Software
+289.  0  Building Games with Ethereum Smart Contracts: Intermediate Projects for Solidity Developers
+290.  0  Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond
+291.  0  Ethereum: Tools & Skills
+292.  0  Build Your First Ethereum DApp
+293.  0  A Guide to IT Contracting
+294.  0  Contracts for Engineers
+295.  0  Learning Bitcoin
+296.  0  The Age Cryptocurrency
+297.  0  Make Change Happen
+298.  0  Event Mining
+299.  0  The Bitcoin Big Bang: How Alternative Currencies Are About to Change the World
+300.  0  Alternative Transportation Fuels
+301.  0  The End of the Risk-Free Rate: Investing When Structural Forces Change Government Debt
+302.  0  Alternative Scriptwriting, 4th Edition
+303.  0  How to Change an Organization Without Blowing It Up
+304.  0  The Alternative Answer - The Nontraditional Investments That Drive the World's Best Performing Portfolios
+305.  0  iRules
+306.  0  Why Boards Need to Change
+307.  0  How Option Contracts Work
+308.  0  The Physician Employment Contract Handbook, 2nd Edition
+309.  0  Digital Fluency: Understanding the Basics of Artificial Intelligence, Blockchain Technology, Quantum Computing, and Their Applications for Digital Transformation
+310.  0  Small Change
+311.  0  IoT Standards with Blockchain: Enterprise Methodology for Internet of Things
+312.  0  From Traditional Fault Tolerance to Blockchain
+313.  0  Practical Artificial Intelligence and Blockchain
+314.  0  Advanced Platform Development with Kubernetes: Enabling Data Management, the Internet of Things, Blockchain, and Machine Learning
+315.  0  Blockchain and Regulation: Privacy, Laws, Taxation and More
+316.  0  Quantum Computing and Blockchain in Business
+317.  0  The Change Handbook, 2nd Edition
+318.  0  Deploying AI in the Enterprise: IT Approaches for Design, DevOps, Governance, Change Management, Blockchain, and Quantum Computing
+319.  0  Eight-Step Change Model
+320.  0  Hands-On IoT Solutions with Blockchain
+321.  0  Practical Java Programming for IoT, AI, and Blockchain
+322.  0  Bioenergy - Realizing the Potential
+323.  0  Implementation Guide for IBM Blockchain Platform for Multicloud
+324.  0  IBM Storage Solutions for Blockchain Platform Version 1.2
+325.  0  IoT, AI, and Blockchain for .NET: Building a Next-Generation Application from the Ground Up
+326.  0  Change Is Everybody's Business
+327.  0  Whole-Scale Change
+328.  0  Industry 4.0 Interoperability, Analytics, Security, and Case Studies
+329.  0  Databases Illuminated, 4th Edition
+330.  0  5 Years of Must Reads from HBR: 2022 Edition (5 Books)
+331.  0  Technologies for Modern Digital Entrepreneurship: Understanding Emerging Tech at the Cutting-Edge of the Web 3.0 Economy
+332.  0  Cyber Security and Network Security
+333.  0  AWS Certified Database - Specialty Complete Video Course
+334.  0  Modern Computer Architecture and Organization - Second Edition
+335.  0  Cyber Security and Digital Forensics
+336.  0  Internet of Things
+337.  0  Trust in Computer Systems and the Cloud
+338.  0  Bank 4.0
+339.  0  The PAYTECH Book
+340.  0  Decisively Digital
+341.  0  Cryptosocial
+342.  0  Business and Emerging Technologies
+343.  0  HBR's 10 Must Reads on Technology and Strategy Collection (7 Books)
+344.  0  Secure Edge Computing
+345.  0  Smart City Infrastructure
+346.  0  The Internet of Medical Things (IoMT)
+347.  0  The AI Book
+348.  0  The Smart Cyber Ecosystem for Sustainable Development
+349.  0  IoT Security
+350.  0  Artificial Intelligent Techniques for Wireless Communication and Networking
+351.  0  The Unintended Consequences of Technology
+352.  0  The Internet of Things
+353.  0  Transparency in ESG and the Circular Economy
+354.  0  Digital Transformation
+355.  0  Hospitality Management and Digital Transformation
+356.  0  AI and the Future of Banking
+357.  0  HBR Insights Future of Business Boxed Set (8 Books)
+358.  0  Practical Network Scanning
+359.  0  The Handbook of Board Governance, 2nd Edition
+360.  0  Integration of Cloud Computing with Internet of Things
+361.  0  The Routledge Handbook of Accounting Ethics
+362.  0  Practical Internet of Things Security - Second Edition
+363.  0  Fundamentals of Network Planning and Optimisation 2G/3G/4G, 2nd Edition
+364.  0  5 Years of Must Reads from HBR: 2021 Edition (5 Books)
+365.  0  The REGTECH Book
+366.  0  The Year in Tech, 2021: The Insights You Need from Harvard Business Review
+367.  0  Internet of Augmented Me, I.AM
+368.  0  Customer Data and Privacy: The Insights You Need from Harvard Business Review
+369.  0  Emerging Technologies
+370.  0  BioCoder #11
+371.  0  Cryptoeconomics
+372.  0  Big Data Analytics for Intelligent Healthcare Management
+373.  0  Real-Time Data Analytics for Large Scale Sensor Data
+374.  0  Marketing in the Digital World
+375.  0  Testing Practitioner Handbook
+376.  0  Architecting the Industrial Internet
+377.  0  The WEALTHTECH Book
+378.  0  Maximizing Security with LinuxONE
+379.  0  5 Years of Must Reads from HBR: 2020 Edition (5 Books)
+380.  0  Cyber Security in Parallel and Distributed Computing
+381.  0  Maximizing Security with LinuxONE
+382.  0  5 Years of Must Reads from HBR: 2019 Edition
+383.  0  Breaking Digital Gridlock, + Website
+384.  0  Economic Renaissance In the Age of Artificial Intelligence
+385.  0  HBR's 10 Must Reads 2018
+386.  0  Transforming Climate Finance and Green Investment with Blockchains
+387.  0  Why People Believe in Their Leaders — Or Not
+388.  0  Hands-On Artificial Intelligence for Cybersecurity
+389.  0  Investigating Cryptocurrencies
+390.  0  Oracle CX Cloud Suite
+391.  0  Mastering Docker Enterprise
+392.  0  Tech Trends in Practice
+393.  0  The Internet of Value
+394.  0  The NFT Handbook
+395.  0  China's Trump Card
+396.  0  The Year in Tech 2022: The Insights You Need from Harvard Business Review
+397.  0  Technology in Supply Chain Management and Logistics
+398.  0  Learn Red - Fundamentals of Red
+399.  0  Digital Supply Networks: Transform Your Supply Chain and Gain Competitive Advantage with Disruptive Technology and Reimagined Processes
+400.  0  Internet of Things A to Z
+401.  0  The Language of Value
+402.  0  Cyber Minds
+403.  0  AI Concepts for Business Applications
+404.  0  Cryptography Algorithms
+405.  0  Accounting Disrupted
+406.  0  HBR's 10 Must Reads on AI, Analytics, and the New Machine Age (with bonus article "Why Every Company Needs an Augmented Reality Strategy" by Michael E. Porter and James E. Heppelmann)
+407.  0  The HBR Diversity and Inclusion Collection (5 Books)
+408.  0  Agile: The Insights You Need from Harvard Business Review
+409.  0  Rethinking Information Technology Asset Management
+410.  0  Strategic Analytics: The Insights You Need from Harvard Business Review
+411.  0  Decentralized Finance: Understand The Future of Finance
+412.  0  Climate Change: The Insights You Need from Harvard Business Review
+413.  0  Coronavirus: Leadership and Recovery: The Insights You Need from Harvard Business Review
+414.  0  Global Recession: The Insights You Need from Harvard Business Review
+415.  0  Racial Justice: The Insights You Need from Harvard Business Review
+416.  0  Monopolies and Tech Giants: The Insights You Need from Harvard Business Review
+417.  0  Mastering MongoDB 3.x
+418.  0  The Innovation Ultimatum
+419.  0  Creating Strategic Value through Financial Technology
+420.  0  Fast Forward Investing: How to Profit from AI, Driverless Vehicles, Gene Editing, Robotics, and Other Technologies Reshaping Our Lives
+421.  0  HBR's 10 Must Reads on AI, Analytics, and the New Machine Age
+422.  0  IBM Storage Solutions for IBM Cloud Private Blueprint
+423.  0  CompTIA Cloud Essentials+ Certification Study Guide, Second Edition (Exam CLO-002), 2nd Edition
+424.  0  Information Security Management, 2nd Edition
+425.  0  The New Advanced Society
+426.  0  Ransomware Protection Playbook
+427.  0  Learning Python for Forensics - Second Edition
+428.  0  Hybrid Workplace: The Insights You Need from Harvard Business Review
+429.  0  Hands-On Data Science with Anaconda
+430.  0  Investing For Canadians All-in-One For Dummies
+431.  0  Learning Python for Forensics
+432.  0  The Interconnected Individual
+433.  0  The Future of Work: The Insights You Need from Harvard Business Review
+434.  0  Real-World Cryptography
+435.  0  Hands-On Python Deep Learning for the Web
+436.  0  Bitcoin and Lightning Network on Raspberry Pi: Running Nodes on Pi3, Pi4 and Pi Zero
+437.  0  Legal Data for Banking
+438.  0  Marketing 5.0
+439.  0  Navigating the Metaverse
+440.  0  Archives in the Digital Age
+441.  0  Hybrid Workplace
+442.  0  Meet the Expert: Alexandra Damsker on Building the Future of Fintech with Decentralized Finance
+443.  0  The Year in Tech, 2022
+444.  0  Developer, Advocate!
+445.  0  Strategic Analytics
+446.  0  Full-Spectrum Thinking
+447.  0  Software Networks, 2nd Edition
+448.  0  Why Trust Matters
+449.  0  Climate Change
+450.  0  Agile
+451.  0  Digital Supply Networks
+452.  0  Rock the Tech Stage: How the Best Speakers in Tech Present Ideas and Pitch Products
+453.  0  Artificial Intelligence: The Insights You Need from Harvard Business Review
+454.  0  The Innovation Ultimatum
+455.  0  Coronavirus
+456.  0  Monopolies and Tech Giants
+457.  0  Apache Ignite Quick Start Guide
+458.  0  Time Management for Unicorns
+459.  0  DeFi and the Future of Finance
+460.  0  Real-World Cryptography, video edition
+461.  0  The Sharing Economy
+462.  0  Learn ARCore - Fundamentals of Google ARCore
+463.  0  Protecting the Brand
+464.  0  A Field Guide to Digital Transformation
+465.  0  Major Business and Technology Trends Shaping the Contemporary World
+466.  0  IoT-enabled Smart Healthcare Systems, Services and Applications
+467.  0  The Digital Mindset
+468.  0  Four Ways to Transform Your Mainframe for a Hybrid Cloud World
+469.  0  Smart Mobility: Exploring Foundational Technologies and Wider Impacts
+470.  0  Make Your Organization a Center of Innovation: Tools and Concepts to Solve Problems and Generate Ideas
+471.  0  The Phoenix Encounter Method: Lead Like Your Business Is on Fire!
+472.  0  Finance for Non-Finance Executives
+473.  0  Goliath's Revenge
+474.  0  Goliath's Revenge
+475.  0  Real-Time Risk
+476.  0  Connected Planning, 2nd Edition
+477.  0  The Internet of Things - Living in a connected world
+478.  0  Take Control of Cryptocurrency
+479.  0  Small Business Finance and Valuation
+480.  0  Natural Language Processing, 2nd Edition
+481.  0  Cybersecurity Program Development for Business
+482.  0  Fundamentals of Information Systems Security, 4th Edition
+483.  0  The Healthcare Mandate: How to Leverage Disruptive Innovation to Heal America’s Biggest Industry
+484.  0  Modern Cryptography for Cybersecurity Professionals
+485.  0  Migrating Applications to the Cloud with Azure
+486.  0  Supply Chain Management Best Practices, 3rd Edition
+487.  0  The Corporate Executive’s Guide to General Investing
+488.  0  Why Quality is Important and How It Applies in Diverse Business and Social Environments, Volume II
+489.  0  International Business: The New Realities, 5th Edition
+490.  0  Artificial Intelligence Trends for Data Analytics Using Machine Learning and Deep Learning Approaches
+491.  0  Managing Health and Safety in a Small Business
+492.  0  The Modern C# Challenge
+493.  0  Principles and Practice of Big Data, 2nd Edition
+494.  0  Can. Trust. Will.
+495.  0  Business Sustainability
+496.  0  Challenges of the Internet of Things
+497.  0  Unity 2018 Augmented Reality Projects
+498.  0  Demystifying Smart Cities: Practical Perspectives on How Cities Can Leverage the Potential of New Technologies
+499.  0  Operations Management For Dummies, 2nd Edition
+500.  0  Fintech and the Remaking of Financial Institutions

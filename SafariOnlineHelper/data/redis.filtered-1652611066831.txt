@@ -1,0 +1,502 @@
+INPUT: redis
+TOTAL BOOKS: 500
+1.  165  Docker for the Absolute Beginner - Hands-On
+2.  94  Amazon Web Services AWS LiveLessons
+3.  75  Kubernetes Fundamentals
+4.  62  Spring Framework
+5.  44  Python Fundamentals
+6.  42  Kubernetes for the Absolute Beginners - Hands-On
+7.  36  Kubernetes: Up and Running
+8.  36  Introduction to Docker
+9.  34  Amazon Web Services AWS LiveLessons 2nd Edition
+10.  30  Strata Conference Santa Clara 2013: Complete Video Compilation
+11.  29  Spring in Action, 4th Edition: Covers Spring 4
+12.  27  Architecture Patterns with Python
+13.  25  Kubernetes: Up and Running, 2nd Edition
+14.  25  NoSQL Distilled
+15.  25  Berglund and McCullough on Mastering Cassandra for Architects
+16.  24  Designing Distributed Systems
+17.  22  Building Microservices with Spring Boot, Second Edition
+18.  20  Building Microservices with Spring Boot LiveLessons (Video Training)
+19.  20  Django 3 By Example - Third Edition
+20.  20  Release It!, 2nd Edition
+21.  19  AWS Certified Solutions Architect Official Study Guide
+22.  19  AWS Certified Solutions Architect - Associate (SAA-C02)
+23.  17  Linux Web Operations
+24.  17  Data Just Right LiveLessons (Video Training)
+25.  17  Getting Started with Kubernetes LiveLessons, 2nd Edition
+26.  17  Systems Performance: Enterprise and the Cloud
+27.  16  OpenShift for the Absolute Beginner - Hands-On
+28.  16  Certified Kubernetes Application Developer (CKAD)
+29.  16  Python for DevOps
+30.  16  Node.js, MongoDB, and AngularJS Web Development
+31.  16  Next Generation Databases: NoSQL, NewSQL, and Big Data
+32.  15  Kubernetes Course from a DevOps guru (Kubernetes + Docker)
+33.  15  Lightweight Django
+34.  15  Hands-On RESTful API Design Patterns and Best Practices
+35.  15  Ansible: Up and Running
+36.  14  Redis Cookbook
+37.  13  Learning Node
+38.  13  MapReduce Design Patterns
+39.  13  AZ-104: Microsoft Azure Administrator Full Course
+40.  12  Node: Up and Running
+41.  12  Learning Web App Development
+42.  12  Docker Deep Dive
+43.  12  Spring Microservices in Action
+44.  12  Mining the Social Web
+45.  12  Ansible: Up and Running, 2nd Edition
+46.  11  Django 2 by Example
+47.  11  Node.js Design Patterns - Third Edition
+48.  11  Node.js in Action
+49.  11  Practical Monitoring
+50.  11  Learning Node.js Development
+51.  10  Learning Redis
+52.  10  Spring Data
+53.  10  AWS Solutions Architect Associate (SAA-C02) Exam Prep Course - 2021 UPDATED!
+54.  10  Building Microservices with Go
+55.  10  Mastering Distributed Tracing
+56.  10  Matthew Russell on Mining the Social Web
+57.  10  Red Hat Certified Engineer (RHCE) EX294: Red Hat Ansible Automation
+58.  10  Certified Kubernetes Administrator (CKA)
+59.  10  Introducing Python, 2nd Edition
+60.  10  Angular for Enterprise-Ready Web Applications - Second Edition
+61.  9  Redis in Action
+62.  9  Strata Data Conference 2017 - London, United Kingdom
+63.  9  Node.js 8 the Right Way
+64.  9  Kubernetes Best Practices
+65.  9  Learning Microsoft Azure
+66.  9  Docker and Kubernetes for Java Developers
+67.  9  Spring 5.0 Microservices - Second Edition
+68.  9  SQL Antipatterns
+69.  8  Architecting Data-Intensive Applications
+70.  8  Python 3 Object-Oriented Programming
+71.  8  Professional Cloud Architect - Google Cloud Certification Guide
+72.  8  Using Docker
+73.  7  Full-Stack React, TypeScript, and Node
+74.  7  AZ-204 Developing for Microsoft Azure Exam Prep
+75.  7  Domain-Driven Design in PHP
+76.  7  Mastering Spring 5.0
+77.  7  Getting Started with Storm
+78.  7  Mastering Ansible - Third Edition
+79.  7  AWS Certified Data Analytics Specialty 2021 – Hands-On!
+80.  7  Big Data Architect's Handbook
+81.  7  Certified Kubernetes Administrator (CKA), 2nd Ed
+82.  7  Mastering Spring Boot 2.0
+83.  7  The Quick Python Book, Third Edition
+84.  7  Learn Docker in a Month of Lunches
+85.  7  Cloud-Native Applications in Java
+86.  7  Microsoft AZ-500 Certification: Azure Security Technologies
+87.  6  The Complete Practical Docker Guide
+88.  6  Velocity 2016 - Santa Clara, California: Video Compilation
+89.  6  Linux Administration Cookbook
+90.  6  Microservice Patterns and Best Practices
+91.  6  Continuous Delivery with Docker and Jenkins
+92.  6  Building RESTful Web Services with .NET Core
+93.  6  Spring Data
+94.  6  Resilience and Reliability on AWS
+95.  6  Ubuntu Unleashed 2013 Edition: Covering 12.10 and 13.04, Eighth Edition
+96.  6  Smashing Node.js: JavaScript Everywhere, 2nd Edition
+97.  6  Learning Elastic Stack 7.0 - Second Edition
+98.  6  Learning Path: Delivering Applications with Docker
+99.  6  Practical SQL
+100.  6  Kubernetes and Docker: The Container Masterclass
+101.  6  DevOps with Kubernetes - Second Edition
+102.  6  Learn Helm
+103.  6  Learning AWS - Second Edition
+104.  6  Certified Kubernetes Application Developer (CKAD), 2nd Edition
+105.  6  Mastering Ruby Closures
+106.  6  pytest Quick Start Guide
+107.  6  Learning ELK Stack
+108.  6  Foundations of Scalable Systems
+109.  6  Kubernetes Cookbook
+110.  6  Write Modern Web Apps with the MEAN Stack: Mongo, Express, AngularJS, and Node.js
+111.  6  Node.js in Action, Second Edition
+112.  6  Enterprise API Management
+113.  6  Clean Code in Python
+114.  6  Building a RESTful Web Service with Spring
+115.  6  Django RESTful Web Services
+116.  6  Azure for Architects - Second Edition
+117.  5  Full Stack Development with JHipster - Second Edition
+118.  5  Enterprise Application Architecture with .NET Core
+119.  5  The Ultimate Openshift (2018) Bootcamp
+120.  5  Distributed Systems with Node.js
+121.  5  KVM Virtualization Cookbook
+122.  5  Python: Journey from Novice to Expert
+123.  5  Python 3 Object-oriented Programming - Second Edition
+124.  5  The Docker Book
+125.  5  Node for Front-End Developers
+126.  5  Think Data Structures
+127.  5  NoSQL for Mere Mortals®
+128.  5  Hands-On Networking with Azure
+129.  5  Building Serverless Applications with Google Cloud Run
+130.  5  Learning Concurrency in Python
+131.  5  AWS Certified Solutions Architect Associate (SAA-C02) Exam Prep Course
+132.  5  Mastering RabbitMQ
+133.  5  Mastering Azure Analytics, 1st Edition
+134.  5  Software Architect's Handbook
+135.  5  AWS Certified Solutions Architect – Associate Tutorial - Step 3: Fast track your AWS Certified Solutions Architect
+136.  5  AWS Certified Security - Specialty
+137.  4  Redis 4.x Cookbook
+138.  4  Redis Essentials
+139.  4  Hands-On RESTful Web Services with Go - Second Edition
+140.  4  Strata Data Conference - New York, NY 2018
+141.  4  Microsoft AZ-204 Certification Course: Developing Solutions for Azure
+142.  4  Hands-On Software Architecture with Golang
+143.  4  Spring Boot 2.0 Projects
+144.  4  Kubernetes for Developers
+145.  4  Building RESTful Web services with Go
+146.  4  OAuth 2.0 Cookbook
+147.  4  TypeScript Microservices
+148.  4  Spring 5.0 By Example
+149.  4  Full Stack .NET Web Development
+150.  4  DynamoDB Applied Design Patterns
+151.  4  Docker for Rails Developers
+152.  4  Practical Big Data Analytics
+153.  4  Mastering Spring Cloud
+154.  4  Puppet 5 Beginner's Guide - Third Edition
+155.  4  Learning Elastic Stack 6.0
+156.  4  Serverless Design Patterns and Best Practices
+157.  4  Practical Ansible 2
+158.  4  Learning PostgreSQL 11
+159.  4  AWS Certified Developer - Associate Guide
+160.  4  Cisco NetFlow for Cyber Security Big Data Analytics
+161.  4  AWS Certified SysOps Administrator – Associate (SO1-C01) Certification
+162.  4  AWS Essentials and Solutions Architect Associate: The Total Course
+163.  4  Infrastructure as Code (IAC) Cookbook
+164.  4  Mastering Microservices with Java - Third Edition
+165.  4  Building Data Streaming Applications with Apache Kafka
+166.  4  Full Stack Development with JHipster
+167.  4  Professional NoSQL
+168.  4  Mastering Kubernetes
+169.  4  Hands-On Microservices with Kotlin
+170.  4  Pro Spring Boot 2: An Authoritative Guide to Building Microservices, Web and Enterprise Applications, and Best Practices
+171.  4  Exam Ref AZ-204 Developing Solutions for Microsoft Azure
+172.  4  Learning Path: Go Fundamentals
+173.  4  Advanced Web Development in Python with Django
+174.  4  Reactive Spring Boot
+175.  4  Go: Building Web Applications
+176.  4  Pro Spark Streaming: The Zen of Real-Time Analytics Using Apache Spark
+177.  4  Programming Phoenix 1.4
+178.  4  Google Cloud Platform for Developers
+179.  3  Hands-On Reactive Programming in Spring 5
+180.  3  Hands-On Industrial Internet of Things
+181.  3  Seven NoSQL Databases in a Week
+182.  3  Mastering Node.js - Second Edition
+183.  3  Learning Python Networking - Second Edition
+184.  3  Mastering Node.js 12.x
+185.  3  The Full Stack Web Development
+186.  3  Architecting Microsoft Azure Solutions - Exam Guide 70-535
+187.  3  Spring MVC: Designing Real-World Web Applications
+188.  3  Mastering Reactive JavaScript
+189.  3  Microsoft Azure Data Storage for Developers
+190.  3  Node.js the Right Way
+191.  3  Ubuntu Unleashed 2014 Edition: Covering 13.10 and 14.04,Ninth Edition
+192.  3  GitLab Quick Start Guide
+193.  3  Flask Framework Cookbook - Second Edition
+194.  3  Hands-on GitHub Actions: Implement CI/CD with GitHub Action Workflows for Your Applications
+195.  3  Seven Databases in Seven Weeks, 2nd Edition
+196.  3  Hands-On Continuous Integration and Delivery
+197.  3  Cloud Analytics with Google Cloud Platform
+198.  3  Learning Docker - Second Edition
+199.  3  Mastering Kali Linux for Advanced Penetration Testing - Second Edition
+200.  3  Python Network Programming
+201.  3  ASP.NET Core 5 for Beginners
+202.  3  Programming Crystal
+203.  3  Hands-On High Performance with Go
+204.  3  Learning Spark SQL
+205.  3  Hands-On Swift 5 Microservices Development
+206.  3  Accelerating Development Velocity Using Docker: Docker Across Microservices
+207.  3  Reactive Systems in Java
+208.  3  Cloud Foundry for Developers
+209.  3  DevOps for VMware Administrators
+210.  3  Clojure in Action
+211.  3  Practical Web Development with Haskell: Master the Essential Skills to Build Fast and Scalable Web Applications
+212.  3  NEW! Microsoft AZ-104 Certification: Azure Administrator
+213.  3  NEW! Microsoft AZ-303 Certification Course: Azure Architect Technologies
+214.  3  AWS Certified SysOps Administrator - Associate (SOA-C02)
+215.  3  Enterprise Application Development with C# 9 and .NET 5
+216.  3  AWS Development Fundamentals
+217.  3  Practical Node.js: Building Real-World Scalable Web Apps
+218.  3  Exam Ref AZ-203: Developing Solutions for Microsoft Azure
+219.  3  Data-Driven Security: Analysis, Visualization and Dashboards
+220.  3  Software Architecture with Spring 5.0
+221.  3  OpenStack for Architects - Second Edition
+222.  3  DevOps: A Software Architect’s Perspective
+223.  3  Building Google Cloud Platform Solutions
+224.  3  Learning DevOps: Continuously Deliver Better Software
+225.  3  Mastering Apache Cassandra 3.x - Third Edition
+226.  3  Learn Python Programming - Second Edition
+227.  3  Practical DevOps
+228.  3  Exercises for Programmers
+229.  2  Handbook of Data Structures and Applications, 2nd Edition
+230.  2  Pro Java Clustering and Scalability: Building Real-Time Apps with Spring, Cassandra, Redis, WebSocket and RabbitMQ
+231.  2  Mastering GitLab 12
+232.  2  Hands-On RESTful Web Services with ASP.NET Core 3
+233.  2  Hands-On Microservices with Rust
+234.  2  Mastering Rust - Second Edition
+235.  2  Mastering Flask Web Development - Second Edition
+236.  2  O'Reilly Strata Data and AI Superstream
+237.  2  Nmap: Network Exploration and Security Auditing Cookbook - Second Edition
+238.  2  Building RESTful Web Services with Spring 5 - Second Edition
+239.  2  Go Cookbook
+240.  2  Akka Cookbook
+241.  2  ASP.NET Core 2 High Performance - Second Edition
+242.  2  Python: Real-World Data Science
+243.  2  Spring MVC Cookbook
+244.  2  Seven Databases in Seven Weeks
+245.  2  Mastering Kubernetes
+246.  2  Chef: Powerful Infrastructure Automation
+247.  2  Learning Scrapy
+248.  2  The Complete Guide to Node.js
+249.  2  Ansible Playbook Essentials
+250.  2  Learning Puppet Security
+251.  2  DevOps with Kubernetes
+252.  2  Industrial Internet Application Development
+253.  2  Hands-on Kubernetes on Azure - Third Edition
+254.  2  Python: Master the Art of Design Patterns
+255.  2  Deployment with Docker
+256.  2  Mastering Hadoop 3
+257.  2  Kibana 7 Quick Start Guide
+258.  2  Spring Microservices in Action, Second Edition
+259.  2  Docker for Serverless Applications
+260.  2  Learning R Programming
+261.  2  Learning Docker
+262.  2  Building Applications with Spring 5 and Kotlin
+263.  2  Elasticsearch 7 Quick Start Guide
+264.  2  Django Design Patterns and Best Practices - Second Edition
+265.  2  Grails in Action, Second Edition
+266.  2  Go Programming Cookbook - Second Edition
+267.  2  C# 6 and .NET Core 1.0: Modern Cross-Platform Development
+268.  2  Salt Cookbook
+269.  2  Advanced Microservices: A Hands-on Approach to Microservice Infrastructure and Tooling
+270.  2  Node Cookbook
+271.  2  Hands-On Spring Security 5 for Reactive Applications
+272.  2  Mastering ASP.NET Web API
+273.  2  Implementing Azure: Putting Modern DevOps to Use
+274.  2  Building Machine Learning Systems with Python - Third Edition
+275.  2  C# 7.1 and .NET Core 2.0 – Modern Cross-Platform Development - Third Edition
+276.  2  Docker Quick Start Guide
+277.  2  Professional Node.js: Building Javascript Based Scalable Software
+278.  2  GitLab Cookbook
+279.  2  Python Object-Oriented Programming - Fourth Edition
+280.  2  C# 7 and .NET Core 2.0 High Performance
+281.  2  Modern Python Standard Library Cookbook
+282.  2  Node.js Web Development
+283.  2  Creative Projects for Rust Programmers
+284.  2  Modern Programming Made Easy: Using Java, Scala, Groovy, and JavaScript
+285.  2  Node.js Web Development - Fourth Edition
+286.  2  Daniel Arbuckle’s Mastering Python
+287.  2  D3.js Quick Start Guide
+288.  2  C# 7 and .NET: Designing Modern Cross-platform Applications
+289.  2  Building Microservices with .NET Core
+290.  1  Mastering Redis
+291.  1  Learning Redis
+292.  1  OSCON 2016 - London, United Kingdom
+293.  1  Django 3 Web Development Cookbook - Fourth Edition
+294.  1  Complete AWS ECS Bootcamp (Beginner Friendly)
+295.  1  Hands-On Big Data Modeling
+296.  1  The Complete Rust Programming Reference Guide
+297.  1  Natural Language Processing: Python and NLTK
+298.  1  AWS Certified SysOps Administrator - Associate Guide
+299.  1  Go Web Development Cookbook
+300.  1  Python: Data Analytics and Visualization
+301.  1  Spring in Action, 4th Ed, video edition
+302.  1  Cloud Security Automation
+303.  1  Hands-On Kubernetes on Azure
+304.  1  NGINX Cookbook
+305.  1  Node Cookbook - Third Edition
+306.  1  Spring Boot Messaging: Messaging APIs for Enterprise and Integration Solutions
+307.  1  Python Data Analysis - Second Edition
+308.  1  Azure Platform as a Service – Web and API Application Deployment
+309.  1  Mastering PHP 7
+310.  1  ASP.NET Core MVC 2.0 Cookbook
+311.  1  Amazon Web Services Bootcamp
+312.  1  Python Programming Blueprints
+313.  1  Kali Linux - An Ethical Hacker's Cookbook
+314.  1  Kubernetes for Serverless Applications
+315.  1  Building Microservices with .NET Core 2.0 - Second Edition
+316.  1  Isomorphic Go
+317.  1  Web Applications on Azure: Developing for Global Scale
+318.  1  PHP 7: Real World Application Development
+319.  1  Apache Solr Search Patterns
+320.  1  Yii2 Application Development Cookbook - Third Edition
+321.  1  OpenShift Cookbook
+322.  1  Learning Node.js for .NET Developers
+323.  1  Groovy 2 Cookbook
+324.  1  Python Data Analysis
+325.  1  Advanced Express Web Application Development
+326.  1  SignalR Real-time Application Cookbook
+327.  1  Node Cookbook
+328.  1  Learn OpenShift
+329.  1  Mastering Docker - Third Edition
+330.  1  Mastering Service Mesh
+331.  1  Swift 4 Programming Cookbook
+332.  1  PHP Microservices
+333.  1  Hands-On Azure for Developers
+334.  1  Hands-On Network Programming with C# and .NET Core
+335.  1  Puppet 4.10 Beginner's Guide - Second Edition
+336.  1  Learn Apache Mesos
+337.  1  Python Microservices Development
+338.  1  AWS Certified Cloud Practitioner CLF-C01: Exam and Beyond
+339.  1  Building Distributed Applications in Gin
+340.  1  Docker Cookbook - Second Edition
+341.  1  Getting Started with Python
+342.  1  Rust Standard Library Cookbook
+343.  1  Python Network Programming Cookbook - Second Edition
+344.  1  Real-Time Phoenix
+345.  1  Secure Your Node.js Web Application
+346.  1  Effective DevOps with AWS - Second Edition
+347.  1  Hands-On Kubernetes on Azure - Second Edition
+348.  1  Google Cloud Certified Professional Cloud Developer Exam Guide
+349.  1  Hands-On DevOps with Vagrant
+350.  1  Spring 5.0 Cookbook
+351.  1  Learning PostgreSQL 10 - Second Edition
+352.  1  Learn Rails 5.2: Accelerated Web Development with Ruby on Rails
+353.  1  Deploying Node.js
+354.  1  Magento 2 Development Essentials
+355.  1  Amazon Web Services in Action, Second Edition
+356.  1  Mastering Python Design Patterns - Second Edition
+357.  1  Docker for Developers
+358.  1  Centralized Logging and Monitoring with Kubernetes
+359.  1  Mark Bates on Go Database Frameworks and Tools
+360.  1  Hands-On Docker for Microservices with Python
+361.  1  Phoenix Web Development
+362.  1  Crafting Rails 4 Applications, 2nd Edition
+363.  1  Distributed Computing with Python
+364.  1  Puppet: Mastering Infrastructure Automation
+365.  1  Building Applications with Spring 5 and Vue.js 2
+366.  1  The Art of Monitoring
+367.  1  Mastering Elastic Stack
+368.  1  Extending Puppet
+369.  1  Modern DevOps Practices
+370.  1  Chaos Engineering
+371.  1  Microservices Development Cookbook
+372.  1  Flask Framework Cookbook
+373.  1  AWS Certified SysOps Administrator Associate
+374.  1  Learning Node, 2nd Edition
+375.  1  Hands-On High Performance with Spring 5
+376.  1  OSCON 2019 - Portland, Oregon
+377.  1  Learning Neo4j 3.x - Second Edition
+378.  1  Machine Learning with Apache Spark Quick Start Guide
+379.  1  Rails 5 Revealed
+380.  1  Secret Recipes of the Python Ninja
+381.  1  Practical Real-time Data Processing and Analytics
+382.  1  PostgreSQL High Availability Cookbook - Second Edition
+383.  1  Pro Spring Boot
+384.  1  Python Testing with pytest
+385.  1  OpenStack Trove Essentials
+386.  1  Certified Kubernetes Administrator (CKA) Study Guide
+387.  1  Beginning Fedora Desktop: Fedora 20 Edition
+388.  1  The Kubernetes Workshop
+389.  1  CompTIA Server+ Certification Guide
+390.  1  Practical DevOps - Second Edition
+391.  1  Orchestrating, clustering, and managing containers
+392.  1  Implementing Azure Cloud Design Patterns
+393.  1  Go Web Scraping Quick Start Guide
+394.  1  Monitoring Docker
+395.  1  Learning Apache Cassandra - Second Edition
+396.  1  Server Side development with Node.js and Koa.js Quick Start Guide
+397.  0  What to Know About Locating in a Cluster
+398.  0  A Concise Introduction to Data Structures using Java
+399.  0  Cluster Systems Management Cookbook for pSeries
+400.  0  Building Scalable Apps with Redis and Node.js
+401.  0  Spring Microservices in Action, Second Edition, Video Edition
+402.  0  ASP.NET Core and Vue.js
+403.  0  Hands-On Microservices with Kubernetes
+404.  0  Developing Java Applications with Spring and Spring Boot
+405.  0  Apache Ignite Quick Start Guide
+406.  0  Migrating Applications to the Cloud with Azure
+407.  0  Kali Linux - An Ethical Hacker's Cookbook - Second Edition
+408.  0  Python: End-to-end Data Analysis
+409.  0  Mastering Apache Storm
+410.  0  Mastering Kibana 6.x
+411.  0  Python Web Scraping - Second Edition
+412.  0  Learning Windows Server Containers
+413.  0  Socket.IO Cookbook
+414.  0  Django 2 Web Development Cookbook - Third Edition
+415.  0  Haskell Cookbook
+416.  0  Building Slack Bots
+417.  0  Magento 2 - Build World-Class online stores
+418.  0  Python 3 Text Processing with NLTK 3 Cookbook
+419.  0  Magento 2 Cookbook
+420.  0  Mastering Cloud Development using Microsoft Azure
+421.  0  Learning Flask Framework
+422.  0  Ubuntu Unleashed 2015 Edition: Covering 14.10 and 15.04, Tenth Edition
+423.  0  R for Programmers
+424.  0  Pro Express.js
+425.  0  Building Python Real-Time Applications with Storm
+426.  0  Mark Bates on Ruby Techniques, Frameworks, and Tools
+427.  0  Microsoft Azure Development Cookbook Second Edition
+428.  0  Hands-On Web Penetration Testing with Metasploit
+429.  0  Build Chatbot Interactions
+430.  0  Apache Superset Quick Start Guide
+431.  0  Modern Front-End Development for Rails
+432.  0  Ansible 2 Cloud Automation Cookbook
+433.  0  52 weeks AWS: Episode 19 - Solutions Architect Caching
+434.  0  Voice User Interface Projects
+435.  0  Redash v5 Quick Start Guide
+436.  0  Implementing Cloud Design Patterns for AWS
+437.  0  Logging in Action
+438.  0  AWS Certified Database - Specialty (DBS-C01) Certification Guide
+439.  0  Hands-On Software Engineering with Python
+440.  0  Deploying with JRuby 9k
+441.  0  Hands-On Server-Side Web Development with Swift
+442.  0  Modern Data Engineering with Apache Spark: A Hands-On Guide for Building Mission-Critical Streaming Applications
+443.  0  RSpec Essentials
+444.  0  Mastering Docker Enterprise
+445.  0  Mastering Docker - Fourth Edition
+446.  0  Modern Systems Programming with Scala Native
+447.  0  Podman for DevOps
+448.  0  AWS Certified Database - Specialty Complete Video Course
+449.  0  Certified Kubernetes CKAD & CKA (Video Collection)
+450.  0  Docker for Data Science: Building Scalable and Extensible Data Infrastructure Around the Jupyter Notebook Server
+451.  0  Learn Web Development with Python
+452.  0  OpenStack Trove
+453.  0  Hands-On Penetration Testing with Kali NetHunter
+454.  0  A Complete Guide to Docker for Operations and Development : Test-Prep for the Docker Certified Associate (DCA) Exam
+455.  0  Mastering Microservices with Java 9 - Second Edition
+456.  0  Learning RabbitMQ
+457.  0  Julia: High Performance Programming
+458.  0  Software Telemetry
+459.  0  Delphi Cookbook - Third Edition
+460.  0  Ansible: Up and Running, 3rd Edition
+461.  0  Mastering Julia
+462.  0  Java Data Analysis
+463.  0  Mastering Flask
+464.  0  Python for MATLAB Development: Extend MATLAB with 300,000+ Modules from the Python Package Index
+465.  0  Learning .NET High-performance Programming
+466.  0  Amazon EC2 Cookbook
+467.  0  PostgreSQL 12 High Availability Cookbook
+468.  0  OpenShift for Developers, 2nd Edition
+469.  0  Vue.js 3 By Example
+470.  0  Hands-On IoT Solutions with Blockchain
+471.  0  Microservices, IoT, and Azure: Leveraging DevOps and Microservice Architecture to Deliver SaaS Solutions
+472.  0  Applied Deep Learning with Python
+473.  0  Practical Azure Application Development: A Step-by-Step Approach to Build Feature-Rich Cloud-Ready Solutions
+474.  0  Microservices with Azure
+475.  0  MEAN Cookbook
+476.  0  Mastering Apache Spark 2.x - Second Edition
+477.  0  The Definitive Guide to Modernizing Applications on Google Cloud
+478.  0  AWS Certified Solutions Architect Associate: SAA-C02 exam
+479.  0  Python Data Analysis - Third Edition
+480.  0  Learning Microsoft Azure
+481.  0  Mobile Development with .NET- Second Edition
+482.  0  Troubleshooting Docker
+483.  0  Learn Azure Administration
+484.  0  The Rails™ 4 Way, Third Edition
+485.  0  SignalR - Real-time Application Development - Second Edition
+486.  0  Unsupervised Clustering in Mesos
+487.  0  Exam Ref AZ-203 Developing Solutions for Microsoft Azure
+488.  0  Data Just Right: Introduction to Large-Scale Data & Analytics
+489.  0  Magento 2 DIY
+490.  0  Mastering Play Framework for Scala
+491.  0  Guide to NoSQL with Azure Cosmos DB
+492.  0  Software Architecture with Python
+493.  0  Hands-On Serverless Computing
+494.  0  Mastering Azure Serverless Computing
+495.  0  Docker High Performance - Second Edition
+496.  0  Building Microservices with Spring
+497.  0  Web Development with MongoDB and Node - Third Edition
+498.  0  Large Scale and Big Data
+499.  0  Data Analysis with R - Second Edition
+500.  0  Hands-On Serverless Applications with Kotlin

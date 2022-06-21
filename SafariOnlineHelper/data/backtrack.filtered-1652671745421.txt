@@ -1,0 +1,502 @@
+INPUT: backtrack
+TOTAL BOOKS: 500
+1.  93  Apache Kafka Series - Learn Apache Kafka for Beginners
+2.  78  Learning Python, 5th Edition
+3.  57  ITIL® Foundation Exam
+4.  48  Modern JavaScript From The Beginning
+5.  34  Implementing Domain-Driven Design
+6.  32  Growing Object-Oriented Software, Guided by Tests
+7.  30  From 0 to 1: Data Structures & Algorithms in Java
+8.  28  OS X Mavericks: The Missing Manual
+9.  27  Understanding Regular Expressions
+10.  25  MySQL 5
+11.  25  Practical Vim, 2nd Edition
+12.  23  The Art of Agile Development
+13.  22  Regular Expressions Cookbook, 2nd Edition
+14.  20  Learning Data Structures and Algorithms
+15.  17  40 Algorithms Every Programmer Should Know
+16.  16  Land of Lisp
+17.  16  Data Structures and Algorithms Using Java
+18.  16  Data Structures and Algorithms: The Complete Masterclass
+19.  15  Java How to Program (early objects), 9/e
+20.  15  OS X Yosemite: The Missing Manual
+21.  14  High Performance JavaScript
+22.  13  Regular Expressions Cookbook
+23.  13  Programming Perl, 4th Edition
+24.  13  Pragmatic Thinking and Learning
+25.  13  Practical Jenkins
+26.  12  Java™ How To Program (Early Objects), Tenth Edition
+27.  12  Essential Algorithms: A Practical Approach to Computer Algorithms
+28.  12  Penetration Testing
+29.  12  Mastering Regular Expressions, 3rd Edition
+30.  12  Perl Best Practices
+31.  11  CompTIA Security+ (SY0-401) Complete Video Course
+32.  11  Algorithms in a Nutshell
+33.  11  Perl Cookbook
+34.  11  Windows 8.1: The Missing Manual
+35.  11  Optimizing Java
+36.  11  Programming Perl, 3rd Edition
+37.  10  Metasploit
+38.  10  iPhone: The Missing Manual
+39.  10  Introducing Regular Expressions
+40.  9  Mastering Python Regular Expressions
+41.  9  iMovie '09 & iDVD: The Missing Manual
+42.  9  Social Engineering: The Art of Human Hacking
+43.  9  Practical Windows PowerShell Scripting
+44.  9  lex & yacc, 2nd Edition
+45.  8  The Basics of Hacking and Penetration Testing, 2nd Edition
+46.  8  Cybersecurity - Attack and Defense Strategies
+47.  8  Data Structures and the Java Collections Framework, Third Edition
+48.  8  R Programming for Statistics and Data Science
+49.  7  Regular Expression Pocket Reference, 2nd Edition
+50.  7  Design It!
+51.  7  Using SQLite
+52.  7  The Art of Lean Software Development
+53.  7  Modern C++ Programming with Test-Driven Development
+54.  7  Hands-On Software Engineering with Golang
+55.  7  Python Algorithms: Mastering Basic Algorithms in the Python Language, Second Edition
+56.  6  Learn Data Structures and Algorithms with Golang
+57.  6  Learning JavaScript Data Structures and Algorithms - Third Edition
+58.  6  Mazes for Programmers
+59.  6  Hands-On Data Structures and Algorithms with Rust
+60.  6  Hacking with Kali
+61.  6  Ubuntu Unleashed 2013 Edition: Covering 12.10 and 13.04, Eighth Edition
+62.  6  Chained Exploits: Advanced Hacking Attacks from Start to Finish
+63.  6  Linux Administration Cookbook
+64.  6  Python Natural Language Processing
+65.  6  Paradigms of Artificial Intelligence Programming
+66.  6  iPhone: The Missing Manual, 2nd Edition
+67.  6  Think Smarter: Critical Thinking to Improve Problem-Solving and Decision-Making Skills
+68.  6  CCNA 200-301 Exam Prep
+69.  6  Introduction to Typescript
+70.  6  Layers: The Complete Guide to Photoshop’s Most Powerful Feature, Second Edition
+71.  5  Hands-On Data Structures and Algorithms with Python
+72.  5  Language Implementation Patterns
+73.  5  Artificial Intelligence with Python
+74.  5  Practical Web Penetration Testing
+75.  5  Pandas Cookbook
+76.  5  Microsoft Project 2013: The Missing Manual
+77.  5  Introduction to Recursive Programming
+78.  5  Professional Penetration Testing
+79.  5  Fonts & Encodings
+80.  5  Python: Journey from Novice to Expert
+81.  5  CEH Certified Ethical Hacker All-in-One Exam Guide, Third Edition, 3rd Edition
+82.  5  Mac OS X Lion: The Missing Manual
+83.  4  Gray Hat Hacking The Ethical Hackers Handbook, 3rd Edition, 3rd Edition
+84.  4  C++ Data Structures and Algorithms
+85.  4  The Ultimate Flask Course
+86.  4  Dealing with People You Can’t Stand, Revised and Expanded Third Edition: How to Bring Out the Best in People at Their Worst, 3rd Edition
+87.  4  Programming Game AI by Example
+88.  4  Mastering the C++17 STL
+89.  4  Computer Science & Perl Programming
+90.  4  Classic Computer Science Problems in Python
+91.  4  Secure Programming Cookbook for C and C++
+92.  4  Windows Vista Annoyances
+93.  4  CCNA ICND2 200-105 Exam Prep
+94.  4  Cybersecurity Blue Team Toolkit
+95.  3  Java How to Program, Early Objects, 11th Edition
+96.  3  Python Data Structures and Algorithms
+97.  3  Presentation Patterns
+98.  3  Mastering Javascript Functional Programming
+99.  3  Thinking Recursively with Java
+100.  3  Linux Shell Scripting Cookbook - Third Edition
+101.  3  Hands-On Artificial Intelligence for Search
+102.  3  CCNA Security 210-260 Certification Guide
+103.  3  Implementing Graph Algorithms Using Scala
+104.  3  Mastering Kali Linux for Advanced Penetration Testing - Second Edition
+105.  3  Angular Router
+106.  3  Learning Python Networking - Second Edition
+107.  3  Learn Python Programming - Second Edition
+108.  3  Engineering a Compiler
+109.  3  Kali Linux Intrusion and Exploitation Cookbook
+110.  3  AWS Certified Solutions Architect - Associate Guide
+111.  3  Software Design X-Rays
+112.  3  iPhoto '08: The Missing Manual
+113.  3  HBR Guide to Persuasive Presentations (HBR Guide Series)
+114.  3  AWS Certified SysOps Administrator - Associate (SOA-C02)
+115.  3  Mastering Apache Cassandra 3.x - Third Edition
+116.  3  Hands-On Neural Networks with TensorFlow 2.0
+117.  3  Key Management Development Models
+118.  3  Ubuntu Unleashed 2014 Edition: Covering 13.10 and 14.04,Ninth Edition
+119.  3  Procedural Content Generation for C++ Game Development
+120.  3  Learning Path: Network and Cloud Security
+121.  3  Learning Python
+122.  3  OpenCV with Python By Example
+123.  3  Mastering Windows Server 2016
+124.  3  CEH Certified Ethical Hacker All-in-One Exam Guide, Fourth Edition, 4th Edition
+125.  3  Deep Learning with Keras
+126.  3  NLP Business Masterclass: Driving peak performance with NLP, Second edition
+127.  3  Killer Game Programming in Java
+128.  2  Web Application Vulnerabilities
+129.  2  Metasploit Penetration Testing Cookbook
+130.  2  Mastering JavaScript Functional Programming - Second Edition
+131.  2  Parsing Algorithms
+132.  2  Learning Functional Data Structures and Algorithms
+133.  2  Learning C++ Functional Programming
+134.  2  Design and analysis of Algorithms, 2nd Edition
+135.  2  Learn Kali Linux 2019
+136.  2  Web Penetration Testing with Kali Linux
+137.  2  Scala Machine Learning Projects
+138.  2  Ethical Hacking and Penetration Testing Guide
+139.  2  Hands-On Bug Hunting for Penetration Testers
+140.  2  Improving your Penetration Testing Skills
+141.  2  Kali Linux 2 – Assuring Security by Penetration Testing - Third Edition
+142.  2  Hands-On Data Structures and Algorithms with JavaScript
+143.  2  Cisco Networking Essentials, 2nd Edition
+144.  2  Mastering Kali Linux for Advanced Penetration Testing - Third Edition
+145.  2  Haskell Data Analysis Cookbook
+146.  2  Burp Suite Cookbook
+147.  2  Intermediate C Programming
+148.  2  Constraint Processing
+149.  2  OpenSceneGraph 3.0
+150.  2  Penetration Testing Bootcamp
+151.  2  Internet of Things
+152.  2  Learning Amazon Web Services (AWS) (Companion Videos)
+153.  2  Hacking For Dummies® 3rd Edition
+154.  2  Perl Pocket Reference, 5th Edition
+155.  2  Machine Learning for Finance
+156.  2  Implementing Domain-Specific Languages with Xtext and Xtend - Second Edition
+157.  2  Linux: Powerful Server Administration
+158.  2  OpenCV: Computer Vision Projects with Python
+159.  2  Interpreting LISP: Programming and Data Structures, Second Edition
+160.  2  Classic Computer Science Problems in Swift: Essential techniques for practicing programmers
+161.  2  NumPy : Beginner's Guide - Third Edition
+162.  2  Python Machine Learning By Example - Second Edition
+163.  2  Switching to the Mac: The Missing Manual, Mavericks Edition
+164.  2  Writing for Visual Media, 4th Edition
+165.  2  Certified Ethical Hacker (CEH) Cert Guide
+166.  2  Switching to the Mac: The Missing Manual, Yosemite Edition
+167.  2  Switching to the Mac: The Missing Manual, Mountain Lion Edition
+168.  2  iPod: The Missing Manual, 7th Edition
+169.  2  ASP.NET Core 2 High Performance - Second Edition
+170.  2  Instant Netcat Starter
+171.  2  Getting Started with XenDesktop® 7.x
+172.  2  Advanced Topics in C: Core Concepts in Data Structures
+173.  2  The Art of Agile Development, 2nd Edition
+174.  2  Kiss, Bow, or Shake Hands, Sales and Marketing: The Essential Cultural Guide—From Presentations and Promotions to Communicating and Closing
+175.  1  BackTrack 4: Assuring Security by Penetration Testing
+176.  1  The Best Damn Cybercrime and Digital Forensics Book Period
+177.  1  Getting Started with Python
+178.  1  Java 9 Regular Expressions
+179.  1  PHP 7 Data Structures and Algorithms
+180.  1  Functional Programming in Scala video edition
+181.  1  The CS Detective
+182.  1  HoloLens Beginner’s Guide
+183.  1  Design and Analysis of Algorithms
+184.  1  Handbook of Constraint Programming
+185.  1  Perl 6 and Parrot Essentials, Second Edition
+186.  1  Hands-On Penetration Testing on Windows
+187.  1  Enterprise Security: A Data-Centric Approach to Securing the Enterprise
+188.  1  Cybersecurity: Managing Systems, Conducting Testing, and Investigating Intrusions
+189.  1  Kali Linux 2018: Windows Penetration Testing - Second Edition
+190.  1  Microsoft SQL Server 2014 Unleashed
+191.  1  Kali Linux – Assuring Security by Penetration Testing
+192.  1  Burp Suite Essentials
+193.  1  Web Penetration Testing with Kali Linux - Third Edition
+194.  1  Microsoft® SQL Server 2012 Unleashed
+195.  1  DevOps for Salesforce
+196.  1  The Complete Rust Programming Reference Guide
+197.  1  Practical Linux Security Cookbook
+198.  1  Hands-On Test Management with Jira
+199.  1  Designed for Use, 2nd Edition
+200.  1  Beginning Java Data Structures and Algorithms
+201.  1  Mastering C++ Multithreading
+202.  1  Regular Expression Pocket Reference
+203.  1  Wireless Network Security A Beginner's Guide
+204.  1  Linux® Bible, 2008 Edition: Boot Up to Ubuntu®, Fedora®, KNOPPIX, Debian®, openSUSE®, and 11 Other Distributions
+205.  1  Python: Penetration Testing for Developers
+206.  1  Mastering Kali Linux for Web Penetration Testing
+207.  1  Build Your Own Security Lab: A Field Guide for Network Testing
+208.  1  Java Programming with Oracle JDBC
+209.  1  Mastering Metasploit
+210.  1  Landing Page Optimization: The Definitive Guide to Testing and Tuning for Conversions, 2nd Edition
+211.  1  Professional Penetration Testing, 2nd Edition
+212.  1  Mastering Machine Learning Algorithms
+213.  1  Unity Game Development in 4 hours
+214.  1  VMware vSphere 6.5 Cookbook - Third Edition
+215.  1  Linux® Bible 2011 Edition: Boot up to Ubuntu®, Fedora®, KNOPPIX, Debian®, openSUSE®, and 13 Other Distributions
+216.  1  Pattern Recognition, 4th Edition
+217.  1  OS X and iOS Kernel Programming
+218.  1  Adobe® PageMaker® 7.0 Classroom in a Book®
+219.  1  Functional Programming in Kotlin
+220.  1  Network Security First-Step, Second Edition
+221.  1  ROS Programming: Building Powerful Robots
+222.  1  Practical Game Design
+223.  1  CASP: CompTIA® Advanced Security Practitioner, Study Guide
+224.  1  Data Analysts Toolbox: Excel, Python, Power BI
+225.  1  Learn T-SQL Querying
+226.  1  Linux Bible® 2010 Edition: Boot Up to Ubuntu®, Fedora®, KNOPPIX, Debian®, openSUSE®, and 13 Other Distributions
+227.  1  VMware vSphere™ and Virtual Infrastructure Security: Securing the Virtual Environment
+228.  1  Learning CompTIA CSA+
+229.  1  Kali Linux CTF Blueprints
+230.  1  Artificial Intelligence with Python - Second Edition
+231.  1  Learning Node.js for Mobile Application Development
+232.  1  The Pentester BluePrint
+233.  1  CASP CompTIA Advanced Security Practitioner Study Guide: Exam CAS-002, Second Edition
+234.  1  Electronic Design Automation
+235.  1  Beginning Ethical Hacking with Kali Linux: Computational Techniques for Resolving Security Issues
+236.  1  IP Subnetting from Beginning to Mastery
+237.  1  Network Security, Firewalls, and VPNs, 3rd Edition
+238.  1  Fibonacci and Catalan Numbers: An Introduction
+239.  1  Simply Said
+240.  1  Microsoft Windows 10 Tutorial: Essential Video Guide to Mastering Windows 10 (Que Video)
+241.  1  Learning Path: SQL for Business Users
+242.  1  Java Illuminated, 5th Edition
+243.  1  Oracle SQL*Plus: The Definitive Guide, 2nd Edition
+244.  1  Ubuntu Server Cookbook
+245.  1  Unreal Engine 4 AI Programming Essentials
+246.  1  CCENT ICND1 100-105 Exam Prep
+247.  1  Producing Games
+248.  1  Learning Path: CCENT ICND1 100-105
+249.  1  Advanced Penetration Testing for Highly-Secured Environments - Second Edition
+250.  1  Optimization
+251.  1  macOS Sierra: The Missing Manual
+252.  1  Penetration Testing with Raspberry Pi
+253.  1  The Art of LEGO Design
+254.  1  Python Machine Learning By Example
+255.  1  Change with Confidence: Answers to the 50 Biggest Questions that Keep Change Leaders Up at Night
+256.  1  Mathematical Optimization in Computer Graphics and Vision
+257.  1  Network Vulnerability Assessment
+258.  1  Splunk: Enterprise Operational Intelligence Delivered
+259.  1  Scala: Guide for Data Science Professionals
+260.  1  Working with Odoo 10 - Second Edition
+261.  1  Getting Started in ZBrush
+262.  1  Financial Analysis and Modeling Using Excel and VBA
+263.  1  IT Auditing Using Controls to Protect Information Assets, 2nd Edition, 2nd Edition
+264.  1  Introduction to Online Payments Risk Management
+265.  1  Kali Linux 2: Windows Penetration Testing
+266.  1  After Effects CC In Depth
+267.  1  Coaching with NLP For Dummies®
+268.  0  Sudoku Programming with C
+269.  0  Gray Hat Hacking, Second Edition, 2nd Edition
+270.  0  Penetration Tester's Open Source Toolkit, 2nd Edition
+271.  0  Java How To Program, Late Objects, 11th Edition
+272.  0  Six Rules of Brand Revitalization: Learn the Most Common Branding Mistakes and How to Avoid Them, Second Edition
+273.  0  AVIEN Malware Defense Guide for the Enterprise
+274.  0  Java™ How to Program, Seventh Edition
+275.  0  The Art of Software Testing, Second Edition
+276.  0  Hands-On Penetration Testing with Kali NetHunter
+277.  0  Digital Forensics for Pentesters - Hands-On Learning
+278.  0  Julia 1.0 Programming Cookbook
+279.  0  Kismet Hacking
+280.  0  Penetration Testing: A Survival Guide
+281.  0  The Basics of Hacking and Penetration Testing
+282.  0  Penetration Tester's Open Source Toolkit, 3rd Edition
+283.  0  Microsoft® SQL Server 2008 R2 Unleashed
+284.  0  AWS Certified Database - Specialty Complete Video Course
+285.  0  Unauthorised Access: Physical Penetration Testing For IT Security Teams
+286.  0  Ten Minute Guide to Access 97
+287.  0  Intertwined
+288.  0  Digital Forensics with Kali Linux
+289.  0  Sorting and Searching Algorithms in Scala
+290.  0  Regex Quick Syntax Reference: Understanding and Using Regular Expressions
+291.  0  Kali Linux Wireless Penetration Testing Essentials
+292.  0  Learning iCloud Data Management: A Hands-On Guide to Structuring Data for iOS and OS X
+293.  0  Negus Live Linux Series Live Linux CDs: Building and Customizing Bootables
+294.  0  The Complete New Manager
+295.  0  Learn Web Development with Python
+296.  0  The Digital Photography Book
+297.  0  Red Hat® Linux® 7 Unleashed
+298.  0  Python Penetration Testing Essentials
+299.  0  A Multidisciplinary Introduction to Information Security
+300.  0  Kali Linux Cookbook - Second Edition
+301.  0  Penetration Testing with Raspberry Pi - Second Edition
+302.  0  Programmer Passport: Prolog
+303.  0  Practical Planning
+304.  0  Kali Linux Wireless Penetration Testing : Beginner's Guide
+305.  0  QuickTime for Java: A Developer's Notebook
+306.  0  Reconfigurable Computing
+307.  0  Web Penetration Testing with Kali Linux - Second Edition
+308.  0  Visual QuickStart Guide: iPad
+309.  0  Software Engineering
+310.  0  iPhoto ’11: The Macintosh iLife Guide to using iPhoto with OS X Lion and iCloud
+311.  0  ZBrush® Character Creation: Advanced Digital Sculpting, Second Edition
+312.  0  Beginning C# 2008 Objects: From Concept to Code
+313.  0  The Basics of Web Hacking
+314.  0  Practical Predictive Analytics
+315.  0  Learning Network Penetration Testing with Kali Linux
+316.  0  The Ruby Way: Solutions and Techniques in Ruby Programming, Second Edition
+317.  0  Backup and Restore Practices for Sun Enterprise™ Servers
+318.  0  Python: Advanced Guide to Artificial Intelligence
+319.  0  Design Problem Solving
+320.  0  Designed for Use
+321.  0  Becoming the Hacker
+322.  0  Unity 2018 Cookbook - Third Edition
+323.  0  Harvard Business Review Guides Ultimate Boxed Set (16 Books)
+324.  0  Introduction to Knowledge Systems
+325.  0  Ethical Hacking Masterclass
+326.  0  HBR Guides to Being an Effective Manager Collection (5 Books) (HBR Guide Series)
+327.  0  IBM TotalStorage Migration Guide for the SAP User
+328.  0  Good Charts for Persuasive Presentations
+329.  0  HBR Guides Boxed Set (7 Books) (HBR Guide Series)
+330.  0  Embedded Computing
+331.  0  Complex Networks
+332.  0  Scalable Cloud Ops with Fugue
+333.  0  Successful Writing and Speaking: The Communication Collection (9 Books)
+334.  0  Adobe® Photoshop® 7.0 Classroom in a Book®
+335.  0  Network Intrusion Analysis
+336.  0  Proactive Marketing for the New and Experienced Library Director
+337.  0  The HBR Guides Collection (8 Books) (HBR Guide Series)
+338.  0  An Introduction to Formal Languages and Automata, 7th Edition
+339.  0  Smashing Mobile Web Development
+340.  0  Learn Odoo
+341.  0  How to Manage with NLP, 3rd Edition
+342.  0  Deploying and Managing Hyper-V
+343.  0  Cyber Reconnaissance, Surveillance and Defense
+344.  0  CompTIA A+® Certification All-In-One For Dummies®, 2nd Edition
+345.  0  Photonics Modelling and Design
+346.  0  MCITP: Windows Server® 2008 Enterprise Administrator, Study Guide
+347.  0  Working with Odoo 11 - Third Edition
+348.  0  Real-Time Systems Development
+349.  0  Seven Deadliest USB Attacks
+350.  0  Perl 6 Deep Dive
+351.  0  IT Success!: Towards a New Model for Information Technology
+352.  0  Layers: The Complete Guide to Photoshop’s Most Powerful Feature
+353.  0  Microsoft Word 2019
+354.  0  3ds Max Animation with Biped
+355.  0  Anti-Hacker Tool Kit, Fourth Edition, 4th Edition
+356.  0  How to Cheat at Securing a Wireless Network
+357.  0  iMovie 6 & iDVD: The Missing Manual
+358.  0  Dealing with People You Can't Stand: How to Bring Out the Best in People at Their Worst, 2nd Edition
+359.  0  Mac OS X: The Missing Manual, Tiger Edition
+360.  0  CompTIA Security+™: Study Guide, Fourth Edition
+361.  0  CompTIA Security+™ Deluxe: Study Guide
+362.  0  Mac OS X: The Missing Manual, Panther Edition
+363.  0  Hacking VoIP
+364.  0  Conducting Network Penetration and Espionage in a Global Environment
+365.  0  System Forensics, Investigation, and Response, 3rd Edition
+366.  0  Linux® Bible 2009 Edition: Boot up Ubuntu®, Fedora®, KNOPPIX, Debian®, SUSE®, and 13 Other Distributions
+367.  0  Data Modeling of Financial Derivatives: A Conceptual Approach
+368.  0  The Pocket Guide to Dog Tricks
+369.  0  Seven Cs of Consulting, The
+370.  0  Contemporary Digital Forensic Investigations of Cloud and Mobile Applications
+371.  0  Ubuntu Unleashed 2015 Edition: Covering 14.10 and 15.04, Tenth Edition
+372.  0  The Rules of Management, 4th Edition
+373.  0  Android Security Cookbook
+374.  0  AWS Certified Database - Specialty (DBS-C01) Certification Guide
+375.  0  Photo Adventures for Kids
+376.  0  Hands-On Reinforcement Learning for Games
+377.  0  Building Parsers with Java™
+378.  0  The Self-Taught Computer Scientist
+379.  0  Uncertainty in Artificial Intelligence
+380.  0  Mac OS X, iPod, and iPhone Forensic Analysis DVD Toolkit
+381.  0  Laser and Photonic Systems
+382.  0  Privacy Defended: Protecting Yourself Online
+383.  0  Arduino Wearables
+384.  0  Engineering Technology and Applications
+385.  0  Domain-Specific Languages in R: Advanced Statistical Programming
+386.  0  Certified Ethical Hacker (CEH) Complete Video Course, 3rd Edition
+387.  0  The Official CHFI Study Guide (Exam 312-49)
+388.  0  Instructional Strategies and Techniques for Information Professionals
+389.  0  Cyber Forensics, 2nd Edition
+390.  0  Hacking For Dummies, 4th Edition
+391.  0  Practical Windows PowerShell Scripting, 2nd Edition
+392.  0  Wireless Sensor and Actuator Networks: Algorithms and Protocols for Scalable Coordination and Data Communication
+393.  0  Introduction to Programming Languages
+394.  0  Mac OS X 10.4 Tiger: Visual QuickStart Guide
+395.  0  How to sell with NLP
+396.  0  Inside Solaris™ 9
+397.  0  Professional Visual Studio® 2008
+398.  0  Systems Analysis and Synthesis
+399.  0  WebObjects® Developer's Guide
+400.  0  Easy Web Design
+401.  0  SAMS Teach Yourself Adobe® Photoshop® CS2 in 24 Hours
+402.  0  iPhoto 5: The Missing Manual, Fourth Edition
+403.  0  Microsoft® SQL Server High Availability
+404.  0  A Guide to Algorithm Design
+405.  0  Mastering Windows Server 2019 - Second Edition
+406.  0  Mac OS X: The Missing Manual, Second Edition
+407.  0  Everyday Data Structures
+408.  0  Going Further with Git: Use Git’s Killer Feature and Unleash the Full Potential of Distributed Version Control
+409.  0  Meeting Management
+410.  0  Foundations of Deductive Databases and Logic Programming
+411.  0  WAP 2.0 Development
+412.  0  Hands-On Web Development with React and GatsbyJS
+413.  0  Perl 6 Quick Syntax Reference: A Pocket Guide to the Language, the Core Modules, and the Community
+414.  0  Learning Python for Forensics - Second Edition
+415.  0  Securing the Smart Grid
+416.  0  Unix Backup and Recovery
+417.  0  Troubleshooting for Trainers
+418.  0  Programming Languages: Concepts and Implementation
+419.  0  Processor Description Languages
+420.  0  T-SQL Querying: Writing a SELECT Statement
+421.  0  Communicate Like a Leader
+422.  0  The Best Political Cartoons of the Year, 2010 Edition
+423.  0  Machine Learning Proceedings 1989
+424.  0  Building a Pentesting Lab for Wireless Networks
+425.  0  Accounting Best Practices, Fifth Edition
+426.  0  Reasoning About Plans
+427.  0  Automated Physical Database Design and Tuning
+428.  0  CompTIA A+ Core 2 (220-1002)
+429.  0  OS X El Capitan: The Missing Manual
+430.  0  Switching to the Mac: The Missing Manual, El Capitan Edition
+431.  0  Automating InDesign with Regular Expressions
+432.  0  Implementing Domain-Specific Languages with Xtext and Xtend
+433.  0  Test iOS Apps with UI Automation
+434.  0  Uncertainty in Artificial Intelligence
+435.  0  Mobile Digital Art
+436.  0  Perl 6 Essentials
+437.  0  Writing for Visual Media, 3rd Edition
+438.  0  Haskell High Performance Programming
+439.  0  Software Design for Engineers and Scientists
+440.  0  Data Hiding
+441.  0  Advanced Kalman Filtering, Least-Squares and Modeling: A Practical Handbook
+442.  0  Interconnection Networks
+443.  0  Smarter Outsourcing: An executive guide to understanding, planning and exploiting successful outsourcing relationships
+444.  0  High-Performance Embedded Computing
+445.  0  How to Cheat at Configuring Open Source Security Tools
+446.  0  Securing Network Infrastructure
+447.  0  Mechanical Engineering for Makers
+448.  0  Switching to the Mac: The Missing Manual, Lion Edition
+449.  0  OpenCV 3.x with Python By Example - Second Edition
+450.  0  The Laws of Software Process
+451.  0  CompTIA Security+ Certification Study Guide, Second Edition (Exam SY0-401), 2nd Edition
+452.  0  Adobe Premiere Elements 7 Classroom in a Book
+453.  0  The Heart of the Photograph
+454.  0  Apple Training Series: iLife ’09
+455.  0  XML by Example
+456.  0  Habit: The 95% of Behavior Marketers Ignore
+457.  0  The Boost Graph Library: User Guide and Reference Manual
+458.  0  Joe Celko's SQL Puzzles and Answers, 2nd Edition
+459.  0  Supply Chain Management and Logistics
+460.  0  C# Essentials
+461.  0  Advanced Splunk
+462.  0  Introduction to Computational Thinking: Problem Solving, Algorithms, Data Structures, and More
+463.  0  Writing for Visual Media, 2nd Edition
+464.  0  Heuristic Search
+465.  0  Project Development in the Solar Industry
+466.  0  Scala:Applied Machine Learning
+467.  0  ATD's Action Guide to Talent Development: A Practical Approach to Building Your Organization's TD Effort
+468.  0  Creating a Web Site with Flash CS3 Professional: Visual QuickProject Guide
+469.  0  HTML5 and CSS3: Building Responsive Websites
+470.  0  Cash Flow Forecasting
+471.  0  Microsoft SQL Server 2005 Analysis Services
+472.  0  Learning Robotics Using Python
+473.  0  Platform-Style Video Games with Construct
+474.  0  Genome Annotation
+475.  0  Computerized Multistage Testing
+476.  0  Verification of Communication Protocols in Web Services: Model-Checking Service Compositions
+477.  0  Scala for Data Science
+478.  0  Student Handbook for Discrete Mathematics with Ducks
+479.  0  Unmasking Theatre Design: A Designer's Guide to Finding Inspiration and Cultivating Creativity
+480.  0  iLife '04: The Missing Manual
+481.  0  C# Essentials, 2nd Edition
+482.  0  Mechatronics Engineering and Electrical Engineering
+483.  0  Well-Designed
+484.  0  Foundations of Semantic Web Technologies
+485.  0  Spidering Hacks
+486.  0  Software Designers in Action
+487.  0  Distributed Artificial Intelligence
+488.  0  Hacking For Dummies, 5th Edition
+489.  0  Verification Techniques for System-Level Design
+490.  0  Amp It Up
+491.  0  Focal Easy Guide to Final Cut Express
+492.  0  Introducing ZBrush® 4
+493.  0  Core Web Programming, Second Edition
+494.  0  XHTML by Example
+495.  0  Building Robots With Lego Mindstorms
+496.  0  Microsoft® Visual Web Developer™ 2005 Express Edition: Build a Web Site Now!
+497.  0  Unified Communications Forensics
+498.  0  Dog Lover's Daily Companion
+499.  0  Digital Art Masters: Volume 3
+500.  0  HBR Guide to Better Business Writing, 2nd Edition

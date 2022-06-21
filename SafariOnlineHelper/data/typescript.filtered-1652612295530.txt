@@ -1,0 +1,202 @@
+INPUT: typescript
+TOTAL BOOKS: 200
+1.  64  Angular - The Complete Guide [2021 Edition]
+2.  50  React - The Complete Guide (includes Hooks, React Router, and Redux) - Second Edition
+3.  30  Learning Angular: Covering Angular 2, 4, and 5, 2nd Edition
+4.  25  Programming TypeScript
+5.  17  Angular 2 Development with TypeScript
+6.  17  Modern JavaScript for the Impatient
+7.  14  Understanding TypeScript – 2020 Edition
+8.  13  What's New in JavaScript
+9.  12  Building Web Apps with Angular and TypeScript
+10.  12  Fluent Conference 2013: JavaScript & Beyond Complete Video Compilation
+11.  12  Linux in a Nutshell, 6th Edition
+12.  11  Effective TypeScript
+13.  11  Getting Ready for Angular 2
+14.  10  Pro Angular 9: Build Powerful and Dynamic Web Apps
+15.  10  OSCON 2017 - Austin, Texas
+16.  10  Architecting Angular Applications with Redux, RxJS, and NgRx
+17.  9  Python Network Programming for Network Engineers (Python 3)
+18.  9  Angular Front To Back
+19.  8  TypeScript Essentials
+20.  7  Programming JavaScript Applications
+21.  7  Full-Stack React, TypeScript, and Node
+22.  7  Node.js - The Complete Guide
+23.  7  OSCON 2018 - Portland, Oregon
+24.  6  Introduction to Typescript
+25.  6  Angular Development with Typescript, Second Edition
+26.  6  Hands-On Functional Programming with TypeScript
+27.  6  Getting MEAN with Mongo, Express, Angular, and Node, Second Edition
+28.  6  Learning JavaScript Data Structures and Algorithms - Third Edition
+29.  5  Testing JavaScript Applications
+30.  5  Programming with Types
+31.  5  Design Patterns in TypeScript
+32.  5  Full Stack Development with JHipster - Second Edition
+33.  5  Vue.js 2 Design Patterns and Best Practices
+34.  5  Pro Angular 6
+35.  5  React 17 Design Patterns and Best Practices - Third Edition
+36.  5  Enterprise Application Architecture with .NET Core
+37.  5  Redux Quick Start Guide
+38.  5  Learn React Hooks
+39.  5  Angular 6 for Enterprise-Ready Web Applications
+40.  5  Learning Redux
+41.  4  TypeScript Microservices
+42.  4  Learn React with TypeScript 3
+43.  4  Node.js, MongoDB and Angular Web Development, 2nd Edition
+44.  4  Full Stack Development with JHipster
+45.  4  Angular 7: A Practical Guide
+46.  4  Angular 5 Projects: Learn to Build Single Page Web Applications Using 70+ Projects
+47.  4  Expert Angular
+48.  4  ASP.NET Core 2 and Angular 5
+49.  4  HTML & CSS JumpStart
+50.  3  Learning TypeScript
+51.  3  TypeScript Quickly
+52.  3  Mastering TypeScript 3 - Third Edition
+53.  3  Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker
+54.  3  Hands-On RESTful Web Services with TypeScript 3
+55.  3  TypeScript Design Patterns
+56.  3  Practical Enterprise React: Become an Effective React Developer in Your Team
+57.  3  Vue.js 3 Cookbook
+58.  3  Cloud Native programming with Golang
+59.  3  SharePoint Development with the SharePoint Framework
+60.  3  Angular Design Patterns
+61.  3  Mastering Angular Components
+62.  3  Hands-On Full Stack Web Development with Angular 6 and Laravel 5
+63.  3  Learning Angular for .NET Developers
+64.  3  Mobile App Development with Ionic 2, 1st Edition
+65.  3  JavaScript JSON Cookbook
+66.  3  Pro Angular, Second Edition
+67.  3  Building Large-Scale Web Applications with Angular
+68.  3  Real-Time 3D Graphics with WebGL 2 - Second Edition
+69.  3  Building Serverless Web Applications
+70.  3  JavaScript: Functional Programming for JavaScript Developers
+71.  3  Hands-On Full-Stack Web Development with GraphQL and React
+72.  3  Next.js Quick Start Guide
+73.  3  Serverless Web Applications with React and Firebase
+74.  2  TypeScript for Beginners
+75.  2  Learn TypeScript 3 by Building Web Applications
+76.  2  Essential TypeScript: From Beginner to Pro
+77.  2  TypeScript 2.x By Example
+78.  2  Angular for Material Design: Leverage Angular Material and TypeScript to Build a Rich User Interface for Web Apps
+79.  2  Let’s Build a Multiplayer Phaser Game: With TypeScript, Socket.IO, and Phaser
+80.  2  Building Web Apps with Spring 5 and Angular
+81.  2  Vue.js: Understanding its Tools and Ecosystem
+82.  2  Hands-On Design Patterns with React Native
+83.  2  Fluent Conference - San Jose, CA 2018
+84.  2  Hands-On Full-Stack Web Development with ASP.NET Core
+85.  2  Java EE 8 and Angular
+86.  2  Hands-on Machine Learning with JavaScript
+87.  2  Front-End Web Development: Using Angular 2, React and Backbone.js LiveLessons - Coding Dojo
+88.  2  Introduction to Modern Client-Side Programming
+89.  2  Visual Studio 2013 Cookbook
+90.  2  Learning Angular - Third Edition
+91.  2  Functional Kotlin
+92.  2  Mastering Firebase for Android Development
+93.  2  Mastering ASP.NET Web API
+94.  2  C# 7 and .NET: Designing Modern Cross-platform Applications
+95.  2  C# 7.1 and .NET Core 2.0 – Modern Cross-Platform Development - Third Edition
+96.  2  Angular in Action
+97.  2  Introducing SharePoint Framework
+98.  2  JavaScript for .NET Developers
+99.  2  Mastering Rust - Second Edition
+100.  2  Mastering JavaScript Design Patterns
+101.  2  Hands-On Data Structures and Algorithms with JavaScript
+102.  2  Svelte and Sapper in Action
+103.  2  Modern Web Development with ASP.NET Core 3 - Second Edition
+104.  1  Essential TypeScript 4: From Beginner to Pro
+105.  1  Learning TypeScript 2.x - Second Edition
+106.  1  Hands-On TypeScript for C# and .NET Core Developers
+107.  1  Building Web Applications with TypeScript, Angular and React
+108.  1  Pro TypeScript: Application-Scale JavaScript Development
+109.  1  Pro TypeScript
+110.  1  ReasonML Quick Start Guide
+111.  1  TypeScript Revealed
+112.  1  Jasmine Cookbook
+113.  1  ASP.NET Core 5 and React - Second Edition
+114.  1  OSCON 2019 - Portland, Oregon
+115.  1  Rapid Application Development with AWS Amplify
+116.  1  Redux Made Easy with Rematch
+117.  1  Build Performant GraphQL Backends in Days Using Hasura
+118.  1  O'Reilly Velocity Conference 2019 - San Jose, California
+119.  1  Introducing Deno: A First Look at the Newest JavaScript Runtime
+120.  1  Angular UI Development with PrimeNG
+121.  1  Modern Web Design Patterns in Angular 8
+122.  1  Hands-On Machine Learning with TensorFlow.js
+123.  1  ASP.NET Core MVC 2.0 Cookbook
+124.  1  Mastering C# and .NET Framework
+125.  1  Mobile App Development with Ionic, Revised Edition
+126.  1  Data Visualization: Representing Information on Modern Web
+127.  1  Cross-platform Desktop Application Development: Electron, Node, NW.js, and React
+128.  1  Switching to Angular - Third Edition
+129.  1  Babylon.js Essentials
+130.  1  Angular 2 Components
+131.  1  D3.js 4.x Data Visualization - Third Edition
+132.  1  Visual Studio 2015 Cookbook - Second Edition
+133.  1  Hybrid Mobile Development with Ionic
+134.  1  Learning Ionic - Second Edition
+135.  1  Angular 2 Cookbook
+136.  1  The Angular 2 Video Collection
+137.  1  ReSharper Essentials
+138.  1  UNIX® Shells by Example, Third Edition
+139.  1  Practical Test-Driven Development using C# 7
+140.  1  Hands-On Network Programming with C# and .NET Core
+141.  1  Getting Started with Web Components
+142.  1  Mastering JavaScript Design Patterns - Second Edition
+143.  1  JavaScript : Moving to ES2015
+144.  1  Go Web Development Cookbook
+145.  1  Learn Type-Driven Development
+146.  1  Ionic Cookbook - Third Edition
+147.  1  Isomorphic Go
+148.  1  Hands-On Data Structures and Algorithms with Kotlin
+149.  0  Mastering TypeScript - Fourth Edition
+150.  0  TypeScript 4 Design Patterns and Best Practices
+151.  0  The TypeScript Workshop
+152.  0  Advanced TypeScript Programming Projects
+153.  0  The Advantages of Using TypeScript vs JavaScript
+154.  0  Apache Superset Quick Start Guide
+155.  0  Deno Web Development
+156.  0  TypeScript: Modern JavaScript Development
+157.  0  pfSense 2.x Cookbook
+158.  0  TypeScript Essentials
+159.  0  JavaScript Application Design video edition
+160.  0  Jasmine JavaScript Testing - Second Edition
+161.  0  Refactoring TypeScript
+162.  0  Developing Web Components with TypeScript: Native Web Development Using Thin Libraries
+163.  0  Angular with TypeScript (Angular for Java Developers - Part 2)
+164.  0  Angular 2 Development with TypeScript video edition
+165.  0  Introducing Regular Expressions: JavaScript and TypeScript
+166.  0  JavaScript: The Hidden Parts
+167.  0  Modern Front-End Development for Rails
+168.  0  100 JavaScript Algorithms Challenge
+169.  0  Practical Vaadin: Developing Web Applications in Java
+170.  0  Microsoft Excel Pivot Table Data Crunching (Office 2021 and Microsoft 365)
+171.  0  ASP.NET Core 3 and React
+172.  0  Mastering SVG
+173.  0  Learning Angular LiveLessons, 3rd Edition
+174.  0  Web Development with MongoDB and Node - Third Edition
+175.  0  Building Web Applications with .NET Core 2.1 and JavaScript: Leveraging Modern JavaScript Frameworks
+176.  0  Learn Angular: Your First Week
+177.  0  D3.js: Cutting-edge Data Visualization
+178.  0  Learn Angular: Related Tool & Skills
+179.  0  MEAN Cookbook
+180.  0  ASP.NET Core 2 and Vue.js
+181.  0  NativeScript for Angular Mobile Development
+182.  0  Building Web Applications with Visual Studio 2017: Using .NET Core and Modern JavaScript Frameworks
+183.  0  Fluent 2016 - San Francisco, California: Video Compilation
+184.  0  Getting Started with Angular - Second Edition
+185.  0  MEAN Web Development - Second Edition
+186.  0  Angular Services
+187.  0  HTML5 Game Development Insights
+188.  0  Linux Shells by Example
+189.  0  Mac OS X in a Nutshell
+190.  0  Mac OS X Tiger in a Nutshell
+191.  0  Mac OS X Panther in a Nutshell, 2nd Edition
+192.  0  Hands-On Full Stack Web Development with Aurelia
+193.  0  Linux in a Nutshell, Third Edition
+194.  0  Improving your C# Skills
+195.  0  Google Cloud AI Services Quick Start Guide
+196.  0  Linux in a Nutshell, Fourth Edition
+197.  0  Integrating D3.js with React: Learn to Bring Data Visualization to Life
+198.  0  Five Lines of Code
+199.  0  Beginning Server-Side Application Development with Angular
+200.  0  Korn Shell Programming by Example

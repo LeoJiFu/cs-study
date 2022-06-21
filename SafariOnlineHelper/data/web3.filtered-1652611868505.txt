@@ -1,0 +1,202 @@
+INPUT: web3
+TOTAL BOOKS: 200
+1.  50  Python Crash Course, 2nd Edition
+2.  20  Django 3 - Full Stack Websites with Python Web Development
+3.  20  Mastering Ethereum
+4.  19  Python Crash Course
+5.  15  Hands-On RESTful API Design Patterns and Best Practices
+6.  12  Java™ How To Program (Early Objects), Tenth Edition
+7.  10  Building a Web 2.0 Portal with ASP.NET 3.5
+8.  10  Adobe Photoshop CS5 One-on-One
+9.  9  Mastering Blockchain - Second Edition
+10.  9  Functional Programming in Java
+11.  7  CSS3 for Web Designers
+12.  7  Building Blockchain Projects
+13.  6  Solidity Programming Essentials
+14.  6  Mastering Blockchain
+15.  6  31 Days Before Your CCNA Security Exam: A Day-By-Day Review Guide for the IINS 210-260 Certification Exam
+16.  5  Pro ASP.NET Core 3: Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages
+17.  5  Hands-On Smart Contract Development with Solidity and Ethereum
+18.  5  Blockchain in Action
+19.  5  Learning Path: Enterprise Web Programming with Java
+20.  4  The Web Designer’s Guide to iOS Apps: Create iPhone, iPod touch, and iPad Apps with Web Standards (HTML5, CSS3, and JavaScript)
+21.  4  Beginning HTML5 and CSS3: The Web Evolved
+22.  4  Ethereum Smart Contract Development
+23.  4  CompTIA Network+ N10-007
+24.  4  Hands-On Full Stack Development with Go
+25.  4  SSCP (Systems Security Certified Practitioner)
+26.  3  Hands-On RESTful Web Services with TypeScript 3
+27.  3  CSS3 For Web Designers, Second Edition
+28.  3  Beginning Responsive Web Design with HTML5 and CSS3
+29.  3  Pro Android Web Game Apps: Using HTML5, CSS3 and JavaScript
+30.  3  Building Ethereum Dapps
+31.  3  SwiftUI - The Complete Cookbook of Code and SwiftUI Bible
+32.  3  Beginning Java Web Development
+33.  3  Python Network Programming
+34.  3  Advanced Databases and REST Principles in Grails 3
+35.  3  Spring Boot Cookbook
+36.  2  Microsoft Expression Web 3 In Depth
+37.  2  Modern Web Design with HTML5, CSS3, and JavaScript
+38.  2  Learn TypeScript 3 by Building Web Applications
+39.  2  Hands-On RESTful Web Services with ASP.NET Core 3
+40.  2  Modern Web Development with ASP.NET Core 3 - Second Edition
+41.  2  Beginning Database Programming Using ASP.NET Core 3 : With MVC, Razor Pages, Web API, jQuery, Angular, SQL Server, and NoSQL
+42.  2  Create Web Charts with D3
+43.  2  Sams Teach Yourself HTML, CSS & JavaScript Web Publishing in One Hour a Day, Covering HTML5, CSS3, and jQuery, 7th Edition
+44.  2  Truffle Quick Start Guide
+45.  2  Web Programming with HTML5, CSS, and JavaScript
+46.  2  The Manager’s Guide to Web Application Security: A Concise Guide to the Weaker Side of the Web
+47.  2  Preventing Ransomware
+48.  2  Build Mobile Apps with Ionic 4 and Firebase: Hybrid Mobile App Development
+49.  2  How Software Works
+50.  1  Sams Teach Yourself Microsoft Expression Web 3 in 24 Hours
+51.  1  Django 3 Web Development Cookbook - Fourth Edition
+52.  1  The Essential Guide to HTML5 and CSS3 Web Design
+53.  1  Responsive Web Design with HTML5 and CSS3 Essentials
+54.  1  Web Standards:Mastering HTML5, CSS3, and XML, Second Edition
+55.  1  Getting Started with ASP.NET Core 3.0 Blazor: Framework Fundamentals for Full-stack Web Development Without JavaScript
+56.  1  CSS & CSS3: 20 Lessons to Successful Web Development
+57.  1  Adobe® ColdFusion® 9 Web Application Construction Kit, Volume 3: Application Development
+58.  1  Creating a Web Site in Dreamweaver CS3: Video QuickStart
+59.  1  Beginning iPhone and iPad Web Apps: Scripting with HTML5, CSS3, and JavaScript
+60.  1  Pro Android Web Apps: Develop for Android Using HTML5, CSS3 & JavaScript
+61.  1  Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with HTML5 and CSS3, Third Edition
+62.  1  Hands-On Blockchain for Python Developers
+63.  1  Web Copy That Sells, 3rd Edition
+64.  1  Solidity Smart Contracts: Build DApps in Ethereum Blockchain
+65.  1  Ethereum Cookbook
+66.  1  Blockchain By Example
+67.  1  Blockchain for Enterprise
+68.  1  Blockchain Quick Start Guide
+69.  1  OpenGL Insights
+70.  1  Google Speaks: Secrets of the World's Greatest Billionaire Entrepreneurs, Sergey Brin and Larry Page
+71.  1  Blogging to Drive Business: Create and Maintain Valuable Customer Connections
+72.  1  Pro Spring MVC with WebFlux: Web Development in Spring Framework 5 and Spring Boot 2
+73.  1  OSCON 2019 - Portland, Oregon
+74.  1  Modern Web Performance Optimization: Methods, Tools, and Patterns to Speed Up Digital Platforms
+75.  1  Hands-On Application Development with PyCharm
+76.  1  Python Network Programming Cookbook - Second Edition
+77.  1  The Artificial Intelligence Conference - San Francisco 2018
+78.  1  Beginning Data Analysis with Python And Jupyter
+79.  1  Visual Studio 2015 Cookbook - Second Edition
+80.  1  Pivotal Certified Spring Enterprise Integration Specialist Exam
+81.  1  LEGO® MINDSTORMS® EV3: The Mayan Adventure, Second Edition
+82.  1  Excel 2007 VBA Programming with XML and ASP
+83.  1  Data Engineering Foundations LiveLessons Part 1: Using Spark, Hive, and Hadoop Scalable Tools
+84.  1  Mobile and Web Messaging
+85.  0  Technologies for Modern Digital Entrepreneurship: Understanding Emerging Tech at the Cutting-Edge of the Web 3.0 Economy
+86.  0  Marketing in the Moment: The Practical Guide to Using Web 3.0 Marketing to Reach Your Customers First
+87.  0  Microsoft® Expression® Web 3 On Demand
+88.  0  Enhancing a Dreamweaver CS3 Web Site with Flash Video: Visual QuickProject Guide
+89.  0  Hands-on Three.js 3D Web Visualisations
+90.  0  Introduction to 3D Design with Adobe Photoshop and Illustrator: Creating 3D Effects for Print and Web Design Projects
+91.  0  Full Stack Web Development with Raspberry Pi 3
+92.  0  HTML5 and CSS3 Responsive Web Design
+93.  0  The Microsoft Expression Web Developer's Guide to ASP.NET 3.5: Learn to create ASP.NET applications using Visual Web Developer 2008
+94.  0  Beyond 3G – Bringing Networks, Terminals and the Web Together: LTE, WiMAX, IMS, 4G Devices and the Mobile Web 2.0
+95.  0  Responsive Web Design with HTML5 and CSS3 - Second Edition
+96.  0  Web Standards: Mastering HTML5, CSS3, and XML
+97.  0  Adobe ColdFusion 8 Web Application Construction Kit, Volume 3: Advanced Application Development
+98.  0  Pro iOS Web Design and Development: HTML5, CSS3, and JavaScript
+99.  0  Creating a Web Site in Dreamweaver CS3: Visual QuickProject Guide
+100.  0  Creating a Web Site with Flash CS3 Professional: Visual QuickProject Guide
+101.  0  Beginning Android Web Apps Development: Develop for Android using HTML5, CSS3, and JavaScript
+102.  0  New Capabilities in IBM WebSphere Transcoding Publisher Version 3.5 Extending Web Applications to the Pervasive World
+103.  0  Design and Deploy web sites with Macromedia® Dreamweaver® MX 2004 and Contribute® 3: Training from the Source
+104.  0  3G, 4G and Beyond: Bringing Networks, Devices and the Web Together, 2nd Edition
+105.  0  Microsoft® Expression® Web 4 In Depth: Updated for Service Pack 2 - HTML 5, CSS 3, JQuery, Second Edition
+106.  0  Sams Teach Yourself Microsoft® Expression™ Web 4 in 24 Hours: Updated for Service Pack 2—HTML5, CSS3, jQuery, Second Edition
+107.  0  The Complete 2020 Ethereum and Solidity Developer Bootcamp
+108.  0  Secure Data Provenance and Inference Control with Semantic Web
+109.  0  Learn Ethereum
+110.  0  Complete Cryptocurrency & Blockchain Course | Learn Solidity
+111.  0  Ethereum Fundamentals
+112.  0  Beginning Ethereum Smart Contracts Programming: With Examples in Python, Solidity, and JavaScript
+113.  0  Advanced Blockchain Development
+114.  0  The PAYTECH Book
+115.  0  Hands-On Blockchain Development in 7 Days
+116.  0  Blockchain Developer's Guide
+117.  0  The AI Book
+118.  0  How to Innovate in Marketing (Collection), 2/e
+119.  0  Blockchain Development with Hyperledger
+120.  0  The Teaching Librarian
+121.  0  Blockchain Quick Reference
+122.  0  Build Your First Ethereum DApp
+123.  0  Enterprise Web 2.0 Fundamentals
+124.  0  Blockchain for Business 2019
+125.  0  BizTalk
+126.  0  Design and Construction of an RFID-enabled Infrastructure
+127.  0  Social Media Marketing: An Hour a Day
+128.  0  Mastering MongoDB 3.x
+129.  0  Big Data
+130.  0  The Image of Success: Make a Great Impression and Land the Job You Want
+131.  0  Multimedia Ontology
+132.  0  Data Mining Tools for Malware Detection
+133.  0  Data Structure and Software Engineering
+134.  0  Analyzing and Securing Social Networks
+135.  0  Industrial Communication Systems
+136.  0  WebGL HOTSHOT
+137.  0  Scripting Your World: The Official Guide to Second Life® Scripting
+138.  0  Geographical Information Systems
+139.  0  Complex Networks
+140.  0  Pro ASP.Net 4 in C# 2010
+141.  0  Easy Web Design
+142.  0  Computational Business Analytics
+143.  0  Social Big Data Mining
+144.  0  Blogging to Drive Business: Create and Maintain Valuable Customer Connections, Second Edition
+145.  0  The Tao of Computing, 2nd Edition
+146.  0  From Science 2.0 to Pharma 3.0
+147.  0  Intelligent Technologies for Web Applications
+148.  0  Game Engine Gems 2
+149.  0  Library and Information Science
+150.  0  Smashing WordPress: Beyond the Blog, 2nd Edition
+151.  0  Student Edition: WebSphere Development Studio Client for iSeries V5.0
+152.  0  Phishing Exposed
+153.  0  Developer's Guide to Web Application Security
+154.  0  Microsoft SharePoint 2007 Technologies
+155.  0  A Guide to IT Contracting
+156.  0  The Real MCTS/MCITP Exam 70-643 Prep Kit
+157.  0  Web Design All-in-One for Dummies®
+158.  0  Web 2.0 and Beyond
+159.  0  Fast SOA
+160.  0  SharePoint 2007 User's Guide: Learning Microsoft's Collaboration and Productivity Platform
+161.  0  Mastering the IBM WebFacing Tool
+162.  0  Real-time 3D Character Animation with Visual C++
+163.  0  Starting an Online Business All-in-One For Dummies, 6th Edition
+164.  0  Cost-Justifying Usability, 2nd Edition
+165.  0  Computer System Reliability
+166.  0  Digital Marketing Management, Second Edition
+167.  0  Mining User Generated Content
+168.  0  Patterns: SOA Foundation Service Connectivity Scenario
+169.  0  Guide to Cloud Computing for Business and Technology Managers
+170.  0  Global Sourcing Logistics: How to Manage Risk and Gain Competitive Advantage in a Worldwide Marketplace
+171.  0  Build Your Own ASP.NET 2.0 Web Site Using C# & VB, Second Edition
+172.  0  High Available Architectures and Capacity Planning with WebSphere Remote Server V6
+173.  0  MCSE Core Elective Exams in a Nutshell
+174.  0  iSeries Access for Web V5R2 and WebSphere Host Publisher V4.0
+175.  0  IBM Business Process Manager Security: Concepts and Guidance
+176.  0  WebSphere Application Server - Express V6 Developers Guide and Development Examples
+177.  0  IBM WebSphere and Microsoft .NET Interoperability
+178.  0  Patterns: SOA Client - Access Integration Solutions
+179.  0  WebSphere for z/OS V6 Connectivity Handbook
+180.  0  Developing and Securing the Cloud
+181.  0  Implementing Web Applications with CM Information Integrator for Content and OnDemand Web Enablement Kit
+182.  0  Human-Centric Business Process Management with WebSphere Process Server V6
+183.  0  WebSphere Business Integration Server Foundation V5.1 Handbook
+184.  0  IBM Workplace Client Technology Micro Edition Version 5.7.1: Application Development and Case Study
+185.  0  Proceedings 2002 VLDB Conference
+186.  0  Managing Information Access to an Enterprise Information System Using J2EE and Services Oriented Architecture
+187.  0  Implementing and Administering WebSphere Business Integration Server V4.2.2
+188.  0  Lotus Instant Messaging/Web Conferencing (Sametime): Building Sametime Enabled Applications
+189.  0  A B2B Solution using WebSphere Business Integration V4.1 and WebSphere Business Connection V1.1
+190.  0  Measuring e-business Web Usage, Performance, and Availability
+191.  0  Professional SharePoint® 2010 Field Guide
+192.  0  Domino Web Service Application Development for the IBM eServer iSeries Server
+193.  0  Patterns: Connecting Self-Service Applications to the Enterprise
+194.  0  Sams Teach Yourself LinkedIn in 10 Minutes, Second Edition
+195.  0  AdvancED Flex 4
+196.  0  Starting an Online Business All-in-One For Dummies, 5th Edition
+197.  0  Sams Teach Yourself LinkedIn in 10 Minutes
+198.  0  Genome Annotation
+199.  0  Security Log Management
+200.  0  Grid Computing

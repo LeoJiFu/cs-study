@@ -1,0 +1,402 @@
+INPUT: design pattern
+TOTAL BOOKS: 400
+1.  261  Head First Design Patterns
+2.  49  Design Patterns: Elements of Reusable Object-Oriented Software
+3.  48  Domain-Driven Design: Tackling Complexity in the Heart of Software
+4.  45  Design Patterns in Java
+5.  40  Domain-Driven Design Distilled
+6.  34  Implementing Domain-Driven Design
+7.  34  Learning Web Design, 4th Edition
+8.  33  Microservices Patterns
+9.  27  Architecture Patterns with Python
+10.  22  Design Patterns in the Real World, an Analysis-Based Approach
+11.  20  Design Patterns in Java
+12.  19  Domain-Driven Design Distilled, 1/e
+13.  19  Scott & Neil's Designing Web Interfaces Master Class
+14.  18  What Is Domain-Driven Design?
+15.  16  Patterns, Principles, and Practices of Domain-Driven Design
+16.  15  Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development, Third Edition
+17.  15  Head First Web Design
+18.  15  Badass: Making Users Awesome
+19.  13  Head First Design Patterns, 2nd Edition
+20.  12  Design Patterns Explained: A New Perspective on Object-Oriented Design, Second Edition
+21.  12  Articulating Design Decisions
+22.  12  Learning Web Design, 3rd Edition
+23.  11  Resonate: Present Visual Stories that Transform Audiences
+24.  10  Universal Principles of Design, Revised and Updated
+25.  10  Go Design Patterns
+26.  10  Learn Design Patterns with Java
+27.  10  Design Patterns in Ruby
+28.  10  Design Thinking 101
+29.  10  About Face 3: The Essentials of Interaction Design
+30.  9  Learning PHP Design Patterns
+31.  8  Mobile Design Pattern Gallery, 2nd Edition
+32.  8  Design Patterns Using C# and .NET Core
+33.  8  Implementation Patterns
+34.  8  Learning Domain-Driven Design
+35.  8  Designing Interfaces, 2nd Edition
+36.  8  Service mesh: A new pattern, not a new technology
+37.  8  The Non-Designer’s Design Book, Third Edition
+38.  7  Mobile Design Pattern Gallery
+39.  7  Tragic Design
+40.  7  Design It!
+41.  7  Learning C# Design Patterns
+42.  7  SOA Design Patterns
+43.  7  Domain-Driven Design in PHP
+44.  7  What Is Design Thinking?
+45.  7  Before & After®: How to Design Cool Stuff
+46.  7  The Book of GIMP
+47.  6  Design Patterns
+48.  6  Mastering PHP Design Patterns
+49.  6  Object Design: Roles, Responsibilities, and Collaborations
+50.  6  Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, Eclipse MicroProfile, Spring Boot, and the Axon Framework
+51.  6  Applying Domain-Driven Design and Patterns: With Examples in C# and .NET
+52.  6  Communicating Design: Developing Web Site Documentation for Design and Planning, Second Edition
+53.  5  Hands-On Design Patterns with C++
+54.  5  Design Patterns in TypeScript
+55.  5  Reactive Design Patterns
+56.  5  Node.js Design Patterns
+57.  5  Design Patterns in Modern C++: Reusable Approaches for Object-Oriented Software Design
+58.  5  Designing Interfaces, 3rd Edition
+59.  5  Smalltalk Best Practice Patterns
+60.  5  Design Sprint
+61.  5  The Truthful Art: Data, Charts, and Maps for Communication
+62.  4  Mobile Design Pattern Gallery, Color Edition
+63.  4  Org Design for Design Orgs
+64.  4  Design Patterns and SOLID Principles with Java
+65.  4  React Design Patterns and Best Practices - Second Edition
+66.  4  Design Patterns For Dummies®
+67.  4  Security Patterns in Practice: Designing Secure Architectures Using Software Patterns
+68.  4  J2EE Design Patterns
+69.  4  Core J2EE™ Patterns: Best Practices and Design Strategies, Second Edition
+70.  4  Interface Design for Learning: Design Strategies for Learning Experiences
+71.  4  DynamoDB Applied Design Patterns
+72.  4  Responsive Web Design with HTML5 and CSS - Third Edition
+73.  4  Stories that Move Mountains: Storytelling and Visual Design for Persuasive Presentations
+74.  4  Designing Multi-Device Experiences
+75.  4  Microinteractions: Full Color Edition
+76.  3  Effective UX Design with Patterns: Build and Leverage a Pattern Library for Rapid Iteration and Prototyping
+77.  3  Articulating Design Decisions, 2nd Edition
+78.  3  API Design Patterns
+79.  3  Hands-On Design Patterns and Best Practices with Julia
+80.  3  Hands-On Design Patterns with C# and .NET Core
+81.  3  Design Patterns in C#: A Hands-on Guide with Real-world Examples
+82.  3  TypeScript Design Patterns
+83.  3  Automated Lighting, 2nd Edition
+84.  3  Java Program Design: Principles, Polymorphism, and Patterns
+85.  3  .NET Design Patterns
+86.  3  Learning Web Design, 5th Edition
+87.  3  Hello Web Design
+88.  3  Collaborative Product Design
+89.  3  Using Analytics to Inform Product Design
+90.  3  Essential Mobile Interaction Design: Perfecting Interface Design in Mobile Apps
+91.  3  Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences
+92.  2  Pattern Oriented Software Architecture Volume 5: On Patterns and Pattern Languages
+93.  2  Storytelling in Design
+94.  2  Powered by Design
+95.  2  Designing with Data
+96.  2  Design Thinking
+97.  2  Java Design Patterns: A Hands-On Experience with Real-World Examples
+98.  2  Python: Master the Art of Design Patterns
+99.  2  Learning Python Design Patterns - Second Edition
+100.  2  Design Patterns in C#: A Hands-on Guide with Real-World Examples
+101.  2  Holub on Patterns: Learning Design Patterns by Looking at Code
+102.  2  C# Design Patterns: A Tutorial
+103.  2  Calm Technology
+104.  2  Living Documentation: Continuous Knowledge Sharing by Design, First Edition
+105.  2  Designing for Infinity
+106.  2  This Is Service Design Doing
+107.  2  What Is Service Design?
+108.  2  Practical Python Programming: Callbacks
+109.  2  Design Thinking for Strategic Innovation: What They Can't Teach You at Business or Design School
+110.  2  Real-Time Rendering, Fourth Edition, 4th Edition
+111.  2  Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing, 4th Volume
+112.  2  Learn from the Experts about Design Thinking: Holly O'Driscoll
+113.  2  How to design and prototype products that people love
+114.  2  The Non-Designer's Design Book, 4th Edition
+115.  2  Calm Technology
+116.  2  Blog Design For Dummies
+117.  2  The Designing for Voice and Conversation Video Collection 2016
+118.  2  Learn from the Experts about Agile: Bill Higgins
+119.  2  The Big Fish Experience: Create Memorable Presentations That Reel In Your Audience
+120.  1  Pattern-Oriented Analysis and Design: Composing Patterns to Design Software Systems
+121.  1  Design Leadership
+122.  1  Print & Pattern: Geometric
+123.  1  Python Programming with Design Patterns
+124.  1  Design for Cognitive Bias
+125.  1  The Pocket Universal Methods of Design
+126.  1  Designing for Sustainability
+127.  1  Demystifying Architectural Research
+128.  1  Learn Java Design Patterns: The Complete Guide
+129.  1  Effectively Articulating Design Decisions
+130.  1  Creational Design Patterns in Modern C++
+131.  1  Mastering Python Design Patterns - Second Edition
+132.  1  Practical UI Patterns for Design Systems: Fast-Track Interaction Design for a Seamless User Experience
+133.  1  Cloud Computing Design Patterns
+134.  1  Java EE 8 Design Patterns and Best Practices
+135.  1  An Atypical ASP.NET Core 5 Design Patterns Guide
+136.  1  Reactive Design Patterns video edition
+137.  1  Design Patterns in .NET: Reusable Approaches in C# and F# for Object-Oriented Software Design
+138.  1  Mastering JavaScript Design Patterns - Second Edition
+139.  1  Abduzeedo Inspiration Guide for Designers
+140.  1  Android Design Patterns: Interaction Design Solutions for Developers
+141.  1  Idea-ology
+142.  1  Advanced Python Programming
+143.  1  Patterns-Based Engineering: Successfully Delivering Solutions via Patterns
+144.  1  Enterprise Patterns and MDA: Building Better Software with Archetype Patterns and UML
+145.  1  Applied Java™ Patterns
+146.  1  Designing Gestural Interfaces
+147.  1  HBR's 10 Must Reads on Design Thinking (with featured article "Design Thinking" By Tim Brown)
+148.  1  The Language of Graphic Design
+149.  1  The Interior Design Reference & Specification Book
+150.  1  Quartz 2D Graphics for Mac OS X® Developers
+151.  1  Transforming an Idea Into a Business with Design Thinking
+152.  1  Conversational Design
+153.  1  Understanding Design Thinking, Lean, and Agile
+154.  1  Design for the Mind: Seven Psychological Principles of Persuasive Design
+155.  1  Data science + design thinking: A perfect blend to achieve the best user experience
+156.  1  White Space Is Not Your Enemy, 3rd Edition
+157.  1  Responsive Design: Patterns & Principles
+158.  1  The Elements of Voice First Style
+159.  1  Visual Design Solutions: Principles and Creative Inspiration for Learning Professionals
+160.  1  Universal Methods of Design
+161.  1  Understanding Industrial Design
+162.  1  Simple and Usable Web, Mobile, and Interaction Design, Second Edition
+163.  1  Design for Information
+164.  1  On microservices, bounded contexts, and everything in between
+165.  1  Spatial Strategies for Interior Design
+166.  1  INTERACTION DESIGN: beyond human-computer interaction, 3rd Edition
+167.  1  Research Methods in Human-Computer Interaction, 2nd Edition
+168.  1  Design Thinking for Entrepreneurs and Small Businesses: Putting the Power of Design to Work
+169.  1  Editorial Design
+170.  1  The Graphic Designer's Guide to Portfolio Design, 3rd Edition
+171.  1  The Design Method: A Philosophy and Process for Functional Visual Communication
+172.  1  Materials for Design
+173.  1  Drawing for Graphic Design
+174.  1  CAD and Rapid Prototyping for Product Design
+175.  1  Prototyping for Designers
+176.  1  Interaction design for tangible interfaces
+177.  1  Beginning PBR Texturing: Learn Physically Based Rendering with Allegorithmic’s Substance Painter
+178.  1  Thoughts on Interaction Design, 2nd Edition
+179.  1  Understanding Context
+180.  1  Numbers in Graphic Design
+181.  1  Managing the Design Process-Implementing Design
+182.  1  Prototyping with Balsamiq: A Beginner's Guide
+183.  1  Portfolio: Expressive Painting
+184.  1  Salted Paper Printing
+185.  1  Designed for Use, 2nd Edition
+186.  1  Graphic Design for Fashion
+187.  1  Distinctive Design: A Practical Guide to a Useful, Beautiful Web
+188.  1  The Visual Story, 2nd Edition
+189.  1  Deconstructing Product Design
+190.  1  Creating Composite Application Pattern Models for IBM PureApplication System
+191.  0  Applying the Idiomatic Design Pattern to Convolutional Neural Networks
+192.  0  Pattern and Palette Sourcebook: A Complete Guide to Choosing the Perfect Color and Pattern in Design
+193.  0  Experimental Pattern Sourcebook
+194.  0  Designing for Respect
+195.  0  Pattern-Oriented Software Architecture Volume 3: Patterns for Resource Management
+196.  0  Pattern-Oriented Software Architecture, Volume 2, Patterns for Concurrent and Networked Objects
+197.  0  Pattern Cutting for Clothing Using CAD
+198.  0  Design for Wellbeing
+199.  0  Contextual Design, 2nd Edition
+200.  0  The Designer's Guide to Product Vision: Learn to build your strategic influence to shape the future
+201.  0  Design for Climate Change
+202.  0  Design Patterns in Modern C++20: Reusable Approaches for Object-Oriented Software Design
+203.  0  Good Office Design
+204.  0  API Design Patterns, video edition
+205.  0  API Design Patterns
+206.  0  The Design Studio Method
+207.  0  Urban Lighting for People
+208.  0  The Design Patterns Companion
+209.  0  Python Architecture Patterns
+210.  0  Kotlin Design Patterns
+211.  0  Designing Across Senses
+212.  0  The Design and Business Video Collection 2016
+213.  0  2017 Design Salary Survey
+214.  0  Rescue and Reuse
+215.  0  Design Patterns in Go
+216.  0  2016 Design Salary Survey
+217.  0  Structural Design Patterns in Modern C++
+218.  0  Design Activism
+219.  0  Design Patterns in .NET Core 3: Reusable Approaches in C# and F# for Object-Oriented Software Design
+220.  0  Building in Arcadia
+221.  0  Better Buildings
+222.  0  Automated Lighting, 3rd Edition
+223.  0  Loft Conversion Handbook
+224.  0  Apex Design Patterns
+225.  0  C++ Software Design
+226.  0  The Automated Lighting Programmer's Handbook, 3rd Edition
+227.  0  A Fine Line: How Design Strategies Are Shaping the Future of Business
+228.  0  The Automated Lighting Programmer's Handbook, 2nd Edition
+229.  0  Hands-On Design Patterns with Delphi
+230.  0  Mastering Python Design Patterns
+231.  0  An Engineering Manager's Guide to Design Patterns
+232.  0  Visual Alchemy: The Fine Art of Digital Montage
+233.  0  Do Good: How Design Can Change the World
+234.  0  Mindful Design: How and Why to Make Design Decisions for the Good of Those Using Your Product
+235.  0  The Smashing Idea Book: From Inspiration to Application
+236.  0  Elemental Design Patterns
+237.  0  Joint Cognitive Systems
+238.  0  Patterns for Parallel Software Design
+239.  0  Foam Patterning and Construction Techniques
+240.  0  Web Application Design Patterns
+241.  0  Eco-Friendly and Fair
+242.  0  Designing Autonomous Teams and Services
+243.  0  Evil by Design: Interaction design to lead us into temptation
+244.  0  1,001 Symmetrical Patterns
+245.  0  Joint Cognitive Systems
+246.  0  What Is DesignOps?
+247.  0  Patterns for Fault Tolerant Software
+248.  0  DV 101: A Hands-On Guide for Business, Government & Educators
+249.  0  Dynamic Reteaming, 2E
+250.  0  Software Architecture Design Patterns in Java
+251.  0  Visual Design: Ninety-five things you need to know. Told in Helvetica and dingbats.
+252.  0  Re-presentation Policies of the Fashion Industry
+253.  0  The Automated Lighting Programmer's Handbook
+254.  0  Advanced ActionScript 3 with Design Patterns
+255.  0  Design Fundamentals: Notes on Visual Elements and Principles of Composition
+256.  0  Cutting-Edge Patterns and Textures
+257.  0  Common Design Patterns for Symbian OS: The Foundations of Smartphone Software
+258.  0  Patterns for Performance and Operability
+259.  0  Rapid Organizational Change
+260.  0  Design Patterns Explained: A New Perspective on Object-Oriented Design
+261.  0  Java™ CAPS Basics: Implementing Common EAI Patterns
+262.  0  Interaction Flow Modeling Language
+263.  0  Web Anatomy: Interaction Design Frameworks that Work
+264.  0  Know Your Shoppers (Collection)
+265.  0  Joy of Patterns: Using Patterns for Enterprise Development, The
+266.  0  The Textile Artist's Studio Handbook
+267.  0  Design Thinking For Dummies
+268.  0  Essential Fashion Illustration: Digital
+269.  0  Felt Fashion
+270.  0  Fashion Illustrator
+271.  0  Software Architecture Hour: Domain-Driven Design with Jessica Kerr
+272.  0  Designing and Prototyping Interfaces with Figma
+273.  0  Domain-Driven Laravel: Learn to Implement Domain-Driven Design Using Laravel
+274.  0  Cognitive Behavior and Human Computer Interaction Based on Machine Learning Algorithms
+275.  0  Design Thinking in Software and AI Projects: Proving Ideas Through Rapid Prototyping
+276.  0  Design Elements, Third Edition
+277.  0  Radar Talks: Phil Balagtas on Futures Design and Thinking
+278.  0  The Language of Fashion Design
+279.  0  Design Management: Create, Develop, and Lead Effective Design Teams
+280.  0  Interaction Design, 5th Edition
+281.  0  Design: A Business Case
+282.  0  JavaScript Domain-Driven Design
+283.  0  Design School: Layout
+284.  0  Fashion Design Workshop: Remix
+285.  0  Voice User Interface Design: Moving from GUI to Mixed Modal Interaction
+286.  0  Transdisciplinary Engineering Design Process
+287.  0  Pair Design
+288.  0  Co-Design, Volume II
+289.  0  Telling the Design Story
+290.  0  How IBM applied design thinking
+291.  0  Organizational Design in Business
+292.  0  The Art and Practice of Costume Design
+293.  0  Three-Dimensional Integrated Circuit Design, 2nd Edition
+294.  0  Mastering Voice Interfaces: Creating Great Voice Apps for Real Users
+295.  0  Collaborative Business Design: Improving and innovating the design of IT-driven business services
+296.  0  How Intuit applied design thinking
+297.  0  Up and Running with Affinity Designer
+298.  0  The Visual Imperative
+299.  0  Designing for Modern Learning
+300.  0  Data-Informed Product Design
+301.  0  Design School Confidential
+302.  0  The Accidental Instructional Designer: Learning Design for the Digital Age
+303.  0  The Sustainable Design Book
+304.  0  Techniques of Visual Persuasion: + Create powerful images that motivate
+305.  0  Retro Crochet
+306.  0  Creating and Using Virtual Prototyping Software: Principles and Practices
+307.  0  Learn Human-Computer Interaction
+308.  0  1,000 Garment Graphics (mini)
+309.  0  Analog Circuit Design Volume Three
+310.  0  Learn to Paint in Acrylics with 50 More Small Paintings
+311.  0  Teaching Introduction to Theatrical Design
+312.  0  MMOS FROM THE INSIDE OUT: THE HISTORY, DESIGN, FUN, AND ART OF MASSIVELY-MULTIPLAYER ONLINE ROLE-PLAYING GAMES
+313.  0  Design Recipes for FPGAs, 2nd Edition
+314.  0  Unmasking Theatre Design: A Designer's Guide to Finding Inspiration and Cultivating Creativity
+315.  0  Becoming a Graphic and Digital Designer: A Guide to Careers in Design, 5th Edition
+316.  0  Graphic Icons: Visionaries Who Shaped Modern Graphic Design
+317.  0  Mastering Facilitation
+318.  0  Service Design and Delivery
+319.  0  Virtual Facilitation
+320.  0  Motion Graphic Design, 3rd Edition
+321.  0  Design for Voice Interfaces
+322.  0  Luxury Retail and Digital Management, 2nd Edition
+323.  0  Digital Textile Design, 2nd Edition
+324.  0  Killer Visual Strategies
+325.  0  Pattern-Oriented Software Architecture For Dummies
+326.  0  The Graphic Design Reference & Specification Book
+327.  0  The Industrial Design Reference & Specification Book
+328.  0  The Future of Product Design
+329.  0  Cool Infographics: Effective Communication with Data Visualization and Design
+330.  0  Product Design
+331.  0  Graphic Design Process
+332.  0  The Art of Visual Notetaking
+333.  0  JMP 13 Design of Experiments Guide
+334.  0  Design Theory and Methods using CAD/CAE
+335.  0  Visual Design for Online Learning
+336.  0  Handbook of Concierge Medical Practice Design
+337.  0  Steampunk & Cosplay Fashion Design & Illustration
+338.  0  Take Control of PDFpen, 3rd Edition
+339.  0  Business Engineering and Service Design, Second Edition, Volume I
+340.  0  Refining Design for Business: Using analytics, marketing, and technology to inform customer-centric design
+341.  0  Methods in Product Design
+342.  0  Advances in Wind Turbine Blade Design and Materials
+343.  0  The Fashion Design Reference & Specification Book
+344.  0  Visual Thinking for Design
+345.  0  Cross-Cultural Human-Computer Interaction and User Experience Design
+346.  0  TV Scenic Design, 2nd Edition
+347.  0  Sound Systems: Design and Optimization
+348.  0  I Used to Be a Design Student
+349.  0  JMP 12 Design of Experiments Guide
+350.  0  Open Innovation
+351.  0  The Diamond Painting Guide and Logbook
+352.  0  I Heart Design
+353.  0  No Sweat
+354.  0  Urban Design for an Urban Century: Shaping More Livable, Equitable, and Resilient Cities, 2nd Edition
+355.  0  The Winchester Guide to Keywords and Concepts for International Students in Art, Media and Design
+356.  0  Universal Design
+357.  0  The Best of Brochure Design 12
+358.  0  The Makeup Artist Handbook, 3rd Edition
+359.  0  Digital Colour in Graphic Design
+360.  0  Multidisciplinary Design Optimization Supported by Knowledge Based Engineering
+361.  0  Prototyping and Modelmaking for Product Design
+362.  0  Motion Graphic Design, 2nd Edition
+363.  0  Textile Fiber Microscopy
+364.  0  Instructional Design for Action Learning
+365.  0  Designing User Interfaces for an Aging Population
+366.  0  Digital Painting Techniques
+367.  0  Combining Pattern Classifiers: Methods and Algorithms, 2nd Edition
+368.  0  Voice User Interface Projects
+369.  0  Design of Business
+370.  0  Digital Textile Design
+371.  0  Critiqued: Inside the Minds of 23 Leaders in Design
+372.  0  Engineering Design Graphics: Sketching, Modeling, and Visualization, 2nd Edition
+373.  0  Advanced Engineering Design
+374.  0  Halide Perovskites
+375.  0  Innoliteracy
+376.  0  Innovative Jacquard Textile Design Using Digital Technologies
+377.  0  Designing Software Product Lines with UML: From Use Cases to Pattern-Based Software Architectures
+378.  0  Rethinking Design and Interiors
+379.  0  Sustainability in Interior Design
+380.  0  Managing the Design Process-Concept Development
+381.  0  Design Research Through Practice
+382.  0  Design Essentials for the Motion Media Artist
+383.  0  JMP 11 Design of Experiments Guide
+384.  0  Field Guide: How to be a Fashion Designer
+385.  0  Biomaterials
+386.  0  Modern VLSI Design: IP-Based Design, Fourth Edition
+387.  0  Fabric and Fiber Inventions
+388.  0  Power Vacuum Tubes Handbook, 3rd Edition
+389.  0  Learn from the Experts about Being Performance-First: Guillermo Esteves
+390.  0  Fashion Design Workshop
+391.  0  Character Costume Figure Drawing, 3rd Edition
+392.  0  A Graphic Design Student's Guide to Freelance: Practice Makes Perfect
+393.  0  Store Design and Visual Merchandising
+394.  0  Kivy Cookbook
+395.  0  Our Search for Belonging
+396.  0  JMP 10 Design of Experiments Guide
+397.  0  Creating Prototypes to Test Product Market Fit
+398.  0  Artist Toolbox: Painting Tools & Materials
+399.  0  Masters of Design: Corporate Brochures
+400.  0  Fast Fashion Systems

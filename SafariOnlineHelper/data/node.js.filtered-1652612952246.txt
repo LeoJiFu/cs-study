@@ -1,0 +1,402 @@
+INPUT: node.js
+TOTAL BOOKS: 400
+1.  52  Learning Node.js
+2.  32  The Complete Node.js Developer Course (3rd Edition)
+3.  30  Learning Angular: Covering Angular 2, 4, and 5, 2nd Edition
+4.  29  Node.js, MongoDB and AngularJS Web Development
+5.  24  OSCON 2014: Complete Video Compilation
+6.  22  Getting Started with Node.js
+7.  22  Complete Git Guide: Understand and Master Git and GitHub
+8.  21  Web Development with Node and Express
+9.  20  Learn JavaScript
+10.  19  Node.js Design Patterns - Second Edition
+11.  19  Overview of the Node.js Ecosystem
+12.  16  Node.js, MongoDB, and AngularJS Web Development
+13.  16  MEAN Web Development Workshop: An introduction to the MEAN web programming stack: MongoDB, Express, AngularJS, and Node.js
+14.  16  Express in Action
+15.  15  Learning Node.js, 2/e
+16.  15  Node.js Web Apps with Express
+17.  14  Building Node Applications with MongoDB and Backbone
+18.  14  Understanding TypeScript – 2020 Edition
+19.  13  Jump Start Node.js
+20.  13  Learning Node
+21.  13  What Is Node?
+22.  12  MEAN Web Development
+23.  12  Node: Up and Running
+24.  12  Java™ How To Program (Early Objects), Tenth Edition
+25.  12  Cypress - Modern Automation Testing from Scratch + Framework
+26.  12  Building Web Apps with Angular and TypeScript
+27.  11  Node.js Design Patterns - Third Edition
+28.  11  Learning Node.js Development
+29.  11  Beginning Node.js
+30.  11  Node.js in Action
+31.  11  Tom Hughes-Croucher on Node
+32.  11  CMake Cookbook
+33.  11  Hands-On Full Stack Development with Spring Boot 2.0 and React
+34.  10  Web Development with Node and Express, 2nd Edition
+35.  10  Architecting Angular Applications with Redux, RxJS, and NgRx
+36.  9  Node.js 8 the Right Way
+37.  9  Sams Teach Yourself Node.js in 24 Hours
+38.  9  MongoDB - The Complete Developer's Guide
+39.  9  The Complete React Js and Redux Course - Build Modern Web Apps
+40.  9  Creating a Simple Angular App (Angular for Java Developers - Part 1)
+41.  9  Mastering Blockchain - Second Edition
+42.  8  Get Programming with Node.js
+43.  8  React: Zero to Full-Stack (Video Collection)
+44.  7  Node.js - The Complete Guide
+45.  7  Understanding NPM - Node.js Package Manager
+46.  7  Getting Started with GEO, CouchDB, and Node.js
+47.  7  Full-Stack React, TypeScript, and Node
+48.  7  Eloquent JavaScript, 3rd Edition
+49.  7  Learn Docker - Fundamentals of Docker 19.x - Second Edition
+50.  7  Full-Stack React Projects - Second Edition
+51.  7  Apache Kafka Complete Developer's Guide
+52.  6  Node.js in Action, Second Edition
+53.  6  Write Modern Web Apps with the MEAN Stack: Mongo, Express, AngularJS, and Node.js
+54.  6  Smashing Node.js: JavaScript Everywhere, 2nd Edition
+55.  6  Electron from Scratch: Build Desktop Applications with JavaScript
+56.  6  The Complete Practical Docker Guide
+57.  6  JavaScript Cookbook, 3rd Edition
+58.  6  Getting MEAN with Mongo, Express, Angular, and Node, Second Edition
+59.  6  The Complete React Developer Course (with Hooks and Redux)
+60.  6  Getting Started with MongoDB and NoSQL
+61.  6  Learning JavaScript Data Structures and Algorithms - Third Edition
+62.  6  OSCON 2016: Video Compilation
+63.  6  Velocity 2016 - Santa Clara, California: Video Compilation
+64.  5  Distributed Systems with Node.js
+65.  5  Node.js Design Patterns
+66.  5  MERN Stack Front To Back: Full Stack React, Redux and Node.js
+67.  5  Node.js Design Patterns
+68.  5  Node.js, Express and MongoDB Dev to Deployment
+69.  5  Node for Front-End Developers
+70.  5  Building Enterprise JavaScript Applications
+71.  5  MERN E-commerce from Scratch
+72.  5  The Modern JavaScript Bootcamp (2019)
+73.  5  Full Stack Development with JHipster - Second Edition
+74.  5  Learning Redux
+75.  5  Angular 6 for Enterprise-Ready Web Applications
+76.  4  Node.js, MongoDB and Angular Web Development, 2nd Edition
+77.  4  Pro Node.js for Developers
+78.  4  RESTful Web API Design with Node.js 10 - Third Edition
+79.  4  Using MongoDB with Node.js
+80.  4  RESTful Web API Design with Node.js
+81.  4  Web Development with MongoDB and Node.js
+82.  4  Mongoose for Application Development
+83.  4  Electron in Action
+84.  4  Elm in Action
+85.  4  React Design Patterns and Best Practices - Second Edition
+86.  4  Hands-On Full Stack Development with Go
+87.  4  SPA Design and Architecture: Understanding single-page web applications
+88.  4  Kubernetes for Developers
+89.  4  AWS Certified Developer - Associate Guide
+90.  4  TypeScript Microservices
+91.  4  Redis Essentials
+92.  4  Full Stack Development with JHipster
+93.  4  JavaScript by Example
+94.  4  Test-Driving JavaScript Applications
+95.  4  Mobile Test Automation with Appium
+96.  3  Mastering Node.js - Second Edition
+97.  3  Mastering Node.js 12.x
+98.  3  Beginning API Development with Node.js
+99.  3  Node.js in Motion
+100.  3  Practical Node.js: Building Real-World Scalable Web Apps
+101.  3  Node.js in Practice
+102.  3  Node.js the Right Way
+103.  3  Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker
+104.  3  The Node.js Sessions
+105.  3  Programming Web Applications with Node, Express and Pug
+106.  3  Sails.js in Action
+107.  3  The Node Craftsman Book
+108.  3  Full Stack JavaScript Development With MEAN
+109.  3  Write Modern Web Apps with the MEAN Stack: Learn by Video
+110.  3  R Packages
+111.  3  JavaScript Frameworks
+112.  3  AWS Certified Developer (Associate)
+113.  3  TypeScript Quickly
+114.  3  Full-Stack React
+115.  3  Hands-On Full-Stack Web Development with GraphQL and React
+116.  3  Hands-On Industrial Internet of Things
+117.  3  Cloud Native programming with Golang
+118.  3  The Full Stack Web Development
+119.  3  SharePoint Development with the SharePoint Framework
+120.  3  Building Google Cloud Platform Solutions
+121.  3  Angular Design Patterns
+122.  3  React Cookbook
+123.  3  Mastering Angular Components
+124.  3  Hands-On Continuous Integration and Delivery
+125.  3  Hands-On RESTful Web Services with TypeScript 3
+126.  3  AWS Development Fundamentals
+127.  3  NEW! Microsoft AZ-303 Certification Course: Azure Architect Technologies
+128.  3  AWS Lambda Quick Start Guide
+129.  3  Serverless Web Applications with React and Firebase
+130.  3  Front-End Web Development: The Big Nerd Ranch Guide
+131.  3  React.js Essentials
+132.  3  Mastering Reactive JavaScript
+133.  3  Learning Angular for .NET Developers
+134.  3  Mastering JavaScript Promises
+135.  3  JavaScript JSON Cookbook
+136.  2  Node.js Web Development
+137.  2  A Quick Start Guide to Node.js
+138.  2  9 Practical Node.js Projects
+139.  2  Node.js Web Development - Fourth Edition
+140.  2  Learning Node.js, Second Edition
+141.  2  Pro REST API Development with Node.js
+142.  2  Node.js 6.x Blueprints
+143.  2  The Complete Guide to Node.js
+144.  2  Node.js API Masterclass with Express and MongoDB
+145.  2  Professional Node.js: Building Javascript Based Scalable Software
+146.  2  Node Cookbook
+147.  2  Developing Node.js Applications on IBM Cloud
+148.  2  RESTful Web API Design with Node.js - Second Edition
+149.  2  hapi.js in Action
+150.  2  Node.js for PHP Developers
+151.  2  Learning Single-page Web Application Development
+152.  2  The Node Sessions: The Best of OSCON 2011
+153.  2  Introducing Electron
+154.  2  Hands-on JavaScript for Python Developers
+155.  2  Express Web Application Development
+156.  2  Learning Carrara 8
+157.  2  Mastering Qlik Sense
+158.  2  Mastering GitLab 12
+159.  2  Learn TypeScript 3 by Building Web Applications
+160.  2  Learning Azure Process Automation Using PowerShell
+161.  2  Mastering Rust - Second Edition
+162.  2  Salesforce Lightning Platform Enterprise Architecture - Third Edition
+163.  2  Embedded Linux Development Using Yocto Project Cookbook - Second Edition
+164.  2  Learn Three.js - Third Edition
+165.  2  The JavaScript Workshop
+166.  2  Internet of Things with Raspberry Pi 3
+167.  2  The Complete Web Development Course - Build 15 Projects
+168.  2  React Native Cookbook - Second Edition
+169.  2  Oracle JET for Developers
+170.  2  WebAssembly in Action
+171.  2  Learn WebAssembly
+172.  2  MQTT Essentials - A Lightweight IoT Protocol
+173.  2  Hands-On Cybersecurity with Blockchain
+174.  2  Linux: Powerful Server Administration
+175.  2  Fluent Conference - San Jose, CA 2018
+176.  2  Hands-On Full-Stack Web Development with ASP.NET Core
+177.  2  Hands-On Data Structures and Algorithms with JavaScript
+178.  2  Hands-on Machine Learning with JavaScript
+179.  2  Expert AWS Development
+180.  2  Building Telegram Bots: Develop Bots in 12 Programming Languages using the Telegram Bot API
+181.  2  Kotlin Blueprints
+182.  2  O'Reilly Software Architecture Conference 2016 - San Francisco, California
+183.  2  React 16 Essentials - Second Edition
+184.  2  Hands-On Chatbots and Conversational UI Development
+185.  2  React: Building Modern Web Applications
+186.  2  Learning Path: Resource-Oriented Architecture
+187.  2  JavaScript for .NET Developers
+188.  1  Advanced Node.js Development
+189.  1  Server Side development with Node.js and Koa.js Quick Start Guide
+190.  1  The CLI Book: Writing Successful Command Line Interfaces with Node.js
+191.  1  Building APIs with Node.js
+192.  1  Your First Week With Node.js
+193.  1  Secure Your Node.js Web Application
+194.  1  Developing Node.js Applications on IBM Bluemix
+195.  1  Node.js Web Development - Third Edition
+196.  1  Learning Node.js for .NET Developers
+197.  1  Deploying Node.js
+198.  1  Reactive Programming with Node.js
+199.  1  Learning Node.js for Mobile Application Development
+200.  1  Node.js By Example
+201.  1  Node.js Essentials
+202.  1  Rapid Prototyping Web Applications Using Node.js and MongoDB
+203.  1  Node.js Recipes: A Problem-Solution Approach
+204.  1  Angular and Node.js - The MEAN Stack Guide
+205.  1  REST API Development with Node.js : Manage and Understand the Full Capabilities of Successful REST Development
+206.  1  Microservices in SAP HANA XSA: A Guide to REST APIs Using Node.js
+207.  1  The Definitive Guide to AdonisJs: Building Node.js Applications with JavaScript
+208.  1  Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB, Second Edition
+209.  1  Node Cookbook - Third Edition
+210.  1  Node.js for PHP Developers
+211.  1  Beginning Amazon Web Services with Node.js
+212.  1  Learning Node, 2nd Edition
+213.  1  Pro MEAN Stack Development
+214.  1  MEAN Blueprints
+215.  1  Getting Started with hapi.js
+216.  1  Node Cookbook
+217.  1  Esperwhispering
+218.  1  Cross-platform Desktop Application Development: Electron, Node, NW.js, and React
+219.  1  Electron Projects
+220.  1  Cross-Platform Desktop Applications: Using Node, Electron, and NW.js
+221.  1  Understanding Oracle APEX 20 Application Development: Think Like an Application Express Developer
+222.  1  Low Voltage Electron Microscopy: Principles and Applications
+223.  1  Learn Python Command-line tools in One Hour Video Course
+224.  1  Hello World Project Secrets
+225.  1  Installing, maintaining, and publishing Node modules with npm
+226.  1  Instant Node Package Module
+227.  1  Advanced Express Web Application Development
+228.  1  Getting Started with Grunt: The JavaScript Task Runner
+229.  1  High-Speed Signaling: Jitter Modeling, Analysis, and Budgeting
+230.  1  JavaScript and Browsers
+231.  1  Carrara 7
+232.  1  NoSQL with MongoDB Video How-To
+233.  1  Mastering Sass
+234.  1  Developing Modern Database Applications with PostgreSQL
+235.  1  Learning TypeScript 2.x - Second Edition
+236.  1  Modern Web Design Patterns in Angular 8
+237.  1  Hands-On Full Stack Development with Spring Boot 2 and React - Second Edition
+238.  1  Practical GraphQL - Become a GraphQL Ninja
+239.  1  Rust Programming Cookbook
+240.  1  Microsoft Azure Storage - The Complete Guide
+241.  1  Front-end Master Class (Video Collection)
+242.  1  Learn Docker in a Month of Lunches video edition
+243.  1  Hands-On JavaScript High Performance
+244.  1  Hands-On Azure for Developers
+245.  1  Hands-On Blockchain for Python Developers
+246.  1  Effective DevOps with AWS - Second Edition
+247.  1  Automation Solutions with Chef Automate
+248.  1  The Complete Rust Programming Reference Guide
+249.  1  Getting Started with React VR
+250.  1  Google Cloud Platform Cookbook
+251.  1  Internet of Things Projects with ESP32
+252.  1  Data Wrangling with JavaScript
+253.  1  Hands-On Machine Learning with TensorFlow.js
+254.  1  React JS and Python Django Full Stack Master Course
+255.  1  Learning Jupyter 5 - Second Edition
+256.  1  Oracle Blockchain Quick Start Guide
+257.  1  Mastering ArcGIS Enterprise Administration
+258.  1  Practical Test-Driven Development using C# 7
+259.  1  Building Bluetooth Low Energy Systems
+260.  1  Continuous Integration, Delivery, and Deployment
+261.  1  Hands-On Robotics with JavaScript
+262.  1  Learn Automation Testing with Java and Selenium WebDriver
+263.  1  JUNOS Automation Cookbook
+264.  1  MERN Quick Start Guide
+265.  1  Python Programming Blueprints
+266.  1  Ubuntu Server Cookbook
+267.  1  Modern Web Development By Example
+268.  1  Implementing Oracle API Platform Cloud Service
+269.  1  Enterprise Internet of Things Handbook
+270.  1  HTML5 Games: Novice to Ninja
+271.  1  Neo4j Cookbook
+272.  1  Data Visualization: Representing Information on Modern Web
+273.  1  JavaScript on Things
+274.  1  Mastering PostGIS
+275.  1  Learning Jupyter
+276.  1  Effective DevOps with AWS
+277.  1  JavaScript : Moving to ES2015
+278.  1  D3.js 4.x Data Visualization - Third Edition
+279.  1  Mastering Immutable.js
+280.  1  Visual Studio 2015 Cookbook - Second Edition
+281.  1  Building the Web of Things
+282.  1  Building Smart Homes with Raspberry Pi Zero
+283.  1  Learning Ionic - Second Edition
+284.  1  Mastering RethinkDB
+285.  1  Front-End Tooling with Gulp, Bower, and Yeoman
+286.  1  OpenShift Cookbook
+287.  0  How to Build Microservices with Node.js
+288.  0  Your First Week With Node.js, 2nd Edition
+289.  0  Node.js from Ground Up for Beginners
+290.  0  Real-Time Twilio and Flybase: Build Real-Time Web Apps Using Twilio and Flybase with Node.js
+291.  0  Node.js: Tools & Skills, 2nd Edition
+292.  0  Node.js: Related Tools & Skills
+293.  0  Node.js for Embedded Systems
+294.  0  Node.js High Performance
+295.  0  Building Scalable Apps with Redis and Node.js
+296.  0  Node.js for .NET Developers
+297.  0  Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript
+298.  0  Serverless Applications with Node.js
+299.  0  Scaling Your Node.js Apps: Progress Your Personal Projects to Production-Ready
+300.  0  Practical Bot Development: Designing and Building Bots with Node.js and Microsoft Bot Framework
+301.  0  NodeJS Made Easy for MEAN or MERN Stack
+302.  0  Socket.IO Cookbook
+303.  0  Expert GeoServer
+304.  0  Pro iOS and Android Apps for Business: with jQuery Mobile, node.js, and MongoDB
+305.  0  Web Application Development with MEAN
+306.  0  Shifting Sands
+307.  0  OpenView Network Node Manager: Designing and Implementing an Enterprise Solution
+308.  0  Electron: From Beginner to Pro: Learn to Build Cross Platform Desktop Applications using Github's Electron
+309.  0  Desktop apps with JavaScript (sponsored by Slack)
+310.  0  MERN Projects for Beginners: Create Five Social Web Apps Using MongoDB, Express.js, React, and Node
+311.  0  Transmission Electron Microscopy in Micro-nanoelectronics
+312.  0  JavaScript Bible - JavaScript and ES6 Bootcamp 2019
+313.  0  Enterprise LMS with Adobe Captivate Prime
+314.  0  JavaFX™: Developing Rich Internet Applications
+315.  0  Patterns in Node Package Vulnerabilities
+316.  0  Write Your Way To Success: Lessons Learned on my Path from Ordinary Developer to Author of Programming Books That Sell
+317.  0  Semiconductor Packaging
+318.  0  Build Applications with Meteor
+319.  0  How to Make Mistakes in Python
+320.  0  Express.js Deep API Reference
+321.  0  Pro Express.js
+322.  0  Getting MEAN with Mongo, Express, Angular, and Node video edition
+323.  0  Characterization of Integrated Circuit Packaging Materials
+324.  0  Building a Complete Web Application
+325.  0  The Essential Guide to Serial ATA and SATA Express
+326.  0  Meteor in Action
+327.  0  Introducing Meteor
+328.  0  Open Pit Mine Planning and Design, Two Volume Set & CD-ROM Pack, Third Edition, 3rd Edition
+329.  0  Getting Started with Macaw: Build responsive websites with a cutting-edge application
+330.  0  The Truth About Managing Effectively (Collection), 2/e
+331.  0  Introduction to Holography
+332.  0  The Hands-on XBEE Lab Manual
+333.  0  Packaging Essentials
+334.  0  1,000 Package Designs (mini)
+335.  0  Sage Line 50
+336.  0  Money for Nothing
+337.  0  Development for High Performance Revised Edition
+338.  0  Pro Oracle Application Express
+339.  0  Microsoft® Visual Web Developer™ 2005 Express Edition: Build a Web Site Now!
+340.  0  IBM Express Runtime V2.1
+341.  0  IBM Workplace Services Express
+342.  0  NodeJS, MongoDB, and Express - Beginner to Intermediate JavaScript
+343.  0  NoSQL with MongoDB in 24 Hours, Sams Teach Yourself (Supplemental Video)
+344.  0  Full Stack Development with Angular and GraphQL
+345.  0  Full-Stack Web Development with GraphQL and React - Second Edition
+346.  0  Learn Enough JavaScript to Be Dangerous: Write Programs, Publish Packages, and Develop Interactive Websites with JavaScript
+347.  0  Angular: Zero to Full-Stack (Video Collection)
+348.  0  Multithreaded JavaScript
+349.  0  The MySQL Workshop
+350.  0  Hands-On Music Generation with Magenta
+351.  0  Jupyter Cookbook
+352.  0  Full-Stack Web Development with Angular
+353.  0  MEAN Cookbook
+354.  0  Essential Cryptography for JavaScript Developers
+355.  0  Learn Kubernetes in a Month of Lunches video edition
+356.  0  Ethereum Fundamentals
+357.  0  React Router Quick Start Guide
+358.  0  What's New in TensorFlow 2.0
+359.  0  Practical TensorFlow.js: Deep Learning in Web App Development
+360.  0  Learning Microsoft Azure: A Hands-On Training
+361.  0  Advanced Blockchain Development
+362.  0  MongoDB from Basics to Advanced
+363.  0  Hands-On Serverless Computing with Google Cloud
+364.  0  Programmer’s Guide to Apache Thrift
+365.  0  Bootstrap 4 Development for Professionals
+366.  0  Learn Web Development By Building A Blog
+367.  0  Improving your C# Skills
+368.  0  Data Analysis with Python
+369.  0  Hands-On Blockchain Development in 7 Days
+370.  0  Jumpstarting Javascript
+371.  0  Learning Salesforce Lightning Application Development
+372.  0  Learning Angular LiveLessons, 3rd Edition
+373.  0  Practical hapi: Build Your Own hapi Apps and Learn from Industry Case Studies
+374.  0  Hands-On Serverless Computing
+375.  0  Web Development with MongoDB and Node - Third Edition
+376.  0  Redash v5 Quick Start Guide
+377.  0  Learning AngularJS
+378.  0  Raspberry Pi 3 Home Automation Projects
+379.  0  Professional Visual Studio 2017
+380.  0  D3.js: Cutting-edge Data Visualization
+381.  0  Voice User Interface Projects
+382.  0  Raspberry Pi Zero Cookbook
+383.  0  Developing Turn-Based Multiplayer Games: with GameMaker Studio 2 and NodeJS
+384.  0  BeagleBone: Creative Projects for Hobbyists
+385.  0  Learn ARCore - Fundamentals of Google ARCore
+386.  0  HTML5 and CSS3: Building Responsive Websites
+387.  0  ECMAScript Cookbook
+388.  0  Learning Salesforce Einstein
+389.  0  Google Cloud AI Services Quick Start Guide
+390.  0  Hands-On Full Stack Web Development with Aurelia
+391.  0  Developing Bots with Microsoft Bots Framework: Create Intelligent Bots using MS Bot Framework and Azure Cognitive Services
+392.  0  Amazon S3 Cookbook
+393.  0  Practical Internet of Things with JavaScript
+394.  0  Enhancing the IBM Power Systems Platform with IBM Watson Services
+395.  0  Fluent 2016 - San Francisco, California: Video Compilation
+396.  0  Mastering Cloud Development using Microsoft Azure
+397.  0  Pro MongoDB™ Development
+398.  0  Couchbase Essentials
+399.  0  MEAN Web Development - Second Edition
+400.  0  Hands-On Web Development with React and GatsbyJS

@@ -1,0 +1,502 @@
+INPUT: data
+TOTAL BOOKS: 500
+1.  268  Designing Data-Intensive Applications
+2.  30  Strata Conference Santa Clara 2013: Complete Video Compilation
+3.  28  Lean Analytics
+4.  26  Python Data Science Handbook
+5.  23  Strata Conference Santa Clara 2012: Video Compilation
+6.  22  Doing Data Science
+7.  20  Data Science from Scratch, 2nd Edition
+8.  20  Data Science for Business
+9.  16  Data Science at the Command Line
+10.  15  Storytelling with Data: A Data Visualization Guide for Business Professionals
+11.  15  The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition
+12.  14  Data Management at Scale
+13.  14  Visualizing Data
+14.  13  The Enterprise Big Data Lake
+15.  12  Data Science on AWS
+16.  11  Strata Conference 2011: Video Compilation
+17.  11  Data Pipelines Pocket Reference
+18.  11  Data Science Fundamentals Part 1: Learning Basic Concepts, Data Wrangling, and Databases with Python
+19.  10  Strata Conference New York + Hadoop World 2013: Complete Video Compilation
+20.  10  Data Science from Scratch
+21.  9  Strata Data Conference 2017 - London, United Kingdom
+22.  9  97 Things Every Data Engineer Should Know
+23.  9  Data Lake for Enterprises
+24.  9  Big Data For Dummies
+25.  8  The Data Sessions: The Best of OSCON 2011
+26.  8  Programming Skills for Data Science: Start Writing Code to Wrangle, Analyze, and Visualize Data with R, First Edition
+27.  8  Data Governance: The Definitive Guide
+28.  8  Architecting Modern Data Platforms
+29.  8  Data Governance
+30.  7  Strata Data Conference - San Jose 2018
+31.  7  Strata + Hadoop World 2017 - San Jose, California
+32.  7  Strata Conference New York + Hadoop World 2014: Video Compilation
+33.  7  Strata Conference Santa Clara 2014: Complete Video Compilation
+34.  7  Data Pipelines with Apache Airflow
+35.  7  R for Data Science
+36.  7  Foundations for Architecting Data Solutions
+37.  7  Essential SQLAlchemy, 2nd Edition
+38.  7  Data Science Fundamentals for Marketing and Business Professionals
+39.  6  Strata + Hadoop World 2016 - San Jose, California: Video Compilation
+40.  6  Where Conference 2012: The Business of Location: Complete Video Compilation
+41.  6  Building a Scalable Data Warehouse with Data Vault 2.0
+42.  6  What Is Data Engineering?
+43.  6  Learning Python for Data Science
+44.  6  Thinking with Data
+45.  5  Storytelling with Data
+46.  5  Strata + Hadoop World 2016 - New York, New York
+47.  5  Strata Rx Conference Boston 2013: Complete Video Compilation
+48.  5  Practical DataOps: Delivering Agile Data Science at Scale
+49.  5  Operationalizing the Data Lake
+50.  5  Agile Data Science 2.0
+51.  5  Agile Data Warehouse Design
+52.  5  Data Smart: Using Data Science to Transform Information into Insight
+53.  5  Data Warehousing in the Age of Big Data
+54.  5  Using Storytelling to Effectively Communicate Data
+55.  5  Practical Data Modeling for Production with Kotlin
+56.  5  Big Data Application Architecture Q&A: A Problem - Solution Approach
+57.  5  The Data Model Resource Book, Volume 3: Universal Patterns for Data Modeling
+58.  4  Strata Data Conference - New York, NY 2018
+59.  4  Strata Data Conference 2017 - New York, New York
+60.  4  Strata + Hadoop World 2016 - Singapore
+61.  4  Where's the Money in Big Data
+62.  4  Building Open Source Programming Skills at OSCON 2012
+63.  4  Building Data Science Applications with FastAPI
+64.  4  Data Mesh in Practice
+65.  4  Hands-On Data Science for Marketing
+66.  4  Architecting Data Lakes, 2nd Edition
+67.  4  Master Big Data Ingestion and Analytics with Flume, Sqoop, Hive and Spark
+68.  4  Practical Big Data Analytics
+69.  4  BGP in the Data Center
+70.  4  SQL Server 70-767: Implementing a Data Warehouse Using SQL
+71.  4  Learning Data Modeling
+72.  4  Think Julia
+73.  4  Fifty Years of Data Management and Beyond
+74.  4  Scalable Big Data Architecture: A Practitioner’s Guide to Choosing Relevant Big Data Architecture
+75.  4  MASTER DATA MANAGEMENT AND DATA GOVERNANCE, 2/E, 2nd Edition
+76.  4  Learning Path: CCNA Data Center
+77.  4  Create an Azure SQL Data Warehouse in Minutes
+78.  4  Feature Engineering Made Easy
+79.  4  The Rise of Operational Analytics
+80.  3  Strata Data Conference 2019 - San Francisco, California
+81.  3  Strata + Hadoop World New York 2015: Video Compilation
+82.  3  Strata Conference New York + Hadoop World 2012: Complete Video Compilation
+83.  3  Essential Math for Data Science
+84.  3  Data Engineering with Python
+85.  3  Product Analytics: Applied Data Science Techniques for Actionable Consumer Insights
+86.  3  Big Data for Architects
+87.  3  The Data Science Workshop - Second Edition
+88.  3  Data Science with Python and Dask
+89.  3  Building Data Science Infrastructure
+90.  3  Hands-On Amazon Redshift for Data Warehousing
+91.  3  Building Effective Data Science Infrastructure in 30 Minutes
+92.  3  Snowflake Cookbook
+93.  3  Graph Algorithms
+94.  3  Rebuilding Reliable Data Pipelines Through Modern Tools
+95.  3  Basic Statistics and Data Mining for Data Science
+96.  3  ODSC East 2018 (Open Data Science Conference)
+97.  3  The Data Science Workshop
+98.  3  Machine Learning in Production: Developing and Optimizing Data Science Workflows and Applications, First Edition
+99.  3  Data Analytics for IT Networks: Developing Innovative Use Cases, First Edition
+100.  3  Making Data Visual
+101.  3  Data Visualization with Python and JavaScript
+102.  3  Understanding Data Governance
+103.  3  Visualization Analysis and Design
+104.  3  Principles of Data Science
+105.  3  Data Lake Development with Big Data
+106.  3  Big Data Imperatives: Enterprise 'Big Data' Warehouse, 'BI' Implementations and Analytics
+107.  3  Big Data SMACK: A Guide to Apache Spark, Mesos, Akka, Cassandra, and Kafka
+108.  3  Measuring Data Quality for Ongoing Improvement
+109.  3  From Data Science to Production with Kotlin: The Basics
+110.  3  Kubernetes and the data center at DigitalOcean
+111.  3  CCNA Data Center DCICN 200-150
+112.  3  Analytics in a Big Data World: The Essential Guide to Data Science and its Applications
+113.  3  PySpark SQL Recipes: With HiveQL, Dataframe and Graphframes
+114.  3  Data Warehousing Fundamentals for IT Professionals
+115.  3  Data Visualization: a successful design process
+116.  3  Data Center Handbook
+117.  3  CCNA Data Center DCICT 200-155
+118.  2  Managing Data Orchestration and Integration at Scale
+119.  2  O'Reilly Strata Data Conference 2019 - New York, New York
+120.  2  Strata Data Conference 2017 - Singapore
+121.  2  O'Reilly Design Conference 2016 - San Francisco, California: Video Compilation
+122.  2  Strata + Hadoop World Conference in Barcelona 2014: Complete Video Compilation
+123.  2  Fundamentals of Data Engineering
+124.  2  Practical Python Data Wrangling and Data Quality
+125.  2  Beginning Azure Synapse Analytics: Transition from Data Warehouse to Data Lakehouse
+126.  2  Snowflake: The Definitive Guide
+127.  2  Semantic Modeling for Data
+128.  2  Strata Data Superstream Series: Data Warehouses, Data Lakes, and Data Lakehouses
+129.  2  Data Lake Analytics on Microsoft Azure: A Practitioner's Guide to Big Data Engineering
+130.  2  Delta Lake: The Definitive Guide
+131.  2  Practical Enterprise Data Lake Insights: Handle Data-Driven Challenges in an Enterprise Big Data Lake
+132.  2  Python for Algorithmic Trading
+133.  2  Data Science Projects with Python
+134.  2  Python for Data Science Complete Video Course (Video Training)
+135.  2  Applied Data Science Using PySpark: Learn the End-to-End Predictive Model-Building Cycle
+136.  2  Spotlight on Data: Data Storytelling with Mico Yuk
+137.  2  Getting Started with Data Science: Making Sense of Data with Analytics
+138.  2  Open Source Data Pipelines for Intelligent Applications
+139.  2  Python Data Science Essentials - Third Edition
+140.  2  Big Data Simplified
+141.  2  Zero to One: Data Science to MLOps
+142.  2  Big Data
+143.  2  Introducing Data Science: Big data, machine learning, and more, using Python tools
+144.  2  Principles of Data Science - Second Edition
+145.  2  Cleaning Up the Data Lake with an Operational Data Hub
+146.  2  The Data Science Handbook
+147.  2  Next-Generation Big Data: A Practical Guide to Apache Kudu, Impala, and Spark
+148.  2  Competing with High Quality Data: Concepts, Tools, and Techniques for Building a Successful Approach to Data Quality
+149.  2  Getting DataOps Right
+150.  2  Data Science For Dummies, 2nd Edition
+151.  2  Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence
+152.  2  Python: Real-World Data Science
+153.  2  Data Science Essentials in Python
+154.  2  Learning Path: Understanding Tool Integration for Big Data Architecture
+155.  2  Java Data Science Cookbook
+156.  2  Fast Data Processing Systems with SMACK Stack
+157.  2  Data Model Patterns
+158.  2  Advanced Data Management
+159.  2  The Security Data Lake
+160.  2  Get started with Conda
+161.  2  Building Data Science Teams
+162.  2  The Garbage Collection Handbook
+163.  2  Data Scientists at Work
+164.  2  Big Data video edition
+165.  2  Enterprise Information Management in Practice: Managing Data and Leveraging Profits in Today’s Complex Business Environment
+166.  2  Developing Analytic Talent: Becoming a Data Scientist
+167.  1  Training Data for Machine Learning
+168.  1  Big Data Fundamentals: Concepts, Drivers & Techniques
+169.  1  Data Crush
+170.  1  Strata + Hadoop World San Jose 2015: Video Compilation
+171.  1  Teaching Information Literacy in Higher Education
+172.  1  Strata + Hadoop World Singapore 2015: : Video Compilation
+173.  1  Strata + Hadoop World London 2015: Video Compilation
+174.  1  Cultivate Conference NY 2015: Complete Video Compilation
+175.  1  Strata + Hadoop World 2016 - Beijing
+176.  1  The Best Job in the World: How to Make a Living From Following Your Dreams
+177.  1  Strata Rx Conference San Francisco 2012: Video Compilation
+178.  1  Strata Conference New York 2011: Video Compilation
+179.  1  Best of TOC 2012
+180.  1  The Ageing World
+181.  1  Data Quality Fundamentals
+182.  1  The Cloud Data Lake
+183.  1  Cleaning Data for Effective Data Science
+184.  1  Behavioral Data Analysis with R and Python
+185.  1  What Is a Data Lake?
+186.  1  Data Engineering Foundations LiveLessons Part 1: Using Spark, Hive, and Hadoop Scalable Tools
+187.  1  Data Lakes For Dummies
+188.  1  Data science and Data preparation with KNIME
+189.  1  Learn Python by Building Data Science Applications
+190.  1  Microsoft Azure Data Lake Storage Service (Gen1 and Gen2)
+191.  1  The Modern Data Warehouse in Azure: Building with Speed and Agility on Microsoft’s Cloud Platform
+192.  1  ML Ops: Operationalizing Data Science
+193.  1  Hands-On Big Data Modeling
+194.  1  Responsible Data Science
+195.  1  Essentials of Data Science and Analytics
+196.  1  Unstructured Data Analytics
+197.  1  Principles of Data Wrangling
+198.  1  What Is Data Governance? Understanding the Business Impact
+199.  1  Interactive Data Visualization with Python - Second Edition
+200.  1  Data Science for Business and Decision Making
+201.  1  Smarter Data Science
+202.  1  The Evolving Role of the Data Engineer
+203.  1  Data Lake Maturity Model
+204.  1  Data Wrangling with Python
+205.  1  Julia Quick Syntax Reference: A Pocket Guide for Data Science Programming
+206.  1  ODSC Europe 2018 (Open Data Science Conference)
+207.  1  Creating a Data-Driven Enterprise with DataOps
+208.  1  The Data Wrangling Workshop - Second Edition
+209.  1  Data Science with Python
+210.  1  Data Statistics with Full Stack Python
+211.  1  Data Wrangling with JavaScript
+212.  1  Building a Unified Data Infrastructure
+213.  1  Hands-On Data Science with the Command Line
+214.  1  Agile Data Warehousing for the Enterprise
+215.  1  Sports Analytics and Data Science: Winning the Game with Methods and Models
+216.  1  Big Data, Open Data and Data Development
+217.  1  Hands-On Data Science and Python Machine Learning
+218.  1  Exam Ref 70-767 Implementing a SQL Data Warehouse
+219.  1  Big Data Demystified
+220.  1  Practical Data Wrangling
+221.  1  Data Governance
+222.  1  Designing Fast Data Application Architectures
+223.  1  Data science isn't just another job (sponsored by Anaconda)
+224.  1  Mastering Large Datasets with Python
+225.  1  Architecting Data Lakes
+226.  1  Mastering Spark for Data Science
+227.  1  Applied Data Science with Python and Jupyter
+228.  1  Data Visualization Toolkit: Using JavaScript, Rails™, and Postgres to Present Data and Geospatial Information
+229.  1  Vertically Integrated Architectures: Versioned Data Models, Implicit Services, and Persistence-Aware Programming
+230.  1  Data Warehousing in the Age of Artificial Intelligence
+231.  1  Mastering Python for Data Science
+232.  1  Scala: Guide for Data Science Professionals
+233.  1  Winning with Data
+234.  1  Python Data Science Essentials
+235.  1  Big Data
+236.  1  Data Science For Dummies
+237.  1  Experimentation Works
+238.  1  The Data Industry
+239.  1  Python Data Science Essentials - Second Edition
+240.  1  Learning to Love Data Science
+241.  1  The Visual Organization: Data Visualization, Big Data, and the Quest for Better Decisions
+242.  1  Introduction to Prescriptive Modeling for Data Science
+243.  1  Predictive Analytics for Healthcare
+244.  1  Data Mining Models
+245.  1  Analysis Patterns: Reusable Object Models
+246.  1  Agile Data Warehousing Project Management
+247.  1  Data Visualization with JavaScript
+248.  1  Data Model Patterns: A Metadata Map
+249.  0  Strata Data Superstream Series: Creating Data-Intensive Applications
+250.  0  Strata Data Conference 2019 - London, United Kingdom
+251.  0  Hands-On Microsoft Lists
+252.  0  Data Stewardship for Open Science
+253.  0  Highlights from the Keynotes at Strata Conference, New York 2019
+254.  0  Executive Briefing: Usable machine learning—Lessons from Stanford and beyond (2019 Strata Conference, New York)
+255.  0  Model-Based Processing
+256.  0  Too Big to Ignore
+257.  0  Data and Government
+258.  0  Strata + Hadoop World 2016 - London, United Kingdom: Video Compilation
+259.  0  The Social Life of Information
+260.  0  2013 Data Science Salary Survey
+261.  0  Transliteracy in Complex Information Environments
+262.  0  Shadow Algorithms Data Miner
+263.  0  The Reunited States of America
+264.  0  Solid Conference San Francisco 2014: Complete Video Compilation
+265.  0  Unleashing Twitter Data for Fun and Insight
+266.  0  New Perspectives on the Energy Business: Challenges and Opportunities from America's Changing Role
+267.  0  Creating and Maintaining an Information Literacy Instruction Program in the Twenty-First Century
+268.  0  Projective Identification
+269.  0  Information Literacy and Lifelong Learning
+270.  0  Word Recognition in Beginning Literacy
+271.  0  Information Services and Digital Literacy
+272.  0  Ways of Experiencing Information Literacy
+273.  0  Information Literacy in the Digital Age
+274.  0  Information Literacy
+275.  0  The Tanning of America
+276.  0  Information Literacy Instruction
+277.  0  Information Literacy Landscapes
+278.  0  Library and Information Science
+279.  0  Mid-Career Library and Information Professionals
+280.  0  Cryptologic Aspects of German Intelligence Activities in South America during World War II
+281.  0  News Search, Blogs and Feeds
+282.  0  Scholarly Communication in Library and Information Services
+283.  0  Pursuing Information Literacy
+284.  0  IT Regulatory Compliance in North America
+285.  0  Intelligent Production Machines and Systems - First I*PROMS Virtual Conference
+286.  0  The World Café
+287.  0  Gangs of America
+288.  0  America As Empire
+289.  0  Python Data Science Handbook, 2nd Edition
+290.  0  Data Modeling for Azure Data Services
+291.  0  Data Superstream: Data Lakes and Warehouses
+292.  0  Data Visualization with Python and JavaScript, 2nd Edition
+293.  0  Data Lakehouse in Action
+294.  0  Learning Data Science
+295.  0  Practical Data Science with Python
+296.  0  Data Science Bookcamp
+297.  0  How to Lead in Data Science
+298.  0  Data Science for Marketing Analytics
+299.  0  Data Science for Business
+300.  0  Azure SQL Data Warehouse Synapse Analytics Service
+301.  0  Getting Started with Streamlit for Data Science
+302.  0  Leading Data Science Teams
+303.  0  Data Science at the Command Line, 2nd Edition
+304.  0  Hands-On Data Visualization
+305.  0  Architecting Data-Intensive SaaS Applications
+306.  0  Foundational Python for Data Science
+307.  0  What Is Data Observability?
+308.  0  Designing Big Data Platforms
+309.  0  Hands-On Data Preprocessing in Python
+310.  0  Data Modeling with SAP BW/4HANA 2.0: Implementing Agile Data Models Using Modern Modeling Concepts
+311.  0  Becoming a Data Head
+312.  0  BigQuery for Data Warehousing: Managed Data Analysis in the Google Cloud
+313.  0  Data Science Revealed: With Feature Engineering, Data Visualization, Pipeline Development, and Hyperparameter Tuning
+314.  0  Data Center Handbook, 2nd Edition
+315.  0  Data Science For Dummies, 3rd Edition
+316.  0  Data Science 101: Methodology, Python, and Essential Math
+317.  0  Automating the Modern Data Warehouse
+318.  0  Managing Data Science
+319.  0  Logging in Action
+320.  0  Data Science Bookcamp, video edition
+321.  0  Econometrics and Data Science: Apply Data Science Techniques to Model Complex Problems and Implement Solutions for Economic Problems
+322.  0  Strata Data Superstream: Data Science Fundamentals
+323.  0  Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data
+324.  0  Data Lakes
+325.  0  Reproducible Data Science with Pachyderm
+326.  0  KNIME for Data Science and Data Cleaning
+327.  0  ODSC East 2019 (Open Data Science Conference)
+328.  0  Learn Grafana 7.0
+329.  0  Quick Start Guide to Azure Data Factory, Azure Data Lake Server, and Azure Data Warehouse
+330.  0  Modern Big Data Architectures
+331.  0  What Indeed’s Job Market Data can tell us about Demographics and Trends in Data Science
+332.  0  Data Science Bookcamp
+333.  0  Case Study: How California State University used DataOps Principles to Build Data Pipelines for Rapid Deployment and Scalability
+334.  0  Practical Data Science with R, Second Edition
+335.  0  Data Science, 2nd Edition
+336.  0  Scaling Python with Ray
+337.  0  ODSC West 2018 (Open Data Science Conference)
+338.  0  Optimizing Databricks Workloads
+339.  0  Data Science Strategy For Dummies
+340.  0  Scaling Python with Dask
+341.  0  Utilizing Data and Data Science to Optimize Tune In
+342.  0  Data Science for Infrastructure
+343.  0  Practical Data Science with Python 3: Synthesizing Actionable Insights from Data
+344.  0  Statistical Data Cleaning with Applications in R
+345.  0  The Data Detective's Toolkit
+346.  0  Python for Data Science For Dummies, 2nd Edition
+347.  0  Data Analysis and Visualization Using Python: Analyze Data to Create Visualizations for BI Systems
+348.  0  Database Design Best Practices: Building Scalable Data Solutions to Withstand the Test of Time
+349.  0  Keys to Leading Highly Effective Data Science Teams
+350.  0  Meet the Expert: Jennifer Yang on Applying Machine Learning Techniques for Data Quality Management
+351.  0  The Informed Company
+352.  0  Projects in Data Science
+353.  0  Data Science Programming All-in-One For Dummies
+354.  0  What is Google Colab Notebooks and How do you share them for Data Science projects?
+355.  0  Writing and Running Azure Data Lake Analytics Jobs
+356.  0  Big Data, Little Data, No Data
+357.  0  10 Questions before you set up your Data Science Team
+358.  0  Practical Data Science: A Guide to Building the Technology Stack for Turning Data Lakes into Business Assets
+359.  0  The Open Data Science Platform
+360.  0  A Product Development Approach to Improving Data Quality
+361.  0  Leveraging Entity Resolution to Identify Customers in 3rd Party Data
+362.  0  Improving the Worlds Largest Online Grocery Catalog: A Data Science Story
+363.  0  Data Science Fundamentals Part 2: Machine Learning and Statistical Analysis
+364.  0  Why So Many Data Science Projects Fail to Deliver
+365.  0  Business Analytics and Data Science on Day 1
+366.  0  What’s Holding Your Data Program Back?
+367.  0  Build a Career in Data Science video edition
+368.  0  Hands-On Data Science with Anaconda
+369.  0  Data Warehousing with Greenplum, 2nd Edition
+370.  0  The Applied Data Science Workshop - Second Edition
+371.  0  Data science without seeing the data: Advanced encryption to the rescue
+372.  0  The Decision Maker's Handbook to Data Science: A Guide for Non-Technical Executives, Managers, and Founders
+373.  0  Scaling Data Services with Pivotal GemFire
+374.  0  Data Science For Dummies
+375.  0  Executive Briefing: Data catalogs—Concepts, capabilities, and key platforms
+376.  0  End-to-End Data Science with SAS
+377.  0  Creating a Data-Driven Enterprise in Media
+378.  0  Cloud Based Based Business Analytics: For MBA, MSBA and Data Science Practitioners
+379.  0  Data Science Using Python and R
+380.  0  Principles of Strategic Data Science
+381.  0  Mastering SAS Programming for Data Warehousing
+382.  0  Data Science That Works, Building Impactful Products for Media Clients
+383.  0  Ransomware Protection Playbook
+384.  0  Usage-Driven Database Design: From Logical Data Modeling through Physical Schema Definition
+385.  0  Beginning Data Science with Python and Jupyter
+386.  0  A Data Scientist's Guide to Acquiring, Cleaning, and Managing Data in R
+387.  0  The Tabloid Proteome: Orthogonal use of public proteomics data to derive biologically related protein network
+388.  0  Advances in Data Science
+389.  0  How John Deere is applying Agile principles to data science
+390.  0  Managing Your Data Science Projects: Learn Salesmanship, Presentation, and Maintenance of Completed Models
+391.  0  Creating an extensible 100+ PB real-time big data platform by unifying storage and serving
+392.  0  Leveraging data science in asset management
+393.  0  Managing and Recovering Microsoft 365 Data
+394.  0  Learn RStudio IDE: Quick, Effective, and Productive Data Science
+395.  0  Quality Planning and Assurance
+396.  0  Spotlight on Data: How DoorDash Solved the Global Optimality Problem with Gary Ren
+397.  0  Data Science
+398.  0  Get Your Venture Backed with Persuasive Data Viz
+399.  0  Alteryx Masterclass - Let's Get Started
+400.  0  Getting Started with IBM Hyper Protect Data Controller
+401.  0  Beginning Data Science, IoT, and AI on Single Board Computers: Core Skills and Real-World Application with the BBC micro:bit and XinaBox
+402.  0  Unstructured Data Analysis
+403.  0  Practical Data Science Cookbook - Second Edition
+404.  0  Fast and lean data science with TPUs
+405.  0  Becoming a Data-Driven Business
+406.  0  Big Data Analytics
+407.  0  Mastering Java for Data Science
+408.  0  Microsoft Information Protection Administrator SC-400 Certification Guide
+409.  0  Breaking Data Science Open
+410.  0  Data Science Fundamentals for Python and MongoDB
+411.  0  Understanding Log Analytics at Scale, 2nd Edition
+412.  0  Big Data, Big Analytics
+413.  0  Big Data in Practice
+414.  0  Methods and Applications of Longitudinal Data Analysis
+415.  0  Data Mining Models, Second Edition
+416.  0  How Navistar is using predictive analytics to analyze data
+417.  0  The holy grail of data science: Rapid model development and deployment (sponsored by Zepl)
+418.  0  Java: Data Science Made Easy
+419.  0  Hulu and Hang: Understanding Viewer Sessions with Big Data
+420.  0  Monetizing Your Data
+421.  0  Data Preparation in the Big Data Era
+422.  0  New Frontiers in ML driven Customer Intelligence
+423.  0  Transforming Industry Through Data Analytics
+424.  0  Data as a Feature
+425.  0  Data and Democracy
+426.  0  The Data Driven Leader
+427.  0  Spotlight on Learning from Failure: Creating Better Data Pipelines with Natalino Busa
+428.  0  Learning Node Embeddings in Transaction Networks
+429.  0  Data Just Right: Introduction to Large-Scale Data & Analytics
+430.  0  Data Warehousing with Greenplum
+431.  0  Content Similarity
+432.  0  Big Data
+433.  0  Strategies in Biomedical Data Science
+434.  0  Hands-On Markov Models with Python
+435.  0  What's Your Data Worth?
+436.  0  Databases Illuminated, 3rd Edition
+437.  0  Big Data
+438.  0  Julia for Data Science
+439.  0  On the Road to More Holistic Player Understanding
+440.  0  Gathering customer data
+441.  0  From Big Data to Smart Data
+442.  0  Energy-Efficient Computing and Data Centers
+443.  0  Getting Data Right
+444.  0  Going Pro in Data Science
+445.  0  Data Structure and Software Engineering
+446.  0  The Subtle Sources of Sampling Bias Hiding in Your Data
+447.  0  Literate Statistical Programming is not Just About Reproducibility
+448.  0  Small Wars, Big Data
+449.  0  Obtaining Value from Big Data for Service Systems, Volume I, 2nd Edition
+450.  0  Java for Data Science
+451.  0  Fighting Churn Churn Analysis: Feature engineering
+452.  0  Big Data at Work
+453.  0  Big Data MBA
+454.  0  Inclusion, Inc.
+455.  0  Scala for Data Science
+456.  0  Introduction to GPUs for Data Analytics
+457.  0  Data Science in R
+458.  0  Big Data
+459.  0  How Pirelli built a data science team from scratch
+460.  0  Animated Storytelling, 2nd Edition
+461.  0  How to Monetize Your Data
+462.  0  Theoretical Foundations of Functional Data Analysis, with an Introduction to Linear Operators
+463.  0  Data Visualization For Dummies
+464.  0  Legal Landscape for Big Data
+465.  0  Big Data Now: 2015 Edition
+466.  0  Data Architecture
+467.  0  Data Governance
+468.  0  Joint Models for Longitudinal and Time-to-Event Data
+469.  0  Microsoft System Center Data Protection Manager Cookbook
+470.  0  Measurement Data Modeling and Parameter Estimation
+471.  0  Big Data
+472.  0  Databases for Small Business: Essentials of Database Management, Data Analysis,and Staff Training for Entrepreneurs and Professionals
+473.  0  Linked Data
+474.  0  Designing and Developing Analytics-Based Data Products
+475.  0  Causal inference 101: Answering the crucial “why” in your analysis
+476.  0  How to design with data
+477.  0  Handbook of Big Data
+478.  0  Big Data Is Better Data
+479.  0  Understanding Log Analytics at Scale
+480.  0  The Big Data Market
+481.  0  How Can I Clean My Data for Use in a Predictive Model?
+482.  0  Sustainable Quality
+483.  0  Practical Data Migration
+484.  0  Julia 1.0 Programming
+485.  0  Building a Data Science Culture
+486.  0  Networking for Big Data
+487.  0  How Charts Lie
+488.  0  Big Data Analytics
+489.  0  How Today's Data Technologies Change Business
+490.  0  Fundamentals of Big Data Network Analysis for Research and Industry
+491.  0  Big Data and Health Analytics
+492.  0  Mapping Big Data
+493.  0  Data Center Storage
+494.  0  Building Secure Firmware: Armoring the Foundation of the Platform
+495.  0  An Executive’s Guide to Software Quality in an Agile Organization: A Continuous Improvement Journey
+496.  0  Managing the Data Lake
+497.  0  Big Data For Small Business For Dummies
+498.  0  Ten Signs of Data Science Maturity
+499.  0  Building VMware Software-Defined Data Centers
+500.  0  Why Big Data Isn't Enough

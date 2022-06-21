@@ -1,0 +1,302 @@
+INPUT: documentation
+TOTAL BOOKS: 300
+1.  91  Java 8 Fundamentals: Modern Java Development with Lambdas, Streams, and Introducing Java 9’s JShell and the Java Platform Module System (JPMS)
+2.  78  Learning Python, 5th Edition
+3.  27  AWS Certified Cloud Practitioner Complete Video Course
+4.  27  Master Microservices with Spring Boot and Spring Cloud
+5.  27  Gradle Fundamentals
+6.  27  Scala Cookbook
+7.  25  Practical Vim, 2nd Edition
+8.  24  Software Engineering at Google
+9.  24  Exam AZ-900: Microsoft Azure Fundamentals (Video), 2nd Edition
+10.  18  Master Java Web Services and REST API with Spring Boot
+11.  17  Hands-On Microservices with Spring Boot and Spring Cloud
+12.  17  The Complete Project Management Fundamentals Course
+13.  13  API Testing with Postman
+14.  13  Production-Ready Microservices
+15.  13  Learning Path: Professional Java Developer
+16.  13  Puppet for Absolute Beginners - Hands-on
+17.  11  CMake Cookbook
+18.  11  Learning Rust
+19.  11  Learning Node.js Development
+20.  10  Red Hat Certified Engineer (RHCE) EX294: Red Hat Ansible Automation
+21.  10  AWS Solutions Architect Associate (SAA-C02) Exam Prep Course - 2021 UPDATED!
+22.  10  OCA Java SE 8 Programmer I (1Z0-808)
+23.  10  Progressive Web Apps (PWA) - The Complete Guide
+24.  10  REST API Automation With REST Assured - Novice to Ninja
+25.  10  OSCON 2017 - Austin, Texas
+26.  10  Learn to Code with Ruby
+27.  9  97 Things Every Data Engineer Should Know
+28.  9  Python Network Programming for Network Engineers (Python 3)
+29.  9  Database Design for Mere Mortals®: A Hands-on Guide to Relational Database Design, Third Edition
+30.  9  BDD in Action: Behavior-Driven Development for the whole software lifecycle
+31.  9  Spring 5.0 Microservices - Second Edition
+32.  9  Head First Ruby
+33.  9  CCNP Routing and Switching: ROUTE 300-101, SWITCH 300-115, and TSHOOT 300-135
+34.  9  Learning Path: Oracle Certified Associate, Java SE 8 Programmer
+35.  8  Complete Java SE 8 Developer Bootcamp
+36.  8  iOS 13 Programming Fundamentals with Swift
+37.  7  React Native - The Practical Guide
+38.  7  Introducing Maven: A Build Tool for Today's Java Developers
+39.  7  The Complete Agile Scrum Fundamentals Course + Certification
+40.  7  The Quick Python Book, Third Edition
+41.  7  Embedded Systems Architecture
+42.  7  Mastering Spring Boot 2.0
+43.  7  Android Programming: The Big Nerd Ranch Guide, Third Edition
+44.  7  Scrum Fundamentals and Advanced
+45.  6  Communicating Design: Developing Web Site Documentation for Design and Planning, Second Edition
+46.  6  PMP Certification Complete Video Course and Practice Test
+47.  6  97 Things Every Java Programmer Should Know
+48.  6  Java in a Nutshell, 7th Edition
+49.  6  Android Programming: The Big Nerd Ranch Guide, 4th Edition
+50.  6  Core Java 11 Fundamentals, Second Edition
+51.  6  Learning OpenCV 4 Computer Vision with Python 3
+52.  6  Programming Elixir ≥ 1.6
+53.  6  API Management: An Architect's Guide to Developing and Managing APIs for Your Organization
+54.  6  Microservice Patterns and Best Practices
+55.  6  Effective Computation in Physics
+56.  5  Cisco Certified DevNet Associate DEVASC 200-901
+57.  5  Software Architect's Handbook
+58.  5  Serious Python
+59.  5  Expert Python Programming - Third Edition
+60.  5  Mastering PostgreSQL 12
+61.  5  Writing Great Specifications
+62.  5  Cloud Native Development Patterns and Best Practices
+63.  5  Building Enterprise JavaScript Applications
+64.  5  Enterprise Application Architecture with .NET Core
+65.  5  Security with Go
+66.  5  Learning Path: Scrum Practitioner
+67.  5  Frontend Architecture for Design Systems
+68.  5  Oracle DBA Mentor: Succeeding as an Oracle Database Administrator
+69.  5  Mastering Selenium WebDriver 3.0
+70.  5  Hands-On Infrastructure Automation with Ansible
+71.  5  Python: Journey from Novice to Expert
+72.  4  Java: The Complete Reference, Twelfth Edition, 12th Edition
+73.  4  Players Making Decisions, 2nd Edition
+74.  4  Database Design for Mere Mortals: 25th Anniversary Edition, 4th Edition
+75.  4  The Complete Quantum Computing Course for Beginners
+76.  4  Java: The Complete Reference, Eleventh Edition, 11th Edition
+77.  4  Practical Ansible 2
+78.  4  CompTIA Network+ N10-007
+79.  4  iOS 14 Programming Fundamentals with Swift
+80.  4  Behavior-Driven Development with Cucumber: Better Collaboration for Better Software
+81.  4  AWS Essentials and Solutions Architect Associate: The Total Course
+82.  4  Learning PostgreSQL 11
+83.  4  Practice of System and Network Administration, The: DevOps and other Best Practices for Enterprise IT, Volume 1
+84.  4  Google Cloud Platform for Developers
+85.  4  Mastering Spring Cloud
+86.  4  Kubernetes for Developers
+87.  4  Even You Can Learn Statistics and Analytics: An Easy to Understand Guide to Statistics and Analytics, Third Edition
+88.  4  CompTIA Advanced Security Practitioner (CASP) CAS-003
+89.  4  Java Projects - Second Edition
+90.  4  Core Java
+91.  4  Chef for Absolute Beginners - DevOps
+92.  4  TypeScript Microservices
+93.  4  Mastering Elixir
+94.  4  Groovy in Action, Second Edition
+95.  3  XML Schema
+96.  3  CompTIA Network+ N10-008
+97.  3  Digital Forensics and Incident Response - Second Edition
+98.  3  Java How to Program, Early Objects, 11th Edition
+99.  3  AWS Certified SysOps Administrator - Associate (SOA-C02)
+100.  3  iOS Programming: The Big Nerd Ranch Guide, 7th Edition
+101.  3  AWS Certified Developer (Associate)
+102.  3  Modern C
+103.  3  Python for Finance: Investment Fundamentals and Data Analytics
+104.  3  Seeking SRE
+105.  3  Information Architecture, 4th Edition
+106.  3  Godot Engine Game Development Projects
+107.  3  Advanced REST APIs with Flask and Python
+108.  3  Test-Driven Java Development - Second Edition
+109.  3  Players Making Decisions: Game Design Essentials and the Art of Understanding Your Players
+110.  3  Hands-On Embedded Programming with C++17
+111.  3  Building Google Cloud Platform Solutions
+112.  3  Healthcare Analytics Made Simple
+113.  3  Hands-On Continuous Integration and Delivery
+114.  3  Gradle Effective Implementations Guide - Second Edition
+115.  3  Mastering AWS Security
+116.  3  The Modern C++ Challenge
+117.  3  C# and .NET Core Test Driven Development
+118.  2  Living Documentation: Continuous Knowledge Sharing by Design, First Edition
+119.  2  Modular Web Design: Creating Reusable Components for User Experience Design and Documentation
+120.  2  Information Development: Managing Your Documentation Projects, Portfolio, and People
+121.  2  iOS 15 Programming Fundamentals with Swift
+122.  2  SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+123.  2  Node.js API Masterclass with Express and MongoDB
+124.  2  Mastering Swift 5.3 - Sixth Edition
+125.  2  The Art of Network Penetration Testing
+126.  2  CompTIA Network+ Certification N10-007: The Total Course
+127.  2  Mastering JavaScript Functional Programming - Second Edition
+128.  2  UX Fundamentals for Non-UX Professionals: User Experience Principles for Managers, Writers, Designers, and Developers
+129.  2  Advanced C++ Programming Cookbook
+130.  2  Clean Code in JavaScript
+131.  2  Mastering Object-Oriented Python - Second Edition
+132.  2  Fixing Bad UX Designs
+133.  2  Mastering Rust - Second Edition
+134.  2  Mastering Python Scripting for System Administrators
+135.  2  Hands-On Design Patterns with Swift
+136.  2  Salesforce Lightning Platform Enterprise Architecture - Third Edition
+137.  2  Games, Design and Play: A Detailed Approach to Iterative Game Design
+138.  2  Getting Started with Spring Boot 2
+139.  2  Essential Machine Learning and AI with Python and Jupyter Notebook
+140.  2  Learning Path: Oracle Databases
+141.  2  Flutter for Beginners
+142.  2  The Complete Apache Groovy Developer Course
+143.  2  Unity Game Optimization - Third Edition
+144.  2  The Scrum Field Guide: Agile Advice for Your First Year and Beyond, Second Edition
+145.  2  Rust Programming By Example
+146.  2  Introducing Elixir, 2nd Edition
+147.  2  Hands-On UX Design for Developers
+148.  2  Java EE 8 and Angular
+149.  2  Industrial Internet Application Development
+150.  2  MTA Introduction to Programming Using Java (98-388)
+151.  2  D3.js Quick Start Guide
+152.  2  Rust High Performance
+153.  2  Mastering JavaFX 10
+154.  2  Learn PowerShell Core 6.0
+155.  2  Java EE 8 Microservices
+156.  1  SAS Data Integration Studio 4.9
+157.  1  97 Things Every Information Security Professional Should Know
+158.  1  Beginning Ruby 3: From Beginner to Pro
+159.  1  97 Things Every Cloud Engineer Should Know
+160.  1  CompTIA A+ Core 1 (220-1001) and Core 2 (220-1002) Exam Cram
+161.  1  Core Java Data Types: The Java SE 11 Developer (1Z0-819) Certification Series
+162.  1  Introduction to Windows Server 2016 for Beginners
+163.  1  Learn Python by Building Data Science Applications
+164.  1  Crafting Test-Driven Software with Python
+165.  1  OSCON 2019 - Portland, Oregon
+166.  1  Cybersecurity Leadership Demystified
+167.  1  CompTIA Server+ Certification Guide
+168.  1  Becoming an Agile Software Architect
+169.  1  GDPR For Dummies
+170.  1  Rust Programming Cookbook
+171.  1  Hands-On Application Development with PyCharm
+172.  1  Learn Python by Building a Blockchain and Cryptocurrency
+173.  1  Julia Programming Projects
+174.  1  Digital Forensics and Incident Response
+175.  1  The IT Support Handbook: A How-To Guide to Providing Effective Help and Support to IT Users
+176.  1  Building Applications with Spring 5 and Vue.js 2
+177.  1  Flutter in Motion
+178.  1  Mastering Microsoft Dynamics 365 Business Central
+179.  1  ROS Programming: Building Powerful Robots
+180.  1  Kali Linux 2018: Assuring Security by Penetration Testing - Fourth Edition
+181.  1  Defensive Security Handbook
+182.  1  The Complete Rust Programming Reference Guide
+183.  1  Microsoft Power BI Cookbook
+184.  1  Python Microservices Development
+185.  1  WordPress 5 Complete - Seventh Edition
+186.  1  Pro D3.js: Use D3.js to Create Maintainable, Modular, and Testable Charts
+187.  1  Mastering MongoDB 4.x - Second Edition
+188.  1  Practical Game Design
+189.  1  FreeSWITCH 1.8
+190.  1  NetSuite ERP for Administrators
+191.  1  CentOS Quick Start Guide
+192.  1  Learning ServiceNow
+193.  1  ServiceNow: Building Powerful Workflows
+194.  1  R Programming Fundamentals
+195.  1  Spring 5.0 Projects
+196.  1  Learning Path: SQL for Business Users
+197.  1  Refactoring Legacy T-SQL for Improved Performance: Modern Practices for SQL Server Applications
+198.  1  Advanced Node.js Development
+199.  1  Ethereum Cookbook
+200.  1  The DevOps 2.4 Toolkit
+201.  1  Pro Python 3: Features and Tools for Professional Development
+202.  1  Manage Your SAP Projects with SAP Activate
+203.  1  Learning Neo4j 3.x - Second Edition
+204.  1  Implementing Microsoft Dynamics 365 for Finance and Operations
+205.  1  Mastering ArcGIS Enterprise Administration
+206.  1  Secret Recipes of the Python Ninja
+207.  1  VMware vSphere 6.7 Data Center Design Cookbook - Third Edition
+208.  1  Machine Learning with Swift
+209.  0  Hands-On .NET Web API Documentation with Swagger/OpenAPI
+210.  0  Technical Documentation and Process
+211.  0  Engineering Documentation Control / Configuration Management Standards Manual
+212.  0  Internal Control Audit and Compliance: Documentation and Testing Under the New COSO Framework
+213.  0  Export/Import Procedures and Documentation, 5th Edition
+214.  0  Mastering Securities Lending Documentation
+215.  0  Private Equity Operational Due Diligence: Tools to Evaluate Liquidity, Valuation, and Documentation
+216.  0  SAS 9.4 Macro Language, 2nd Edition
+217.  0  SAS 9.4 Graph Template Language, 3rd Edition
+218.  0  Export/Import Procedures and Documentation, 4th Edition
+219.  0  SAS 9.4 ODS Graphics, 2nd Edition
+220.  0  Base SAS 9.4 Procedures Guide, Second Edition
+221.  0  Managing the Documentation Maze: Answers to Questions You Didn't Even Know to Ask
+222.  0  SAS 9.4 Output Delivery System, 2nd Edition
+223.  0  Communicating Design: Developing Web Site Documentation for Design and Planning
+224.  0  Shari'ah Non-compliance Risk Management and Legal Documentations in Islamic Finance
+225.  0  Product Management in Practice, 2nd Edition
+226.  0  Windows® SharePoint® Services 3.0 Inside Out
+227.  0  Transforming Research Libraries for the Global Knowledge Society
+228.  0  Modern CMake for C++
+229.  0  Powerful Command-Line Applications in Go
+230.  0  Software Engineering at Google
+231.  0  Ansible: From Basics to Guru
+232.  0  Java: A Beginner's Guide, Ninth Edition, 9th Edition
+233.  0  Swift Programming: The Big Nerd Ranch Guide, 3rd Edition
+234.  0  Docs for Developers: An Engineer’s Field Guide to Technical Writing
+235.  0  CompTIA A+ Core 1 (220-1101) and Core 2 (220-1102) Exam Cram
+236.  0  Python Microservices Development - Second Edition
+237.  0  Defensive Security Handbook, 2nd Edition
+238.  0  Design and Build Great Web APIs
+239.  0  CompTIA A+ Complete Study Guide, 5th Edition
+240.  0  Introduction to User Experience Design
+241.  0  Managing Successful Programmes
+242.  0  CompTIA Network+ Certification (N10-008): The Total Course
+243.  0  CompTIA A+ Core 2 (220-1002)
+244.  0  Mastering Go - Second Edition
+245.  0  Build Your Own IoT Platform: Develop a Flexible and Scalable Internet of Things Platform
+246.  0  50 Hours of Big Data, PySpark, AWS, Scala, and Scraping
+247.  0  Pythonic Programming
+248.  0  Mastering VMware vSphere 6.7 - Second Edition
+249.  0  Pro Microsoft Power BI Administration: Creating a Consistent, Compliant, and Secure Corporate Platform for Business Intelligence
+250.  0  Data Scraping and Data Mining from Beginner to Pro with Python
+251.  0  The Official Guide to Mermaid.js
+252.  0  Linux Administration Best Practices
+253.  0  Linux Troubleshooting Course with Real Life Examples
+254.  0  Implementing Microsoft Dynamics 365 for Finance and Operations Apps - Second Edition
+255.  0  The Handbook of Financial Modeling: A Practical Approach to Creating and Implementing Valuation Projection Models
+256.  0  CompTIA Project+ Cert Guide: Exam PK0-004
+257.  0  Patterns in the Machine: A Software Engineering Guide to Embedded Development
+258.  0  Exploring C++20: The Programmer's Introduction to C++
+259.  0  Language Server Protocol and Implementation: Supporting Language-Smart Editing and Programming Tools
+260.  0  Create Your Own VirtualBox Windows Server Lab from Scratch!
+261.  0  Practical Data Science with R, Second Edition
+262.  0  Implementing Microsoft Dynamics 365 Customer Engagement
+263.  0  Agile Project Management, Assurance and Auditing - A practical guide for auditors, reviewers and project teams
+264.  0  Operator Training Simulator Handbook
+265.  0  Collateral Management
+266.  0  Operations Management: Processes and Supply Chains, 12th Edition
+267.  0  CTS-I Certified Technology Specialist-Installation Exam Guide, Second Edition, 2nd Edition
+268.  0  Learn Odoo
+269.  0  Hands-On Serverless Applications with Go
+270.  0  Practical Internet of Things Security - Second Edition
+271.  0  Private Capital Investing
+272.  0  Java How To Program, Late Objects, 11th Edition
+273.  0  Integrating Db2 for z/OS Database Changes Into a CI/CD Pipeline
+274.  0  Build Your Own IoT Platform: Develop a Fully Flexible and Scalable Internet of Things Platform in 24 Hours
+275.  0  CompTIA Network+ Certification Guide
+276.  0  Project Finance
+277.  0  Jakarta EE Cookbook - Second Edition
+278.  0  International Auditing Standards in the United States, 2nd Edition
+279.  0  GraphQL and Apollo with Android: From Novice to Expert
+280.  0  Implementing Qlik Sense
+281.  0  Learn Programming in Python with Cody Jackson
+282.  0  Hyperdocumentation
+283.  0  The BIID Interior Design Job Book
+284.  0  Mastering Geospatial Development with QGIS 3.x - Third Edition
+285.  0  Digital Forensics with Kali Linux
+286.  0  Hands-On Cloud-Native Microservices with Jakarta EE
+287.  0  Decoupled Drupal in Practice: Architect and Implement Decoupled Drupal Architectures Across the Stack
+288.  0  System Forensics, Investigation, and Response, 3rd Edition
+289.  0  Mastering Puppet 5
+290.  0  Mastering Autodesk Revit 2020
+291.  0  Environmental Considerations Associated with Hydraulic Fracturing Operations
+292.  0  Java: An Introduction to Problem Solving and Programming, 8th Edition
+293.  0  GNS3 Fundamentals (Official Course) Part 1
+294.  0  Metasploit Penetration Testing Cookbook - Third Edition
+295.  0  Practical Java Programming for IoT, AI, and Blockchain
+296.  0  Cloud-Native Application Development with Java EE
+297.  0  A Beginner's Guide to Backend Development
+298.  0  Web Development with MongoDB and Node - Third Edition
+299.  0  Hands-On Server-Side Web Development with Swift
+300.  0  Food and Drink - Good Manufacturing Practice, 7th Edition

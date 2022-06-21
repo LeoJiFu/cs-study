@@ -1,0 +1,502 @@
+INPUT: linux
+TOTAL BOOKS: 500
+1.  65  Linux Under the Hood
+2.  54  The Linux Programming Interface
+3.  37  Linux Fundamentals
+4.  34  Red Hat Certified System Administrator (RHCSA) Complete Video Course
+5.  33  Python for Beginners: Learn Python Programming (Python 3)
+6.  29  Linux Kernel Development, Third Edition
+7.  27  How Linux Works, 2nd Edition
+8.  25  Red Hat Certified System Administrator (RHCSA), 3/e
+9.  24  The Linux Command Line
+10.  23  Linux System Programming, 2nd Edition
+11.  23  Red Hat Certified System Administrator (RHCSA) with Virtual Machines, Second Edition
+12.  20  The Linux Command Line, 2nd Edition
+13.  16  OpenShift for the Absolute Beginner - Hands-On
+14.  16  Beginning Linux System Administration
+15.  15  Linux Command Line
+16.  15  Learning Ubuntu Linux
+17.  12  Linux Foundation Certified System Administrator (LFCS)
+18.  12  Linux in a Nutshell, 6th Edition
+19.  12  Red Hat RHCSA 8 Cert Guide: EX200
+20.  12  RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300), 6th Edition, 6th Edition
+21.  11  BPF Performance Tools
+22.  11  Red Hat RHCE 8 (EX294) Cert Guide
+23.  11  UNIX and Linux System Administration Handbook, 5th Edition
+24.  11  Linux Security: Red Hat Certificate of Expertise in Server Hardening (EX413) and LPIC-3 303 (Security) Exams
+25.  10  Understanding the Linux Kernel, 3rd Edition
+26.  10  Linux Pocket Guide
+27.  10  Red Hat Certified Engineer (RHCE) EX294: Red Hat Ansible Automation
+28.  10  Mastering Linux Security and Hardening - Second Edition
+29.  10  Red Hat OpenShift Fundamentals, 3/e
+30.  10  LPI Linux Certification in a Nutshell, 3rd Edition
+31.  10  Red Hat Certified Engineer (RHCE) Complete Video Course with Virtual Machines, 2/e
+32.  10  Learning Chef for Linux and macOS
+33.  10  Hands-on Guide to the Red Hat Exams: RHSCA and RHCE Cert Guide and Lab Manual
+34.  9  Linux Device Drivers
+35.  9  Red Hat Certified Specialist in Containers and Kubernetes Complete Video Course: Red Hat EX180
+36.  9  Red Hat RHCSA/RHCE 7 Cert Guide: Red Hat Enterprise Linux 7 (EX200 and EX300)
+37.  8  Linux Foundation Certified System Administrator (LFCS)
+38.  8  Learn Linux Quickly
+39.  8  Linux Foundation Certified Engineer (LFCE)
+40.  8  RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300), 7th Edition
+41.  8  Hands-on Booting: Learn the Boot Process of Linux, Windows, and Unix
+42.  8  A Practical Guide to Fedora™ and Red Hat Enterprise Linux, Fifth Edition
+43.  8  Mastering Linux Kernel Development
+44.  7  Linux Observability with BPF
+45.  7  Linux Administration: A Beginners Guide, Sixth Edition, 6th Edition
+46.  7  Getting Started with BeagleBone
+47.  7  Linux Network Administrator's Guide, Second Edition
+48.  7  Learning Debian GNU/Linux
+49.  7  Red Hat Enterprise Linux Troubleshooting Guide
+50.  7  Red Hat Enterprise Linux 6 Administration: Real World Skills for Red Hat Administrators
+51.  7  OpenShift for Developers
+52.  7  Study Guide for LPIC-1 Exam 101
+53.  7  CISSP Cert Guide
+54.  6  Linux Administration Cookbook
+55.  6  Linux Command Line for Beginners
+56.  6  Linux Essentials
+57.  6  Linux Pocket Guide, 2nd Edition
+58.  6  Linux System Administration
+59.  6  Linux Basics for Hackers
+60.  6  Hacking with Kali
+61.  6  Red Hat Enterprise Linux (RHEL) 7 New Features: Update your Red Hat Skills
+62.  6  RHCSA/RHCE Red Hat Linux Certification Practice Exams with Virtual Machines (Exams EX200 & EX300)
+63.  6  Linux Device Drivers Development
+64.  6  Linux Shell Scripting: A Project-Based Approach to Learning
+65.  6  Red Hat Certified System Administrator - Exam EX200 Training
+66.  6  Black Hat Python
+67.  6  DevOps Troubleshooting: Linux® Server Best Practices
+68.  5  Mastering Embedded Linux Programming - Second Edition
+69.  5  Linux in Action
+70.  5  Linux for Junior Systems Administrators
+71.  5  Practical Linux Topics
+72.  5  Linux Device Drivers, 3rd Edition
+73.  5  Building Embedded Linux Systems, 2nd Edition
+74.  5  Linux Troubleshooting: Red Hat EX342
+75.  5  LPIC-1 (Exam 101) LiveLessons (Video Training): Linux Professional Institute Certification Exam 101
+76.  5  OpenStack Certification, 2/e
+77.  5  OpenShift in Action
+78.  5  Red Hat Certified Engineer (RHCE)
+79.  5  Learn Linux Shell Scripting - Fundamentals of Bash 4.4
+80.  5  The Ultimate Openshift (2018) Bootcamp
+81.  5  Linux Command Line and Shell Scripting Bible, 3rd Edition
+82.  5  Essential Linux Device Drivers
+83.  5  Pro Bash Programming : Scripting the GNU/Linux Shell, Second Edition
+84.  4  How Linux Works, 3rd Edition
+85.  4  Efficient Linux at the Command Line
+86.  4  Linux Administration: A Beginner's Guide, Eighth Edition, 8th Edition
+87.  4  Building Linux Servers: DHCP, DNS, and Directory Services
+88.  4  Linux Administration Bootcamp: Go from Beginner to Advanced
+89.  4  Linux for Developers: Jumpstart Your Linux Programming Skills
+90.  4  Using Linux Performance Tools
+91.  4  Linux Kernel Networking: Implementation and Theory
+92.  4  Introducing Linux Distros
+93.  4  Understanding Linux Network Internals
+94.  4  Linux Kernel in a Nutshell
+95.  4  Linux iptables Pocket Reference
+96.  4  Kali Linux Web App Testing
+97.  4  Linux on Azure: Deploying and Managing Linux on Azure
+98.  4  Red Hat Certified Engineer (RHCE) Study Guide: Ansible Automation for the Red Hat Enterprise Linux 8 Exam (EX294)
+99.  4  Red Hat RHCSA 8 Cert Guide: EX200, 2nd edition
+100.  4  Mastering Ubuntu Server - Third Edition
+101.  4  Architecting and Operating OpenShift Clusters: OpenShift for Infrastructure and Operations Teams
+102.  4  Ubuntu Unleashed 2019 Edition: Covering 18.04, 18.10, 19.04, 13th Edition
+103.  4  Mastering Ubuntu Server - Second Edition
+104.  4  SELinux by Example: Using Security Enhanced Linux
+105.  4  Learning Path: Red Hat Certified System Administrator (RHCSA)
+106.  4  Red Hat Certified System Administrator (RHCSA) in Red Hat OpenStack
+107.  4  Mastering Ubuntu Server
+108.  4  Red Hat Certified System Administrator (RHCSA) Final Exam Workshop
+109.  4  CompTIA Linux / LPIC-1 Cert Guide: (Exams LX0-103 & LX0-104/101-400 & 102-400)
+110.  4  Digital Forensics and Cyber Crime with Kali Linux Fundamentals
+111.  4  Getting Started with OpenShift
+112.  3  Hands-On System Programming with Linux
+113.  3  LPI Linux Essentials Study Guide, 3rd Edition
+114.  3  A Practical Guide to Linux Commands, Editors, and Shell Programming, Fourth Edition
+115.  3  Learning Linux Binary Analysis
+116.  3  Linux Bible, 9th Edition
+117.  3  Learn Linux in a Month of Lunches
+118.  3  Working with Linux – Quick Hacks for the Command Line
+119.  3  Linux Essentials, 2nd Edition
+120.  3  Linux Administration: A Beginner’s Guide, Seventh Edition, 7th Edition
+121.  3  Practical Linux Infrastructure
+122.  3  The Definitive Guide to SUSE Linux Enterprise Server 12
+123.  3  Linux Bible, 8th Edition
+124.  3  Windows 7 and Vista Guide to Scripting, Automation, and Command Line Tools
+125.  3  CLI for Noobies: A Primer on the Linux Command Line
+126.  3  Linux Server Hacks
+127.  3  Mastering Kali Linux for Advanced Penetration Testing - Second Edition
+128.  3  Kali Linux Intrusion and Exploitation Cookbook
+129.  3  Linux Security and Hardening, The Practical Security Guide
+130.  3  Linux Performance Optimization: Red Hat EX442
+131.  3  LPIC-2: Linux Professional Institute Certification Study Guide, 2nd Edition
+132.  3  Hybrid Cloud Apps with OpenShift and Kubernetes
+133.  3  LPI Linux Essentials Certification All-in-One Exam Guide
+134.  3  CompTIA Linux+ XK0-004 Cert Guide
+135.  3  Red Hat RHCSA 8 Practice Tests
+136.  3  A Practical Guide to Ubuntu Linux, Third Edition
+137.  3  Linux Containers and Virtualization: A Kernel Perspective
+138.  3  DevOps with OpenShift
+139.  3  Mastering Linux Shell Scripting,
+140.  3  Linux Pocket Guide, 3rd Edition
+141.  3  Linux Shell Scripting Cookbook - Third Edition
+142.  3  A Complete Course on Linux Bash Shell Scripting with Real-Life Examples
+143.  3  Bash Scripting and Shell Programming (Linux Command Line)
+144.  3  Study Guide for LPIC-1 Exam 102
+145.  3  Pro SQL Server on Linux: Including Container-Based Deployment with Docker and Kubernetes
+146.  3  Mastering Embedded Linux Programming
+147.  3  The Official Ubuntu Server Book, 3rd Edition
+148.  2  Basic Linux Terminal Tips and Tricks: Learn to Work Quickly on the Command Line
+149.  2  Embedded Linux Development Using Yocto Project Cookbook - Second Edition
+150.  2  Fundamentals of Linux
+151.  2  Pro Linux System Administration: Learn to Build Systems for Your Business Using Free and Open Source Software, Second Edition
+152.  2  Learn Linux in 5 Days and Level Up Your Career
+153.  2  Linux Phrasebook, Second Edition
+154.  2  Learning Linux Security
+155.  2  Beginning the Linux Command Line, Second edition
+156.  2  Pro Linux High Availability Clustering
+157.  2  Optimizing Linux® Performance: A Hands-On Guide to Linux® Performance Tools
+158.  2  Interprocess Communications in Linux®: The Nooks & Crannies
+159.  2  Linux: Phrasebook
+160.  2  Professional Linux® Programming
+161.  2  Understanding the Linux Kernel, Second Edition
+162.  2  Linux Annoyances for Geeks
+163.  2  The Definitive Guide to CentOS
+164.  2  Knoppix Hacks, 2nd Edition
+165.  2  Linux® Socket Programming
+166.  2  Learn Kali Linux 2019
+167.  2  Mastering Kali Linux for Advanced Penetration Testing - Third Edition
+168.  2  Security Testing and Ethical Hacking with Kali Linux
+169.  2  Bug Bounty Hunting for Web Security: Find and Exploit Vulnerabilities in Web sites and Applications
+170.  2  Learn Ethical Hacking from Scratch
+171.  2  Web Penetration Testing with Kali Linux
+172.  2  LPIC-1 Linux Professional Institute Certification Study Guide, 5th Edition
+173.  2  Linux High Availability: Red Hat EX436 and LPIC-3 304
+174.  2  LPIC-1: Linux Professional Institute Certification Study Guide: (Exams 101 and 102), 3rd Edition
+175.  2  Linux Fundamentals
+176.  2  LPIC-1 Linux Professional Institute Certification Study Guide: Exam 101-400 and Exam 102-400, 4th Edition
+177.  2  Red Hat RHCSA and RHCE Webcasts
+178.  2  Deploying to OpenShift
+179.  2  LPIC-2: Linux Professional Institute Certification, Study Guide
+180.  2  Beginning Ubuntu Linux, Sixth Edition
+181.  2  Debugging Linux Systems
+182.  2  A Practical Guide to Fedora™ and Red Hat® Enterprise Linux®, Seventh Edition
+183.  2  Ubuntu® Linux® Secrets
+184.  2  Linux Essentials for Cybersecurity
+185.  2  Hands-On AWS Penetration Testing with Kali Linux
+186.  2  LPIC-1: Linux Professional Institute Certification Study Guide, Second Edition
+187.  2  Linux: Powerful Server Administration
+188.  2  SELinux System Administration - Second Edition
+189.  2  Mastering Linux Security and Hardening
+190.  2  LPIC-1 (Exam 102)
+191.  2  Practical LPIC-3 300: Prepare for the Highest Level Professional Linux Certification
+192.  2  An Introduction to IMS: Your Complete Guide to IBM Information Management System
+193.  2  DevOps Troubleshooting for Linux Server: Is the Server Down? Tracking Down the Source of Network Problems
+194.  2  GNU/Linux Rapid Embedded Programming
+195.  2  CWNA Certified Wireless Network Administrator Official Deluxe Study Guide: Exam CWNA-106
+196.  2  Learning Path: Red Hat Certified Engineer (RHCE)
+197.  2  Introducing ZFS on Linux: Understand the Basics of Storage with ZFS
+198.  2  Red Hat Certified Engineer (RHCE) Exam Cram Video Workshop
+199.  2  Learning Red Hat Linux
+200.  1  Linux Service Management Made Easy with systemd
+201.  1  Linux Cookbook, 2nd Edition
+202.  1  Complete Linux Training Course to Get Your Dream IT Job
+203.  1  Linux System Programming Techniques
+204.  1  Mastering Linux Device Driver Development
+205.  1  What Is eBPF?
+206.  1  Pro Windows Subsystem for Linux (WSL): Powerful Tools and Practices for Cross-Platform Development and Collaboration
+207.  1  Hands-On Enterprise Automation on Linux
+208.  1  Using and Administering Linux: Volume 1: Zero to SysAdmin: Getting Started
+209.  1  Learn Linux Administration and Supercharge Your Career
+210.  1  Linux: Embedded Development
+211.  1  Embedded Linux Development using Yocto Projects - Second Edition
+212.  1  Learn CentOS Linux Network Services
+213.  1  CentOS Quick Start Guide
+214.  1  Learning Embedded Linux Using the Yocto Project
+215.  1  Learning Linux Mint
+216.  1  Linux Mint Essentials
+217.  1  Problem-solving in High Performance Computing
+218.  1  CentOS High Availability
+219.  1  Linux® Bible 2011 Edition: Boot up to Ubuntu®, Fedora®, KNOPPIX, Debian®, openSUSE®, and 13 Other Distributions
+220.  1  Beginning Linux Programming, 4th Edition
+221.  1  Linux® for Dummies®, 9th Edition
+222.  1  Linux Security Cookbook
+223.  1  Linux Bible® 2010 Edition: Boot Up to Ubuntu®, Fedora®, KNOPPIX, Debian®, openSUSE®, and 13 Other Distributions
+224.  1  Instant Debian – Build a Web Server
+225.  1  Performance Tuning for Linux® Servers
+226.  1  Running Linux, 5th Edition
+227.  1  Linux Server Hacks, Volume Two
+228.  1  Linux® Bible, 2008 Edition: Boot Up to Ubuntu®, Fedora®, KNOPPIX, Debian®, openSUSE®, and 11 Other Distributions
+229.  1  Linux Application Development, Second Edition
+230.  1  Linux in a Windows World
+231.  1  Linux® Programming by Example
+232.  1  Linux Kernel Development, Second Edition
+233.  1  Linux Cookbook
+234.  1  Invaluable Knowledge
+235.  1  Managing RAID on Linux
+236.  1  How Linux Works
+237.  1  Foundations of GTK+ Development
+238.  1  CentOS Bible
+239.  1  High Performance Linux Clusters with OSCAR, Rocks, OpenMosix, and MPI
+240.  1  Building Secure Servers with Linux
+241.  1  How Wikipedia Works
+242.  1  Linux Socket Programming by Example
+243.  1  Linux® Routing
+244.  1  Policy Routing Using Linux®
+245.  1  Producing Open Source Software
+246.  1  An Introduction to Ethical Hacking with Kali Linux
+247.  1  Learning Kali Linux
+248.  1  Kali Linux Tutorial For Beginners
+249.  1  Web Penetration Testing with Kali Linux - Third Edition
+250.  1  Kali Linux Wireless Penetration Testing Beginner's Guide - Third Edition
+251.  1  Kali Linux Web Penetration Testing Cookbook - Second Edition
+252.  1  Kali Linux 2018: Windows Penetration Testing - Second Edition
+253.  1  Kali Linux - An Ethical Hacker's Cookbook
+254.  1  Beginning Ethical Hacking with Kali Linux: Computational Techniques for Resolving Security Issues
+255.  1  Kali Linux 2017 Wireless Penetration Testing for Beginners
+256.  1  Mastering Kali Linux for Web Penetration Testing
+257.  1  Kali Linux CTF Blueprints
+258.  1  Kali Linux 2: Windows Penetration Testing
+259.  1  Kali Linux – Assuring Security by Penetration Testing
+260.  1  Getting Started with Windows Subsystem for Linux: Unlock the Power of Linux and Web Development from the Comfort of your Windows Desktop
+261.  1  Linux Bible, 10th Edition
+262.  1  Ubuntu Linux Unleashed 2021 Edition, 14th Edition
+263.  1  LPIC-1 Linux Professional Institute Certification Practice Tests, 2nd Edition
+264.  1  Red Hat OpenShift Administration: Red Hat EX280
+265.  1  Linux for Networking Professionals
+266.  1  CompTIA Linux+ Certification All-in-One Exam Guide: Exam XK0-004
+267.  1  Practical LPIC-1 Linux Certification Study Guide
+268.  1  Practical Linux Security Cookbook
+269.  1  Linux Kernel Programming
+270.  1  Ubuntu 20.04 Essentials
+271.  1  CompTIA Linux+ Practice Tests, 2nd Edition
+272.  1  Ubuntu Linux Toolbox: 1000+ Commands for Power Users, 2nd Edition
+273.  1  Hands-On Red Team Tactics
+274.  1  Red Hat RHCE 8® Practice Tests
+275.  1  Linux for Cloud and DevOps Engineers
+276.  1  Software Defined Data Center with Red Hat Cloud and Open Source IT Operations Management
+277.  1  Beginning Ubuntu Linux, Fifth Edition
+278.  1  LPIC-2 Cert Guide: (201-400 and 202-400 exams)
+279.  1  Ubuntu® Linux® Bible: Featuring Ubuntu 10.04 LTS, Third Edition
+280.  1  Beginning Ubuntu Linux: From Novice to Professional, Fourth Edition
+281.  1  Ubuntu Server Cookbook
+282.  1  Ubuntu Linux® For Dummies®
+283.  1  Hands-On Linux Administration on Azure
+284.  1  Red Hat Certified System Administrator (RHCSA) and Red Hat Certified Engineer (RHCE) Library
+285.  1  The Official Ubuntu Book, 9th Edition
+286.  1  Learning Linux Shell Scripting - Second Edition
+287.  1  Kali Linux 2018: Assuring Security by Penetration Testing - Fourth Edition
+288.  1  Red Hat Certified Engineer (RHCE) - Exam EX300 Training
+289.  1  Learning Path: Red Hat Professional
+290.  1  Learning RHEL Networking
+291.  1  Practical Linux with Raspberry Pi OS: Quick Start
+292.  1  OpenShift Cookbook
+293.  1  CWNA: Certified Wireless Network Administrator Official Study Guide: Exam CWNA-106
+294.  1  Linux Shell Scripting Essentials
+295.  1  Embedded Linux Systems with the Yocto Project
+296.  1  Using and Administering Linux: Volume 2: Zero to SysAdmin: Advanced Topics
+297.  1  Fundamentals of Unix and Linux System Administration
+298.  1  Unix in 24 Hours, Sams Teach Yourself: Covers OS X, Linux, and Solaris, Fifth Edition
+299.  1  PowerShell Core for Linux Administrators Cookbook
+300.  1  Salesforce.com Certified Administrator LiveLessons (Video Training)
+301.  1  Practical LXC and LXD: Linux Containers for Virtualization and Orchestration
+302.  1  The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
+303.  1  Getting Started with Red Hat Enterprise Virtualization
+304.  1  Kali Linux Wireless Penetration Testing Cookbook
+305.  1  Visual Studio Code Distilled: Evolved Code Editing for Windows, macOS, and Linux
+306.  1  Linux with Operating System Concepts
+307.  1  Linux Shell Scripting Bootcamp
+308.  1  Mastering CentOS 7 Linux Server
+309.  0  Learning Modern Linux
+310.  0  Mastering Linux Administration
+311.  0  Mastering Linux System Administration
+312.  0  Mastering Linux Command Line
+313.  0  Linux Troubleshooting Course with Real Life Examples
+314.  0  The Art of Doing: Learn the Linux Command Line
+315.  0  Perfect 3 Days Linux Course
+316.  0  Security Strategies in Linux Platforms and Applications, 2nd Edition
+317.  0  Linux All-In-One For Dummies, 6th Edition
+318.  0  Using and Administering Linux: Volume 3: Zero to SysAdmin: Network Services
+319.  0  Linux for Network Engineers: Practical Linux with GNS3
+320.  0  Python Command Line Tools Course
+321.  0  Linux Essentials for Cybersecurity Lab Manual, First Edition
+322.  0  A Beginners Guide to Linux
+323.  0  Practical Linux Security Solutions
+324.  0  Linux Networking Cookbook
+325.  0  Linux Sound Programming
+326.  0  Mastering CentOS 7 Linux Server
+327.  0  Linux® Firewalls: Enhancing Security with nftables and Beyond, Fourth Edition
+328.  0  The Linux Philosophy for SysAdmins: And Everyone Who Wants To Be One
+329.  0  Command Line Fundamentals
+330.  0  Ten Steps to Linux Survival
+331.  0  Linux Server Security
+332.  0  Linux All-in-One For Dummies, 5th Edition
+333.  0  Experiences with Oracle 11gR2 on Linux on System z
+334.  0  CentOS High Performance
+335.  0  Logics of Legitimacy
+336.  0  Security Strategies in Linux Platforms and Applications
+337.  0  Linux
+338.  0  How Learning Works
+339.  0  How Video Works, 2nd Edition
+340.  0  Linux Device Drivers, Second Edition
+341.  0  Self-Service Linux®: Mastering the Art of Problem Determination
+342.  0  openSUSE Linux Unleashed
+343.  0  Linux Appliance Design
+344.  0  Linux Network Administrator's Guide, 3rd Edition
+345.  0  Linux® Bible 2009 Edition: Boot up Ubuntu®, Fedora®, KNOPPIX, Debian®, SUSE®, and 13 Other Distributions
+346.  0  Linux® For Dummies®, 8th Edition
+347.  0  User Mode Linux
+348.  0  Pro Ora cle Database 10g RAC on Linux Installation, Administration, and Performance
+349.  0  Embedded Linux System Design and Development
+350.  0  Linux Clustering: Building and Maintaining Linux Clusters
+351.  0  SUSE Linux
+352.  0  SUSE™ Linux 10 Unleashed
+353.  0  Linux in a Nutshell, Fifth Edition
+354.  0  Using the Linux NFS Client with IBM System Storage N series
+355.  0  Linux Multimedia Hacks
+356.  0  Novell® Open Enterprise Server Administrator's Handbook SUSE® LINUX® Edition
+357.  0  Negus Live Linux Series Ajax Construction Kit: Building Plug-and-Play Ajax Applications
+358.  0  Beginning SUSE Linux, Second Edition
+359.  0  Linux Server Security, Second Edition
+360.  0  Test Driving Linux
+361.  0  Running Linux, Fourth Edition
+362.  0  SUSE® Linux® 10.1: Kick Start
+363.  0  SUSE LINUX Enterprise Server 9 Administrator's Handbook
+364.  0  Novell® Certified Linux® Engineer 9 (CLE 9) Study Guide
+365.  0  IBM Workplace Managed Client 2.6 on Linux
+366.  0  Moving to Linux®: Kiss the Blue Screen of Death Goodbye! Second Edition
+367.  0  Advanced Linux Networking
+368.  0  Novell® Linux Certification Practium Lab Manual
+369.  0  Linux for IBM System z9 and IBM zSeries
+370.  0  Linux in a Nutshell, Fourth Edition
+371.  0  Novell Linux Desktop 9 Users Handbook
+372.  0  Experiences with Oracle 10g Database for Linux on zSeries
+373.  0  Linux® and Windows® Interoperability Guide
+374.  0  Novell® Certified Linux Professional (Novell CLP) Study Guide
+375.  0  Linux Development Platform: Configuring, Using, and Maintaining a Complete Programming Environment, The
+376.  0  Exploring the JDS Linux Desktop
+377.  0  Moving to the Linux® Business Desktop
+378.  0  Running Linux, Third Edition
+379.  0  Building a Linux HPC Cluster with xCAT
+380.  0  Implementing PeopleSoft Enterprise on xSeries and Linux
+381.  0  Advanced Linux Programming
+382.  0  OS/2 to Linux Client Transition
+383.  0  Linux on IBM eServer zSeries and S/390: Best Security Practices
+384.  0  Deploying Linux on IBM eServer pSeries Clusters
+385.  0  EFS Systems on a Linux Base: Getting Started
+386.  0  Linux with zSeries and ESS: Essentials
+387.  0  Practical Linux
+388.  0  The Front Line Guide to Creating a Winning Management Style
+389.  0  Linux Applications on pSeries
+390.  0  Experiences with Oracle for Linux on zSeries
+391.  0  S/390 PartnerWorld for Developers, ITSO/EFS Project EFS Systems on a Linux Base: Additional Topics
+392.  0  Inside Linux
+393.  0  Special Edition Using Linux®, Sixth Edition
+394.  0  Linux in a Nutshell, Third Edition
+395.  0  Linux for IBM eServer zSeries and S/390: Distributions
+396.  0  Maximum Linux Security
+397.  0  Procmail Companion, The
+398.  0  Creating a World That Works for All
+399.  0  The Ultimate Kali Linux Book - Second Edition
+400.  0  The Adventures of an IT Leader (Updated Edition)
+401.  0  Mastering Kali Linux for Advanced Penetration Testing - Fourth Edition
+402.  0  Kali Linux Penetration Testing Bible
+403.  0  Hacking WEP/WPA/WPA2 Wi-Fi Networks Using Kali Linux
+404.  0  Digital Forensics with Kali Linux - Second Edition
+405.  0  Getting Started with Kali Linux Penetration Testing
+406.  0  Mastering Pentesting Using Kali Linux
+407.  0  Kali Linux - An Ethical Hacker's Cookbook - Second Edition
+408.  0  Digital Forensics with Kali Linux
+409.  0  Getting Started in Port Scanning Using Nmap and Kali Linux
+410.  0  Kali Linux Cookbook - Second Edition
+411.  0  Kali Linux Network Scanning Cookbook - Second Edition
+412.  0  Kali Linux: Tips, Tricks and Techniques
+413.  0  Mastering Kali Linux Wireless Pentesting
+414.  0  Learn Man in the Middle Attacks from Scratch
+415.  0  Scanning and Enumeration with Kali Linux
+416.  0  Learning Network Penetration Testing with Kali Linux
+417.  0  Kali Linux Wireless Penetration Testing Essentials
+418.  0  Web Penetration Testing with Kali Linux - Second Edition
+419.  0  Hands-On Penetration Testing with Kali NetHunter
+420.  0  Negus Live Linux Series Live Linux CDs: Building and Customizing Bootables
+421.  0  Red Hat Enterprise Linux 8 Administration
+422.  0  A Practical Guide to Red Hat Linux: Fedora Core and Red Hat Enterprise Linux, Second Edition
+423.  0  Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization
+424.  0  IBM z/VM and Linux on IBM System z: Virtualization Cookbook for Red Hat Enterprise Linux 4
+425.  0  Upgrading to Red Hat Enterprise Linux (RHEL) 8
+426.  0  The Virtualization Cookbook for IBM Z Volume 2: Red Hat Enterprise Linux 8.2
+427.  0  Red Hat Certified Specialist in Containers and Kubernetes (EX180) and OpenShift Administration (EX280) (Video Collection)
+428.  0  OpenShift for Developers, 2nd Edition
+429.  0  Certified Kubernetes CKAD & CKA (Video Collection)
+430.  0  Red Hat Enterprise Linux Server Cookbook
+431.  0  Transitioning to .NET Core on Red Hat Enterprise Linux
+432.  0  Mastering Embedded Linux Programming - Third Edition
+433.  0  SELinux System Administration - Third Edition
+434.  0  Linux Device Driver Development - Second Edition
+435.  0  Practical Linux System Administration
+436.  0  Operating OpenShift
+437.  0  Linux Command Line and Shell Scripting Bible, 4th Edition
+438.  0  Practical Linux Forensics
+439.  0  From Zero to RHCSA: 10 Weeks to Becoming RHCSA Certified
+440.  0  Red Hat and IT Security: With Red Hat Ansible, Red Hat OpenShift, and Red Hat Security Auditing
+441.  0  Linux Server Administration Made Easy with Hands-on Training
+442.  0  Security for Linux on System z
+443.  0  Linux Command Line and Shell Scripting Techniques
+444.  0  An Implementation of Red Hat OpenShift Network Isolation Using Multiple Ingress Controllers
+445.  0  Ubuntu Unleashed 2017 Edition
+446.  0  Using the IBM Block Storage CSI Driver in a Red Hat OpenShift Environment
+447.  0  Linux Administration Best Practices
+448.  0  Visual Studio Code Distilled: Evolved Code Editing for Windows, macOS, and Linux
+449.  0  Storage Multi-tenancy for Red Hat OpenShift Container Platform with IBM Storage
+450.  0  Deploying SAP Software in Red Hat OpenShift on IBM Power Systems
+451.  0  Red Hat OpenShift on IBM Z Installation Guide
+452.  0  Practical Migration from x86 to LinuxONE
+453.  0  Practical System Programming with C: Pragmatic Example Applications in Linux and Unix-Based Operating Systems
+454.  0  A Practical Guide to Ubuntu Linux
+455.  0  IBM Storage for Red Hat OpenShift Blueprint
+456.  0  Windows Subsystem for Linux 2 (WSL 2) Tips, Tricks, and Techniques
+457.  0  Red Hat OpenShift V4.3 on IBM Power Systems Reference Guide
+458.  0  Ubuntu® 8.10 Linux® Bible
+459.  0  Red Hat® Enterprise Linux® 5 Administration Unleashed
+460.  0  Linux System Administration for the 2020s: The Modern Sysadmin Leaving Behind the Culture of Build and Maintain
+461.  0  IBM Storage for Red Hat OpenShift Blueprint Version 1 Release 4
+462.  0  IBM Storage for Red Hat OpenShift Blueprint Version 1 Release 2
+463.  0  IBM Storage for Red Hat OpenShift Blueprint Version 1 Release 4
+464.  0  IBM Storage for Red Hat OpenShift Blueprint Version 1 Release 3
+465.  0  Migrating Linux to Microsoft Azure
+466.  0  IBM Storage for Red Hat OpenShift Container Platform V3.11 Blueprint Version 1 Release 1
+467.  0  IBM Storage for Red Hat OpenShift Blueprint Version 1 Release 1
+468.  0  Running ESXi on a Raspberry Pi: Installing VMware ESXi on Raspberry Pi 4 to run Linux virtual machines
+469.  0  Beginning Ubuntu for Windows and Mac Users : Start your Journey into Free and Open Source Software
+470.  0  Learn Red - Fundamentals of Red
+471.  0  LPI Linux Certification in a Nutshell, 2nd Edition
+472.  0  Ubuntu® Linux® Bible
+473.  0  Moving to Ubuntu Linux®
+474.  0  Ubuntu 7.10 Linux Unleashed, Third Edition
+475.  0  RHCE Red Hat Certified Engineer Linux Study Guide (Exam RH302), 5th Edition
+476.  0  A Practical Guide to Linux® Commands, Editors, and Shell Programming
+477.  0  Study Guide for LPIC-2 Exams 201 and 202
+478.  0  The Basics of Achieving Professional Certification
+479.  0  Learn Windows Subsystem for Linux: A Practical Guide for Developers and IT Professionals
+480.  0  Practical Linux Security Cookbook - Second Edition
+481.  0  Advanced Raspberry Pi: Raspbian Linux and GPIO Integration
+482.  0  Run Your Own Full Bitcoin Node on Linux
+483.  0  Ubuntu Unleashed 2015 Edition: Covering 14.10 and 15.04, Tenth Edition
+484.  0  Next Generation Red Teaming
+485.  0  Troubleshooting CentOS
+486.  0  SELinux Cookbook
+487.  0  Computing with the Raspberry Pi: Command Line and GUI Linux
+488.  0  Linux Hardening in Hostile Networks: Server Security from TLS to Tor
+489.  0  Linux for Makers, 1st Edition
+490.  0  Beginning Ubuntu for Windows and Mac Users
+491.  0  501 Ways to Roll Out the Red Carpet for Your Customers
+492.  0  Ubuntu Unleashed 2016 Edition: Covering 15.10 and 16.04, Eleventh Edition
+493.  0  Service Procedures for Linux on IBM Power Systems Servers
+494.  0  How to Create an Open Organization
+495.  0  Linux for Embedded and Real-time Applications, 4th Edition
+496.  0  Hands-On Linux Administration on Azure
+497.  0  Mastering Linux Network Administration
+498.  0  Scale up for Linux on LinuxONE
+499.  0  A Practical Guide to Red Hat® Linux® 8
+500.  0  Five Principles for Deploying and Managing Linux in the Cloud

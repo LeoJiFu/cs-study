@@ -1,0 +1,502 @@
+INPUT: ai
+TOTAL BOOKS: 500
+1.  33  Programming Collective Intelligence
+2.  16  Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence
+3.  15  Understanding Computation
+4.  10  Feature Engineering for Machine Learning
+5.  8  Artificial Intelligence Basics: A Non-Technical Introduction
+6.  7  Big Data Architect's Handbook
+7.  6  Paradigms of Artificial Intelligence Programming
+8.  6  The AI Ladder
+9.  6  Trends in AI, Data Science, and Big Data (2017)
+10.  6  Building Recommender Systems with Machine Learning and AI
+11.  5  Artificial Intelligence
+12.  5  Artificial Intelligence with Python
+13.  5  GPT-3
+14.  5  AI is the new electricity
+15.  5  Pragmatic AI: An Introduction to Cloud-Based Machine Learning, First Edition
+16.  4  Artificial Intelligence in Practice
+17.  4  Artificial Intelligence By Example
+18.  4  The Artificial Intelligence Conference - New York, NY 2018
+19.  4  AI and Machine Learning for Coders
+20.  4  O'Reilly Artificial Intelligence Conference 2016 - New York, NY
+21.  4  Machine Vision, GANs, and Deep Reinforcement Learning
+22.  4  Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python
+23.  4  An Introduction to Formal Languages and Automata, 6th Edition
+24.  3  What Is Artificial Intelligence?
+25.  3  Artificial Intelligence for Robotics
+26.  3  Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud
+27.  3  Hands-On Artificial Intelligence for Search
+28.  3  O'Reilly Artificial Intelligence Conference 2017 - San Francisco, CA
+29.  3  Analytical Skills for AI and Data Science
+30.  3  AI-First Healthcare
+31.  3  AI and the Law
+32.  3  The AI Organization
+33.  3  Agile AI
+34.  3  AI and Machine Learning for Healthcare
+35.  3  Architects of Intelligence
+36.  3  Hands-On Artificial Intelligence for IoT
+37.  3  Introduction to Formal Languages, Automata Theory and Computation
+38.  3  Scala & Spark-Master Big Data with Scala and Spark
+39.  3  MongoDB—Mastering MongoDB for Beginners (Theory and Projects)
+40.  2  Artificial Intelligence Business: How you can profit from AI
+41.  2  Artificial Intelligence in Finance
+42.  2  Fighting Financial Crimes with Artificial Intelligence
+43.  2  Artificial Intelligence for Marketing
+44.  2  Achieving Real Business Outcomes from Artificial Intelligence
+45.  2  O'Reilly Artificial Intelligence Conference 2017 - New York, New York
+46.  2  The Jobs That Artificial Intelligence Will Create
+47.  2  Learn from the Experts about Artificial Intelligence: Alex Castrounis
+48.  2  Practical AI on the Google Cloud Platform
+49.  2  AI Fairness
+50.  2  Learning TensorFlow.js
+51.  2  Succeeding with AI
+52.  2  Competing in the Age of AI
+53.  2  O'Reilly Strata Data and AI Superstream
+54.  2  AI for People and Business
+55.  2  Mathematical Foundation for AI and Machine Learning
+56.  2  Meet the Expert: Aileen Nielsen on Fairness in AI
+57.  2  Meet the Expert: Grady Booch on Software Architecture in the Age of AI
+58.  2  AI for Game Developers
+59.  2  Constraint Processing
+60.  2  Formal Languages and Automata Theory
+61.  2  Express Learning: Introduction to Information Technology
+62.  2  Introduction to Automata Theory, Formal Languages and Computation
+63.  2  Mastering Data Science and Machine Learning Fundamentals
+64.  1  Own the A.I. Revolution: Unlock Your Artificial Intelligence Strategy to Disrupt Your Competition
+65.  1  Optimizing Decision Making in the Apparel Supply Chain Using Artificial Intelligence (AI)
+66.  1  Grokking Artificial Intelligence Algorithms
+67.  1  Artificial Intelligence with Python - Second Edition
+68.  1  Artificial Intelligence with Python Cookbook
+69.  1  O'Reilly Artificial Intelligence Conference 2019 - San Jose, California
+70.  1  Artificial Intelligence By Example - Second Edition
+71.  1  Artificial Intelligence and Machine Learning Fundamentals
+72.  1  Artificial Intelligence
+73.  1  The Artificial Intelligence Conference - San Francisco 2018
+74.  1  The Artificial Intelligence Conference - London, UK 2018
+75.  1  Agile Artificial Intelligence in Pharo: Implementing Neural Networks, Genetic Algorithms, and Neuroevolution
+76.  1  Mobile Artificial Intelligence Projects
+77.  1  Python Artificial Intelligence Projects for Beginners
+78.  1  How to Compete in the Age of Artificial Intelligence: Implementing a Collaborative Human-Machine Strategy for Your Business
+79.  1  Hands-On Artificial Intelligence with Java for Beginners
+80.  1  Artificial Intelligence for Security
+81.  1  Hands-On Artificial Intelligence for Beginners
+82.  1  Artificial intelligence on human behavior: New insights into customer segmentation
+83.  1  Practical Artificial Intelligence: Machine Learning, Bots, and Agent Solutions Using C#
+84.  1  Unity Artificial Intelligence Programming - Fourth Edition
+85.  1  Artificial Intelligence and Machine Learning in Industry
+86.  1  AI-900: Microsoft Azure AI Fundamentals Video Course + Ques
+87.  1  Exam Ref AI-900 Microsoft Azure AI Fundamentals
+88.  1  The Artificial Intelligence Conference - Beijing 2018
+89.  1  Artificial Intelligence: Teaching Machines to Think Like People
+90.  1  Artificial Intelligence for .NET: Speech, Language, and Search: Building Smart Applications with Microsoft Cognitive Services APIs
+91.  1  Using Artificial Intelligence to Set Information Free
+92.  1  Readings in Artificial Intelligence and Software Engineering
+93.  1  Contemporary Artificial Intelligence
+94.  1  Logic for Computer Science and Artificial Intelligence
+95.  1  AI and Machine Learning for On-Device Development
+96.  1  Artificial Intelligence for Games, 2nd Edition
+97.  1  Hands-On Explainable AI (XAI) with Python
+98.  1  Ensemble Learning for AI Developers: Learn Bagging, Stacking, and Boosting Methods with Use Cases
+99.  1  AI Crash Course
+100.  1  The AI Ladder
+101.  1  Radar Talks: Justin Norman on Building ML/AI Products
+102.  1  Case Study: How the Port of Montreal Used NLP to Fast-Track Critical Cargo in 2020
+103.  1  Live Longer with AI
+104.  1  Where Programming, Ops, AI, and the Cloud Are Headed in 2021
+105.  1  Machine Learning and AI for Healthcare : Big Data for Improved Health Outcomes
+106.  1  Practical Python AI Projects: Mathematical Models of Optimization Problems with Google OR-Tools
+107.  1  Meet the Expert: Lak Lakshmanan on AI in the Enterprise
+108.  1  Executive Briefing: Managing AI products
+109.  1  What Is AI?
+110.  1  Prediction Machines
+111.  1  AI Adoption in the Enterprise 2020
+112.  1  AI Blueprints
+113.  1  What Is AI?
+114.  1  Solving Quality and Maintenance Problems with AI
+115.  1  Game AI Pro 2
+116.  1  AI and Medicine
+117.  1  Intelligent Projects Using Python
+118.  1  Cognitive Computing with IBM Watson
+119.  1  Learning Microsoft Cognitive Services - Third Edition
+120.  1  Data Fusion Mathematics
+121.  1  Soft Computing
+122.  1  Recommender System with Machine Learning and Artificial Intelligence
+123.  1  Data Warehousing in the Age of Artificial Intelligence
+124.  1  Practical Fairness
+125.  1  AI and Analytics in Production
+126.  1  Formal Verification
+127.  1  Microeconomics: Theory and Applications with Calculus, 4e
+128.  1  Probability, Random Variables, and Random Processes: Theory and Signal Processing Applications
+129.  1  Political Theory
+130.  1  Express Learning: Automata Theory and Formal Languages
+131.  1  The Role of Informal Economies in the Post-Soviet World
+132.  1  Theory of Computation
+133.  1  Reaching the Goal: How Managers Improve a Services Business Using Goldratt’s Theory of Constraints
+134.  1  3D User Interfaces: Theory and Practice
+135.  1  Handbook of Automated Reasoning
+136.  1  Natural Language Processing Projects : Build Next-Generation NLP Applications Using AI Techniques
+137.  1  Computer Vision Theory and Projects in Python for Beginners
+138.  1  Deep Learning: Recurrent Neural Networks with Python
+139.  1  Machine Learning A-Z: Support Vector Machine with Python ©
+140.  0  Practical Explainable AI Using Python: Artificial Intelligence Model Explanations Using Python-based Libraries, Extensions, and Frameworks
+141.  0  AI and UX: Why Artificial Intelligence Needs User Experience
+142.  0  Artificial Intelligence for Fashion: How AI is Revolutionizing the Fashion Industry
+143.  0  Beginning Game AI with Unity: Programming Artificial Intelligence with C#
+144.  0  The AI-Powered Workplace: How Artificial Intelligence, Data, and Messaging Platforms Are Defining the Future of Work
+145.  0  Artificial Intelligence in Game Development- Tic Tac Toe AI
+146.  0  Deep Learning with Azure: Building and Deploying Artificial Intelligence Solutions on the Microsoft AI Platform
+147.  0  Artificial Intelligence Basics
+148.  0  Artificial Intelligence Programming with Python
+149.  0  Artificial Intelligence For Dummies, 2nd Edition
+150.  0  Towards Sustainable Artificial Intelligence: A Framework to Create Value and Understand Risk
+151.  0  Democratizing Artificial Intelligence with UiPath
+152.  0  Unity Artificial Intelligence Programming - Fifth Edition
+153.  0  Hands-On Artificial Intelligence for Cybersecurity
+154.  0  Machine Learning for Auditors: Automating Fraud Investigations Through Artificial Intelligence
+155.  0  Artificial Intelligence, Cybersecurity and Cyber Defence
+156.  0  Artificial Intelligence and Machine Learning Fundamentals
+157.  0  Artificial Intelligence Trends for Data Analytics Using Machine Learning and Deep Learning Approaches
+158.  0  Artificial Intelligence for Business, 2nd Edition
+159.  0  Artificial Intelligence for Asset Management and Investment
+160.  0  Grokking Artificial Intelligence Algorithms
+161.  0  Getting Started with Artificial Intelligence, 2nd Edition
+162.  0  Hands-On Artificial Intelligence for Banking
+163.  0  Artificial Intelligence for IoT Cookbook
+164.  0  Artificial Intelligence for Audit, Forensic Accounting, and Valuation
+165.  0  Artificial Intelligence for Asset Management and Investment
+166.  0  Practical Artificial Intelligence and Blockchain
+167.  0  Hands-On Artificial Intelligence on Amazon Web Services
+168.  0  Artificial Intelligence for Business
+169.  0  Getting Started with Artificial Intelligence
+170.  0  O'Reilly Artificial Intelligence Conference 2019 - London, United Kingdom
+171.  0  Practical Artificial Intelligence with Swift
+172.  0  The Artificial Intelligence Infrastructure Workshop
+173.  0  Grokking Artificial Intelligence Algorithms, video edition
+174.  0  The Applied Artificial Intelligence Workshop
+175.  0  Artificial Intelligence Conference 2019 - New York, New York
+176.  0  Artificial Intelligence in 3 Hours
+177.  0  Enterprise Artificial Intelligence Transformation
+178.  0  Reengineering Patient Care with Artificial Intelligence
+179.  0  Managing AI in the Enterprise: Succeeding with AI Projects and MLOps to Build Sustainable AI Organizations
+180.  0  Artificial Intelligence for Risk Management
+181.  0  Artificial Intelligence for Big Data
+182.  0  Hacking Artificial Intelligence
+183.  0  Artificial Intelligence Design and Solution for Risk and Security
+184.  0  Artificial Intelligence For Dummies
+185.  0  Artificial Intelligence For Dummies
+186.  0  Enterprise Artificial Intelligence Transformation
+187.  0  Meet the Expert: Yves Hilpisch on Artificial Intelligence in Finance
+188.  0  Artificial Intelligence: The Insights You Need from Harvard Business Review
+189.  0  Applied machine learning in finance - 2019 Artificial Intelligence Conference, New York
+190.  0  Artificial Intelligence
+191.  0  Meet the Expert: Laurence Moroney on A Programmer’s Guide to Artificial Intelligence
+192.  0  Industrial Machine Learning: Using Artificial Intelligence as a Transformational Disruptor
+193.  0  Highlights from the Keynotes of Artificial Intelligence Conference, London 2019
+194.  0  Using Artificial Intelligence to Promote Diversity
+195.  0  Highlights from the Keynotes of Artificial Intelligence Conference, San Jose 2019
+196.  0  Artificial Intelligence in Practice
+197.  0  Artificial Intelligence Conference 2019 - Beijing, China
+198.  0  Unity 2018 Artificial Intelligence Cookbook - Second Edition
+199.  0  Beyond Artificial Intelligence
+200.  0  Artificial Intelligence Across Industries
+201.  0  Artificial Intelligence Now
+202.  0  Business Strategy in the Artificial Intelligence Economy
+203.  0  Artificial Intelligence for Marketing
+204.  0  Economic Renaissance In the Age of Artificial Intelligence
+205.  0  Artificial Intelligence
+206.  0  What to Expect From Artificial Intelligence
+207.  0  Learn from the Experts about Artificial Intelligence: Susan Etlinger
+208.  0  Practical Artificial Intelligence in the Cloud
+209.  0  Essential Math for AI
+210.  0  Social Machines: The Coming Collision of Artificial Intelligence, Social Networking, and Humanity
+211.  0  Designing Autonomous AI
+212.  0  The New Artificial Intelligence Market
+213.  0  AI-Powered Business Intelligence
+214.  0  Conversational AI with Rasa
+215.  0  Artificial Intelligence in Power System Optimization
+216.  0  Conversational AI
+217.  0  AI at the Edge
+218.  0  Machine Learning for High-Risk Applications
+219.  0  Uncertainty in Artificial Intelligence
+220.  0  Data Science, Analytics, and AI for Business and the Real World™
+221.  0  AI Superstream: Efficient Machine Learning
+222.  0  Product Management for AI
+223.  0  Uncertainty in Artificial Intelligence
+224.  0  Distributed Artificial Intelligence
+225.  0  Uncertainty in Artificial Intelligence
+226.  0  Microsoft Sentinel in Action - Second Edition
+227.  0  Readings in Distributed Artificial Intelligence
+228.  0  Artificial Intelligence in Basic
+229.  0  Azure AI Services at Scale for Cloud, Mobile, and Edge
+230.  0  Trustworthy AI
+231.  0  Generative AI with Python and TensorFlow 2
+232.  0  Technology Trends for 2022
+233.  0  Machine Learning and AI for Healthcare: Big Data for Improved Health Outcomes
+234.  0  AI for Games, Third Edition, 3rd Edition
+235.  0  IBM Cloud Pak for Data
+236.  0  AI-Driven Testing
+237.  0  AI in Marketing: Master Techniques to Make AI Work for You
+238.  0  Model Performance Management with Explainable AI
+239.  0  Markov Decision Processes in Artificial Intelligence
+240.  0  The Future of the Automotive Industry: The Disruptive Forces of AI, Data Analytics, and Digitization
+241.  0  Demystifying AI for the Enterprise
+242.  0  AI and Analytics at Scale
+243.  0  AI Adoption in the Enterprise 2022
+244.  0  Microsoft Conversational AI Platform for Developers: End-to-End Chatbot Development from Planning to Deployment
+245.  0  Enterprise AIOps
+246.  0  The AI Book
+247.  0  AI Superstream Series: Securing AI
+248.  0  Practical AI for Healthcare Professionals: Machine Learning with Numpy, Scikit-learn, and TensorFlow
+249.  0  AI-Enabled Analytics for Business
+250.  0  AI Superstream: Responsible AI
+251.  0  O’Reilly Radar: Data & AI
+252.  0  Operating AI
+253.  0  The Human Factor in AI-Based Decision-Making
+254.  0  Architecting AI Solutions on Salesforce
+255.  0  Interpretable AI or How I Learned to Stop Worrying and Trust AI
+256.  0  AI Superstream Series: AI & ML in Production
+257.  0  Leading with AI and Analytics
+258.  0  AI-Powered Commerce
+259.  0  Enterprise AI For Dummies
+260.  0  AI in Healthcare
+261.  0  The New Advanced Society
+262.  0  AI Superstream Series: Scaling AI
+263.  0  Deploying AI in the Enterprise: IT Approaches for Design, DevOps, Governance, Change Management, Blockchain, and Quantum Computing
+264.  0  Human Expertise and Artificial Intelligence in Vertical Search
+265.  0  AI and the Future of Banking
+266.  0  Operationalizing AI
+267.  0  Accelerating AI with Synthetic Data
+268.  0  AI Orchestration Methodologies
+269.  0  Generating a New Reality: From Autoencoders and Adversarial Networks to Deepfakes
+270.  0  A Developer's Guide to Building AI Applications, 2nd Edition
+271.  0  Meet the Expert: How AI Will Change Our World by 2041 with Kai-Fu Lee and Tim O’Reilly
+272.  0  Installing and Configuring IBM Db2 AI for IBM z/OS v1.4.0
+273.  0  AI for Marketing and Product Innovation
+274.  0  AI in Manufacturing and Green Technology
+275.  0  Smart City Infrastructure
+276.  0  Business Forecasting
+277.  0  Transfer Learning and Explainable AI with Python
+278.  0  AI as a Service
+279.  0  AI in Talent Development
+280.  0  Security with AI and Machine Learning
+281.  0  Fail Fast, Learn Faster
+282.  0  Computational Intelligence and Healthcare Informatics
+283.  0  AI-at-Scale Hinges on Gaining a ‘Social License’
+284.  0  AI Adoption in the Enterprise 2021
+285.  0  What You Don't Know
+286.  0  Implementing AI Systems: Transform Your Business in 6 Steps
+287.  0  Branding & AI
+288.  0  Artificial Intelligent Techniques for Wireless Communication and Networking
+289.  0  Demystifying Azure AI : Implementing the Right AI Features for Your Business
+290.  0  Meet the Expert: Jen Stirrup on Democratizing AI for the Business
+291.  0  Self-Service AI with Power BI Desktop: Machine Learning Insights for Business
+292.  0  Leading with AI and Analytics: Build Your Data Science IQ to Drive Business Value
+293.  0  Meet the Expert: Unlocking AI with a Data Fabric with Sam Ramji and David Thomas
+294.  0  The Value of AI-Powered Business Intelligence
+295.  0  Pragmatic AI and Machine Learning Core Principles
+296.  0  Radically Human
+297.  0  AI-Powered IoT for COVID-19
+298.  0  The Photographer's Guide to Luminar AI
+299.  0  Reimagining Businesses with AI
+300.  0  NLP, BERT, and the Anatomy of the Tensor
+301.  0  Data Accelerator for AI and Analytics
+302.  0  A practical guide toward explainability and bias evaluation in AI and machine learning
+303.  0  Succeeding with AI video edition
+304.  0  Multiply Your Business Value Through Brand & AI
+305.  0  Artificial and human intelligence in healthcare
+306.  0  Meet the Expert: Selected Experts on AI in Manufacturing
+307.  0  Software Architecture Hour: Architecture and AI with Tariq King
+308.  0  Open Source Intelligence
+309.  0  Competing in the Age of AI
+310.  0  Coronavirus News, Markets and AI
+311.  0  52 Weeks of Cloud: Episode 12- GPT-3 Book Authors Shubham Shubham and Sandra Kublik
+312.  0  Who will fight for AI in Healthcare
+313.  0  HBR's 10 Must Reads on AI, Analytics, and the New Machine Age
+314.  0  AI and the Future of Banking
+315.  0  The Smart Nonprofit
+316.  0  Enabling Healthcare 4.0 for Pandemics
+317.  0  The Data Problem Stalling AI
+318.  0  Meet the Expert: Selected Experts on AI in Banking and Finance
+319.  0  How Thomson Reuters is using AI in quantitative finance applications
+320.  0  Meet the Expert: What to Do When AI Fails with Andrew Burt and Patrick Hall
+321.  0  Strata Data & AI Superstream Series—Data Analytics: From Collection to Visualization
+322.  0  How Stanford University uses AI and deep learning to make clinical imaging faster and safer
+323.  0  What Is Ray?
+324.  0  Practical Java Programming for IoT, AI, and Blockchain
+325.  0  Meet the Expert: Selected Experts on AI in Healthcare
+326.  0  Advanced Analytics and AI
+327.  0  Keeping Your AI Under Control: A Pragmatic Guide to Identifying, Evaluating, and Quantifying Risks
+328.  0  The Smart Nonprofit
+329.  0  IBM Reference Architecture for High Performance Data and AI in Healthcare and Life Sciences
+330.  0  Why Your Board Needs a Plan for AI Oversight
+331.  0  Strata Data & AI Superstream Series: Deep Learning
+332.  0  IBM DS8900F Architecture and Implementation: Updated for Release 9.2
+333.  0  AI Narratives
+334.  0  How Google is using AI to enhance the digital experience
+335.  0  Make: Volume 77
+336.  0  Interpretable and resilient AI for financial services
+337.  0  Minding the Machines
+338.  0  Four Laws for the Artificially Intelligent
+339.  0  Meet the Expert: Kerrie Holley on AI-First Healthcare
+340.  0  Artificial Intelligent Techniques for Electric and Hybrid Electric Vehicles
+341.  0  6 Trends Framing the State of AI and ML
+342.  0  AI Adoption in the Enterprise
+343.  0  It's All Analytics!
+344.  0  Designing AI Systems With Human-Machine Teams
+345.  0  Is China Taking the Lead in AI?
+346.  0  AI-Driven Analytics
+347.  0  Data Science @ Conde Nast AI Infrastructure and Applications
+348.  0  Robot Rules
+349.  0  How DoorDash leverages AI in its world-class on-demand logistics engine
+350.  0  Creating the Symbiotic AI Workforce of the Future
+351.  0  Dark Data & AI Pipelines to Drive Ad Sales & Grow Audiences
+352.  0  The AI Knobs, Tips and Tricks to Jumpstart AI projects
+353.  0  How the Royal Bank of Scotland looked at the feasibility of implementing AI to fight financial crimes
+354.  0  Meet the Expert: Roger Magoulas on AI Adoption in the Enterprise in 2020
+355.  0  Personalization at Scale with AI
+356.  0  The Power of the Tensor in NLP: Using unlabeled data and learning from context
+357.  0  How an airport consultancy is transforming routine airport operations with AI
+358.  0  Human + Machine
+359.  0  Executive Briefing: Similar but different—Delivering software with AI
+360.  0  How Captricity built a human-level handwriting recognition engine using data-driven AI
+361.  0  Getting Your Data Ready for AI
+362.  0  Hyperdocumentation
+363.  0  How Wells Fargo uses AI and natural language processing in chatbots to interact with customers
+364.  0  Spotlight on Innovation: AI Trends with Roger Chen
+365.  0  How Panasonic found success implementing multiple AI projects centered around the commercial Internet of Things
+366.  0  Emerging Technologies
+367.  0  How Verint is designing AI strategies and utilizing data for increased ROI
+368.  0  IoT, AI, and Blockchain for .NET: Building a Next-Generation Application from the Ground Up
+369.  0  How Conversica improves conversational AI over thousands of customer interactions
+370.  0  Predicting Personality
+371.  0  AI and the Index Management Problem
+372.  0  EnergyOps
+373.  0  AI Concepts for Business Applications
+374.  0  Rocky Journey to AI Adoption
+375.  0  The Feeling Economy
+376.  0  Data and AI for Emerging Platforms
+377.  0  Building Intelligent Apps with Cognitive APIs
+378.  0  The AI Delusion
+379.  0  Practical Game AI Programming
+380.  0  The Future of Analytics
+381.  0  AI and Big Data on IBM Power Systems Servers
+382.  0  The Driver in the Driverless Car, 2nd Edition
+383.  0  Business Forecasting with AI at Fluidly: Building an intelligent cashflow engine
+384.  0  The Perils of Applying AI Prediction to Complex Decisions
+385.  0  The New Fire
+386.  0  Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion, 2nd Edition
+387.  0  AI for Marketing and Product Innovation
+388.  0  Even If AI Can Cure Loneliness — Should It?
+389.  0  A Developer's Guide to Building AI Applications
+390.  0  Succeeding with AI
+391.  0  The Autonomous Revolution
+392.  0  Smart Business
+393.  0  Learn from the Experts about AI: Matthew Kirk
+394.  0  Reinventing Jobs
+395.  0  Can We Solve AI’s ‘Trust Problem’?
+396.  0  Executive briefing: preparing your infrastructure for AI
+397.  0  Google Cloud AI Services Quick Start Guide
+398.  0  Communicating with Your Customers
+399.  0  Neuro-inspired Information Processing
+400.  0  Hands-On Intelligent Agents with OpenAI Gym
+401.  0  How AI Can Amplify Human Competencies
+402.  0  Future Minds
+403.  0  Only Humans Need Apply
+404.  0  Predictive Medicine
+405.  0  Strategies for AI and Cognitive Tools
+406.  0  Big Data Now: 2016 Edition
+407.  0  Keras to Kubernetes
+408.  0  Unity 2017 Game AI Programming - Third Edition
+409.  0  Implementing a Smart Data Platform
+410.  0  Ghost Work
+411.  0  Everyday Chaos
+412.  0  Architects of Intelligence
+413.  0  The Fatal Flaw of AI Implementation
+414.  0  Best Practices for Bringing AI to the Enterprise
+415.  0  How The Alan Turing Institute and HSBC fostered innovation and talent development
+416.  0  AI for Business
+417.  0  Learn from the Experts about AI: Monica Rogati
+418.  0  Learn from the Experts about AI: Ben Lorica
+419.  0  Learn from the Experts about AI: Brian d'Alessandro
+420.  0  A Human Algorithm
+421.  0  Sooner than you think: Neural interfaces are finally here
+422.  0  Flat, Fluid, and Fast
+423.  0  Artificial Unintelligence
+424.  0  New Dark Age
+425.  0  Reinventing Jobs
+426.  0  Goliath's Revenge
+427.  0  Smart Business
+428.  0  The New World of Human Resources and Employment
+429.  0  Machine Translation
+430.  0  Robot-Proof
+431.  0  Probabilistic Reasoning in Intelligent Systems
+432.  0  Artificial Intelligence
+433.  0  Game AI Pro
+434.  0  Heart of the Machine
+435.  0  Thinking Machines
+436.  0  Data Mining and Machine Learning in Building Energy Analysis
+437.  0  Bayesian Networks for Probabilistic Inference and Decision Analysis in Forensic Science, 2nd Edition
+438.  0  Using Data Management Techniques to Modernize Healthcare
+439.  0  Cognitive Computing and Big Data Analytics
+440.  0  Introduction to Intelligence Studies
+441.  0  Artificial Superintelligence
+442.  0  Humans Need Not Apply
+443.  0  Artificial Intelligence with Power BI
+444.  0  The Technological Singularity
+445.  0  Practical Planning
+446.  0  Oracle Business Intelligence with Machine Learning : Artificial Intelligence Techniques in OBIEE for Actionable BI
+447.  0  Digital Fluency: Understanding the Basics of Artificial Intelligence, Blockchain Technology, Quantum Computing, and Their Applications for Digital Transformation
+448.  0  Androids
+449.  0  Generic Inference: A Unifying Theory for Automated Reasoning
+450.  0  Computational Intelligence
+451.  0  Artificial Intelligence for Renewable Energy Systems
+452.  0  Beginning Azure Cognitive Services: Data-Driven Decision Making Through Artificial Intelligence
+453.  0  Python: Advanced Guide to Artificial Intelligence
+454.  0  Executive Briefing: Usable machine learning—Lessons from Stanford and beyond (2019 Artificial Intelligence Conference, San Jose, CA.)
+455.  0  Cognitive Computing Recipes: Artificial Intelligence Solutions Using Microsoft Cognitive Services and TensorFlow
+456.  0  Appreciative Inquiry
+457.  0  MATLAB Deep Learning: With Machine Learning, Neural Networks and Artificial Intelligence
+458.  0  Artificial Intelligence with Python – Deep Neural Networks
+459.  0  Beginning Artificial Intelligence with the Raspberry Pi
+460.  0  An Introduction to Formal Languages and Automata, 7th Edition
+461.  0  Recommending Art with Feature Engineering
+462.  0  Building Custom Transformers and Estimators to Extend PySpark's ML Pipelines
+463.  0  Algorithmic and Artificial Intelligence Methods for Protein Bioinformatics
+464.  0  Formal Semantics in Modern Type Theories
+465.  0  Classification Techniques for Medical Image Analysis and Computer Aided Diagnosis
+466.  0  Information Theory Meets Power Laws
+467.  0  Introduction to Deep Learning Business Applications for Developers: From Conversational Bots in Customer Service to Medical Image Processing
+468.  0  Emerging Technologies for Health and Medicine
+469.  0  Formal Methods in Manufacturing
+470.  0  Proof Theory
+471.  0  Formal Languages and Computation
+472.  0  COLT Proceedings 1990
+473.  0  Special Theory of Relativity
+474.  0  Efficient Computation of Argumentation Semantics
+475.  0  Computation and Storage in the Cloud
+476.  0  The Inverse Method: Parametric Verification of Real-time Embedded Systems
+477.  0  Using Network and Mobile Technology to Bridge Formal and Informal Learning
+478.  0  Decision Theory
+479.  0  Runes: Theory & Practice
+480.  0  Biological Computation
+481.  0  Computation of Supersonic Flow over Flying Configurations
+482.  0  Ethics and Politics in Contemporary Theory Between Critical Theory and Post-Marxism
+483.  0  Microsoft Certified: Azure AI Fundamentals (AI-900 exam) (Pearson Practice Test)
+484.  0  Data Science and Machine Learning (Theory and Projects) A to Z
+485.  0  PySpark and AWS: Master Big Data with PySpark and AWS
+486.  0  AI for Healthcare with Keras and Tensorflow 2.0: Design, Develop, and Deploy Machine Learning Models Using Healthcare Data
+487.  0  Strata Data & AI Superstream Series: Natural Language Processing
+488.  0  Natural Language Processing with AWS AI Services
+489.  0  The Definitive Guide to Conversational AI with Dialogflow and Google Cloud: Build Advanced Enterprise Chatbots, Voice, and Telephony Agents on Google Cloud
+490.  0  Python Machine Learning Crash Course for Beginners
+491.  0  50 Hours of Big Data, PySpark, AWS, Scala, and Scraping
+492.  0  Mastering Probability and Statistics in Python
+493.  0  Reinforcement Learning with Python Explained for Beginners
+494.  0  Building a Recommendation System with Surprise and Fast.ai
+495.  0  The Applied AI and Natural Language Processing Workshop
+496.  0  Data Scraping and Data Mining from Beginner to Pro with Python
+497.  0  Hands-on Azure Cognitive Services: Applying AI and Machine Learning for Richer Applications
+498.  0  Data Understanding and Data Visualization with Python
+499.  0  Lean AI
+500.  0  Teaching AI the Language of Your Business

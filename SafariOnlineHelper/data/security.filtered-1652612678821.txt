@@ -1,0 +1,502 @@
+INPUT: security
+TOTAL BOOKS: 500
+1.  17  CISSP All-in-One Exam Guide, 6th Edition, 6th Edition
+2.  14  Microservices Security in Action
+3.  13  Cloud Security and Privacy
+4.  13  CCNA Security 210-260
+5.  12  Web Application Security
+6.  11  Hacking: The Art of Exploitation, 2nd Edition
+7.  11  Linux Security: Red Hat Certificate of Expertise in Server Hardening (EX413) and LPIC-3 303 (Security) Exams
+8.  11  CompTIA Security+ SY0-601
+9.  10  The Myths of Security
+10.  10  The Practice of Network Security Monitoring
+11.  10  Mastering Linux Security and Hardening - Second Edition
+12.  9  Practical Cloud Security
+13.  8  Cybersecurity - Attack and Defense Strategies
+14.  8  The IDA Pro Book, 2nd Edition
+15.  8  Network Security Assessment, 3rd Edition
+16.  8  Zero Trust Networks
+17.  8  Getting Started with HashiCorp Vault
+18.  8  Mastering Python - Networking and Security
+19.  7  The Beginners 2022 Cyber Security Awareness Training Course
+20.  7  Cybersecurity Attacks (Red Team Activity)
+21.  7  Serious Cryptography
+22.  7  Introducing Istio Service Mesh for Microservices
+23.  7  (ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide, 9th Edition
+24.  7  Top-Down Network Design, Third Edition
+25.  7  Solving Identity Management in Modern Applications: Demystifying OAuth 2.0, OpenID Connect, and SAML 2.0
+26.  6  Web Security for Developers
+27.  6  Silence on the Wire
+28.  6  Integrated Security Technologies and Solutions - Volume I: Cisco Security Solutions for Advanced Threat Protection with Next Generation Firewall, Intrusion Prevention, AMP, and Content Security, First edition
+29.  6  Agile Application Security
+30.  6  Threat Modeling
+31.  6  Threat Modeling: Designing for Security
+32.  6  Modern Cryptography: Applied Mathematics for Encryption and Information Security
+33.  6  Network Security, Firewalls, and VPNs
+34.  6  Encryption
+35.  6  Advanced API Security: OAuth 2.0 and Beyond
+36.  5  Implementing SSL/TLS Using Cryptography and PKI
+37.  5  Windows Security Monitoring
+38.  5  Learning Network Technology and Security Fundamentals
+39.  5  Introduction to Secure Software
+40.  5  Mobile Application Security
+41.  5  Network Security with OpenSSL
+42.  5  Inside Cyber Warfare
+43.  4  Cybersecurity Blue Team Toolkit
+44.  4  Building a Modern Security Program
+45.  4  Developing Cybersecurity Programs and Policies, 3rd Edition
+46.  4  What Is Cybersecurity?
+47.  4  Essential Cybersecurity Science
+48.  4  The Rootkit Arsenal: Escape and Evasion in the Dark Corners of the System, 2nd Edition
+49.  4  CISM Certified Information Security Manager All-in-One Exam Guide
+50.  4  Mastering Python for Networking and Security - Second Edition
+51.  4  Network Security with NetFlow and IPFIX: Big Data Analytics for Information Security
+52.  4  Applied Network Security Monitoring
+53.  4  Identity and Data Security for Web Development
+54.  4  Hands-On pfSense 2.x for Firewalls and Routers
+55.  4  Network Security Through Data Analysis
+56.  4  Web Application Security, A Beginner's Guide
+57.  4  Securing Web Applications with ZAP
+58.  4  CBAP®/CCBA™ Certified Business Analysis, Study Guide
+59.  3  Integrated Security Technologies and Solutions - Volume II: Cisco Security Solutions for Network Access Control, Segmentation, Context Sharing, Secure Connectivity and Virtualization
+60.  3  Security in Computing
+61.  3  Introduction to Computer Networks and Cybersecurity
+62.  3  Cybersecurity – Attack and Defense Strategies - Second Edition
+63.  3  Effective Cybersecurity: A Guide to Using Best Practices and Standards
+64.  3  ModSecurity 2.5
+65.  3  Steal This Computer Book 4.0, 4th Edition
+66.  3  Cryptography and Network Security
+67.  3  CRISC Certified in Risk and Information Systems Control All-in-One Exam Guide
+68.  3  Threat Hunting
+69.  3  The Mobile Application Hacker's Handbook
+70.  3  Understanding Intrusion Detection Systems
+71.  3  Software Security: Building Security In
+72.  3  Network Security Assessment, 2nd Edition
+73.  3  CCNA Security 210-260 Certification Guide
+74.  3  Inside Cyber Warfare, 2nd Edition
+75.  3  CompTIA Security+ All-in-One Exam Guide, Sixth Edition (Exam SY0-601)), 6th Edition
+76.  3  Router Security Strategies: Securing IP Network Traffic Planes
+77.  3  Core Security Patterns: Best Practices and Strategies for J2EE™, Web Services, and Identity Management
+78.  3  The Essence of Software Engineering: Applying the SEMAT Kernel
+79.  3  Linux Security and Hardening, The Practical Security Guide
+80.  2  Foundations of Information Security
+81.  2  Computer Security Fundamentals, 4th Edition
+82.  2  Computer Security Art and Science, 2nd Edition
+83.  2  IT Auditing Using Controls to Protect Information Assets, Third Edition, 3rd Edition
+84.  2  Cybersecurity Attacks – Red Team Strategies
+85.  2  Cybersecurity Ops with bash
+86.  2  Linux Essentials for Cybersecurity
+87.  2  Threat Intelligence in Practice
+88.  2  The O'Reilly Security Conference - New York, NY 2016
+89.  2  The Cyber Risk Handbook
+90.  2  Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition
+91.  2  Enterprise Cybersecurity: How to Build a Successful Cyberdefense Program Against Advanced Threats
+92.  2  The Future of Cyber Security and Security Innovation
+93.  2  The Value of Operations Security
+94.  2  Using the IBM Security Framework and IBM Security Blueprint to Realize Business-Driven Security
+95.  2  Computer Security Fundamentals, Second Edition
+96.  2  Chinese Cybersecurity and Cyberdefense
+97.  2  No Tech Hacking
+98.  2  A Bug Hunter's Diary
+99.  2  Security Engineering, 3rd Edition
+100.  2  OWASP Top 10 Security Fundamentals
+101.  2  Real-World Cryptography
+102.  2  Microservices Security in Action video edition
+103.  2  Security engineering 101: When good design and security work together
+104.  2  Web Security: Common Vulnerabilities And Their Mitigation
+105.  2  The Manager’s Guide to Web Application Security: A Concise Guide to the Weaker Side of the Web
+106.  2  Mastering Palo Alto Networks
+107.  2  Firewalls Don't Stop Dragons: A Step-by-Step Guide to Computer Security and Privacy for Non-Techies
+108.  2  Security Program and Policies: Principles and Practices, Second Edition
+109.  2  Build Your Own Cybersecurity Testing Lab: Low-cost Solutions for Testing in Virtual and Cloud-based Environments
+110.  2  Burp Suite Cookbook
+111.  2  Ransomware
+112.  2  Distributed Denial of Service (DDoS)
+113.  2  Tribe of Hackers
+114.  2  Healthcare Information Security and Privacy
+115.  2  Cyber Security and IT Infrastructure Protection
+116.  2  Web Security
+117.  2  Bug Bounty Hunting Essentials
+118.  2  Designing and Building Security Operations Center
+119.  2  Network Defense and Countermeasures: Principles and Practices, 3rd Edition
+120.  2  Fixing an Insecure Software Life Cycle
+121.  2  Maximum Privacy with End-to-End Encryption: Learn to Keep Communications Private
+122.  2  Patrolling the Dark Net
+123.  2  The Tao of Network Security Monitoring Beyond Intrusion Detection
+124.  2  Security Engineering: A Guide to Building Dependable Distributed Systems, Second Edition
+125.  2  Cisco CyberOps Associate CBROPS 200-201 Official Cert Guide
+126.  2  Network Security Bible, 2nd Edition
+127.  2  CCNA 200-301 Official Cert Guide, Volume 2
+128.  2  HCISPP Study Guide
+129.  2  31 Days Before your CCNA Exam: A Day-By-Day Review Guide for the CCNA 200-301 Certification Exam
+130.  2  Simple Steps to Data Encryption
+131.  2  Cisco CyberOps Associate CBROPS 200-201
+132.  2  Web Application Defender's Cookbook
+133.  2  Network Security Architectures
+134.  2  AAA and Network Security for Mobile Access: Radius, Diameter, EAP, PKI and IP Mobility
+135.  2  Network Maintenance and Troubleshooting Guide: Field-Tested Solutions for Everyday Problems, Second Editon
+136.  2  PeopleSoft PeopleTools Tips & Techniques
+137.  2  Mastering Linux Security and Hardening
+138.  1  97 Things Every Information Security Professional Should Know
+139.  1  Cyber Security: Essential Principles to Secure Your Organisation
+140.  1  Information Security Policies, Procedures, and Standards
+141.  1  Information Security Governance Simplified
+142.  1  People-Centric Security: Transforming Your Enterprise Security Culture
+143.  1  Cybersecurity of Industrial Systems
+144.  1  Information Assurance Handbook: Effective Computer Security and Risk Management Strategies
+145.  1  O'Reilly Security Conference 2017 - New York, NY
+146.  1  Tribe of Hackers Red Team
+147.  1  Cybersecurity for Space: Protecting the Final Frontier
+148.  1  Hands-On Cybersecurity for Finance
+149.  1  Security for Web Developers
+150.  1  Securing Open Source Libraries
+151.  1  The Cybersecurity Playbook
+152.  1  Cybersecurity
+153.  1  The Information Security Video Collection
+154.  1  The Business of Cybersecurity
+155.  1  Information Technology Security Fundamentals
+156.  1  The Security Video Collection
+157.  1  Information Security A Practical Guide: Bridging the Gap between IT and Management
+158.  1  To Improve Cybersecurity, Think Like a Hacker
+159.  1  Cybersecurity for Executives: A Practical Guide
+160.  1  Information Security for Managers
+161.  1  Introduction to US Cybersecurity Careers
+162.  1  Getting Started with Cybersecurity Science
+163.  1  CyberWar, CyberTerror, CyberCrime and CyberActivism, 2nd Edition
+164.  1  Computer Security Handbook, Fifth Edition
+165.  1  Mobile Security: A Pocket Guide
+166.  1  Cybersecurity: Managing Systems, Conducting Testing, and Investigating Intrusions
+167.  1  Schneier on Security
+168.  1  The New School of Information Security
+169.  1  Securing the Virtual Environment: How to Defend the Enterprise Against Attack, Included DVD
+170.  1  How to Spot a Liar
+171.  1  Snort Cookbook
+172.  1  Alice and Bob Learn Application Security
+173.  1  Shifting Left for Application Security
+174.  1  Network Security, Firewalls, and VPNs, 3rd Edition
+175.  1  CISM Certified Information Security Manager Practice Exams
+176.  1  Exam Ref MS-500 Microsoft 365 Security Administration
+177.  1  Cloud Native Application Security
+178.  1  CCISO Certified Chief Information Security Officer All-in-One Exam Guide
+179.  1  Network Security Strategies
+180.  1  The Spring Security Architecture for Authentication and Authorization
+181.  1  Cyber Security Essentials
+182.  1  Defensive Security Handbook
+183.  1  Mastering Python for Networking and Security
+184.  1  Network Security Through Data Analysis, 2nd Edition
+185.  1  Applied Network Security
+186.  1  Practical Vulnerability Management
+187.  1  Cyber Warfare - Truth, Tactics, and Strategies
+188.  1  Introduction to Cryptography with Coding Theory, 3rd Edition
+189.  1  Security principles for the working architect
+190.  1  Practical Cryptography in Python: Learning Correct Cryptography by Example
+191.  1  Network Performance and Security
+192.  1  Network Science with Python and NetworkX Quick Start Guide
+193.  1  Securing Cloud Services - A pragmatic approach, second edition
+194.  1  A Complete Guide to Burp Suite: Learn to Detect Application Vulnerabilities
+195.  1  Thinking Security: Stopping Next Year’s Hackers
+196.  1  Information Privacy Engineering and Privacy by Design: Understanding Privacy Threats, Technology, and Regulations Based on Standards and Best Practices
+197.  1  Network Vulnerability Assessment
+198.  1  Hands-On Cryptography with Python
+199.  1  Expert Oracle Application Express Security
+200.  1  Network Security First-Step, Second Edition
+201.  1  Wireless Network Security A Beginner's Guide
+202.  1  Security, Privacy, and Governance
+203.  1  Network Security Auditing
+204.  1  SCSP SNIA Certified Storage Professional All-in-One Exam Guide (Exam S10-110)
+205.  1  Microsoft Security Operations Analyst Exam Ref SC-200 Certification Guide
+206.  1  The Antivirus Hacker's Handbook
+207.  1  Enterprise Security Architecture
+208.  1  Network Defense and Countermeasures: Principles and Practices, Second Edition
+209.  1  The Shellcoder's Handbook: Discovering and Exploiting Security Holes, Second Edition
+210.  1  Network Attacks and Exploitation
+211.  1  QoS for Fixed and Mobile Ultra-Broadband
+212.  1  Software Engineering: A Methodical Approach
+213.  1  The Craft of System Security
+214.  1  Cyber Warfare, 2nd Edition
+215.  1  Inside Network Perimeter Security, Second Edition
+216.  1  Mastering Windows Security and Hardening
+217.  1  Securing Cloud Services
+218.  1  End-to-End Network Security: Defense-in-Depth
+219.  1  Software Security Engineering: A Guide for Project Managers
+220.  1  Web Commerce Security Design and Development
+221.  1  Network Security Hacks, 2nd Edition
+222.  1  The Architecture of Privacy
+223.  1  Cyber Warfare
+224.  1  Adobe® ColdFusion® Web Application Construction Kit: ColdFusion® 10 Enhancements and Improvements
+225.  1  Network Security Fundamentals
+226.  1  Build Your Own Security Lab: A Field Guide for Network Testing
+227.  1  Inside Network Security Assessment: Guarding Your IT Infrastructure
+228.  1  Software Engineering
+229.  1  The CISM™ Prep Guide: Mastering the Five Domains of Information Security Management
+230.  1  Network Security: Private Communication in a Public World, Second Edition
+231.  1  SQL Injection Attacks and Defense, 2nd Edition
+232.  1  Assessing Network Security
+233.  1  Cisco Network Security Troubleshooting Handbook
+234.  1  Client-Side Attacks and Defense
+235.  1  Biometrics for Network Security
+236.  1  Security Warrior
+237.  1  The Privacy Engineer's Manifesto: Getting from Policy to Code to QA to Value
+238.  1  Web Application Obfuscation
+239.  0  GIAC Security Essentials (GSEC)
+240.  0  The Future of Security
+241.  0  Security Policies and Implementation Issues, 3rd Edition
+242.  0  8 Steps to Better Security
+243.  0  Rational Cybersecurity for Business: The Security Leaders' Guide to Business Alignment
+244.  0  Python for Automating Information Security
+245.  0  Microsoft 365 Security Administration: MS-500 Exam Guide
+246.  0  The CISO Evolution
+247.  0  The Cybersecurity Manager's Guide
+248.  0  Core Software Security
+249.  0  The CISO Evolution
+250.  0  How Cyber Security Can Protect Your Business - A guide for all stakeholders
+251.  0  Security Awareness For Dummies
+252.  0  The Routledge Companion to Risk, Crisis and Security in Business
+253.  0  A Leader's Guide to Cybersecurity
+254.  0  Security for Business Professionals
+255.  0  Cybersecurity For Dummies
+256.  0  Cybersecurity Essentials
+257.  0  Start-Up Secure
+258.  0  Information Security Management Principles - Second edition
+259.  0  The Complete Guide to Physical Security
+260.  0  Cybersecurity
+261.  0  Cyber Minds
+262.  0  O'Reilly Security Conference 2016 - Amsterdam, Netherlands
+263.  0  Navigating the Human Side of Boardroom Interactions
+264.  0  Professional Red Teaming: Conducting Successful Cybersecurity Engagements
+265.  0  SQL Injection Attacks: Protect Your System from Vulnerabilities
+266.  0  Engineering Trustworthy Systems: Get Cybersecurity Design Right the First Time
+267.  0  Cyber Crisis
+268.  0  The Cybersecurity Playbook
+269.  0  A Leader’s Guide to Cybersecurity
+270.  0  Security and Frontend Performance
+271.  0  Successful Cybersecurity Professionals
+272.  0  Enterprise Cybersecurity Study Guide: How to Build a Successful Cyberdefense Program Against Advanced Threats
+273.  0  Cybercrime and You: Staying Safe in a Hyper-Connected World
+274.  0  Building a HIPAA-Compliant Cybersecurity Program: Using NIST 800-30 and CSF to Secure Protected Health Information
+275.  0  Cyber-Vigilance and Digital Trust
+276.  0  The Security Consultant's Handbook
+277.  0  Cybersecurity Law
+278.  0  Cyber Security Policy Guidebook
+279.  0  Casting the Dark Web in a New Light
+280.  0  Smart Grid Security
+281.  0  Modernizing Cybersecurity Operations with Machine Intelligence
+282.  0  Corporate Security in the Asia-Pacific Region
+283.  0  Cybercrime Investigators Handbook
+284.  0  Legal Issues in Information Security, 2nd Edition
+285.  0  Personal Cybersecurity: How to Avoid and Recover from Cybercrime
+286.  0  Cybersecurity and Applied Mathematics
+287.  0  The Handbook for School Safety and Security
+288.  0  Cybersecurity and Cyberwar
+289.  0  Information Security Management Handbook, Volume 7, 6th Edition
+290.  0  The Board's Role in Managing Cybersecurity Risks
+291.  0  Cybersecurity Law
+292.  0  Beyond Cybersecurity: Protecting Your Digital Business
+293.  0  Whaling for Beginners
+294.  0  The Second Economy: The Race for Trust, Treasure and Time in the Cybersecurity War
+295.  0  A Multidisciplinary Introduction to Information Security
+296.  0  Cybersecurity Lexicon
+297.  0  Cyber Power
+298.  0  Advances in Intelligence and Security Informatics
+299.  0  Who Are the Bad Guys and What Do They Want?
+300.  0  The PayPal Official Insider Guide to Internet Security: Spot scams and protect your online business
+301.  0  Security De-Engineering
+302.  0  Managing Information Security Breaches: Studies from Real Life
+303.  0  Active Shooter
+304.  0  Introduction to Cyber-Warfare
+305.  0  IT Induction and Information Security Awareness
+306.  0  Techno Security's Guide to Managing Risks for IT Managers, Auditors, and Investigators
+307.  0  How to Develop and Implement a Security Master Plan
+308.  0  Selling Information Security to the Board: A Primer
+309.  0  Discrete Dynamical Systems and Chaotic Machines
+310.  0  Information Security Management Principles
+311.  0  Once More unto the Breach
+312.  0  Hardware-based Computer Security Techniques to Defeat Hackers: From Biometrics to Quantum Cryptography
+313.  0  Ten Rules of Information Security for the Smaller Business
+314.  0  Handbook of Information Security: Threats, Vulnerabilities, Prevention, Detection, and Management, Volume 3
+315.  0  Essential Computer Security: Everyone's Guide to Email, Internet, and Wireless Security
+316.  0  Seven Deadliest Social Network Attacks
+317.  0  Digital CCTV
+318.  0  How to Avoid Being Scammed
+319.  0  Privacy Means Profit: Prevent Identity Theft and Secure You and Your Bottom Line
+320.  0  CyberWar, CyberTerror, CyberCrime: A Guide to the Role of Standards in an Environment of Change and Danger
+321.  0  The She Spot
+322.  0  Inside the Security Mind: Making the Tough Decisions
+323.  0  Using the Common Criteria for IT Security Evaluation
+324.  0  Enemy at the Water Cooler
+325.  0  Leo Laporte’s Guide to Safe Computing
+326.  0  Back to the Drawing Board
+327.  0  Intruder Alarms, 2nd Edition
+328.  0  Certified Information Security Manager Exam Prep Guide
+329.  0  Cyber Security and Network Security
+330.  0  Wireless Security Architecture
+331.  0  Security Superstream: Ransomware
+332.  0  Nmap Network Exploration and Security Auditing Cookbook - Third Edition
+333.  0  Multi-Site Network and Security Services with NSX-T: Implement Network Security, Stateful Services, and Operations
+334.  0  Finding Your Cyber Security Path
+335.  0  Making Sense of Application Security
+336.  0  Consul: Up and Running
+337.  0  CRISC Certified in Risk and Information Systems Control All-in-One Exam Guide, Second Edition, 2nd Edition
+338.  0  CISM Certification Domain 1: Information Security Governance Video Boot Camp 2019
+339.  0  Microservices Security in Action
+340.  0  Azure Security Handbook: A Comprehensive Guide for Defending Your Enterprise Environment
+341.  0  Computer Network Security
+342.  0  CIPM Certified Information Privacy Manager All-in-One Exam Guide
+343.  0  Infrastructure & Ops Superstream Series: Building Security Into Your Development Lifecycle
+344.  0  Hands-On Network Scanning with Nmap for Network Security
+345.  0  Research Methods for Cyber Security
+346.  0  Practical Security
+347.  0  Essentials of Software Engineering, 5th Edition
+348.  0  Real-World Cryptography, video edition
+349.  0  Web Security
+350.  0  Data Privacy
+351.  0  Engineering Software Products: An Introduction to Modern Software Engineering
+352.  0  Practical Linux Security Cookbook - Second Edition
+353.  0  Cyber Security Engineering: A Practical Approach for Systems and Software Assurance
+354.  0  HCISPP HealthCare Information Security and Privacy Practitioner All-in-One Exam Guide
+355.  0  Case Study: How Tools & Solutions Survived a Ransomware Attack
+356.  0  Cyber Security: Endpoint Defense
+357.  0  Integrating security into modern software development: A workflow study
+358.  0  How Cybersecurity Really Works
+359.  0  Security, Privacy, and Digital Forensics in the Cloud
+360.  0  Security from First Principles
+361.  0  Real-World Cryptography
+362.  0  Cisco Certified CyberOps Associate 200-201 Certification Guide
+363.  0  The Art of Attack
+364.  0  Istio Ingress Gateway
+365.  0  Security Architect: Careers in information security
+366.  0  Introduction to Network Security, 2nd Edition
+367.  0  You CAN Stop Stupid
+368.  0  CDPSE Certified Data Privacy Solutions Engineer All-in-One Exam Guide
+369.  0  Application of Big Data for National Security
+370.  0  Intro to Secure Application Deployment with Istio on Kubernetes
+371.  0  Computer Security Literacy
+372.  0  The Psychology of Information Security - Resolving Conflicts Between Security Compliance and human Behaviour
+373.  0  Security Intelligence: A Practitioner's Guide to Solving Enterprise Security Challenges
+374.  0  The Network Security Test Lab: A Step-by-Step Guide
+375.  0  Cryptography Apocalypse
+376.  0  Practical Network Scanning
+377.  0  Implementing Cryptography Using Python
+378.  0  CTS-I Certified Technology Specialist-Installation Exam Guide, Second Edition, 2nd Edition
+379.  0  Mobile Security and Privacy
+380.  0  Building an Intelligence-Led Security Program
+381.  0  Hands-On Software Engineering with Python
+382.  0  Digital Privacy and Security Using Windows: A Practical Guide
+383.  0  Security and Privacy in Cyber-Physical Systems
+384.  0  Cyber Operations: Building, Defending, and Attacking Modern Computer Networks
+385.  0  Building Web Apps that Respect a User's Privacy and Security
+386.  0  How to build privacy and security into deep learning models
+387.  0  Getting Started with z/OS Data Set Encryption
+388.  0  Untangle Network Security
+389.  0  Securing Your Network from Attacks
+390.  0  The Information Systems Security Officer's Guide, 3rd Edition
+391.  0  Securing Network Infrastructure
+392.  0  Asset Attack Vectors: Building Effective Vulnerability Management Strategies to Protect Organizations
+393.  0  Build a Security Culture
+394.  0  Identity in Modern Applications
+395.  0  Healthcare Information Privacy and Security: Regulatory Compliance and Data Security in the Age of Electronic Health Records
+396.  0  Securing Node Applications
+397.  0  UTM Security with Fortinet
+398.  0  Countering Cyber Sabotage
+399.  0  Citizen Development: The Handbook for Creators and Changemakers
+400.  0  Waging Cyber War: Technical Challenges and Operational Constraints
+401.  0  Modern Defense in Depth
+402.  0  Cybersecurity Program Development for Business
+403.  0  Security Management
+404.  0  Public Safety Networks from LTE to 5G
+405.  0  Building an Anonymization Pipeline
+406.  0  The Tech That Comes Next
+407.  0  Crypto
+408.  0  Nmap 6: Network Exploration and Security Auditing Cookbook
+409.  0  Securing Web Applications
+410.  0  Introduction to Computer and Network Security
+411.  0  The Effective Security Officer's Training Manual, 3rd Edition
+412.  0  Security and Privacy in Smart Grids
+413.  0  Trusted Computing
+414.  0  Network Scanning Cookbook
+415.  0  Emerging Trends in ICT Security
+416.  0  Handbook of Healthcare Analytics
+417.  0  Profit over Privacy
+418.  0  The Practical Guide to HIPAA Privacy and Security Compliance, 2nd Edition
+419.  0  The Customer Revolution in Healthcare: Delivering Kinder, Smarter, Affordable Care for All
+420.  0  Take Control of Your Online Privacy, 4th Edition
+421.  0  The California Privacy Rights Act (CPRA) – An implementation and compliance guide
+422.  0  Meet the Expert: Alex Gorelik on Data Privacy Regulations at Facebook
+423.  0  Managing and Mitigating Bots
+424.  0  Customer Data and Privacy: The Insights You Need from Harvard Business Review
+425.  0  Privacy Optimization Meets Pandemic Tracking
+426.  0  Exposed
+427.  0  Cyber Crime and Cyber Terrorism Investigator's Handbook
+428.  0  We Have Root
+429.  0  10 Don'ts on Your Digital Devices: The Non-Techies Survival Guide to Cyber Security and Privacy
+430.  0  Photonic Sensing: Principles and Applications for Safety and Security Monitoring
+431.  0  HIPAA Compliance for Healthcare Workloads on IBM Spectrum Scale
+432.  0  Spotlight on Learning from Failure: Data Ethics Is Good Business with Heather Krause
+433.  0  Customer Data and Privacy
+434.  0  Developer's Guide to Web Application Security
+435.  0  Network Intrusion Prevention Design Guide: Using IBM Security Network IPS
+436.  0  Protecting Data Privacy Beyond the Trusted System of Record
+437.  0  Security for Microsoft Windows System Administrators
+438.  0  Getting Started with z/OS Data Set Encryption
+439.  0  The Complete Guide for CPP Examination Preparation, 2nd Edition
+440.  0  Spotlight on Data: The Ethics of Analytics with Bill Franks
+441.  0  Evidence-Based Software Engineering and Systematic Reviews
+442.  0  Effective Methods for Software and Systems Integration
+443.  0  Introduction to Cryptography with Open-Source Software
+444.  0  Beginning Application Lifecycle Management
+445.  0  The California Consumer Privacy Act (CCPA)
+446.  0  Thor's Microsoft Security Bible
+447.  0  Social-Behavioral Modeling for Complex Systems
+448.  0  How to Expand Your Professional Network
+449.  0  Auditing Cloud Computing: A Security and Privacy Guide
+450.  0  Information Security Management Metrics
+451.  0  Interpretation and Application of IPSAS
+452.  0  IT's About Patient Care: Transforming Healthcare Information Technology the Cleveland Clinic Way
+453.  0  Privacy and Algorithmic Fairness
+454.  0  Information and Communication Technologies in Healthcare
+455.  0  My Online Privacy for Seniors, First Edition
+456.  0  Delayed and Network Queues
+457.  0  GFI Network Security and PCI Compliance Power Tools
+458.  0  Securing the Borderless Network: Security for the Web 2.0 World
+459.  0  Accountable Care Organizations
+460.  0  Digital Video Surveillance and Security
+461.  0  The Definitive Guide to Complying with the HIPAA/HITECH Privacy and Security Rules
+462.  0  Network Basics Companion Guide
+463.  0  Cryptography InfoSec Pro Guide
+464.  0  Network Security: Know It All
+465.  0  Security Monitoring with Cisco Security MARS
+466.  0  Network Basics Companion Guide, Video Enhanced Edition
+467.  0  Network Intrusion Analysis
+468.  0  CCFP Certified Cyber Forensics Professional All-in-One Exam Guide
+469.  0  Handbook of Sensor Networking
+470.  0  How to Attack and Defend Your Website
+471.  0  Being a Solo Librarian in Healthcare
+472.  0  Security Development Lifecycle
+473.  0  The Basics of Cyber Warfare
+474.  0  Network Attacks and Defenses
+475.  0  Network Security
+476.  0  Nessus Network Auditing, 2nd Edition
+477.  0  Network Security Hacks
+478.  0  You: For Sale
+479.  0  Security in a Web 2.0+ World: A Standards-Based Approach
+480.  0  Intrusion Detection Networks
+481.  0  Scale Out Network Attached Storage Monitoring
+482.  0  The Smart Girl's Guide to Privacy
+483.  0  Network Security Assessment: From Vulnerability to Patch
+484.  0  Hunting Security Bugs
+485.  0  Network Security Tools
+486.  0  Home Network Security Simplified
+487.  0  Mastering Microsoft Endpoint Manager
+488.  0  Ambient Computing
+489.  0  Hospital and Healthcare Security, 5th Edition
+490.  0  Obfuscation
+491.  0  Emerging Technologies
+492.  0  Hazardous Material (HAZMAT) Life Cycle Management
+493.  0  Elliptic Curves, 2nd Edition
+494.  0  Introduction to Network Emulation
+495.  0  Self-Defending Networks: The Next Generation of Network Security
+496.  0  Network Security Assessment
+497.  0  Seven Deadliest Network Attacks
+498.  0  The Basics of Digital Privacy
+499.  0  Data Privacy for the Smart Grid
+500.  0  Digital Privacy in the Marketplace

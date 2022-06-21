@@ -1,0 +1,12 @@
+INPUT: quantative analysis in finance
+TOTAL BOOKS: 10
+1.  1  Marketing Metrics: The Manager’s Guide to Measuring Marketing Performance, Third Edition
+2.  1  The New Language of Marketing 2.0: How to Use ANGELS to Energize Your Market
+3.  1  Management Research Methodology: Integration of Principles, Methods and Techniques
+4.  0  Durability of Bridge Structures
+5.  0  Multicriteria Decision-Making Under Conditions of Uncertainty
+6.  0  Tourism Management, 5th Edition
+7.  0  Introduction to electronic health records
+8.  0  Operations Risk
+9.  0  AI and the Future of Banking
+10.  0  Management Research Methodology: Integration of Principles, Methods and Techniques

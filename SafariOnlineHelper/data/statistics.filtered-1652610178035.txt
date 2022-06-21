@@ -1,0 +1,502 @@
+INPUT: statistics
+TOTAL BOOKS: 500
+1.  44  Python Fundamentals
+2.  26  Just Enough Math
+3.  22  Head First Statistics
+4.  20  Data Science from Scratch, 2nd Edition
+5.  16  Practical Statistics for Data Scientists
+6.  15  Hands-On Systems Programming with Rust
+7.  13  Statistics for Data Science and Business Analysis
+8.  12  Learn C the Hard Way: A Clear & Direct Introduction To Modern C Programming
+9.  11  Statistics for Machine Learning
+10.  11  Practical Monitoring
+11.  11  Optimizing Java
+12.  11  SQL Server 70-762: Developing SQL Databases: Required Knowledge for SQL Server 2012 and 2014
+13.  10  Bayesian Statistics the Fun Way
+14.  10  Think Stats, 2nd Edition
+15.  10  Optimizing Java
+16.  10  Learning Functional Programming in Go
+17.  10  Data Science from Scratch
+18.  9  Statistics in a Nutshell
+19.  9  97 Things Every Data Engineer Should Know
+20.  9  Advancing into Analytics
+21.  9  Data Lake for Enterprises
+22.  9  Docker and Kubernetes for Java Developers
+23.  8  Practical Statistics for Data Scientists, 2nd Edition
+24.  8  Statistics in a Nutshell, 2nd Edition
+25.  8  Statistical Analysis Using Excel LiveLessons (Video Training)
+26.  8  Probability and Statistics for Machine Learning
+27.  8  R Programming for Statistics and Data Science
+28.  8  Python for Finance, 2nd Edition
+29.  8  Learning OpenStack Networking - Third Edition
+30.  8  AWS Certified Machine Learning-Specialty (ML-S)
+31.  8  Learning Informatica PowerCenter 10.x - Second Edition
+32.  7  Data Structures, Algorithms, and Machine Learning Optimization
+33.  7  Blueprints for Text Analytics Using Python
+34.  7  D3 for the Impatient
+35.  7  Mastering Apache Solr 7.x
+36.  6  Think Bayes
+37.  6  Visualize This: The FlowingData Guide to Design, Visualization, and Statistics
+38.  6  Hands-On Machine Learning for Algorithmic Trading
+39.  6  Learning Path: Python for Data Analytics
+40.  5  Think Stats
+41.  5  Implementing Service Level Objectives
+42.  5  Advances in Financial Machine Learning
+43.  5  Bayesian Analysis with Python - Second Edition
+44.  5  Mastering PostgreSQL 12
+45.  5  Pandas Cookbook
+46.  5  Enterprise Application Architecture with .NET Core
+47.  5  Practical Time Series Analysis
+48.  5  Apache Hive Cookbook
+49.  5  Artificial Intelligence with Python
+50.  4  Think Bayes, 2nd Edition
+51.  4  Even You Can Learn Statistics and Analytics: An Easy to Understand Guide to Statistics and Analytics, Third Edition
+52.  4  Essential Statistics for Non-STEM Data Analysts
+53.  4  Statistics for Data Science
+54.  4  Introduction to Probability
+55.  4  Statistical Rethinking
+56.  4  The Complete Quantum Computing Course for Beginners
+57.  4  Mastering Big Data Analytics with PySpark
+58.  4  Hands-On Kotlin Web Development with Ktor
+59.  4  SAS Certified Specialist Prep Guide
+60.  4  Think Like a Data Scientist: Tackle the data science process step-by-step
+61.  4  Strata Data Conference - New York, NY 2018
+62.  4  AWS Certified Developer - Associate Guide
+63.  4  R in Action, Second Edition
+64.  4  Jira Quick Start Guide
+65.  4  Introduction to SQL Server Query Optimization: Understanding Query Optimization and Built-in Optimization Tools
+66.  4  Practical Big Data Analytics
+67.  4  Python for Finance
+68.  3  Probability and Statistics for Computer Scientists, 2nd Edition
+69.  3  Statistics Done Wrong
+70.  3  Business Statistics, Second Edition
+71.  3  Statistics for Sport and Exercise Studies
+72.  3  Probability, Statistics and Random Processes
+73.  3  Statistics for Business
+74.  3  The Manga Guide to Statistics
+75.  3  Statistical Inference: A Short Course
+76.  3  Basic Statistics and Data Mining for Data Science
+77.  3  Advanced Statistics and Data Mining for Data Science
+78.  3  Using R for Statistics
+79.  3  SAS Statistics by Example
+80.  3  Mastering pandas - Second Edition
+81.  3  Essential Math for Data Science
+82.  3  Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud
+83.  3  Practical Splunk Search Processing Language: A Guide for Mastering SPL Commands for Maximum Efficiency and Outcome
+84.  3  The Complete C++ Developer Course
+85.  3  Hands-On System Programming with Linux
+86.  3  Hands-On Mathematics for Deep Learning
+87.  3  Python Programming for Beginners - Learn in 100 Easy Steps
+88.  3  Strata Data Conference 2019 - San Francisco, California
+89.  3  Linux Shell Scripting Cookbook - Third Edition
+90.  3  GMAT For Dummies, 7th Edition
+91.  3  Functional Python Programming - Second Edition
+92.  3  Introduction to Machine Learning with R
+93.  3  SQL Server 2017 Administration Inside Out
+94.  3  Data Analytics for IT Networks: Developing Innovative Use Cases, First Edition
+95.  3  Splunk Operational Intelligence Cookbook - Third Edition
+96.  3  MySQL 8 Cookbook
+97.  3  Next.js Quick Start Guide
+98.  3  Learning Spark SQL
+99.  3  PostgreSQL 10 Administration Cookbook
+100.  3  Pro SQL Server Internals, Second Edition
+101.  3  Modern Scala Projects
+102.  3  ODSC East 2018 (Open Data Science Conference)
+103.  3  Monitoring with Graphite
+104.  2  The Statistics and Calculus with Python Workshop
+105.  2  Business Statistics: For Contemporary Decision Making, 8th Edition
+106.  2  Statistics, 3E
+107.  2  Statistics for Biomedical Engineers and Scientists
+108.  2  Statistics: An Introduction Using R, 2nd Edition
+109.  2  Probability, Statistics, and Stochastic Processes, 2nd Edition
+110.  2  Statistics For Dummies®, 2nd Edition
+111.  2  Nonparametric Statistics: A Step-by-Step Approach, 2nd Edition
+112.  2  Understanding Business Statistics
+113.  2  Mathematical Statistics with Resampling and R
+114.  2  The Humongous Book of Statistics Problems
+115.  2  Probability and Statistics for Finance
+116.  2  Numbers Rule Your World: The Hidden Influence of Probabilities and Statistics on Everything You Do
+117.  2  JMP® Means Business: Statistical Models for Management
+118.  2  MAD Skills
+119.  2  A Course in Statistics with R
+120.  2  Mathematics and Statistics for Financial Risk Management
+121.  2  O'Reilly Strata Data Conference 2019 - New York, New York
+122.  2  Deep Learning
+123.  2  Python for Data Analysis: Step-By-Step with Projects
+124.  2  The Simplest Guide™ to SAS Programming | Base SAS | Advanced SAS
+125.  2  Build a Career in Data Science
+126.  2  Mastering GitLab 12
+127.  2  Hands-On Genetic Algorithms with Python
+128.  2  Elasticsearch 7 Quick Start Guide
+129.  2  R Cookbook, 2nd Edition
+130.  2  Programming Interviews Exposed, 4th Edition
+131.  2  Mastering Python Scripting for System Administrators
+132.  2  Hands-On Microservices with Rust
+133.  2  Numerical Python : Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib
+134.  2  Embedded Linux Development Using Yocto Project Cookbook - Second Edition
+135.  2  SAS Certification Prep Guide
+136.  2  Spark, Ray, and Python for Scalable Data Science
+137.  2  OpenCV 4 with Python Blueprints - Second Edition
+138.  2  Machine Learning, 2nd Edition
+139.  2  Microsoft Excel 2019 Data Analysis and Business Modeling, 6th Edition
+140.  2  Learn C the Hard Way (Companion Videos)
+141.  2  Microsoft Excel 2016 Data Analysis and Business Modeling
+142.  2  Become a Python Data Analyst
+143.  2  Network Analysis Using Wireshark 2 Cookbook - Second Edition
+144.  2  UX for the Web
+145.  2  PolyBase Revealed: Data Virtualization with SQL Server, Hadoop, Apache Spark, and Beyond
+146.  2  PostgreSQL 10 High Performance
+147.  2  Oracle SQL Tuning with Oracle SQLTXPLAIN: Oracle Database 12c Edition, Second Edition
+148.  2  Teradata Cookbook
+149.  2  Apache Kafka 1.0 Cookbook
+150.  2  Data Science Algorithms in a Week - Second Edition
+151.  2  Mastering Numerical Computing with NumPy
+152.  2  Bug Bounty Hunting Essentials
+153.  2  Scala Machine Learning Projects
+154.  2  Mastering Concurrency Programming with Java 9 - Second Edition
+155.  2  Industrial Internet Application Development
+156.  2  Learning Ceph - Second Edition
+157.  2  Principles of Data Science - Second Edition
+158.  2  Nmap: Network Exploration and Security Auditing Cookbook - Second Edition
+159.  2  Rust High Performance
+160.  2  Wireshark Fundamentals
+161.  1  Statistical Rethinking, 2nd Edition
+162.  1  Statistics Essentials For Dummies
+163.  1  A Guide to Business Statistics
+164.  1  Advanced Statistics with Applications in R
+165.  1  Probability, Random Variables, Statistics, and Random Processes
+166.  1  Probability and Stochastic Processes: A Friendly Introduction for Electrical and Computer Engineers, 3rd Edition
+167.  1  Learn R for Applied Statistics: With Data Visualizations, Regressions, and Statistics
+168.  1  Applied Statistics and Probability for Engineers, 5th Edition
+169.  1  Probability and Statistics
+170.  1  Probability and Statistics with Reliability, Queuing, and Computer Science Applications, 2nd Edition
+171.  1  Applied Statistics and Probability for Engineers, 6th Edition
+172.  1  Introduction to Probability.
+173.  1  Testing Statistical Assumptions in Research
+174.  1  Design and Analysis of Experiments, 9th Edition
+175.  1  Statistics for Big Data For Dummies
+176.  1  Understanding The New Statistics
+177.  1  Pro SQL Server Wait Statistics
+178.  1  Introductory Statistics and Analytics: A Resampling Perspective
+179.  1  Student Solutions Manual Applied Statistics and Probability for Engineers, Fifth Edition
+180.  1  A Course on Statistics for Finance
+181.  1  Handbook of Probability
+182.  1  Fundamentals of Statistical Experimental Design and Analysis
+183.  1  A Career in Statistics: Beyond the Numbers
+184.  1  Fundamentals of Applied Probability and Random Processes, 2nd Edition
+185.  1  Illuminating Statistical Analysis Using Scenarios and Simulations
+186.  1  Workshop Statistics: Discovery with Data, Fourth Edition
+187.  1  Even You Can Learn Statistics: A Guide for Everyone Who Has Ever Been Afraid of Statistics, Second Edition
+188.  1  Classic Problems of Probability
+189.  1  Statistics Hacks
+190.  1  Statistical Process Control for Managers
+191.  1  Statistical Methods for Quality Improvement, Third Edition
+192.  1  Basic Statistics and Regression for Machine Learning in Python
+193.  1  A Python Data Analyst’s Toolkit: Learn Python and Python-based Libraries with Applications in Data Analysis and Statistics
+194.  1  Data Statistics with Full Stack Python
+195.  1  Elementary Statistics Using SAS
+196.  1  Using Statistics for Better Business Decisions
+197.  1  Essential Statistics, Regression, and Econometrics
+198.  1  Statistics for Six Sigma Made Easy! Revised and Expanded Second Edition, 2nd Edition
+199.  1  Mastering PostgreSQL 13 - Fourth Edition
+200.  1  Hands-On Data Analysis with Pandas
+201.  1  Learn Python by Building Data Science Applications
+202.  1  Fundamentals of Predictive Analytics with JMP, Second Edition
+203.  1  Electron Projects
+204.  1  IBM Db2 11.1 Certification Guide
+205.  1  PySpark Cookbook
+206.  1  Genetic Algorithms in Elixir
+207.  1  The Complete VMware vSphere Guide
+208.  1  R for Everyone: Advanced Analytics and Graphics, 2nd Edition
+209.  1  SQL Server 2017 Query Performance Tuning: Troubleshoot and Optimize Query Performance
+210.  1  High Performance SQL Server: Consistent Response for Mission-Critical Applications
+211.  1  Hands-On Big Data Modeling
+212.  1  Essentials of Data Science and Analytics
+213.  1  Julia Programming Projects
+214.  1  VMware vSphere 6.7 Cookbook - Fourth Edition
+215.  1  Hands-On Machine Learning with Azure
+216.  1  Practical Machine Learning with TensorFlow 2.0 and Scikit-Learn
+217.  1  Data Science for Business and Decision Making
+218.  1  Hands-On High Performance with Spring 5
+219.  1  Business Research Methods
+220.  1  Learn T-SQL Querying
+221.  1  Learn Unity ML-Agents - Fundamentals of Unity Machine Learning
+222.  1  Tkinter GUI Application Development Blueprints - Second Edition
+223.  1  Ceph: Designing and Implementing Scalable Storage Systems
+224.  1  AWS Certified SysOps Administrator - Associate Guide
+225.  1  Python Machine Learning Cookbook - Second Edition
+226.  1  MySQL 8 Administrator's Guide
+227.  1  Query Store for SQL Server 2019: Identify and Fix Poorly Performing Queries
+228.  1  Learning Google BigQuery
+229.  1  Practical Game Design
+230.  1  Numerical Computing with Python
+231.  1  Hands-On Big Data Analytics with PySpark
+232.  1  Python: Data Analytics and Visualization
+233.  1  Learning Path: SQL for Business Users
+234.  1  Django with Data Science
+235.  1  The Artificial Intelligence Conference - San Francisco 2018
+236.  1  C++17 STL Cookbook
+237.  1  Applied Network Security
+238.  1  Hands-On Neural Networks with Keras
+239.  1  Software Project Estimation: Intelligent Forecasting, Project Control, and Client Relationship Management
+240.  1  Learning Jupyter 5 - Second Edition
+241.  1  Building Interactive Dashboards with Microsoft Power BI
+242.  1  SQL Server 2017 Developer's Guide
+243.  1  The Book of R
+244.  1  Implementing Splunk 7 - Third Edition
+245.  1  Hands-On Data Science with R
+246.  1  Mastering ArcGIS Enterprise Administration
+247.  1  Machine Learning With Go
+248.  1  Learning Julia
+249.  1  NGINX Cookbook
+250.  1  ODSC Europe 2018 (Open Data Science Conference)
+251.  1  Secret Recipes of the Python Ninja
+252.  1  Linux: Embedded Development
+253.  1  Learning Tableau 2019 - Third Edition
+254.  1  Reinsurance
+255.  1  Hands-On Automated Machine Learning
+256.  1  Hands-On Data Science and Python Machine Learning
+257.  1  Python Data Analysis - Second Edition
+258.  0  Mastering Probability and Statistics in Python
+259.  0  SPSS Statistics For Dummies, 4th Edition
+260.  0  Applied Statistics
+261.  0  Easy Statistics: Linear and Non-Linear Regression
+262.  0  Statistics and Probability with Applications for Engineers and Scientists Using MINITAB, R and JMP, 2nd Edition
+263.  0  R Statistics Cookbook
+264.  0  Robust Statistics, 2nd Edition
+265.  0  Mathematical Statistics
+266.  0  Data Analysis with IBM SPSS Statistics
+267.  0  Principles of Managerial Statistics and Data Science
+268.  0  Probability with R, 2nd Edition
+269.  0  Statistics for Business: Decision Making and Analysis, 3rd Edition
+270.  0  Statistical Analysis with Swift: Data Sets, Statistical Models, and Predictions on Apple Platforms
+271.  0  Statistics for Process Control Engineers
+272.  0  U Can: Statistics For Dummies
+273.  0  JMP Start Statistics, 6th Edition
+274.  0  Statistics for Finance
+275.  0  SPSS Statistics for Data Analysis and Visualization
+276.  0  SPSS Statistics for Dummies, 3rd Edition
+277.  0  Translating Statistics to Make Decisions: A Guide for the Non-Statistician
+278.  0  A First Course in Statistics, 12th Edition
+279.  0  Training Systems Using Python Statistical Modeling
+280.  0  A Panorama of Statistics
+281.  0  GARCH Models, 2nd Edition
+282.  0  Style and Statistics
+283.  0  Theory and Methods of Statistics
+284.  0  Statistics for Economics, Second Edition
+285.  0  An Introduction to Probability and Statistics, 3rd Edition
+286.  0  Probably Not, 2nd Edition
+287.  0  Game-Theoretic Foundations for Probability and Finance
+288.  0  Introduction to High-Dimensional Statistics
+289.  0  Transportation Statistics and Microsimulation
+290.  0  Bayesian Statistics: An Introduction, 4th Edition
+291.  0  Beyond Basic Statistics: Tips, Tricks, and Techniques Every Data Analyst Should Know
+292.  0  Statistics in Toxicology Using R
+293.  0  Examples and Problems in Mathematical Statistics
+294.  0  Statistics: Principles and Methods, 7th Edition
+295.  0  Statistics for Health Care Management and Administration
+296.  0  Ensuring Equity in the Workplace
+297.  0  Essentials of Mathematical Statistics
+298.  0  Financial and Actuarial Statistics, 2nd Edition
+299.  0  Semialgebraic Statistics and Latent Tree Models
+300.  0  Introduction to Statistics Through Resampling Methods and R, 2nd Edition
+301.  0  Handbook of Statistics
+302.  0  Business Statistics: For Contemporary Decision Making, 7th Edition
+303.  0  Nonparametric Statistics for Social and Behavioral Sciences
+304.  0  The Synoptic Problem and Statistics
+305.  0  Statistics in Action
+306.  0  Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences, 3rd Edition
+307.  0  Statistics and Probability with Applications for Engineers and Scientists
+308.  0  Computational Statistics, 2nd Edition
+309.  0  Methods and Applications of Statistics in Clinical Trials, Volume 2: Planning, Analysis, and Inferential Methods
+310.  0  Biostatistics Using JMP
+311.  0  Methods and Applications of Statistics in Clinical Trials, Volume 1: Concepts, Principles, Trials, and Designs
+312.  0  Common Errors in Statistics (and How to Avoid Them), 4th Edition
+313.  0  Statistical Techniques for Transportation Engineering
+314.  0  Nursing Research and Statistics
+315.  0  Statistics for Mining Engineering
+316.  0  Using JMP Student Edition, Third Edition
+317.  0  Nonparametric Methods in Statistics with SAS Applications
+318.  0  Industrial Statistics with Minitab
+319.  0  Statistics for Economics
+320.  0  Risk Assessment and Decision Analysis with Bayesian Networks
+321.  0  Creating Courses for Adults: Design for Learning
+322.  0  Improve your data quality using sampling distribution
+323.  0  Mathematical Statistics and Stochastic Processes
+324.  0  Safer Hospital Care
+325.  0  JMP for Basic Univariate and Multivariate Statistics, 2nd Edition
+326.  0  An Introduction to Probability and Statistical Inference, 2nd Edition
+327.  0  Introduction to Mixed Modelling: Beyond Regression and Analysis of Variance, 2nd Edition
+328.  0  Teaching Elementary Statistics with JMP
+329.  0  Statistics in Education and Psychology
+330.  0  Statistical Methods for QTL Mapping
+331.  0  Statistics of Medical Imaging
+332.  0  A Primer on Nonparametric Analysis, Volume I
+333.  0  JMP Start Statistics, 5th Edition
+334.  0  A Primer on Nonparametric Analysis, Volume II
+335.  0  Simple Statistical Methods for Software Engineering
+336.  0  Statistics and Probability with Applications for Engineers and Scientists, Preliminary Edition
+337.  0  Probabilities: The Little Numbers That Rule Our Lives, 2nd Edition
+338.  0  Probability Methods for Cost Uncertainty Analysis, 2nd Edition
+339.  0  Probability and Stochastic Processes
+340.  0  Business Statistics
+341.  0  Willful Ignorance: The Mismeasure of Uncertainty
+342.  0  Strategy and Statistics in Clinical Trials
+343.  0  Current Trends in Bayesian Methodology with Applications
+344.  0  Probability: An Introduction with Statistical Applications, 2nd Edition
+345.  0  Measuring Statistical Evidence Using Relative Belief
+346.  0  Case Studies in Bayesian Statistical Modelling and Analysis
+347.  0  A First Course in Probability and Markov Chains
+348.  0  Semi-Markov Models
+349.  0  Bayesian Inference for Partially Identified Models
+350.  0  Past, Present, and Future of Statistical Science
+351.  0  Using JMP 12
+352.  0  Introduction to Imprecise Probabilities
+353.  0  Statistical Computing in Nuclear Imaging
+354.  0  Statistical Concepts - A Second Course, 4th Edition
+355.  0  Math for the Non-Math Lovers (Collection)
+356.  0  Nonparametric Statistical Methods, 3rd Edition
+357.  0  Bayesian Methods in Health Economics
+358.  0  An Accidental Statistician: The Life and Memories of George E. P. Box
+359.  0  Growth Curve Modeling: Theory and Applications
+360.  0  Mogul, Mom, & Maid: The Balancing Act of the Modern Woman
+361.  0  Exercises and Solutions in Statistical Theory
+362.  0  JMP® Start Statistics: A Guide to Statistics and Data Analysis Using JMP®, 4th Edition
+363.  0  Chi-Squared Goodness of Fit Tests with Applications
+364.  0  Analysis and Probability
+365.  0  Introduction to Probability and Stochastic Processes with Applications
+366.  0  Success Probability Estimation with Applications to Clinical Trials
+367.  0  Statistics for Environmental Science and Management, 2nd Edition
+368.  0  Exposure and Understanding the Histogram
+369.  0  Why Boys Fail
+370.  0  Basic Statistics for Trainers
+371.  0  Statistical Analysis for Business Using JMP(R): A Student's Guide
+372.  0  Statistical Methods for Fuzzy Data
+373.  0  Even You Can Learn Statistics A Guide for Everyone Who Has Ever Been Afraid of Statistics
+374.  0  GARCH Models
+375.  0  Presenting Data in Charts and Tables: Categorical and Numerical Variables
+376.  0  Probabilistic Methods for Bioinformatics
+377.  0  Fundamentals of Computers: For Undergraduate Courses in Commerce and Management
+378.  0  The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science (Video Collection)
+379.  0  A Gentle Introduction to Statistics Using SAS Studio in the Cloud
+380.  0  Easy Statistics: Linear Regression
+381.  0  Pro SQL Server 2019 Wait Statistics: A Practical Guide to Analyzing Performance in SQL Server
+382.  0  A Gentle Introduction to Statistics Using SASⓇ Studio
+383.  0  Statistics Workbook For Dummies with Online Practice, 2nd Edition
+384.  0  SQL Server Indexing, Statistics, and Parameter Sniffing: Solving Performance Challenges by Designing Better Data Structures
+385.  0  Riemannian Geometric Statistics in Medical Image Analysis
+386.  0  Matrix Differential Calculus with Applications in Statistics and Econometrics, 3rd Edition
+387.  0  SwiftUI Covid19 Statistics tracking with REST API & Swift 5
+388.  0  Linear Algebra and Matrix Analysis for Statistics
+389.  0  Leadership and Women in Statistics
+390.  0  Mathematical Statistics for Applied Econometrics
+391.  0  Business Statistics Made Easy in SAS
+392.  0  Essential Statistics Using SAS University Edition
+393.  0  Introductory Mathematics and Statistics for Islamic Finance, + Website
+394.  0  Statistics and Data Analysis for Microarrays Using R and Bioconductor, 2nd Edition
+395.  0  Trading Economics: A Guide to Economic Statistics for Practitioners and Students
+396.  0  Data Analysis and Statistics for Geography, Environmental Science, and Engineering
+397.  0  Computational Statistics
+398.  0  A Quantitative Approach to Commercial Damages: Applying Statistics to the Measurement of Lost Profits, + Website
+399.  0  Pharmaceutical Statistics Using SAS
+400.  0  Statistics for Health Care Professionals: Working With Excel, 2nd Edition
+401.  0  Statistics for Six Sigma Green Belts with Minitab and JMP
+402.  0  A Step-by-Step Approach to Using SAS® for Univariate & Multivariate Statistics, Second Edition
+403.  0  Statistics for Six Sigma Made Easy
+404.  0  APPLIED MULTIVARIATE STATISTICS: WITH SAS® SOFTWARE
+405.  0  Big Data Meets Survey Science
+406.  0  Statistical Analysis with Excel 2013 Essentials
+407.  0  The Sales Manager’s Success Manual
+408.  0  Preparing for and Tuning the SQL Query Engine on DB2 for i5/OS
+409.  0  DB2 for z/OS and OS/390 Version 7 Selected Performance Topics
+410.  0  SQL Server Advanced Troubleshooting and Performance Tuning
+411.  0  Exam DA-100 Analyzing Data with Microsoft Power BI (Video)
+412.  0  CompTIA Network+ Study Guide, 5th Edition
+413.  0  Math for Deep Learning
+414.  0  The Digital Mindset
+415.  0  Practical Data Science with Python
+416.  0  The Big Book of Small Python Projects
+417.  0  CompTIA Data+ Study Guide
+418.  0  Microsoft Excel Data Analysis and Business Modeling (Office 2021 and Microsoft 365), 7th Edition
+419.  0  Machine Learning with Apache Spark
+420.  0  Data Science and Machine Learning (Theory and Projects) A to Z
+421.  0  Hands-On Exploratory Data Analysis with Python
+422.  0  Simply Math
+423.  0  Data Science, Analytics, and AI for Business and the Real World™
+424.  0  Practical Algebra, 3rd Edition
+425.  0  All the Math You'll Ever Need, 3rd Edition
+426.  0  Python Data Analysis - Third Edition
+427.  0  Mastering VMware vSphere 6.7 - Second Edition
+428.  0  Becoming a Data Head
+429.  0  Extending Power BI with Python and R
+430.  0  IBM SPSS Essentials, 2nd Edition
+431.  0  PostgreSQL 12 High Availability Cookbook
+432.  0  Managing Data Science
+433.  0  Numerical Methods Using Java: For Data Science, Analysis, and Engineering
+434.  0  Hands-On Image Processing with Python
+435.  0  Data Cleansing Master Class in Python
+436.  0  Apache Superset Quick Start Guide
+437.  0  Hands-On Artificial Intelligence for Cybersecurity
+438.  0  Mastering Wireshark 3
+439.  0  Developing Java Applications with Spring and Spring Boot
+440.  0  Statistical Analysis with Excel For Dummies, 5th Edition
+441.  0  The Big R-Book
+442.  0  Machine Learning and Big Data with kdb+/q
+443.  0  Pro .NET Benchmarking: The Art of Performance Measurement
+444.  0  Machine Learning for Absolute Beginners - Level 2
+445.  0  Excel Formulas & Functions For Dummies, 6th Edition
+446.  0  Network Analysis Using Wireshark 3
+447.  0  Beginning R 4 : From Beginner to Pro
+448.  0  The STATA OMNIBUS: Regression and Modelling with STATA
+449.  0  Asset-Liability and Liquidity Management
+450.  0  Advanced Analytics with Transact-SQL: Exploring Hidden Patterns and Rules in Your Data
+451.  0  People Analytics For Dummies
+452.  0  Excel Data Analysis For Dummies, 4th Edition
+453.  0  The Rules of Thinking
+454.  0  Statistical Analysis with R For Dummies
+455.  0  Applying Math with Python
+456.  0  The Simplest Guide™ to Clinical Data Analysis with SAS
+457.  0  Access 2019 Bible
+458.  0  120 Quick Stata Tips
+459.  0  Quantitative Finance
+460.  0  A Modern Introduction to Fuzzy Mathematics
+461.  0  Hands-On Functional Programming in Rust
+462.  0  Bioinformatics with Python Cookbook - Second Edition
+463.  0  Implementing the IBM Storwize V7000 with IBM Spectrum Virtualize V8.2.1
+464.  0  Julia 1.0 Programming Complete Reference Guide
+465.  0  Wireshark 2 Quick Start Guide
+466.  0  Statistical Learning for Big Dependent Data
+467.  0  Become a Python Data Analyst
+468.  0  Go Machine Learning Projects
+469.  0  Data Science Fundamentals Part 2: Machine Learning and Statistical Analysis
+470.  0  Python: End-to-end Data Analysis
+471.  0  The Decision Maker's Handbook to Data Science: A Guide for Non-Technical Executives, Managers, and Founders
+472.  0  It's All Analytics!
+473.  0  Total Quality Management
+474.  0  Mastering SAS Programming
+475.  0  Python Machine Learning Blueprints - Second Edition
+476.  0  Practical MATLAB: With Modeling, Simulation, and Processing Projects
+477.  0  Experimentation, Validation, and Uncertainty Analysis for Engineers, 4th Edition
+478.  0  Build a Career in Data Science video edition
+479.  0  Excel Formulas & Functions For Dummies, 5th Edition
+480.  0  Risk Assessment, 2nd Edition
+481.  0  Business Analytics, Volume I
+482.  0  Practical Applications of Bayesian Reliability
+483.  0  Mastering Machine Learning with R - Third Edition
+484.  0  SQL Server 2017 Administrator's Guide
+485.  0  Implementing the IBM System Storage SAN Volume Controller with IBM Spectrum Virtualize Version 8.4
+486.  0  Advanced Machine Learning with R
+487.  0  Learn QGIS - Fourth Edition
+488.  0  Hands-On Data Science with SQL Server 2017
+489.  0  Statistical Topics and Stochastic Models for Dependent Data with Applications
+490.  0  Learn Data Science Using SAS Studio: A Quick-Start Guide
+491.  0  Python: Advanced Predictive Analytics
+492.  0  SAS for R Users
+493.  0  Ceph Cookbook - Second Edition
+494.  0  Business Research Methods, 2nd Edition
+495.  0  Mastering Apache Storm
+496.  0  Practical GIS
+497.  0  Mastering SQL Server 2017
+498.  0  Mastering Kibana 6.x
+499.  0  Principles of Risk Management and Insurance, 13th Edition
+500.  0  Implementing the IBM SAN Volume Controller with IBM Spectrum Virtualize V8.3.1

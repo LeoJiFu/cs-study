@@ -1,0 +1,302 @@
+INPUT: software engineer
+TOTAL BOOKS: 300
+1.  125  Software Architecture Fundamentals Understanding the Basics
+2.  45  Fundamentals of Software Architecture
+3.  43  Code Simplicity
+4.  39  Software Architecture Fundamentals Beyond the Basics
+5.  31  Software Architecture Fundamentals, Second Edition
+6.  25  Building Evolutionary Architectures
+7.  25  The Software Architect Elevator
+8.  24  Software Engineering at Google
+9.  24  Software Defined Networking (SDN)
+10.  22  Peopleware: Productive Projects and Teams, Third Edition
+11.  20  Agile Estimating and Planning
+12.  19  Data Mesh
+13.  18  97 Things Every Software Architect Should Know
+14.  17  SDN: Software Defined Networks
+15.  16  Software Architecture in Practice, Third Edition
+16.  16  Get Your Hands Dirty on Clean Architecture
+17.  16  Documenting Software Architectures: Views and Beyond, Second Edition
+18.  15  The Software Craftsman: Professionalism, Pragmatism, Pride
+19.  14  Head First Software Development
+20.  12  Righting Software
+21.  12  Hackers
+22.  12  Technology Strategy Patterns
+23.  11  Implementing Lean Software Development: From Concept to Cash
+24.  10  Software Architecture in Practice LiveLessons (Video Training)
+25.  10  Red Hat Certified Engineer (RHCE) EX294: Red Hat Ansible Automation
+26.  10  Official Google Cloud Certified Associate Cloud Engineer Study Guide
+27.  9  System Design Fundamentals
+28.  9  97 Things Every Data Engineer Should Know
+29.  8  Mastering API Architecture
+30.  8  Enterprise Software with Python
+31.  8  The Unicorn Project
+32.  8  O'Reilly Software Architecture Conference 2017 - New York, New York
+33.  8  OSCON 2015: Video Compilation
+34.  7  Software Development From A to Z: A Deep Dive into all the Roles Involved in the Creation of Software
+35.  7  The Art of Lean Software Development
+36.  7  Hands-On Software Engineering with Golang
+37.  7  Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives, Second Edition
+38.  7  OSCON 2018 - Portland, Oregon
+39.  7  Network Programmability Fundamentals
+40.  7  Continuous API Management
+41.  7  Networking for VMware Administrators
+42.  6  The Software Test Engineer's Handbook, 2nd Edition, 2nd Edition
+43.  6  O'Reilly Software Architecture Conference 2019 - New York, New York
+44.  6  Software Requirements
+45.  6  Designing Software Architectures: A Practical Approach
+46.  6  Modern Software Engineering: Doing What Works to Build Better Software Faster
+47.  6  Effective Computation in Physics
+48.  6  Beautiful Architecture
+49.  6  Foundations of Scalable Systems
+50.  6  Small, Sharp Software Tools
+51.  6  OSCON 2016: Video Compilation
+52.  6  Software Architecture Fundamentals People Skills
+53.  6  12 Essential Skills for Software Architects
+54.  5  O’Reilly Software Architecture Conference New York 2018
+55.  5  Software Architecture: The Hard Parts
+56.  5  Software Architecture: Foundations, Theory, and Practice
+57.  5  Solid Code: Optimizing the Software Development Life Cycle
+58.  5  Software Architect's Handbook
+59.  5  Hackers & Painters
+60.  5  Technical debt: A master class
+61.  5  Making Software
+62.  5  I'm a Software Architect, Now What?
+63.  4  Chaos Engineering
+64.  4  Hands-On Software Architecture with Golang
+65.  4  Evolutionary Architecture Fundamentals
+66.  4  Software Development and Professional Practice
+67.  4  Exercises in Programming Style
+68.  4  Programming Phoenix 1.4
+69.  4  Building Maintainable Software, Java Edition
+70.  4  Working with Coders: A Guide to Software Development for the Perplexed Non-Techie
+71.  4  Introduction to Cloud Native Architecture Patterns
+72.  3  Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps
+73.  3  Meet the Expert: Titus Winters on Software Engineering Principles at Google
+74.  3  Building a Career in Software: A Comprehensive Guide to Success in the Software Industry
+75.  3  Software Architecture Superstream Series: Software Architecture Fundamentals
+76.  3  O'Reilly Software Architecture Conference 2020 - New York, NY
+77.  3  Software Engineering: Principles and Practice
+78.  3  O'Reilly Software Architecture Conference 2017 - London, UK
+79.  3  Practical Software Architecture: Moving from System Context to Deployment
+80.  3  O'Reilly Software Architecture Conference 2016 - London, United Kingdom
+81.  3  O'Reilly Software Architecture Conference 2016 - New York, New York
+82.  3  O'Reilly Software Architecture Conference 2015 Complete Video Compilation
+83.  3  Facts and Fallacies of Software Engineering
+84.  3  Semantic Software Design
+85.  3  Beyond Software Architecture: Creating and Sustaining Winning Solutions
+86.  3  Software Craftsmanship: The New Imperative
+87.  3  Essentials of Computer Organization and Architecture, 5th Edition
+88.  3  Designing Hexagonal Architecture with Java
+89.  3  Thinking Architecturally
+90.  3  Python Network Programming
+91.  3  Modeling for Software Architects
+92.  3  Learning OpenDaylight
+93.  3  Navigating Network Complexity: Next-generation Routing with SDN, Service Virtualization, and Service Chaining
+94.  3  Hands-On Embedded Programming with C++17
+95.  2  Software Engineering
+96.  2  Fundamentals of Software Architecture
+97.  2  Managing Software Requirements the Agile Way
+98.  2  Brains considered harmful: How cognitive biases undermine your software architecture
+99.  2  Software Quality Assurance
+100.  2  10 Best Practices for Quality Software Development
+101.  2  Software and Systems Architecture in Action
+102.  2  Embedded Software, 2nd Edition
+103.  2  Software Architecture in Practice, 4th Edition
+104.  2  The Software Architect Elevator
+105.  2  Embedded Software
+106.  2  Understanding Software
+107.  2  The Economics of Iterative Software Development: Steering Toward Better Business Results
+108.  2  Linux for Embedded and Real-time Applications, 3rd Edition
+109.  2  Model-Based Development: Applications
+110.  2  Icebergs, bathtubs, and flows: Applying systems thinking to software architecture
+111.  2  10 Steps Every CISO Should Take to Secure Next-Gen Software
+112.  2  O'Reilly Software Architecture Conference 2016 - San Francisco, California
+113.  2  Observability at Google
+114.  2  Software Development Metrics
+115.  2  System Architecture: Strategy and Product Development for Complex Systems, First Edition
+116.  2  Visual Models for Software Requirements
+117.  2  Effective Feature Management
+118.  2  Adaptive Software Development: A Collaborative Approach to Managing Complex Systems
+119.  2  Break me if you can: A practical guide to building fault-tolerant systems
+120.  2  Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust
+121.  2  Getting Results from Software Development Teams
+122.  2  Just Enough Requirements Management: Where Software Development Meets Marketing
+123.  1  Beginning Software Engineering
+124.  1  Software Development Pearls: Lessons from Fifty Years of Software Experience
+125.  1  Software Engineering
+126.  1  O'Reilly Software Architecture Conference 2019 - Berlin, Germany
+127.  1  O'Reilly Software Architecture Conference 2019 - San Jose, California
+128.  1  Model Based Systems Engineering: Fundamentals and Methods
+129.  1  OSCON 2019 - Portland, Oregon
+130.  1  Software Project Estimation: Intelligent Forecasting, Project Control, and Client Relationship Management
+131.  1  PSP(SM): A Self-Improvement Process for Software Engineers
+132.  1  A Software Engineering Approach to LabVIEW™
+133.  1  Economics-Driven Software Architecture
+134.  1  Modernizing Legacy Systems: Software Technologies, Engineering Processes, and Business Practices
+135.  1  Embedded Firmware Solutions: Development Best Practices for the Internet of Th ings
+136.  1  Architecture of Network Systems
+137.  1  Estimating Software-Intensive Systems: Projects, Products, and Processes
+138.  1  Quality Software Project Management
+139.  1  Software Architecture Hour: What Makes a Good Software Architect with Venkat Subramaniam
+140.  1  Circuit Design: Know It All
+141.  1  Managing Software for Growth: Without Fear, Control, and the Manufacturing Mindset
+142.  1  Practical Embedded Security
+143.  1  Becoming an Agile Software Architect
+144.  1  Linux for Networking Professionals
+145.  1  Introduction to the Personal Software Process(SM)
+146.  1  Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design
+147.  1  Software Architecture Hour with Neal Ford: Enterprise Architecture with Matt Stine
+148.  1  Software Estimation Without Guessing
+149.  1  Radically Collaborative Patterns for Software Makers
+150.  1  An architect's guiding principles for leadership, 2019 Software Architecture Conference, NY
+151.  1  Relating System Quality and Software Architecture
+152.  1  Designing Embedded Hardware
+153.  1  Low-Code and the Democratization of Programming
+154.  1  Real-Time Phoenix
+155.  1  How Open Source Ate Software: Understand the Open Source Movement and So Much More
+156.  1  Infrastructure and Ops Hour with Sam Newman: Multi-Cloud with Gregor Hohpe
+157.  1  2017 Software Development Salary Survey
+158.  1  The Software Paradox
+159.  1  Software Architecture - Impacts of Big Data
+160.  1  Apple Device Management: A Unified Theory of Managing Macs, iPads, iPhones, and AppleTVs
+161.  1  Forge Your Future with Open Source
+162.  1  Secure and Resilient Software Development
+163.  1  Beginning Programming ALL-IN-ONE DESK REFERENCE FOR DUMMIES®
+164.  1  How Slack refactored its million-line codebase
+165.  1  OSCON 2016 - London, United Kingdom
+166.  0  Software Development Superstream: Becoming a Senior Software Engineer
+167.  0  Docs for Developers: An Engineer’s Field Guide to Technical Writing
+168.  0  Software Engineering at Google
+169.  0  Software Engineering for Absolute Beginners: Your Guide to Creating Software Products
+170.  0  Software Engineering
+171.  0  Essentials of Software Engineering, 3rd Edition
+172.  0  Lean Software Systems Engineering for Developers: Managing Requirements, Complexity, Teams, and Change Like a Champ
+173.  0  Patterns in the Machine: A Software Engineering Guide to Embedded Development
+174.  0  Hands-On Software Architecture with Java
+175.  0  Software Architecture Superstream Series: Software Architecture Fundamentals—Comparing Architectural Styles
+176.  0  Requirements Engineering for Software and Systems
+177.  0  Politics in Software Development: Navigating Stakeholder Power and Conflict in Organizations
+178.  0  Patterns of Software Construction: How to Predictably Build Results
+179.  0  Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture
+180.  0  Effective Performance Engineering
+181.  0  Managing Technical Debt: Reducing Friction in Software Development
+182.  0  Mastering Embedded Linux Programming - Third Edition
+183.  0  Software Architecture Hour with Neal Ford: Architectural Governance with Birgitta Boeckeler
+184.  0  Software Architecture Hour with Neal Ford: What Makes a Programming Language with Chelsea Troy
+185.  0  O'Reilly Software Architecture Conference - London, UK 2018
+186.  0  Developing Safety-Critical Software
+187.  0  OSCON Open Source Software Superstream Series: Live Coding—Go, Rust, and Python
+188.  0  Software Engineering and Testing
+189.  0  Model-Based System Architecture, 2nd Edition
+190.  0  Meet the Expert: Neal Ford on Invalidating Axioms in Software Architecture
+191.  0  Building Secure Cars
+192.  0  Electrical Engineering: Know It All
+193.  0  Model-Based Engineering with AADL: An Introduction to the SAE Architecture Analysis & Design Language
+194.  0  Model-Driven Software Development: Technology, Engineering, Management
+195.  0  2016 European Software Development Salary Survey
+196.  0  Code That Fits in Your Head: Heuristics for Software Engineering
+197.  0  How Instagram has evolved using Open Source
+198.  0  Software Engineering and Computer Games
+199.  0  Software Architecture Metrics
+200.  0  InnerSource Product Owners
+201.  0  Advances in Embedded and Fan-Out Wafer Level Packaging Technologies
+202.  0  Return on Software: Maximizing the Return on Your Software Investment
+203.  0  Introduction to InnerSource
+204.  0  Fundamentals of Multicore Software Development
+205.  0  Engineering Software Products: An Introduction to Modern Software Engineering
+206.  0  Convergence
+207.  0  The Design for Trustworthy Software Compilation The Analytic Hierarchy Process (AHP) in Software Development
+208.  0  Cleanroom Software Engineering: Technology and Process
+209.  0  Ecological Sustainability
+210.  0  Developing Real World Software
+211.  0  Software Architecture Superstream: Software Architecture Patterns
+212.  0  Designing Complex Systems
+213.  0  The Software IP Detective’s Handbook: Measurement, Comparison, and Infringement Detection
+214.  0  The Design for Trustworthy Software Compilation Understanding Customer Needs: Software QFD and the Voice of the Customer
+215.  0  Incident Metrics in SRE
+216.  0  Platform Embedded Security Technology Revealed : Safeguarding the Future of Computing with Intel Embedded Security and Management Engine
+217.  0  Software Architecture by Example: Using C# and .NET
+218.  0  Software Architecture for Busy Developers
+219.  0  Software Architecture Superstream: Domain-Driven Design and Event-Driven Architecture
+220.  0  Developing Software for Symbian OS: A Beginner's Guide to Creating Symbian OS v9 Smartphone Applications in C++
+221.  0  Aspect-Oriented Software Development with Use Cases
+222.  0  Bayesian Estimation and Tracking: A Practical Guide
+223.  0  Software Architecture Superstream Series: Software Architecture Fundamentals 2021
+224.  0  The Design for Trustworthy Software Compilation Taguchi Methods and Optimization for Robust Software
+225.  0  Software Architecture Hour with Neal Ford: The Future of Software with Martin Fowler
+226.  0  Software Architecture Patterns for Serverless Systems
+227.  0  Recursive Identification and Parameter Estimation
+228.  0  Software Telemetry
+229.  0  Embedded Systems: Hardware, Design and Implementation
+230.  0  Estimating for Heating and Ventilating, 3rd Edition
+231.  0  Software Architecture Hour with Neal Ford: The Future of Java with Brian Goetz
+232.  0  The Laws of Software Process
+233.  0  Software by Numbers: Low-Risk, High-Return Development
+234.  0  Linux for Embedded and Real-time Applications, 2nd Edition
+235.  0  Test and Measurement: Know It All
+236.  0  Value Analysis and Engineering Reengineered
+237.  0  Software-Defined Networking with OpenFlow - Second Edition
+238.  0  Performance Measurement and Management for Engineers
+239.  0  Meet the Experts: Mark Richards and Neal Ford on the Journey from Developer to Software Architect
+240.  0  Software Architecture Hour: Incremental Architecture with Allen Holub
+241.  0  Software Architecture Superstream Series: Architecture Outside of Applications
+242.  0  Software Development: Building Reliable Systems
+243.  0  Software Architecture Superstream Series: Mastering Your Microservices Stack
+244.  0  Software Architecture Hour with Neal Ford: Choosing Architecture Styles
+245.  0  Software Architecture Superstream Series: Architecture Meets Data
+246.  0  Software Architecture Hour: Architecture Decision-Making with Michael Nygard
+247.  0  Software Architecture Hour with Neal Ford: Distributed Systems with Vanya Seth
+248.  0  Real-Life MDA
+249.  0  Software Architecture Hour: Architecture Meets Data
+250.  0  Software Architecture Hour: Mature Microservices
+251.  0  Software Architecture Hour: Architecture and Security with Aaron Bedra
+252.  0  .NET-A Complete Development Cycle
+253.  0  How Microsoft applied human factors ideas to software development
+254.  0  Fundamental Principles of Engineering Nanometrology, 2nd Edition
+255.  0  Software Architecture Superstream Series: Microservices; September 9, 2020
+256.  0  Highlights from the Keynotes of Software Architecture Conference in New York 2020
+257.  0  Practical Software Development Techniques: Tools and Techniques for Building Enterprise Software
+258.  0  RapidIO: The Next Generation Communication Fabric For Embedded Application
+259.  0  Infrastructure & Ops Hour: Team Topologies with Manuel Pais and Matthew Skelton
+260.  0  Introduction to Software Project Management
+261.  0  Free Alternatives to Everyday Software
+262.  0  Rapid Application Development with OutSystems
+263.  0  DevSecOps in Kubernetes
+264.  0  Case Study: How Indeed uses the FOSS Contributor Fund to Sustain Critical Open Source Dependencies
+265.  0  Take Control of Cryptocurrency
+266.  0  Architectural Katas, October—November 2021
+267.  0  Defining Data-Driven Software Development
+268.  0  The Incremental Commitment Spiral Model: Principles and Practices for Successful Systems and Software
+269.  0  Random Processes: Filtering, Estimation, and Detection
+270.  0  Architectural Katas, April – May 2021
+271.  0  Adopting InnerSource
+272.  0  Incremental Software Architecture
+273.  0  Practical Software Development Techniques: Tools and Techniques for Building Enterprise Software
+274.  0  Multicore Software Development Techniques
+275.  0  Architectural Katas, October – December 2020
+276.  0  The Kollected Kode Vicious
+277.  0  Real-World Maintainable Software
+278.  0  Pattern-Oriented Software Architecture For Dummies
+279.  0  Software Essentials
+280.  0  Take Control of Untangling Connections
+281.  0  Getting Started with InnerSource
+282.  0  Clarity and confidence: Observability on the New York Times games team
+283.  0  Collaborative Spaces at Work
+284.  0  The Essentials of Computer Organization and Architecture, 4th Edition
+285.  0  Software Designers in Action
+286.  0  Architecture as code: Objective measures of value in a changing world
+287.  0  Take Control of iOS & iPadOS Privacy and Security, 2nd Edition
+288.  0  How to Build Katacoda Scenarios with O'Reilly
+289.  0  Picking the Right Approach to Digital Collaboration
+290.  0  Beyond accidental architecture
+291.  0  Take Control of iOS & iPadOS Privacy and Security, 2nd Edition
+292.  0  Secure and Resilient Software
+293.  0  The Learning Organization
+294.  0  Developing a new architecture organization at Ausley
+295.  0  Software Architecture and Design Illuminated
+296.  0  Launching BBC's iPlayer on TV
+297.  0  The Contributor in InnerSource
+298.  0  Spotlight on Innovation: Building Resilient Systems with Heidi Waterhouse
+299.  0  Highlights from the Keynotes of OSCON Conference, Portland, 2019
+300.  0  Software Endgames: Eliminating Defects, Controlling Change, and the Countdown to On-Time Delivery

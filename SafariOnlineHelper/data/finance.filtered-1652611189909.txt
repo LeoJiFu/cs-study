@@ -1,0 +1,502 @@
+INPUT: finance
+TOTAL BOOKS: 500
+1.  5  Handbook of Finance: Financial Markets and Instruments
+2.  4  Your Money: The Missing Manual
+3.  4  The Clash of the Cultures: Investment vs. Speculation
+4.  3  Personal Finance with Python: Using pandas, Requests, and Recurrent
+5.  3  Cash Cows, Pigs and Jackpots: The Simplest Personal Finance Strategy Ever
+6.  3  How to Make Money in Stocks: A Winning System in Good Times and Bad, Fourth Edition, 4th Edition
+7.  2  The Capital Markets
+8.  2  Corporate Finance Theory and Practice, Third Edition
+9.  2  Islamic Finance and the New Financial System: An Ethical Approach to Preventing Future Financial Crises
+10.  2  A Wealth of Common Sense: Why Simplicity Trumps Complexity in Any Investment Plan
+11.  2  Derivatives Demystified: A Step-by-Step Guide to Forwards, Futures, Swaps and Options, Second Edition
+12.  2  Mastering Financial Calculations: A step-by-step guide to the mathematics of financial market instruments, Second edition
+13.  2  Retirementology: Rethinking the American Dream in a New Economy
+14.  2  Managing Millennials For Dummies
+15.  2  The Millenial Money Fix
+16.  2  The Ten Roads to Riches, 2nd Edition
+17.  2  You Can Retire Sooner Than You Think
+18.  2  The Coder's Path to Wealth and Independence
+19.  2  Breakeven Analysis
+20.  2  Thou Shall Prosper: Ten Commandments for Making Money, Second Edition
+21.  1  How Finance Works
+22.  1  Corporate Finance, 5th Edition
+23.  1  The Wall Street MBA, Third Edition: Your Personal Crash Course in Corporate Finance, 3rd Edition
+24.  1  Principles of Managerial Finance, 15th Edition
+25.  1  Gender and Finance
+26.  1  The Finance Book
+27.  1  FT Guide to Finance for Non-Financial Managers
+28.  1  Common Sense Finance
+29.  1  Corporate Finance For Dummies
+30.  1  Principles of Project Finance, 2nd Edition
+31.  1  Data Infrastructure for Next-Gen Finance
+32.  1  Finance Basics (HBR 20-Minute Manager Series)
+33.  1  Mathematical Finance
+34.  1  Listed Volatility and Variance Derivatives
+35.  1  Handbook of the Economics of Finance SET:Volumes 2A & 2B
+36.  1  Islamic Finance For Dummies
+37.  1  Going Public: My Adventures Inside the SEC and How to Prevent the Next Devastating Crisis
+38.  1  Contemporary Islamic Finance: Innovations, Applications and Best Practices
+39.  1  The Business of Venture Capital: Insights from Leading Practitioners on the Art of Raising a Fund, Deal Structuring, Value Creation, and Exit Strategies, 2nd Edition
+40.  1  Finance: Capital Markets, Financial Management, and Investment Management
+41.  1  The Financial Times Guide to Understanding Finance, 2nd Edition
+42.  1  Handbook of Finance: Valuation, Financial Modeling, and Quantitative Tools
+43.  1  Mastering Anti-Money Laundering and Counter-Terrorist Financing
+44.  1  The Handbook of News Analytics in Finance
+45.  1  Banker to the World: Leadership Lessons From the Front Lines of Global Finance
+46.  1  Handbook of Finance: Investment Management and Financial Management
+47.  1  Finance: What Managers Need to Know
+48.  1  CFO Techniques: A Hands-On Guide to Keeping Your Business Solvent and Successful
+49.  1  Value Investing: Tools and Techniques for Intelligent Investment
+50.  1  Making Sure Your Finances Are in Order Before Being Laid Off
+51.  1  Structured Products in Wealth Management
+52.  1  Mastering Credit Derivatives: A step-by-step guide to credit derivatives and structured credit, Second Edition
+53.  1  A World of Wealth: How Capitalism Turns Profits into Progress
+54.  1  Derivatives Demystified: A Step-by-Step Guide to Forwards, Futures, Swaps and Options
+55.  1  Mastering Money: How to Beat Debt, Build Wealth, and Be Prepared for any Financial Crisis
+56.  1  Effective Product Control
+57.  1  The Elements of Investing
+58.  1  Put Your Money Where Your Life Is
+59.  1  Personal Finance For Dummies, 7th Edition
+60.  1  Brilliant Personal Effectiveness
+61.  1  The New Rules of Retirement
+62.  1  Making Money With Option Strategies
+63.  1  Quantitative Momentum
+64.  1  The Value of Debt in Building Wealth
+65.  1  How to Treat New Ideas
+66.  1  What Millennials Want from Work: How to Maximize Engagement in Today’s Workforce
+67.  1  They Ask You Answer
+68.  1  The Ways to New
+69.  1  How to Make Money in Stocks Getting Started: A Guide to Putting CAN SLIM Concepts into Action
+70.  1  Managing the Millennials, 2nd Edition
+71.  1  No One Ever Told Us That: Money and Life Lessons for Young Adults
+72.  1  Not Everyone Gets A Trophy, Revised and Updated
+73.  1  Passion Into Profit: How to Make Big Money From Who You Are and What You Know
+74.  1  This Note's For You
+75.  1  The 3 Simple Rules of Investing
+76.  1  Tricks of the Rich
+77.  1  Data-Driven Business Decisions
+78.  1  Money: How the Destruction of the Dollar Threatens the Global Economy – and What We Can Do About It
+79.  1  Winning the Loser's Game, 6th edition: Timeless Strategies for Successful Investing, 6th Edition
+80.  1  Protect Your Wealth from the Ravages of Inflation: A Three-Step Method
+81.  1  Mutual Funds For Dummies®, 6th Edition
+82.  1  The Little Book of Hedge Funds
+83.  1  90 Days, 90 Ways: Onboard Young Professionals to Peak Performance
+84.  1  Quantitative Methods: An Introduction for Business Management
+85.  1  Make Your Money Count
+86.  1  Are You on Track for Your Retirement?
+87.  1  The Top 10 Things You Must Know About Saving for the Future
+88.  1  The Home Owner's Guide to Taking Control of Your Money
+89.  0  DeFi and the Future of Finance
+90.  0  Decentralized Finance: Understand The Future of Finance
+91.  0  Finance for Non-Finance Executives
+92.  0  Stop. Think. Invest.: A Behavioral Finance Framework for Optimizing Investment Portfolios
+93.  0  Financial Theory with Python
+94.  0  Big Data Science in Finance
+95.  0  Actuarial Finance
+96.  0  Clever Girl Finance
+97.  0  Modern Computational Finance
+98.  0  Personal Finance For Dummies, 9th Edition
+99.  0  Quantitative Finance
+100.  0  Carbon Risk and Green Finance
+101.  0  Digital Finance
+102.  0  Project Finance
+103.  0  Fundamentals of Corporate Finance, 4th Edition
+104.  0  A Guide to the New Language of Accounting and Finance
+105.  0  Clever Girl Finance: The Side Hustle Guide
+106.  0  Derivatives
+107.  0  The Business of Venture Capital, 3rd Edition
+108.  0  Fundamentals of Islamic Finance and Banking
+109.  0  Clever Girl Finance
+110.  0  Project Finance for Business Development
+111.  0  Complex Decision-Making in Economy and Finance
+112.  0  Project Finance for Business Development
+113.  0  Nonparametric Finance
+114.  0  International Money and Finance, 9th Edition
+115.  0  Foundations of Computational Finance with MATLAB
+116.  0  Behavioral Finance for Private Banking, 2nd Edition
+117.  0  Quantitative Finance
+118.  0  Finance
+119.  0  Introduction to Finance: Markets, Investments, and Financial Management, 15th Edition
+120.  0  Stochastic Finance, 4th Edition
+121.  0  Globalization, Gating, and Risk Finance
+122.  0  Using Excel for Business and Financial Modelling, 3rd Edition
+123.  0  Can Finance Save the World?
+124.  0  Nuclear Accidents
+125.  0  Mastering Attribution in Finance
+126.  0  Extreme Events in Finance
+127.  0  How to Make Good Business Decisions
+128.  0  Venture Deals, 4th Edition
+129.  0  Navigating the New Normal
+130.  0  Handbook of Environmental and Sustainable Finance
+131.  0  A Workout in Computational Finance
+132.  0  The Mystery of Capital
+133.  0  Financial Markets for Commodities
+134.  0  Finance, Economics, and Mathematics
+135.  0  Multinational Finance, 6th Edition
+136.  0  Lessons in Corporate Finance
+137.  0  Behavioral Finance
+138.  0  Project Finance in Theory and Practice, 2nd Edition
+139.  0  Applied International Finance II, Second Edition
+140.  0  Business Finance Basics
+141.  0  International Corporate Finance: Value Creation with Currency Derivatives in Global Capital Markets, + Website
+142.  0  Corporate Finance: A Practical Approach, Second Edition
+143.  0  Heroes and Villains of Finance
+144.  0  Quantitative Finance
+145.  0  Transform Finance: Leveraging Analytics & Technology
+146.  0  Entrepreneurial Finance, Third Edition: Finance and Business Strategies for the Serious Entrepreneur, 3rd Edition
+147.  0  Working Ethically in Finance
+148.  0  Contracts and Deals in Islamic Finance: A User s Guide to Cash Flows, Balance Sheets, and Capital Structures
+149.  0  Common Sense
+150.  0  The Essential Guide to Business Communication for Finance Professionals
+151.  0  Financial Mathematics, Volatility and Covariance Modelling
+152.  0  Securitisation Swaps
+153.  0  HBR Guide to Finance Basics for Managers (HBR Guide Series)
+154.  0  Success as a Financial Advisor For Dummies
+155.  0  Corporate Finance, 4th Edition
+156.  0  Introductory Mathematics and Statistics for Islamic Finance, + Website
+157.  0  How To Talk Finance
+158.  0  Finance for Nonfinancial Managers, Second Edition (Briefcase Books Series), 2nd Edition
+159.  0  Stochastic Volatility Modeling
+160.  0  The Islamic Finance Handbook: A Practitioner's Guide to the Global Markets
+161.  0  Streetsmart Financial Basics for Nonprofit Managers
+162.  0  Handbook of the Economics of Finance
+163.  0  Mastering Islamic Finance
+164.  0  The Rainmaker
+165.  0  Understanding Demonetization in India
+166.  0  Fundamentals of Corporate Finance
+167.  0  Personal Benchmark: Integrating Behavioral Finance and Investment Management
+168.  0  Funded
+169.  0  The Customer-Funded Business: Start, Finance, or Grow Your Company with Your Customers' Cash
+170.  0  Soldier of Finance
+171.  0  Risk Takers
+172.  0  Handbook of Asian Finance
+173.  0  Handbook of Asian Finance
+174.  0  Entrepreneurial Finance: Fundamentals of Financial Planning and Management for Small Business
+175.  0  The Dao of Capital: Austrian Investing in a Distorted World
+176.  0  Visual Quantitative Finance: A New Look at Option Pricing, Risk Management, and Structured Securities
+177.  0  Financial Games for Training
+178.  0  Banker's Guide to New Small Business Finance: Venture Deals, Crowdfunding, Private Equity, and Technology, + Website
+179.  0  Applied International Finance
+180.  0  Impact Investment: A Practical Guide to Investment Process and Social Impact Analysis
+181.  0  Finance Policy for Renewable Energy and a Sustainable Environment
+182.  0  How to Analyze and Use Leveraged Finance Bonds for Project Finance
+183.  0  A Dozen Lessons for Entrepreneurs
+184.  0  Islamic Finance and Economic Development: Risk, Regulation, and Corporate Governance
+185.  0  Encyclopedia of Quantitative Finance, IV Volume Set
+186.  0  Value: The Four Cornerstones of Corporate Finance
+187.  0  Islamic Capital Markets and Products
+188.  0  Venture Capital Networks
+189.  0  Finance for IT Decision Makers - A practical handbook
+190.  0  Numerical Methods and Optimization in Finance
+191.  0  International Finance For Dummies
+192.  0  The Insider's Guide to Film Finance
+193.  0  Islamic Finance: The New Regulatory Challenge, 2nd Edition
+194.  0  Central Counterparties: Mandatory Central Clearing and Initial Margin Requirements for OTC Derivatives
+195.  0  HBR Guide to Finance Basics for Managers
+196.  0  Financial Planning Competency Handbook, 2nd Edition
+197.  0  The Role of Credit Default Swaps in Leveraged Finance Analysis
+198.  0  Managing Commodity Price Risk
+199.  0  Capital Budgeting
+200.  0  Financial Modeling for Business Owners and Entrepreneurs: Developing Excel Models to Raise Capital, Increase Cash Flow, Improve Operations, Plan Projects, and Make Decisions
+201.  0  Corporate Finance Workbook: A Practical Approach, Second Edition
+202.  0  Derivatives Analytics with Python
+203.  0  Finance: Fast Track to Success
+204.  0  Frequently Asked Questions in Corporate Finance
+205.  0  Stochastic Financial Models
+206.  0  Financial Planning, Budgeting, and Forecasting: Financial Intelligence Collection (7 Books)
+207.  0  Understanding Broadcast and Cable Finance, 2nd Edition
+208.  0  The Enduring Advisory Firm
+209.  0  Understanding Finance
+210.  0  Key Financial Market Concepts, 2nd Edition
+211.  0  The Impact of IFRS on Industry
+212.  0  Stochastic Finance
+213.  0  Handbook of Empirical Corporate Finance
+214.  0  Introduction to Finance: Markets, Investments, and Financial Management, Fourteenth Edition
+215.  0  Equity Markets and Portfolio Analysis
+216.  0  Handbook of Empirical Corporate Finance SET
+217.  0  Quicken 2015 For Dummies
+218.  0  The Descent of Finance
+219.  0  Leveraged Finance: Concepts, Methods, and Trading of High-Yield Bonds, Loans, and Derivatives
+220.  0  The Crowd Funding Services Handbook: Raising the Money You Need to Fund Your Business, Project, or Invention
+221.  0  Dinosaur Derivatives and Other Trades
+222.  0  Litigation Services Handbook, 2015 Cumulative Supplement: The Role of the Financial Expert, 5th Edition
+223.  0  Financial Times Handbook of Corporate Finance, 2nd Edition
+224.  0  Financing New Ventures
+225.  0  The Monetary System
+226.  0  Fundamentals of Islamic Money and Capital Markets
+227.  0  The Con Men
+228.  0  The Little Book of Venture Capital Investing: Empowering Economic Growth and Investment Portfolios
+229.  0  Mezzanine Financing: Tools, Applications and Total Performance
+230.  0  Business Ratios and Formulas: A Comprehensive Guide, Third Edition
+231.  0  Crowdfunding: A Guide to Raising Capital on the Internet
+232.  0  How to Manage Your Finances (Collection)
+233.  0  Criticial Finance Issues: Financial Times Briefing
+234.  0  Bloomberg Visual Guide to Municipal Bonds
+235.  0  Litigation Services Handbook, 2014 Cumulative Supplement: The Role of the Financial Expert, 5th Edition
+236.  0  The Mortgage Wars: Inside Fannie Mae, Big-Money Politics, and the Collapse of the American Dream
+237.  0  Cost Reduction and Control Best Practices: The Best Ways for a Financial Manager to Save Money, 2nd Edition
+238.  0  How the Poor Can Save Capitalism
+239.  0  Value Based Health Care: Linking Finance and Quality
+240.  0  Managing Extreme Financial Risk
+241.  0  Mastering Derivatives Markets, 4th Edition
+242.  0  Credit Risk Modeling Using Excel and VBA with DVD
+243.  0  How to Write an Investment Policy Statement, 2nd Edition
+244.  0  Capital Structure and Corporate Financing Decisions: Theory, Evidence, and Practice
+245.  0  Takaful Investment Portfolios: A Study of the Composition of Takaful Funds in the GCC and Malaysia
+246.  0  The Customer-activated Enterprise: Insights from IBM's Global C-suite Study
+247.  0  Quicken 2014 For Dummies
+248.  0  International Private Equity
+249.  0  An Executive Guide to Potrfolio Management
+250.  0  Start-ups - A toolkit for entrepreneurs
+251.  0  Good Derivatives: A Story of Financial and Environmental Innovation
+252.  0  The Definitive Guide to Business Finance: What smart managers do with the numbers, Second Edition
+253.  0  Leadership Pure and Simple: How Transformative Leaders Create Winning Organizations
+254.  0  Islamic Capital Markets: Theory and Practice
+255.  0  Get Financing Now: How to Navigate Through Bankers, Investors, and Alternative Sources for the Capital Your Business Needs
+256.  0  Strategic Corporate Finance: Applications in Valuation and Capital Structure
+257.  0  Introduction to Structured Finance
+258.  0  Hedge Fund Analysis: An In-Depth Guide to Evaluating Return Potential and Assessing Risks
+259.  0  The Financial Professional's Guide to Healthcare Reform
+260.  0  Pure Wisdom
+261.  0  Financial Engineering: The Evolution of a Profession
+262.  0  The Professional's Guide to Fair Value: The Future of Financial Reporting
+263.  0  Confessions of a Microfinance Heretic
+264.  0  Managing Your New Business’ Finances
+265.  0  Finance for Managers
+266.  0  Financing the Future: Market-Based Innovations for Growth
+267.  0  Introduction to Private Equity
+268.  0  The Devil's Deal
+269.  0  Introductory Stochastic Analysis for Finance and Insurance
+270.  0  Extreme Money: Masters of the Universe and the Cult of Risk
+271.  0  The Devil's Derivatives: The Untold Story of the Slick Traders and Hapless Regulators Who Almost Blew Up Wall Street . . . an
+272.  0  Winning CFOs: Implementing and Applying Better Practices, with Website
+273.  0  The Handbook of Financing Growth: Strategies, Capital Structure, and M&A Transactions, Second Edition
+274.  0  Fight Back Against Unfair Debt Collection Practices: Know Your Rights and Protect Yourself from Threats, Lies, and Intimidation
+275.  0  Derivatives Models on Models
+276.  0  Probabilistic Methods for Financial and Marketing Informatics
+277.  0  How to Find a Financial Planner
+278.  0  Quantitative Finance for Physicists
+279.  0  An Introduction to International Capital Markets: Products, Strategies, Participants, Second Edition
+280.  0  Handbook of the Economics of Finance
+281.  0  Finance of International Trade
+282.  0  Handbook of Asset and Liability Management
+283.  0  What is Securitization?: And How Did It Pop the Subprime Loan Bubble?
+284.  0  Executive Corporate Finance: The Business of enhancing shareholder value
+285.  0  Quicken® 2010 For Dummies®
+286.  0  Managing Hedge Fund Managers: Quantitative and Qualitative Performance Measures
+287.  0  Practical Financial Optimization: Decision Making for Financial Engineers
+288.  0  Equity Hybrid Derivatives
+289.  0  Handbook of Heavy Tailed Distributions in Finance
+290.  0  The Mathematics of Derivatives: Tools for Designing Numerical Algorithms
+291.  0  Extreme Value Hedging: How Activist Hedge Fund Managers Are Taking on the World
+292.  0  Public Finance, 2nd Edition
+293.  0  Managers Not MBAs
+294.  0  Release 2.0: Issue 2
+295.  0  Advanced Modelling in Finance Using Excel and VBA
+296.  0  Release 2.0: Issue 3
+297.  0  Syndicated Lending
+298.  0  An Introduction to High-Frequency Finance
+299.  0  Competitive Advantage of Common Sense: Using the Power You Already Have, The
+300.  0  Personal Finance in Your 20s & 30s For Dummies, 3rd Edition
+301.  0  Personal Finance After 50 For Dummies, 3rd Edition
+302.  0  Personal Finance in Your 20s and 30s For Dummies
+303.  0  The Essentials of Finance and Accounting for Nonfinancial Managers, 3rd Edition
+304.  0  Personal Finance After 50 For Dummies, 2nd Edition
+305.  0  Rewire for Wealth: Three Steps Any Woman Can Take to Program Her Brain for Financial Success
+306.  0  Sports Finance and Management
+307.  0  Financial Adulting
+308.  0  401(k)s & IRAs For Dummies
+309.  0  Financial Security For Dummies
+310.  0  Warren Buffett
+311.  0  Retirement Planning For Dummies
+312.  0  Winning the Loser's Game
+313.  0  Mom's Got Money
+314.  0  Estate & Trust Administration For Dummies, 2nd Edition
+315.  0  Rewire for Wealth
+316.  0  The Secret of Think and Grow Rich
+317.  0  The 5 Essential Principles of Think and Grow Rich
+318.  0  Activate Your Money
+319.  0  Paying For College For Dummies
+320.  0  The Origin of Capitalism
+321.  0  Beyond Diversification
+322.  0  Trampled by Unicorns
+323.  0  The Money Formula
+324.  0  Mastering the Moneyed Mind, Volume IV
+325.  0  In Control at 50-Plus
+326.  0  The Bogleheads' Guide to Investing
+327.  0  Discoveries Through Personal Agility
+328.  0  How to Bring ESG Into the Quarterly Earnings Call
+329.  0  Money Minded Families
+330.  0  Fabricating For Dummies
+331.  0  Mutual Funds for Dummies
+332.  0  Liz Weston on Personal Finance (Collection), 2/e
+333.  0  Combat Finance: How Military Values and Discipline Will Help You Achieve Financial Freedom
+334.  0  Managing Abundance
+335.  0  Quicken for Windows: The Official Guide, Eighth Edition, 8th Edition
+336.  0  Ignore the Hype
+337.  0  Micro MBA
+338.  0  Hedge Funds for Dummies
+339.  0  Millennial Money Makeover
+340.  0  The Savage Truth on Money, 3rd Edition
+341.  0  Making Money Simple
+342.  0  The Big Four
+343.  0  Personal Branding For Dummies, 2nd Edition
+344.  0  Money Machine
+345.  0  Building Wealth One House at a Time, Updated and Expanded, Second Edition, 2nd Edition
+346.  0  Mom and Dad, We Need to Talk
+347.  0  Never Too Old to Get Rich
+348.  0  Marketing to Millennials For Dummies
+349.  0  Capitalism at Risk, Updated and Expanded
+350.  0  Profits and Sustainability
+351.  0  Invisible Martyrs
+352.  0  Online Portfolio Selection
+353.  0  Market Entropy
+354.  0  One Simple Idea, Revised and Expanded Edition: Turn Your Dreams into a Licensing Goldmine While Letting Others Do the Work, 2nd Edition
+355.  0  Money Laundering and Terrorist Financing Activities
+356.  0  Football's Secret Trade
+357.  0  Selling Your House For Dummies
+358.  0  How Do I Get There from Here?
+359.  0  The Referral of a Lifetime, 2nd Edition
+360.  0  The Ask
+361.  0  Young Money
+362.  0  Think Bigger
+363.  0  Fund Custody and Administration
+364.  0  Building Wealth through Venture Capital
+365.  0  Investing in Your 20s and 30s For Dummies, 2nd Edition
+366.  0  Leading with Questions: How Leaders Find the Right Solutions by Knowing What to Ask, Revised and Updated
+367.  0  The Portable MBA in Finance and Accounting, 4th Edition
+368.  0  Wealth Management Unwrapped, Revised and Expanded
+369.  0  Ask Outrageously!
+370.  0  Health Financing Without Deficits
+371.  0  Visual Guide to ETFs
+372.  0  The Living Trust Advisor
+373.  0  Money Mindset
+374.  0  The Complete Direct Investing Handbook
+375.  0  MSP Survival Guide for Programme Managers
+376.  0  The Question Every Executive Should Ask
+377.  0  The Truth About Personal Finance (Collection)
+378.  0  What Hedge Funds Really Do
+379.  0  Small Money Big Impact
+380.  0  Trade-Based Money Laundering
+381.  0  More Than Money
+382.  0  Paper Money Collapse: The Folly of Elastic Money, 2nd Edition
+383.  0  Quicken 2017 The Official Guide, 7th Edition
+384.  0  Dad's Guide To Pregnancy For Dummies, 2nd Edition
+385.  0  The AMA Dictionary of Business and Management
+386.  0  Winning at Active Management
+387.  0  The Wealth Dragon Way: The Why, the When and the How to Become Infinitely Wealthy
+388.  0  Personal Finance For Dummies®, 6th Edition
+389.  0  Smart Mom, Rich Mom
+390.  0  Napa at Last Light
+391.  0  Common Stocks and Common Sense
+392.  0  Let’s Get Real About Money!: Profit from the Habits of the Best Personal Finance Managers
+393.  0  Loaded
+394.  0  Private Wealth Management: The Complete Reference for the Personal Financial Planner, Ninth Edition, 9th Edition
+395.  0  Investing in Your 20s and 30s For Dummies
+396.  0  When Money Talks
+397.  0  Starting Out in Shares the ASX Way, 3rd Edition
+398.  0  How to Ask for What You Want
+399.  0  Beat the Crowd: How You Can Out-Invest the Herd by Thinking Differently
+400.  0  Grow Your Investments with the Best Mutual Funds and ETFs: Making Long-Term Investment Decisions with the Best Funds Today
+401.  0  Inside Volatility Filtering: Secrets of the Skew, 2nd Edition
+402.  0  Smart is the New Rich: Money Guide for Millennials
+403.  0  What's Your Future Worth?
+404.  0  A New Vision for Personal Transportation
+405.  0  Angel Investing: The Gust Guide to Making Money and Having Fun Investing in Startups
+406.  0  The Value of Debt in Retirement: Why Everything You Have Been Told Is Wrong
+407.  0  Quicken 2016 The Official Guide, 5th Edition
+408.  0  What's Draining Women's Ambition?
+409.  0  Alts Democratized: A Practical Guide to Alternative Mutual Funds and ETFs for Financial Advisors, + Website
+410.  0  Unreasonable Men
+411.  0  Marketing to Millennials
+412.  0  The Wealth Code 2.0: How the Rich Stay Rich in Good Times and Bad
+413.  0  Brandes on Value: The Independent Investor
+414.  0  What's Your Future Worth?
+415.  0  DIY Super For Dummies, 3rd Australian Edition
+416.  0  The Resilient Investor
+417.  0  Educating Special Children, 2nd Edition
+418.  0  The International Living Guide to Retiring Overseas on a Budget: How to Live Well on $25,000 a Year
+419.  0  No One Loves Your Money Like You Do: The Ultimate Retirement Planning Guide for Business Owners and Private Practitioners
+420.  0  Quicken 2015 The Official Guide, 3rd Edition
+421.  0  101 Ways to Save Money on Your Tax - Legally! Updated for 2014-2015
+422.  0  Modeling Structured Finance Cash Flows with Microsoft® Excel®: A Step-by-Step Guide
+423.  0  The Value of Debt: How to Manage Both Sides of a Balance Sheet to Maximize Wealth
+424.  0  All About Hedge Funds, Fully Revised Second Edition, 2nd Edition
+425.  0  The Manual of Ideas: The Proven Framework for Finding the Best Value Investments
+426.  0  Monopoly, Money, and You: How to Profit from the Game’s Secrets of Success
+427.  0  Durability of Bridge Structures
+428.  0  The Gender Communication Handbook: Conquering Conversational Collisions between Men and Women
+429.  0  Wise Money: Using the Endowment Investment Approach to Minimize Volatility and Increase Control
+430.  0  Plan Your Prosperity: The Only Retirement Guide You'll Ever Need, Starting Now--Whether You're 22, 52 or 82
+431.  0  Get Started in Shares
+432.  0  Exchange-Traded Funds For Dummies®, 2nd Edition
+433.  0  Navigating the Business Loan
+434.  0  New Age of Sustainable Capitalism: Business Models to Drive Growth and Social Change (Collection), The
+435.  0  Where Winners Live: Sell More, Earn More, Achieve More Through Personal Accountability
+436.  0  Quicken 2014 The Official Guide, 2nd Edition
+437.  0  The Athena Doctrine: How Women (and the Men Who Think Like Them) Will Rule the Future
+438.  0  Clean Up Your Finances (Collection)
+439.  0  FT Guide to Wealth Management
+440.  0  Wealth: Grow It and Protect It, Updated and Revised
+441.  0  The Fundamentals of Money and Financial Systems
+442.  0  THE M WORD: The Money Talk every Family Needs to have about Wealth and their Financial Future
+443.  0  Post Modern Investment: Facts and Fallacies of Growing Wealth in a Multi-Asset World
+444.  0  Personal Knowledge Capital
+445.  0  Managing Creativity and Innovation in the Workplace, 5th Edition
+446.  0  There Are No Dumb Questions About Money: Answers and Advice to Help You Make the Most of Your Finances
+447.  0  Budgeting Basics and Beyond
+448.  0  Deal with Your Debt: Free Yourself from What You Owe, Updated and Revised
+449.  0  Work With Me
+450.  0  What to Ask the Person in the Mirror: Critical Questions for Becoming a More Effective Leader and Reaching Your Potential
+451.  0  Understanding Organisations in their Context, 5th Edition
+452.  0  The Financial Domino Effect: How to Profit Now in the Volatile Global Economy
+453.  0  The Money Myth
+454.  0  Managing Projects, 5th Edition
+455.  0  Investing in the Age of Sovereign Defaults: How to Preserve your Wealth in the Coming Crisis
+456.  0  Raising Capital: Get the Money You Need to Grow Your Business
+457.  0  The Aftershock Investor: A Crash Course in Staying Afloat in a Sinking Economy
+458.  0  Working with Costs and Budgets, 5th Edition
+459.  0  Beer For Dummies, 2nd Edition
+460.  0  Organizing and Delegating, 5th Edition
+461.  0  World Right Side Up: Investing Across Six Continents
+462.  0  The Little Book of the Shrinking Dollar: What You Can Do to Protect Your Money Now
+463.  0  OtherWise
+464.  0  401(k) Day Trading
+465.  0  Creating Personal Presence
+466.  0  Managing Customer Service, 5th Edition
+467.  0  Managing Performance, 5th Edition
+468.  0  Paper Money Collapse: The Folly of Elastic Money and the Coming Monetary Breakdown
+469.  0  The Little Book of Behavioral Investing: How not to be your own worst enemy
+470.  0  Providing Quality to Customers, 5th Edition
+471.  0  365 Ways to Make Money: Ideas for Quick $ Every Day of the Year
+472.  0  Investing in Emerging Markets: The Rules of the Game
+473.  0  Seven Steps to Financial Freedom in Retirement
+474.  0  Templeton's Way with Money: Strategies and Philosophy of a Legendary Investor
+475.  0  Money For Nothing: How To Land The Best Deals On Your Insurances, Cards, Super, Tax And More
+476.  0  Nudge (Revised Edition)
+477.  0  Survival of the Fittest for Investors: Using Darwin’s Laws of Evolution to Build a Winning Portfolio
+478.  0  John Adair's 100 Greatest Ideas for Personal Success
+479.  0  The Emperor’s New Clothes: Investment Strategies That Help Keep You Covered
+480.  0  Wants vs. Needs: Managing Your Personal Surplus
+481.  0  Extreme Money
+482.  0  Managing Your Personal Finances Better
+483.  0  Learn MYOB in 7 Days
+484.  0  The New Gold Standard: Rediscovering the Power of Gold to Protect and Grow Wealth
+485.  0  16 Expert Lessons for Successfully Managing Your Personal Finances (Collection)
+486.  0  Aftershock: Protect Yourself and Profit In The Next Global Financial Meltdown, Second Edition
+487.  0  Personal Investing: The Missing Manual
+488.  0  30-Minute Money Solutions: A Step-by-Step Guide to Managing Your Finances
+489.  0  The Savage Truth on Money, 2nd Edition
+490.  0  Credit 911: Secrets and Strategies to Saving Your Financial Life
+491.  0  The Joy of Retirement
+492.  0  Fighting Identity Theft!: How to Protect Your Personal Finances
+493.  0  Wine Lover's Devotional
+494.  0  The Vintner's Apprentice
+495.  0  Buying at the Point of Maximum Pessimism: Six Value Investing Trends from China to Oil to Agriculture
+496.  0  The Little Book of Sideways Markets: How to Make Money in Markets that Go Nowhere
+497.  0  Your Money Milestones: A Guide to Making the 9 Most Important Financial Decisions of Your Life
+498.  0  The True Cost of Happiness: The Real Story Behind Managing Your Money
+499.  0  The New Parent’s Guide to Taking Control of Your Money
+500.  0  The Young Professional’s Guide to Taking Control of Your Money

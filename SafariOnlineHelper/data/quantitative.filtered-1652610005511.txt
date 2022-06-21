@@ -1,0 +1,502 @@
+INPUT: quantitative
+TOTAL BOOKS: 500
+1.  28  Lean Analytics
+2.  27  A Guide to the Project Management Body of Knowledge (PMBOK® Guide), Fifth Edition
+3.  24  OSCON 2014: Complete Video Compilation
+4.  15  INSPIRED, 2nd Edition
+5.  13  CISSP
+6.  12  CISSP Video Course Domain 1 – Information Security and Risk Management
+7.  11  CompTIA Security+ SY0-601
+8.  11  CompTIA Security+ (SY0-501): Complete Course and Practice Exam
+9.  11  CompTIA Security+ (SY0-501)
+10.  11  CompTIA Security+ (SY0-401) Complete Video Course
+11.  11  Effective Monitoring and Alerting
+12.  10  Strata Conference New York + Hadoop World 2013: Complete Video Compilation
+13.  10  Universal Principles of Design, Revised and Updated
+14.  9  CompTIA Security+ Certification SY0-601: The Total Course
+15.  8  PMP Exam Prep: PMBOK Guide, Second Edition
+16.  8  OSCON 2015: Video Compilation
+17.  8  CISSP Exam Prep
+18.  8  Python for Finance, 2nd Edition
+19.  7  Fundamentals of Data Visualization
+20.  6  PMP Certification Complete Video Course and Practice Test
+21.  6  Python Natural Language Processing
+22.  6  Strata + Hadoop World 2016 - San Jose, California: Video Compilation
+23.  6  CISSP Certification Training: Domain 1
+24.  6  Data Visualization with D3.js Cookbook
+25.  6  Software Architecture in Practice, Second Edition
+26.  5  Using Jupyter Notebooks for Data Science Analysis in Python LiveLessons
+27.  5  The Fundamentals of User Experience - a Process for Problem Solving
+28.  5  Learning Path: CISSP
+29.  5  Computer Architecture, 5th Edition
+30.  5  Pomodoro Technique Illustrated
+31.  5  Illustrated Guide to Home Chemistry Experiments
+32.  5  Software Architect's Handbook
+33.  4  The Simplest Guide™ to Project Management and PMI-PMP Certification Exam
+34.  4  How to Measure Anything in Cybersecurity Risk
+35.  4  Essentials of Discrete Mathematics, 3rd Edition
+36.  4  Feature Engineering Made Easy
+37.  4  SSCP (Systems Security Certified Practitioner)
+38.  4  Learning pandas - Second Edition
+39.  4  Python for Finance
+40.  4  Statistics for Data Science
+41.  3  Quantitative Trading, 2nd Edition
+42.  3  Quantitative Trading : How to Build Your Own Algorithmic Trading Business
+43.  3  Organizational Culture and Leadership, 5th Edition
+44.  3  Strata Data Conference 2019 - San Francisco, California
+45.  3  GMAT For Dummies, 7th Edition
+46.  3  CCNA Security 210-260 Certification Guide
+47.  3  Keras 2.x Projects
+48.  3  CompTIA Security+ Certification Guide
+49.  3  The Functional Art: An introduction to information graphics and visualization
+50.  3  Operations Research, 2nd Edition
+51.  3  Principles of Data Science
+52.  3  Just Enough Research
+53.  3  Statistical Inference: A Short Course
+54.  3  Strata Conference New York + Hadoop World 2012: Complete Video Compilation
+55.  3  Learn Algorithmic Trading
+56.  3  Mastering pandas - Second Edition
+57.  3  Econometrics For Dummies
+58.  3  SSCP Systems Security Certified Practitioner All-in-One Exam Guide
+59.  3  Hands-On Machine Learning for Cybersecurity
+60.  2  Finding Alphas: A Quantitative Approach to Building Trading Strategies
+61.  2  Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading, 2nd Edition
+62.  2  Principles of Quantitative Development
+63.  2  Market Risk Analysis Volume I: Quantitative Methods in Finance
+64.  2  UX Fundamentals for Non-UX Professionals: User Experience Principles for Managers, Writers, Designers, and Developers
+65.  2  CCBA® and CBAP® Certifications Study Guide
+66.  2  Fixing Bad UX Designs
+67.  2  UX Research
+68.  2  UX for the Web
+69.  2  CompTIA CySA+ (CS0-001): Complete Course and Practice Exam
+70.  2  A Guide to Six Sigma and Process Improvement for Practitioners and Students: Foundations, DMAIC, Tools, Cases, and Certification, Second Edition
+71.  2  CompTIA Security+ Certification SY0-501: The Total Course
+72.  2  Mastering Numerical Computing with NumPy
+73.  2  Principles of Data Science - Second Edition
+74.  2  Mastering Card Sorting: How to Use Research to Organize Information Intuitively
+75.  2  Practical Data Analysis - Second Edition
+76.  2  CISSP Video Course
+77.  2  Characterization of Biomaterials
+78.  2  Becoming Agile: ... in an imperfect world
+79.  2  Red-Blooded Risk: The Secret History of Wall Street
+80.  2  The User Is Always Right: A Practical Guide to Creating and Using Personas for the Web
+81.  2  Natural Language Processing with TensorFlow
+82.  2  Measuring and Managing Information Risk
+83.  2  Gnuplot in Action: Understanding Data with Graphs
+84.  2  CISSP in 21 Days - Second Edition
+85.  2  Business Statistics: For Contemporary Decision Making, 8th Edition
+86.  2  Matplotlib for Python Developers
+87.  2  Deep Learning By Example
+88.  2  Learning Ceph - Second Edition
+89.  2  Qualitative Research: An Introduction to Methods and Designs
+90.  2  Python for Finance Cookbook
+91.  2  Scala Machine Learning Projects
+92.  2  Fixed Income Securities: Tools for Today's Markets, 3rd Edition
+93.  2  Research Methods and Applications for Student Affairs
+94.  2  Machine Learning for Finance
+95.  2  Mastering Qlik Sense
+96.  2  Python Data Science Essentials - Third Edition
+97.  2  Hands-On UX Design for Developers
+98.  2  Enterprise Agility
+99.  2  Research Methodology
+100.  1  Quantitative Momentum
+101.  1  Learning Quantitative Finance with R
+102.  1  F# for Quantitative Finance
+103.  1  Automated Trading with R: Quantitative Research and Platform Development
+104.  1  Quantitative Equity Portfolio Management
+105.  1  Introduction to R for Quantitative Finance
+106.  1  Quantitative Methods: An Introduction for Business Management
+107.  1  Quantitative Value, + Web Site: A Practitioner's Guide to Automating Intelligent Investment and Eliminating Behavioral Errors
+108.  1  Quantitative Risk Management: A Practical Guide to Financial Risk, + Website
+109.  1  Quantitative Techniques: Theory and Problems
+110.  1  Handbook of Finance: Valuation, Financial Modeling, and Quantitative Tools
+111.  1  Software Performance and Scalability: A Quantitative Approach
+112.  1  Pairs Trading: Quantitative Methods and Analysis
+113.  1  Practical Project Risk Management, Third Edition, 3rd Edition
+114.  1  The Agile Developer's Handbook
+115.  1  Information Security Handbook
+116.  1  The Artificial Intelligence Conference - San Francisco 2018
+117.  1  Risk Management for Cybersecurity and IT Managers
+118.  1  Hands-On Microservices with C#
+119.  1  Strategic Management: A Competitive Advantage Approach, Concepts and Cases, 16/e
+120.  1  An Introduction to Financial Markets
+121.  1  Remote Usability Testing
+122.  1  The Trade Lifecycle: Behind the Scenes of the Trading Process, 2nd Edition
+123.  1  MATLAB for Machine Learning
+124.  1  Machine Learning for Developers
+125.  1  R: Mining Spatial, Text, Web, and Social Media Data
+126.  1  Mastering Text Mining with R
+127.  1  Mastering Machine Learning with R - Second Edition
+128.  1  R: Data Analysis and Visualization
+129.  1  D3.js 4.x Data Visualization - Third Edition
+130.  1  Key Business Analytics
+131.  1  SAS Essentials: Mastering SAS for Data Analytics, 2nd Edition
+132.  1  The Liquidity Risk Management Guide: From Policy to Pitfalls
+133.  1  The Handbook of Mobile Market Research: Tools and Techniques for Market Researchers
+134.  1  Encyclopedia of Financial Models, 3 Volume Set
+135.  1  Demand and Supply Integration: The Key to World-Class Demand Forecasting
+136.  1  Accounting for Investments, Volume 2: Fixed Income Securities and Interest Rate Derivatives—A Practitioner's Guide
+137.  1  Visual Guide to Hedge Funds
+138.  1  The Theory and Practice of Investment Management: Asset Allocation, Valuation, Portfolio Construction, and Strategies, Second Edition
+139.  1  CMMI for Development®: Guidelines for Process Integration and Product Improvement, Third Edition
+140.  1  Mastering Investment Banking Securities
+141.  1  Risk Assessment: Tools, Techniques, and Their Applications
+142.  1  Project Risk and Cost Analysis
+143.  1  Business Analysis Techniques
+144.  1  LTE, LTE-Advanced and WiMAX: Towards IMT-Advanced Networks
+145.  1  Credit Risk Frontiers: Subprime Crisis, Pricing and Hedging, CVA, MBS, Ratings, and Liquidity
+146.  1  Credit Engineering for Bankers, 2nd Edition
+147.  1  Handbook of Finance: Investment Management and Financial Management
+148.  1  Governance, Risk, and Compliance Handbook: Technology, Finance, Environmental, and International Guidance and Best Practices
+149.  1  Value-Based Fees: How to Charge—and Get—What You're Worth: A Guide for Consultants, Second Edition
+150.  1  CAPM/PMP Project Management All-in-One Exam Guide
+151.  1  SSCP Video Course Domain 3 - Risk, Response and Recovery
+152.  1  Inside Network Security Assessment: Guarding Your IT Infrastructure
+153.  1  CMMI: Guidelines for Process Integration and Product Improvement, Second Edition
+154.  1  Network Performance Baselining
+155.  1  The Handbook of Fixed Income Securities, Eighth Edition, 8th Edition
+156.  1  Practical Methods of Financial Engineering and Risk Management
+157.  1  Website Owner’s Manual
+158.  1  Hands-On Ensemble Learning with Python
+159.  1  Building a Recommendation System with R
+160.  1  Managing Human Resources, Eight Edition
+161.  1  Python Social Media Analytics
+162.  1  Selling Today: Partnering to Create Value, 14/e
+163.  1  GRE For Dummies with Online Practice, 9th Edition
+164.  1  Financial Mathematics
+165.  1  UX Optimization: Combining Behavioral UX and Usability Testing Data to Optimize Websites
+166.  1  Learn Chart.js
+167.  1  Hands-On Artificial Intelligence for Beginners
+168.  1  Keeping up with the Quants
+169.  1  Python Machine Learning Cookbook - Second Edition
+170.  1  Blueprint for Project Recovery: A Project Management Guide The Complete Process for Getting Derailed Projects Back on Track
+171.  1  Ceph: Designing and Implementing Scalable Storage Systems
+172.  1  Iron Condor Spread Strategies:: Timing, Structuring, and Managing Profitable Options Trades
+173.  1  Machine Learning for Mobile
+174.  1  Principles of Marketing, 17/e
+175.  1  R Data Analysis Cookbook - Second Edition
+176.  1  TensorFlow 1.x Deep Learning Cookbook
+177.  1  Exploring Experience Design
+178.  1  Enterprise Security: A Data-Centric Approach to Securing the Enterprise
+179.  1  Customer Analytics For Dummies
+180.  1  Listed Volatility and Variance Derivatives
+181.  1  The Handbook of News Analytics in Finance
+182.  1  Python for Finance - Second Edition
+183.  1  Project Management for IT-Related Projects - 3rd edition
+184.  1  Data-Driven Business Decisions
+185.  1  Business Process Modeling, Simulation and Design
+186.  1  Hands-On Predictive Analytics with Python
+187.  1  Qlik Sense Cookbook - Second Edition
+188.  1  Managing Risk in Information Systems, 3rd Edition
+189.  1  Business Analytics for Sales and Marketing Managers: How to Compete in the Information Age
+190.  1  Learning Tableau 2019 - Third Edition
+191.  1  Data Visualization in Stata
+192.  1  The Basics of Financial Econometrics: Tools, Concepts, and Asset Management Applications
+193.  1  Sustainable Engineering: Concepts, Design and Case Studies
+194.  0  Quantitative Analysis for Management, 13/e
+195.  0  Technology Entrepreneurship, 2nd Edition
+196.  0  Decision Management Systems: A Practical Guide to Using Business Rules and Predictive Analytics
+197.  0  Quantitative Portfolio Management
+198.  0  Quantitative Finance
+199.  0  Practical C++20 Financial Programming: Problem Solving for Quantitative Finance, Financial Engineering, Business, and Economics
+200.  0  Big Data and Machine Learning in Quantitative Investment
+201.  0  Quantitative Tools of Project Management
+202.  0  Quantitative Finance
+203.  0  How Thomson Reuters is using AI in quantitative finance applications
+204.  0  Quantitative Finance
+205.  0  Quantitative Pharmacology and Individualized Therapy Strategies in Development of Therapeutic Proteins for Immune-Mediated Inflammatory Diseases
+206.  0  Quantitative Process Control Theory
+207.  0  Mastering R for Quantitative Finance
+208.  0  Quantitative Financial Risk Management: Theory and Practice
+209.  0  Quantitative Methods for Traditional Chinese Medicine Development
+210.  0  Principles of Quantitative Equity Investing: A Complete Guide to Creating, Evaluating, and Implementing Trading Strategies
+211.  0  Quantitative Operational Risk Models
+212.  0  The Mathematics of Financial Models: Solving Real-World Problems with Quantitative Methods
+213.  0  Encyclopedia of Quantitative Finance, IV Volume Set
+214.  0  Quantitative Corpus Linguistics with R
+215.  0  Rule Based Investing: Designing Effective Quantitative Strategies for Foreign Exchange, Interest Rates, Emerging Markets, Equity Indices, and Volatility
+216.  0  Visual Quantitative Finance: A New Look at Option Pricing, Risk Management, and Structured Securities
+217.  0  Inside the Black Box: The Simple Truth About Quantitative Trading
+218.  0  A Quantitative Approach to Commercial Damages: Applying Statistics to the Measurement of Lost Profits, + Website
+219.  0  Managing Hedge Fund Managers: Quantitative and Qualitative Performance Measures
+220.  0  Quantitative Methods in Health Care Management: Techniques and Applications, 2nd Edition
+221.  0  Quantitative Finance for Physicists
+222.  0  Fundamentals of Management, 11/e
+223.  0  Practical Predictive Analytics
+224.  0  Tableau Strategies
+225.  0  Enterprise Risk Management, 2nd Edition
+226.  0  Data Science, Analytics, and AI for Business and the Real World™
+227.  0  Program Management Professional (PgMP) Exam Prep Course
+228.  0  Deep Learning with PyTorch video edition
+229.  0  UX Research
+230.  0  The Failure of Risk Management, 2nd Edition
+231.  0  Chemical Engineering in the Pharmaceutical Industry, Active Pharmaceutical Ingredients, 2nd Edition
+232.  0  R Bioinformatics Cookbook
+233.  0  Finding Your Ethical Research Self
+234.  0  Hands-On Generative Adversarial Networks with Keras
+235.  0  Creating Good Data: A Guide to Dataset Structure and Data Representation
+236.  0  Predictive Control
+237.  0  Statistics Workbook For Dummies with Online Practice, 2nd Edition
+238.  0  Introduction to Experimental Linguistics
+239.  0  Mastering Machine Learning with R - Third Edition
+240.  0  Preparing for the Next Financial Crisis
+241.  0  The Routledge Companion to Risk, Crisis and Security in Business
+242.  0  1,001 GMAT Practice Questions For Dummies
+243.  0  Advanced Machine Learning with R
+244.  0  Real Estate Titans
+245.  0  Multimodal Scene Understanding
+246.  0  Hands-On Geospatial Analysis with R and QGIS
+247.  0  Fog and Fogonomics
+248.  0  Statistics for Business: Decision Making and Analysis, 3rd Edition
+249.  0  Measurement in Marketing
+250.  0  Market Data Analysis Using JMP
+251.  0  Ultrasound Elastography for Biomedical Applications and Medicine
+252.  0  Applications of Computational Intelligence in Data-Driven Trading
+253.  0  Portfolio Construction and Analytics
+254.  0  Foundations of Software and System Performance Engineering: Process, Performance Modeling, Requirements, Testing, Scalability, and Practice
+255.  0  Libraries and Key Performance Indicators
+256.  0  The Little Book of Big Decision Models
+257.  0  Analytical Political Economy
+258.  0  Neural Network Programming with TensorFlow
+259.  0  Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences, 3rd Edition
+260.  0  Soft Computing Evaluation Logic
+261.  0  Alternative Investments: CAIA Level I, 3rd Edition
+262.  0  Introduction to Mathematical Oncology
+263.  0  Supply Chain Management
+264.  0  Demand and Supply Integration
+265.  0  A First Course in Statistics, 12th Edition
+266.  0  Epidemiology, 3rd Edition
+267.  0  Technology-focused Acquisitions
+268.  0  Handbook of Multi-Commodity Markets and Products: Structuring, Trading and Risk Management
+269.  0  Definitive Guides for Supply Chain Management Professionals (Collection)
+270.  0  Best Practices for Education Professionals
+271.  0  Perspectives on Data Science for Software Engineering
+272.  0  A Workout in Computational Finance
+273.  0  Demand-Driven Forecasting: A Structured Approach to Forecasting, 2nd Edition
+274.  0  Financial Risk Manager Handbook + Test Bank: FRM Part I / Part II, 6th Edition
+275.  0  A Professional and Practitioner's Guide to Public Relations Research, Measurement, and Evaluation, Third Edition
+276.  0  Financial Planning Competency Handbook, 2nd Edition
+277.  0  Variational Methods
+278.  0  The Project Management Tool Kit, 3rd Edition
+279.  0  Machine Learning Proceedings 1989
+280.  0  Financial Modeling for Business Owners and Entrepreneurs: Developing Excel Models to Raise Capital, Increase Cash Flow, Improve Operations, Plan Projects, and Make Decisions
+281.  0  Statistical Methods for QTL Mapping
+282.  0  Organizational Enablers for Project Governance
+283.  0  Breakthroughs in Decision Science and Risk Analysis
+284.  0  Production and Operations Management Systems
+285.  0  Second Harmonic Generation Imaging
+286.  0  Data Mining in Biomedical Imaging, Signaling, and Systems
+287.  0  Trading Options: Using Technical Analysis to Design Winning Trades, + Website
+288.  0  Innovation in Design, Communication and Engineering
+289.  0  How to Make Money with Social Media: An Insider’s Guide to Using New and Emerging Media to Grow Your Business, Second Edition
+290.  0  Green Information Technology
+291.  0  Molecular Modeling at the Atomic Scale
+292.  0  The Escape from Balance Sheet Recession and the QE Trap: A Hazardous Road for the World Economy
+293.  0  Information Systems Project Management
+294.  0  The Definitive Guide to Modern Supply Chain Management (Collection)
+295.  0  Analytics and Big Data: The Davenport Collection (6 Items)
+296.  0  Control Engineering and Information Systems
+297.  0  The Guide to Achieving STEEEP™ Health Care
+298.  0  Bursting the Big Data Bubble
+299.  0  Uncertainty in Artificial Intelligence
+300.  0  Does Your Content Work?: Why Evaluate Your Content—and How to Start
+301.  0  Refining Design for Business: Using analytics, marketing, and technology to inform customer-centric design
+302.  0  Mutation Breeding in Chickpea:
+303.  0  The Innovative Lean Machine
+304.  0  Radar Hydrology
+305.  0  Keeping Up with the Quants: Your Guide to Understanding and Using Analytics
+306.  0  CAIA Level II: Advanced Core Topics in Alternative Investments, 2nd Edition
+307.  0  Risk Assessment and Security for Pipelines, Tunnels, and Underground Rail and Transit Operations
+308.  0  Handbook of Fire and Explosion Protection Engineering Principles, 3rd Edition
+309.  0  Progress in Mine Safety Science and Engineering II
+310.  0  Research and Applications in Structural Engineering, Mechanics and Computation
+311.  0  Operations Management: Policy, Practice and Performance Improvement
+312.  0  CompTIA Security+ All-in-One Exam Guide (Exam SY0-301), 3rd Edition, 3rd Edition
+313.  0  Relevance: The Power to Change Minds and Behavior and Stay Ahead of the Competition
+314.  0  Intelligent Systems and Decision Making for Risk Analysis and Crisis Response
+315.  0  Information Evaluation
+316.  0  Energy Resources
+317.  0  Equity Valuation and Portfolio Management
+318.  0  Computational Approaches to Studying the Co-evolution of Networks and Behavior in Social Dilemmas
+319.  0  Selective Visual Attention: Computational Models and Applications
+320.  0  A Professional and Practitioner's Guide to Public Relations Research, Measurement, and Evaluation, Second Edition
+321.  0  Philosophical and Foundational Issues in Measurement Theory
+322.  0  Encyclopedia of Financial Models II
+323.  0  Practical Project Risk Management, 2nd Edition
+324.  0  CMMI® for Services: Guidelines for Superior Service, Second Edition
+325.  0  Encyclopedia of Financial Models I
+326.  0  Advanced Biophotonics
+327.  0  Nursing Research and Statistics
+328.  0  MIDAS Technical Analysis: A VWAP Approach to Trading and Investing in Today's Markets
+329.  0  Insurance, Fund Size, and Concentration
+330.  0  Practical Applications of Data Mining
+331.  0  Budgeting Basics and Beyond
+332.  0  The Complete CPA Reference
+333.  0  Enterprise Risk Management
+334.  0  Logistics Management, 2nd Edition
+335.  0  The Rules of Work, 2nd Edition
+336.  0  Transmission Electron Microscopy in Micro-nanoelectronics
+337.  0  Investing in the Age of Sovereign Defaults: How to Preserve your Wealth in the Coming Crisis
+338.  0  Performance Evaluation: Proven Approaches for Improving Program and Organizational Performance
+339.  0  Statistics for Economics
+340.  0  Essentials of Discrete Mathematics, 2nd Edition
+341.  0  Teaching Elementary Statistics with JMP
+342.  0  Hedge Fund Analysis: An In-Depth Guide to Evaluating Return Potential and Assessing Risks
+343.  0  When Core Values Are Strategic: How the Basic Values of Procter & Gamble Transformed Leadership at Fortune 500 Companies
+344.  0  CMMI® for Acquisition, Second Edition: Guidelines for Improving the Acquisition of Products and Services
+345.  0  PMP® Project Management Professional Exam: Review Guide
+346.  0  Financial Engineering: The Evolution of a Profession
+347.  0  Computational Modelling of Objects Represented in Images III
+348.  0  The Risk of Trading: Mastering the Most Important Element in Financial Speculation
+349.  0  Strategic Staffing: A Comprehensive System for Effective Workforce Planning, Second Edition
+350.  0  The Failure of Risk Management: Why It's Broken and How to Fix It
+351.  0  User-Centered Design Stories
+352.  0  Wiley Handbook of Science and Technology for Homeland Security, 4 Volume Set
+353.  0  FT Guide to Business Numeracy, 2nd Edition
+354.  0  Statistical Analysis for Business Using JMP(R): A Student's Guide
+355.  0  PHR®/SPHR® Professional in Human Resources Certification Study Guide, Third Edition
+356.  0  CMMI for Services: Guidelines for Superior Service
+357.  0  How to Make Money with Social Media: An Insider’s Guide on Using New and Emerging Media to Grow Your Business
+358.  0  The IFPUG Guide to IT and Software Measurement
+359.  0  Microscope Image Processing
+360.  0  Practical Data Analysis with JMP®
+361.  0  Operational Risk toward Basel III: Best Practices and Issues in Modeling, Management, and Regulation
+362.  0  Scholarly Communication in Library and Information Services
+363.  0  Alternative Assets and Strategic Allocation: Rethinking the Institutional Approach
+364.  0  Psychology in India, Volume 4
+365.  0  A Practioner's Guide to Public Relations Research, Measurement and Evaluation
+366.  0  The Five Most Important Questions: You Will Ever Ask About Your Organization
+367.  0  The ROI of Human Capital: Measuring the Economic Value of Employee Performance, Second Edition
+368.  0  CMMI-ACQ: Guidelines for Improving the Acquisition of Products and Services
+369.  0  Nerds on Wall Street: Math, Machines, and Wired Markets
+370.  0  Communicating Embedded Systems: Software and Design
+371.  0  SSCP Video Course
+372.  0  CompTIA Security+ SY0-201 Video Course
+373.  0  Geometric Algebra for Computer Science (Revised Edition)
+374.  0  CompTIA Security+ SY0-201 Video Course Domain 4 - Assessments and Audits
+375.  0  Forecasting Expected Returns in the Financial Markets
+376.  0  Future Savvy: Identifying Trends to Make Better Decisions, Manage Uncertainty, and Profit from Change
+377.  0  Strategic Corporate Finance: Applications in Valuation and Capital Structure
+378.  0  Value at Risk and Bank Capital Management
+379.  0  Project Decisions
+380.  0  Coaching Yourself to Leadership: Five Key Strategies for Becoming an Integrated Leader
+381.  0  Supply Chain Cost Management: The AIM & DRIVE® Process for Achieving Extraordinary Results
+382.  0  Handbook of Human Performance Technology: Principles, Practices, and Potential, Third Edition
+383.  0  Strategic Security Management
+384.  0  The PDMA Handbook of New Product Development
+385.  0  Intelligent Production Machines and Systems - First I*PROMS Virtual Conference
+386.  0  PHR Exam Prep™
+387.  0  Evaluating Impact: Evaluation and Continual Improvement for Performance Improvement Practitioners
+388.  0  PMP Project Management Professional Study Guide, Second Edition, 2nd Edition
+389.  0  The Project Management Tool Kit: 100 Tips and Techniques for Getting the Job Done Right
+390.  0  101 Leadership Actions for Creating and Managing Virtual Teams
+391.  0  Software Project Management in Practice
+392.  0  Leading for Innovation: And Organizing for Results
+393.  0  Humane Interface, The: New Directions for Designing Interactive Systems
+394.  0  Big Vision, Small Business
+395.  0  CMMI®: Guidelines for Process Integration and Product Improvement
+396.  0  Scaling for E-Business
+397.  0  The Handbook of Bilingualism and Multilingualism, 2nd Edition
+398.  0  F# High Performance
+399.  0  Multi-dimensional Imaging
+400.  0  Interpreting the CMMI (R), 2nd Edition
+401.  0  Project Decisions, 2nd Edition, 2nd Edition
+402.  0  Project Management: Achieving Competitive Advantage, Fifth Edition
+403.  0  Advances in Fermented Foods and Beverages
+404.  0  Next Generation Knowledge Machines
+405.  0  Equity Hybrid Derivatives
+406.  0  Handbook of Exchange Rates
+407.  0  Actuarial Finance
+408.  0  The Creative Entrepreneur
+409.  0  Fusion Analysis: Merging Fundamental and Technical Analysis for Risk-Adjusted Excess Returns
+410.  0  Handbook of Financial Intermediation and Banking
+411.  0  Trading with Intermarket Analysis
+412.  0  Introduction to Business Analytics
+413.  0  Ludwig's Applied Process Design for Chemical and Petrochemical Plants, 4th Edition
+414.  0  Introduction to Business Analytics, Second Edition
+415.  0  Applied machine learning in finance - 2019 Artificial Intelligence Conference, New York
+416.  0  Management, 13e
+417.  0  Tissue Engineering, 2nd Edition
+418.  0  Advances in Physical Organic Chemistry
+419.  0  Hands-On Exploratory Data Analysis with Python
+420.  0  Text as Data
+421.  0  Offshore Operation Facilities
+422.  0  Advances in Physical Organic Chemistry
+423.  0  Total Quality Management for Project Management
+424.  0  Keeping Up with the Quants
+425.  0  Mastering Kibana 6.x
+426.  0  Multiple Factor Analysis by Example Using R
+427.  0  Social Network Sites for Scientists
+428.  0  UX research at GitHub: Measuring hard-to-measure things
+429.  0  Mathematical Methods for Finance: Tools for Asset and Risk Management
+430.  0  Basic Technical Mathematics, 11th Edition
+431.  0  Supply Chain Management for Engineers
+432.  0  Hands-On Financial Trading with Python
+433.  0  Finding Alphas, 2nd Edition
+434.  0  Middle Managers in Program and Portfolio Management
+435.  0  Risk Analysis in Finance and Insurance, 2nd Edition
+436.  0  Software Testing: Concepts and Operations
+437.  0  Crowdsourcing and the Democratization of Data
+438.  0  The Image Processing Handbook, 7th Edition
+439.  0  Applied machine learning in finance - 2019 O'Reilly Strata Data Conference, San Francisco
+440.  0  Advanced Time Series Data Analysis
+441.  0  The Money Formula
+442.  0  Public Debt Dynamics of Europe and the U.S.
+443.  0  Teaching with Cases
+444.  0  Domino Effects in the Process Industries
+445.  0  Trade the Congressional Effect: How To Profit from Congress's Impact on the Stock Market
+446.  0  The Unrules
+447.  0  Learning Modern C++ for Finance
+448.  0  Mastering Python for Finance - Second Edition
+449.  0  Complexity and the Human Experience
+450.  0  Introductory Mathematics and Statistics for Islamic Finance, + Website
+451.  0  The Handbook of Hybrid Securities: Convertible Bonds, CoCo Bonds and Bail-In
+452.  0  Geopolitics and Expertise: Knowledge and Authority in European Diplomacy
+453.  0  Nonlinear Option Pricing
+454.  0  Big Data Science in Finance
+455.  0  Financial Derivative and Energy Market Valuation: Theory and Implementation in MATLAB
+456.  0  R Statistics Cookbook
+457.  0  Geography in India
+458.  0  Upgrading Leadership's Crystal Ball
+459.  0  The Evaluation of Research By Scientometric Indicators
+460.  0  Applied Deep Learning with Python
+461.  0  Software Engineering, 10th Edition
+462.  0  Strategic Compensation: A Human Resource Management Approach, 9/e
+463.  0  Equity Valuation, Risk, and Investment: A Practitioner's Roadmap
+464.  0  Learning-Based Local Visual Representation and Indexing
+465.  0  Investment Strategies of Hedge Funds
+466.  0  Japanese Equities
+467.  0  Sustainable Building Conservation
+468.  0  Sustainable Enterprise Performance
+469.  0  Biomedical Imaging
+470.  0  Exploratory Factor Analysis with SAS
+471.  0  Easy Statistics: Linear Regression
+472.  0  DIY Financial Advisor: A Simple Solution to Build and Protect Your Wealth
+473.  0  Finance, Economics, and Mathematics
+474.  0  Age-Period-Cohort Models
+475.  0  Biomedical Imaging
+476.  0  Fundamentals of Information Systems Security, 4th Edition
+477.  0  The Failure of Risk Management
+478.  0  Practical Spreadsheet Risk Modeling for Management
+479.  0  Legal and Privacy Issues in Information Security, 3rd Edition
+480.  0  Implementing Lean Six Sigma throughout the Supply Chain
+481.  0  Stata
+482.  0  Supply Chain Risk Management, Second Edition
+483.  0  Cutting Edge Marketing Analytics: Real World Cases and Data Sets for Hands On Learning
+484.  0  Analysing and Interpreting the Yield Curve, 2nd Edition
+485.  0  HealthCare’s Corporate Social Responsibility Program
+486.  0  Hands-On Artificial Intelligence for Cybersecurity
+487.  0  Optimizing and Testing WLANs
+488.  0  CISSP®: Certified Information Systems Security Professional: Study Guide, Fourth Edition
+489.  0  Strategic Leadership of Portfolio and Project Management
+490.  0  Beyond the Usability Lab
+491.  0  Combined Analysis
+492.  0  Qualitative Research in the Health Sciences
+493.  0  Business Essentials, 12/e
+494.  0  Financial Signal Processing and Machine Learning
+495.  0  The Project Management Tool Kit: 100 Tips and Techniques for Getting the Job Done Right
+496.  0  Market Risk Management for Hedge Funds: Foundations of the Style and Implicit Value-at-Risk
+497.  0  Tableau 10 Complete Reference
+498.  0  Operations and Supply Chain Management, 8th Edition
+499.  0  Telling the Design Story
+500.  0  Risk Management in Trading: Techniques to Drive Profitability of Hedge Funds and Trading Desks

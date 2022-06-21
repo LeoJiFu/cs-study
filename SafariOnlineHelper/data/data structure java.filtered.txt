@@ -1,0 +1,326 @@
+INPUT: data structure java
+TOTAL BOOKS: 500
+1.  268  Designing Data-Intensive Applications
+2.  184  Java Fundamentals I and II (Video Training)
+3.  120  Head First Java, 2nd Edition
+4.  117  Effective Java, 2nd Edition
+5.  91  Java 8 Fundamentals: Modern Java Development with Lambdas, Streams, and Introducing Java 9’s JShell and the Java Platform Module System (JPMS)
+6.  82  Java® Programming 24-Hour Trainer
+7.  68  Java Concurrency in Practice
+8.  62  Effective Java
+9.  42  SCJP Sun Certified Programmer for Java 6 Study Guide
+10.  39  Beginners Java Programming
+11.  35  Refactoring: Improving the Design of Existing Code
+12.  31  Advanced Java Programming
+13.  30  Advanced Java Development
+14.  30  From 0 to 1: Data Structures & Algorithms in Java
+15.  30  Strata Conference Santa Clara 2013: Complete Video Compilation
+16.  26  Java Programming Basics
+17.  23  Learning Java, 4th Edition
+18.  23  Strata Conference Santa Clara 2012: Video Compilation
+19.  22  Java: The Complete Reference, Ninth Edition, 9th Edition
+20.  21  Modern Java Collections
+21.  21  A Programmer’s Guide to Java™ SCJP Certification: A Comprehensive Primer, Third Edition
+22.  21  Great Java Web Programming
+23.  20  OCA Java SE 7 Programmer I Certification Guide
+24.  18  Modern Java in Action
+25.  18  Java® Programming 24-Hour Trainer
+26.  17  What's New in Java 11?
+27.  16  Data Structures and Algorithms Using Java
+28.  16  Functional Programming for Java Developers
+29.  15  Java Concurrency LiveLessons (Video Training)
+30.  15  Real-World Software Development
+31.  15  Java Web Services: Up and Running
+32.  15  OCA Java SE 7 Programmer I Study Guide (Exam 1Z0-803), 2nd Edition
+33.  14  Java for beginners: Step-by-step hands-on guide to Java
+34.  13  OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide
+35.  13  Learning Path: Professional Java Developer
+36.  13  Java Lambdas and the Stream API: Bringing Functional Programming to Java
+37.  13  Core Java Volume I--Fundamentals, 9th Edition
+38.  13  OCA/OCP Java SE 7 Programmer I & II Study Guide (Exams 1Z0-803 & 1Z0-804)
+39.  13  Data Structures and Algorithms in Java, 6th Edition
+40.  12  Functional Programming in Java: How functional techniques improve your Java programs
+41.  12  Modern Java Recipes
+42.  11  Core Java, Volume I Fundamentals, 11th Edition
+43.  11  Optimizing Java
+44.  11  Strata Conference 2011: Complete Video Compilation
+45.  11  Beginning Java 8 Fundamentals: Language Syntax, Arrays, Data Types, Objects, and Regular Expressions
+46.  11  Java™ Puzzlers: Traps, Pitfalls, and Corner Cases
+47.  11  Learning Java
+48.  10  Head First Java, 3rd Edition
+49.  10  Java: The Good Parts
+50.  10  The Complete Java Developer Course: From Beginner to Master
+51.  10  Cloud Native Java
+52.  10  Java Threads and the Concurrency Utilities
+53.  10  Strata Conference New York + Hadoop World 2013: Complete Video Compilation
+54.  10  Introduction to Data Structures & Algorithms in Java
+55.  9  Java Coding Problems
+56.  9  Java Concurrency, 2/e
+57.  9  Strata Data Conference 2017 - London, United Kingdom
+58.  9  Java Design Patterns
+59.  9  Sams Teach Yourself Java™ in 24 Hours, Sixth Edition
+60.  9  Java Network Programming, Second Edition
+61.  8  Data Structures and the Java Collections Framework, Third Edition
+62.  8  Continuous Delivery in Java
+63.  8  Continuous Enterprise Development in Java
+64.  8  Java SOA Cookbook
+65.  8  The Data Sessions: The Best of OSCON 2011
+66.  7  High-Performance Computing and Concurrency
+67.  7  Great Java
+68.  7  Java Performance, 2nd Edition
+69.  7  Strata Data Conference - San Jose 2018
+70.  7  Cloud-Native Applications in Java
+71.  7  Netty in Action
+72.  7  Strata + Hadoop World 2017 - San Jose, California
+73.  7  Strata Conference New York + Hadoop World 2014: Video Compilation
+74.  7  Java Generics and Collections
+75.  7  Strata Conference Santa Clara 2014: Complete Video Compilation
+76.  7  Core Java, Volume II--Advanced Features, 9th Edition
+77.  7  Next Generation Java™ Testing: TestNG and Advanced Concepts
+78.  7  THE Java™ Programming Language, Fourth Edition
+79.  7  Learn Java for Android Development
+80.  7  Java I/O, 2nd Edition
+81.  7  Enyo: Up and Running
+82.  7  Java 8 - Beyond the Basics
+83.  6  Core Java 11 Fundamentals, Second Edition
+84.  6  Java in a Nutshell, 7th Edition
+85.  6  97 Things Every Java Programmer Should Know
+86.  6  Core Java® Volume I—Fundamentals, Tenth Edition
+87.  6  Learning Path: Mastering Java
+88.  6  JavaScript Data Structures and Algorithms: An Introduction to Understanding and Implementing Core Data Structure and Algorithm Fundamentals
+89.  6  Strata + Hadoop World 2016 - San Jose, California: Video Compilation
+90.  6  Refactoring to Modern Java
+91.  6  Moving to Java 9: Better Design and Simpler Code
+92.  6  Where Conference 2012: The Business of Location: Complete Video Compilation
+93.  5  Data Structures and Algorithms in Java, 2nd Edition
+94.  5  Java Cookbook, 3rd Edition
+95.  5  Core Java, Volume I: Fundamentals, 12th Edition
+96.  5  Learning Java, 5th Edition
+97.  5  Java: A Beginner's Guide, Eighth Edition, 8th Edition
+98.  5  Core Java: Advanced
+99.  5  Design Patterns and Best Practices in Java
+100.  5  Quarkus Cookbook
+101.  5  Java By Comparison
+102.  5  Full Stack Development with JHipster - Second Edition
+103.  5  Java Unit Testing with JUnit 5: Test Driven Development with JUnit 5
+104.  5  Java in a Nutshell, 6th Edition
+105.  5  Core Java, Volume II—Advanced Features, Tenth Edition
+106.  5  Java: A Beginner's Guide, Sixth Edition, 6th Edition
+107.  5  Nim in Action
+108.  5  Test Driven: Practical TDD and Acceptance TDD for Java Developers
+109.  5  Java Programming
+110.  5  Apache Spark 2.x for Java Developers
+111.  5  Java™ for Programmers: Deitel
+112.  5  Java Programming
+113.  5  Java 7 Recipes: A Problem-Solution Approach
+114.  5  Strata Rx Conference Boston 2013: Complete Video Compilation
+115.  5  Design Patterns in Java™, Second Edition
+116.  5  iText in Action
+117.  5  Concurrency: State Models and Java Programs
+118.  5  Learning Java, 3rd Edition
+119.  5  Mastering Concurrency Programming with Java 8
+120.  5  Java RMI
+121.  5  AppleScript in a Nutshell
+122.  4  Advanced Java Performance: Hotspot GC Tuning LiveLessons
+123.  4  Learn How to Code: The Complete Core Java Programming Course
+124.  4  Java: The Complete Reference, Twelfth Edition, 12th Edition
+125.  4  Java SE 11 Developer (1Z0-819)
+126.  4  Java: The Complete Reference, Eleventh Edition, 11th Edition
+127.  4  Strata Data Conference - New York, NY 2018
+128.  4  Java Programming Essentials
+129.  4  Java 11 and 12 - New Features
+130.  4  Java Programming Interviews Exposed
+131.  4  Java For Everyone: Compatible with Java 5, 6, and 7, 2nd Edition
+132.  4  Core Java
+133.  4  Strata Data Conference 2017 - New York, New York
+134.  4  Strata + Hadoop World 2016 - Singapore
+135.  4  Java Network Programming, 4th Edition
+136.  4  Sams Teach Yourself Java in 21 Days, Sixth Edition
+137.  4  Learn Java for Web Development: Modern Java Web Development
+138.  4  Java™ Coding Guidelines: 75 Recommendations for Reliable and Secure Programs
+139.  4  OSGi in Action: Creating Modular Applications in Java
+140.  4  Java 7 Pocket Guide, 2nd Edition
+141.  4  Oracle Certified Professional Java SE 7 Programmer Exams 1Z0-804 and 1Z0-805: A Comprehensive OCPJP 7 Certification Guide
+142.  4  Beginning Java 7
+143.  4  Java in a Nutshell, 5th Edition
+144.  4  Building Open Source Programming Skills at OSCON 2012
+145.  4  Programming Pearls, Second Edition
+146.  4  Java Threads, 3rd Edition
+147.  4  SCJP: Sun Certified Programmer for Java® Platform, SE6, Study Guide
+148.  4  Propose, Prepare, Present
+149.  4  Darkstar: The Java Game Server
+150.  4  Eclipse Web Tools Platform: Developing Java™ Web Applications
+151.  4  Core Java™ Volume II–Advanced Features, Eighth Edition
+152.  4  Java Threads, Second Edition
+153.  3  Advanced Topics in Java: Core Concepts in Data Structures
+154.  3  Java Cookbook, 4th Edition
+155.  3  Java 9 Concurrency Cookbook - Second Edition
+156.  3  Learning Ratpack
+157.  3  Java How to Program, Early Objects, 11th Edition
+158.  3  Reactive Systems in Java
+159.  3  Sams Teach Yourself Java in 21 Days (Covers Java 11/12), 8th Edition
+160.  3  Cloud Native Java with Kubernetes, 2nd Edition
+161.  3  Java Programming for Beginners
+162.  3  The Java Module System
+163.  3  Strata Data Conference 2019 - San Francisco, California
+164.  3  Core Java, Volume II--Advanced Features, 11th Edition
+165.  3  Test-Driven Java Development - Second Edition
+166.  3  MobX Quick Start Guide
+167.  3  Up and Running with The Java Platform Module System (JPMS)
+168.  3  Hands-On Reactive Programming with Reactor
+169.  3  The Definitive Guide to Modern Java Clients with JavaFX: Cross-Platform Mobile and Cloud Development
+170.  3  Professional Java for Web Applications
+171.  3  Core Java® for the Impatient
+172.  3  Ivor Horton's Beginning Java®, Java 7 Edition
+173.  3  Java I/O, NIO and NIO.2
+174.  3  The C# Programmer’s Study Guide (MCSD): Exam: 70-483
+175.  3  Think Java
+176.  3  Java 9 Concurrency- Advanced Elements
+177.  3  Strata + Hadoop World New York 2015: Video Compilation
+178.  3  Genetic Algorithms in Java Basics
+179.  3  Making Java Groovy: Foreword by Guillaume Laforge
+180.  3  Java™ for Programmers: Deitel Developer Series, Second Edition
+181.  3  Pro Java 7 NIO.2
+182.  3  Java and XML, 3rd Edition
+183.  3  Strata Conference New York + Hadoop World 2012: Complete Video Compilation
+184.  3  Thinking Recursively with Java
+185.  3  JasperReports 3.5 for Java Developers
+186.  3  Hardcore Java
+187.  3  Java Swing, 2nd Edition
+188.  3  OCP Java SE 6 Programmer Practice Exams (Exam 310-065)
+189.  3  JavaScript® Programmer's Reference
+190.  3  LaTeX Beginners Guide
+191.  3  Oracle JRockit
+192.  3  The Manga Guide to Electricity
+193.  3  Effective Enterprise Java
+194.  2  Object-Oriented Data Structures Using Java, 4th Edition
+195.  2  Data Structures Using Java
+196.  2  Data Science with Java
+197.  2  Java 7 for Absolute Beginners
+198.  2  RESTful Java Web Services - Third Edition
+199.  2  Beginning Quarkus Framework: Build Cloud-Native Enterprise Java Applications and Microservices
+200.  2  Java for Absolute Beginners: Learn to Program the Fundamentals the Java 9+ Way
+201.  2  O'Reilly Strata Data Conference 2019 - New York, New York
+202.  2  OCP Oracle Certified Professional Java SE 11 Programmer II Study Guide
+203.  2  Beginning Jakarta EE: Enterprise Edition for Java: From Novice to Professional
+204.  2  Java 17 Quick Syntax Reference: A Pocket Guide to the Java SE Language, APIs, and Library
+205.  2  Java 11 Cookbook
+206.  2  Java APIs, Extensions and Libraries: With JavaFX, JDBC, jmod, jlink, Networking, and the Process API
+207.  2  Java Language Features: With Modules, Streams, Threads, I/O, and Lambda Expressions
+208.  2  Strata Data Conference 2017 - Singapore
+209.  2  MTA Introduction to Programming Using Java (98-388)
+210.  2  Java: High-Performance Apps with Java 9
+211.  2  Modular Programming in Java 9
+212.  2  Java® Performance Companion
+213.  2  Java Data Science Cookbook
+214.  2  Scripting in Java: Integrating with Groovy and JavaScript
+215.  2  Java XML and JSON
+216.  2  OCP Java SE 7 Programmer II Certification Guide: Prepare for the 1ZO-804 exam
+217.  2  Java For Dummies, 6th Edition
+218.  2  Mastering Lambdas
+219.  2  Strata + Hadoop World Conference in Barcelona 2014: Complete Video Compilation
+220.  2  Introducing JavaFX 8 Programming
+221.  2  Java Power Tools
+222.  2  Flex on Java
+223.  2  Building Mobile Applications with Java
+224.  2  Beginning Programming with Java® For Dummies®, 3rd Edition
+225.  2  Pro JavaFX 2: A Definitive Guide to Rich Clients with Java Technology
+226.  2  Wicked Cool Java
+227.  2  JavaFX 8: Introduction by Example, Second Edition
+228.  2  Mastering XPages: A Step-by-Step Guide to XPages Application Development and the XSP Language, Second Edition
+229.  2  Program Development in Java: Abstraction, Specification, and Object-Oriented Design
+230.  2  Java Pocket Guide
+231.  2  Mastering Concurrency Programming with Java 9 - Second Edition
+232.  2  Practical Development Environments
+233.  2  Filthy Rich Clients: Developing Animated and Graphical Effects for Desktop Java™ Applications
+234.  2  Building Web Services with Java: Making Sense of XML, SOAP, WSDL, and UDDI, Second Edition
+235.  2  UML FOR JAVA™ PROGRAMMERS
+236.  2  Java Network Programming, 3rd Edition
+237.  2  Effective Java™: Programming Language Guide
+238.  2  Better, Faster, Lighter Java
+239.  2  Java™ Design Patterns: A Tutorial
+240.  2  NHibernate in Action
+241.  2  ATL Internals: Working with ATL 8, Second Edition
+242.  2  Fast Data Processing Systems with SMACK Stack
+243.  1  Introducing Data Structures with Java
+244.  1  Learn How to Program with Java
+245.  1  Core Java Data Types: The Java SE 11 Developer (1Z0-819) Certification Series
+246.  1  The Java Workshop
+247.  1  Java Fundamentals
+248.  1  Java 9 Programming By Example
+249.  1  Sams Teach Yourself Java in 24 Hours, Eighth Edition
+250.  1  Big Data Analytics with Java
+251.  1  Learn Java with Math: Using Fun Projects and Games
+252.  1  More Java 17 : An In-Depth Exploration of the Java Language and Its Features
+253.  1  The Java™ Tutorial Fourth Edition: A Short Course on the Basics
+254.  1  OCP Oracle Certified Professional Java SE 11 Programmer I Study Guide
+255.  1  Think Java, 2nd Edition
+256.  1  Multithreaded Programming with JAVA™ Technology
+257.  1  Job Ready Java
+258.  1  Distributed Computing in Java 9
+259.  1  Testing Java Microservices: Using Arquillian, Hoverfly, AssertJ, JUnit, Selenium, and Mockito
+260.  1  Java: A Beginner's Guide, 7th Edition
+261.  1  Functional Interfaces in Java: Fundamentals and Examples
+262.  1  Java Illuminated, 4th Edition
+263.  1  Mastering Java 11 - Second Edition
+264.  1  Learn Java the Easy Way
+265.  1  Java Closures and Lambda
+266.  1  What's New in Java 12?
+267.  1  The Java® Tutorial: A Short Course on the Basics, 6th Edition
+268.  1  Building observable systems in Java
+269.  1  Java Illuminated, 5th Edition
+270.  1  Java Quick Syntax Reference
+271.  1  Java 9 Programming Blueprints
+272.  1  Gnuplot in Action, Second Edition
+273.  1  Programming Concurrency on the JVM
+274.  1  Java Programming 24-Hour Trainer, 2nd Edition
+275.  1  Java™ Performance
+276.  1  Java All-in-One For Dummies, 5th Edition
+277.  1  Beginning Programming with Java For Dummies, 5th Edition
+278.  1  Java 9 Revealed: For Early Adoption and Migration
+279.  1  Beginning Java Programming
+280.  1  BPEL and Java Cookbook
+281.  1  Data Crush
+282.  1  Java SE 7 Programming Essentials
+283.  1  Trend Following, 5th Edition
+284.  1  Strata + Hadoop World San Jose 2015: Video Compilation
+285.  1  Java Programming for Android Developers For Dummies, 2nd Edition
+286.  1  Strata + Hadoop World London 2015: Video Compilation
+287.  1  Beginning Java Data Structures and Algorithms
+288.  1  Strata + Hadoop World Singapore 2015: : Video Compilation
+289.  1  The Java® Tutorial: A Short Course on the Basics, Fifth Edition
+290.  1  JavaFX Rich Client Programming on the NetBeans Platform
+291.  1  Oracle Database Programming using Java and Web Services
+292.  1  Learn Java for Android Development, Third Edition
+293.  1  Programming with Java
+294.  1  Java, A Beginner's Guide, 5th Edition, 5th Edition
+295.  1  Cultivate Conference NY 2015: Complete Video Compilation
+296.  1  BlackBerry Java Application Development
+297.  1  Sams Teach Yourself Java™ 6 in 21 Days
+298.  1  Strata + Hadoop World 2016 - Beijing
+299.  1  Java Performance Tuning, 2nd Edition
+300.  1  The J2EE™ Tutorial Second Edition
+301.  1  Strata Conference New York 2011: Video Compilation
+302.  1  Handbook of Constraint Programming
+303.  1  Strata Rx Conference San Francisco 2012: Complete Video Compilation
+304.  1  Java and SOAP
+305.  1  SCJA Sun Certified Java Associate Study Guide (Exam CX-310-019)
+306.  1  Learn Objective-C for Java Developers
+307.  1  JavaMail API
+308.  1  Apache Jakarta and Beyond: A Java Programmer’s Introduction
+309.  1  How to Change Minds
+310.  1  The Virtual Executive: How to Act Like a CEO Online and Offline
+311.  1  Java Enterprise in a Nutshell, Second Edition
+312.  1  Checking Java Programs
+313.  1  Beyond Java
+314.  1  Developing Enterprise Java Applications with J2EE™ and UML
+315.  1  Java Examples in a Nutshell, 3rd Edition
+316.  1  Micro Java™ Game Development
+317.  1  Ant: The Definitive Guide, 2nd Edition
+318.  1  The Photographer's Eye
+319.  1  Ant in Action
+320.  1  Swift Data Structure and Algorithms
+321.  1  Java Web Services
+322.  1  Covert Java™: Techniques for Decompiling, Patching, and Reverse Engineering
+323.  1  Java 5.0 Tiger: A Developer's Notebook
+324.  1  Programming for the Java™ Virtual Machine

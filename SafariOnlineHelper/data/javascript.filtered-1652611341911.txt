@@ -1,0 +1,502 @@
+INPUT: javascript
+TOTAL BOOKS: 500
+1.  124  JavaScript: The Good Parts
+2.  94  JavaScript: The Good Parts Master Class with Douglas Crockford
+3.  75  Learning JavaScript Design Patterns
+4.  66  JavaScript: The Definitive Guide, 6th Edition
+5.  64  Angular - The Complete Guide [2021 Edition]
+6.  54  Learning React, 2nd Edition
+7.  52  Learning Node.js
+8.  50  React - The Complete Guide (includes Hooks, React Router, and Redux) - Second Edition
+9.  49  JavaScript Programming
+10.  48  Modern JavaScript From The Beginning
+11.  47  Javascript Fundamentals I and II LiveLessons
+12.  46  Head First JavaScript Programming
+13.  44  You Don't Know JS: Scope & Closures
+14.  42  JavaScript Patterns
+15.  38  You Don't Know JS: Up & Going
+16.  35  JavaScript: The Definitive Guide, 7th Edition
+17.  34  The Principles of Object-Oriented JavaScript
+18.  32  The Complete Node.js Developer Course (3rd Edition)
+19.  29  Node.js, MongoDB and AngularJS Web Development
+20.  28  JavaScript Enlightenment
+21.  27  You Don't Know JS: this & Object Prototypes
+22.  25  Fluent Conference 2012: JavaScript & Beyond Video Compilation
+23.  23  Developing Backbone.js Applications
+24.  22  Great JavaScript
+25.  22  Getting Started with Node.js
+26.  21  Web Development with Node and Express
+27.  20  Learn JavaScript
+28.  19  Speaking JavaScript
+29.  19  JavaScript: Video QuickStart Guide
+30.  19  Secrets of the JavaScript Ninja
+31.  19  Node.js Design Patterns - Second Edition
+32.  18  Vue - The Complete Guide (Including Vue Router, Vuex, and Composition API)
+33.  17  Modern JavaScript for the Impatient
+34.  17  Beginning Programming with JavaScript
+35.  17  JavaScript Web Applications
+36.  17  WebGL: Up and Running
+37.  16  MEAN Web Development Workshop: An introduction to the MEAN web programming stack: MongoDB, Express, AngularJS, and Node.js
+38.  16  Node.js, MongoDB, and AngularJS Web Development
+39.  16  Express in Action
+40.  16  Testing React.js Applications with Jest: A Complete Introduction to Fast, Easy Testing
+41.  15  Secrets of the JavaScript Ninja, Second Edition
+42.  15  Sams Teach Yourself JavaScript and Ajax Video Learning
+43.  15  Learning Node.js, 2/e
+44.  15  Node.js Web Apps with Express
+45.  14  JavaScript Testing with Jasmine
+46.  14  High Performance JavaScript
+47.  14  Object-Oriented JavaScript
+48.  14  Building Node Applications with MongoDB and Backbone
+49.  13  Accelerated JavaScript Training
+50.  13  Professional: JavaScript® for Web Developers, Third Edition
+51.  13  Jump Start Node.js
+52.  13  Learning Node
+53.  13  What Is Node?
+54.  12  RxJS Essentials
+55.  12  JavaScript & jQuery: The Missing Manual, 2nd Edition
+56.  12  JavaScript: The Definitive Guide, 5th Edition
+57.  12  MEAN Web Development
+58.  12  Node: Up and Running
+59.  11  ES6 in Motion
+60.  11  Understanding ECMAScript 6
+61.  11  Eloquent JavaScript
+62.  11  Node.js Design Patterns - Third Edition
+63.  11  Learning Node.js Development
+64.  11  Beginning Node.js
+65.  11  Node.js in Action
+66.  11  Tom Hughes-Croucher on Node
+67.  10  Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
+68.  10  Maintainable JavaScript
+69.  10  JavaScript: The Missing Manual
+70.  10  Web Development with Node and Express, 2nd Edition
+71.  10  The Tangled Web
+72.  9  Rediscovering JavaScript
+73.  9  Mastering Clean Code in JavaScript
+74.  9  Learning JavaScript Data Structures and Algorithms
+75.  9  Object-Oriented Programming with JavaScript
+76.  9  Single Page Web Applications
+77.  9  Learning JavaScript, 2nd Edition
+78.  9  Learn Vue.js Essentials
+79.  9  Vue.js: Up and Running
+80.  9  Node.js 8 the Right Way
+81.  9  Sams Teach Yourself Node.js in 24 Hours
+82.  9  The Complete React Js and Redux Course - Build Modern Web Apps
+83.  8  Modern JavaScript for the Impatient
+84.  8  You Don't Know JS: ES6 & Beyond
+85.  8  Eloquent JavaScript, 2nd Edition
+86.  8  JavaScript Essentials LiveLessons (Video Training)
+87.  8  JavaScript Cookbook
+88.  8  JavaScript Pocket Reference, 3rd Edition
+89.  8  JavaScript Application Cookbook
+90.  8  Get Programming with Node.js
+91.  8  The Ultimate Vue JS 2 Developers Course
+92.  7  Eloquent JavaScript, 3rd Edition
+93.  7  Learning JavaScript, 3rd Edition
+94.  7  JavaScript with Promises
+95.  7  A Beginner's Guide to Understanding JavaScript
+96.  7  Expert JavaScript
+97.  7  Test-Driven JavaScript Development
+98.  7  Node.js - The Complete Guide
+99.  7  Vue.js 2 Academy: Learn Vue Step by Step
+100.  7  Jump Start Vue.js
+101.  7  Knockout.js
+102.  6  JavaScript Cookbook, 3rd Edition
+103.  6  JavaScript Best Practices
+104.  6  Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript
+105.  6  Testable JavaScript
+106.  6  Modern JavaScript: Develop and Design
+107.  6  Pro JavaScript™ Techniques
+108.  6  Front-End Development Projects with Vue.js
+109.  6  Node.js in Action, Second Edition
+110.  6  Vue.js 2 Web Development Projects
+111.  6  Learning Vue.js 2
+112.  6  Building Web Apps with Ember.js
+113.  6  Full Stack Web Development with Backbone.js
+114.  6  Write Modern Web Apps with the MEAN Stack: Mongo, Express, AngularJS, and Node.js
+115.  6  Smashing Node.js: JavaScript Everywhere, 2nd Edition
+116.  6  Programming 3D Applications with HTML5 and WebGL
+117.  6  Electron from Scratch: Build Desktop Applications with JavaScript
+118.  5  The Modern JavaScript Bootcamp (2019)
+119.  5  Beginning JavaScript: The Ultimate Guide to Modern JavaScript Development
+120.  5  Simplifying JavaScript
+121.  5  Mastering Modular JavaScript
+122.  5  Practical Modern JavaScript
+123.  5  Beginning JavaScript, 5th Edition
+124.  5  Supercharged JavaScript Graphics
+125.  5  The JavaScript PocketGuide
+126.  5  Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)
+127.  5  Distributed Systems with Node.js
+128.  5  You Don't Know JS: Async & Performance
+129.  5  Node.js, Express and MongoDB Dev to Deployment
+130.  5  Vue.js 2 Design Patterns and Best Practices
+131.  5  You Don't Know JS: Types & Grammar
+132.  5  Beginning Backbone.js
+133.  5  Ember.js in Action
+134.  5  Node.js Design Patterns
+135.  5  Node for Front-End Developers
+136.  5  Testing JavaScript Applications
+137.  5  Building Enterprise JavaScript Applications
+138.  5  MERN Stack Front To Back: Full Stack React, Redux and Node.js
+139.  4  Expert JavaScript
+140.  4  JavaScript: Novice to Ninja, 2nd Edition
+141.  4  JavaScript Everywhere
+142.  4  Professional JavaScript for Web Developers, 4th Edition
+143.  4  RxJS in Action
+144.  4  JavaScript by Example
+145.  4  Test-Driving JavaScript Applications
+146.  4  Reactive Programming with RxJS 5
+147.  4  Sams Teach Yourself JavaScript™ in 24 Hours, Fifth Edition
+148.  4  JavaScript by Example
+149.  4  JavaScript & DHTML Cookbook, 2nd Edition
+150.  4  Nuxt.js - Vue.js on Steroids
+151.  4  Building Forms with Vue.js
+152.  4  Node.js, MongoDB and Angular Web Development, 2nd Edition
+153.  4  Beginning Vue.js
+154.  4  Getting to Know Vue.js: Learn to Build Single Page Applications in Vue from Scratch
+155.  4  Vue on Rails: End-to-End Guide to Building Web Apps Using Vue.js and Rails
+156.  4  SPA Design and Architecture: Understanding single-page web applications
+157.  4  Pro Node.js for Developers
+158.  4  Mongoose for Application Development
+159.  4  Styling iPad User Interfaces
+160.  4  JavaScript and JQuery: Interactive Front-End Web Development
+161.  3  The Joy of JavaScript
+162.  3  20 Web Projects with Vanilla JavaScript
+163.  3  JavaScript for Beginners: Learn with 6 Main Projects
+164.  3  JavaScript for Beginners: Get to Grips with Fundamental JavaScript Concepts
+165.  3  JavaScript from Beginner to Expert
+166.  3  JavaScript Absolute Beginner’s Guide
+167.  3  Object-Oriented JavaScript - Third Edition
+168.  3  Mastering Reactive JavaScript
+169.  3  Learning Behavior-driven Development with JavaScript
+170.  3  Mastering JavaScript Promises
+171.  3  Pro JavaScript Development: Coding, Capabilities, and Tooling
+172.  3  Object-Oriented JavaScript - Second Edition
+173.  3  JavaScript The Complete Reference, 3rd Edition
+174.  3  JavaScript and HTML5 at OSCON 2013
+175.  3  JavaScript Programming: Pushing the Limits
+176.  3  Jump Start JavaScript
+177.  3  JavaScript for Absolute Beginners
+178.  3  Building Polyfills
+179.  3  Pro JavaScript™ Design Patterns
+180.  3  Professional, JavaScript® for Web Developers, Second Edition
+181.  3  Vue.js 3 Cookbook
+182.  3  Mastering Node.js - Second Edition
+183.  3  Vue.js in Action
+184.  3  Mastering Node.js 12.x
+185.  3  Pro Vue.js 2
+186.  3  Node.js in Motion
+187.  3  Beginning API Development with Node.js
+188.  3  Full-Stack Vue.js 2 and Laravel 5
+189.  3  Real-Time 3D Graphics with WebGL 2 - Second Edition
+190.  3  Sails.js in Action
+191.  3  Node.js in Practice
+192.  3  Full Stack JavaScript Development With MEAN
+193.  3  Practical Node.js: Building Real-World Scalable Web Apps
+194.  3  WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL
+195.  3  JavaScript Frameworks
+196.  3  Node.js the Right Way
+197.  3  Programming Web Applications with Node, Express and Pug
+198.  3  The Node.js Sessions
+199.  3  The Node Craftsman Book
+200.  3  Write Modern Web Apps with the MEAN Stack: Learn by Video
+201.  3  JavaScript: Functional Programming for JavaScript Developers
+202.  3  Learning TypeScript
+203.  2  JavaScript from Beginner to Professional
+204.  2  Advanced JavaScript
+205.  2  JavaScript Next: Your Complete Guide to the New Features Introduced in JavaScript, Starting from ES6 to ES9
+206.  2  The JavaScript Workshop
+207.  2  JavaScript Absolute Beginner's Guide, 2nd Edition
+208.  2  Practical Oracle JET: Developing Enterprise Applications in JavaScript
+209.  2  Gatsby: The Definitive Guide
+210.  2  JavaScript DOM - Interactive and Dynamic JavaScript
+211.  2  The Complete Javascript Course: Build a Professional Project
+212.  2  Refactoring JavaScript
+213.  2  JavaScript: Best Practice
+214.  2  JavaScript Security
+215.  2  JavaScript for .NET Developers
+216.  2  Beautiful JavaScript
+217.  2  Mastering JavaScript Design Patterns
+218.  2  Learn ECMAScript - Second Edition
+219.  2  Make: JavaScript Robotics
+220.  2  JavaScript Application Design: A Build First Approach
+221.  2  JavaScript Programmer's Reference
+222.  2  Learning Modernizr
+223.  2  Opa: Up and Running
+224.  2  Simply JavaScript
+225.  2  JavaScript™ Phrasebook: Essential Code and Commands
+226.  2  JavaScript: The Definitive Guide, Fourth Edition
+227.  2  Puzzles for Programmers and Pros
+228.  2  JavaScript Pocket Reference
+229.  2  Node.js Web Development
+230.  2  Node.js API Masterclass with Express and MongoDB
+231.  2  Full-Stack Web Development with Jakarta EE and Vue.js: Your One-Stop Guide to Building Modern Full-Stack Applications with Jakarta EE and Vue.js
+232.  2  Learn Three.js - Third Edition
+233.  2  Building Progressive Web Applications with Vue.js : Reliable, Fast, and Engaging Apps with Vue.js
+234.  2  Hands-on JavaScript for Python Developers
+235.  2  A Quick Start Guide to Node.js
+236.  2  9 Practical Node.js Projects
+237.  2  Node Cookbook
+238.  2  Node.js Web Development - Fourth Edition
+239.  2  Building Web Applications with Firebase
+240.  2  hapi.js in Action
+241.  2  Learning Vue.js 2.0
+242.  2  Learning Node.js, Second Edition
+243.  2  Pro REST API Development with Node.js
+244.  2  Node.js 6.x Blueprints
+245.  2  Professional Node.js: Building Javascript Based Scalable Software
+246.  2  The Complete Guide to Node.js
+247.  2  Ext JS Application Development Blueprints
+248.  2  Practical Ext JS 4
+249.  2  Ext JS in Action, Second Edition
+250.  2  Ext JS in Action, Pap/Psc Edition
+251.  2  Learning Single-page Web Application Development
+252.  2  WebGL Beginner's Guide
+253.  2  Express Web Application Development
+254.  2  The Node Sessions: The Best of OSCON 2011
+255.  2  Vue.js: Understanding its Tools and Ecosystem
+256.  2  Learning PHP, MySQL & JavaScript, 6th Edition
+257.  1  Learn DOM Manipulation with Easy Modern JavaScript
+258.  1  JavaScript: A Beginner's Guide, Fifth Edition, 5th Edition
+259.  1  Advanced JavaScript Topics
+260.  1  The Complete JavaScript Developer
+261.  1  Hands-On JavaScript High Performance
+262.  1  Svelte.js - The Complete Guide
+263.  1  Introducing Deno: A First Look at the Newest JavaScript Runtime
+264.  1  Professional JavaScript
+265.  1  Learn JavaScript with p5.js: Coding for Visual Learners
+266.  1  Modern JavaScript Web Development Cookbook
+267.  1  Get Programming with JavaScript Next
+268.  1  Jumpstart Jamstack Development
+269.  1  JavaScript Frameworks for Modern Web Development: The Essential Frameworks, Libraries, and Tools to Learn Right Now
+270.  1  The Definitive Guide to AdonisJs: Building Node.js Applications with JavaScript
+271.  1  Modern JavaScript
+272.  1  Modern JavaScript
+273.  1  JavaScript : Moving to ES2015
+274.  1  Get Programming with JavaScript
+275.  1  JavaScript for Web Designers
+276.  1  Mastering Immutable.js
+277.  1  JavaScript for Sound Artists
+278.  1  JS.Next: A Manager's Guide, 2nd Edition
+279.  1  Mastering JavaScript
+280.  1  Modular Programming with JavaScript
+281.  1  JavaScript Essentials
+282.  1  JavaScript in 24 Hours, Sams Teach Yourself, Sixth Edition
+283.  1  JavaScript Cookbook, 2nd Edition
+284.  1  Beginning JavaScript®, Fourth Edition
+285.  1  JavaScript Frameworks for Modern Web Dev
+286.  1  JavaScript: Novice to Ninja
+287.  1  JavaScript Step by Step
+288.  1  Third-Party JavaScript
+289.  1  Testable JavaScript
+290.  1  Microsoft® Start Here!™ Learn JavaScript
+291.  1  Introduction to JavaScript: More than a Pretty Face
+292.  1  The Craft of JavaScript
+293.  1  Beginning JavaScript Charts: With jqPlot, d3, and Highcharts
+294.  1  The Business of JavaScript
+295.  1  Learning to Program
+296.  1  The Past, Present, and Future of JavaScript
+297.  1  Advanced Javascript, 3rd Edition
+298.  1  Enyo: Up and Running, 2nd Edition
+299.  1  Pro JavaScript with MooTools: Learning Advanced JavaScript Programming
+300.  1  JavaScript Step by Step
+301.  1  Scriptin’ with JavaScript and Ajax: A Designer’s Guide
+302.  1  The Book of JavaScript, 2nd Edition
+303.  1  ppk on JavaScript
+304.  1  JavaScript® Bible, Sixth Edition
+305.  1  Testing Vue.js Applications
+306.  1  Hands-on Nuxt.js Web Development
+307.  1  In-Depth Vue 3 For Beginners (Inc. Composition API, Router)
+308.  1  Understanding Oracle APEX 20 Application Development: Think Like an Application Express Developer
+309.  1  Server Side development with Node.js and Koa.js Quick Start Guide
+310.  1  Advanced Node.js Development
+311.  1  Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB, Second Edition
+312.  1  Learning Three.js – the JavaScript 3D Library for WebGL - Second Edition
+313.  1  Mastering JavaScript Single Page Application Development
+314.  1  Building APIs with Node.js
+315.  1  The CLI Book: Writing Successful Command Line Interfaces with Node.js
+316.  1  Vue.js 2 Cookbook
+317.  1  iOS 15 SwiftUI 3 Loan Tracker MVVM, CoreData, and Cloud Kit
+318.  1  Learn Pixi.js: Create Great Interactive Graphics for Games and the Web
+319.  1  Your First Week With Node.js
+320.  1  Vue.js 2.x by Example
+321.  1  Mastering Backbone.js
+322.  1  Learning Ember.js
+323.  1  Secure Your Node.js Web Application
+324.  1  Hello World Project Secrets
+325.  1  Deploying Node.js
+326.  1  Developing Node.js Applications on IBM Bluemix
+327.  1  Node.js Web Development - Third Edition
+328.  1  Reactive Programming with Node.js
+329.  1  Learning Node.js for .NET Developers
+330.  1  Learning Node.js for Mobile Application Development
+331.  1  Getting Started with hapi.js
+332.  1  Pro Single Page Application Development: Using Backbone.js and ASP.NET
+333.  1  Node.js By Example
+334.  1  Backbone.js Testing
+335.  1  Node Cookbook - Third Edition
+336.  1  Node.js Recipes: A Problem-Solution Approach
+337.  1  Rapid Prototyping Web Applications Using Node.js and MongoDB
+338.  1  Getting Started with Grunt: The JavaScript Task Runner
+339.  1  Learning ClojureScript
+340.  1  The Browser Hacker's Handbook
+341.  1  Learning Node, 2nd Edition
+342.  1  KnockoutJS Essentials
+343.  1  KnockoutJS by Example
+344.  1  Programming 3D Applications in HTML5 and WebGL
+345.  1  Pro MEAN Stack Development
+346.  1  MEAN Blueprints
+347.  1  A Simple Web Game Using RaphaelJS: The N-Spangled Banner
+348.  1  Advanced Express Web Application Development
+349.  1  Beginning WebGL for HTML5
+350.  1  Node Cookbook
+351.  1  The Only Three Questions That Still Count: Investing By Knowing What Others Don't, 2nd Edition
+352.  1  Esperwhispering
+353.  1  The Only Three Questions That Count: Investing by Knowing What Others Don't
+354.  1  Shared Source CLI Essentials
+355.  1  Practical Machine Learning in JavaScript: TensorFlow.js for Web Developers
+356.  1  Pro D3.js: Use D3.js to Create Maintainable, Modular, and Testable Charts
+357.  1  Node.js Essentials
+358.  1  Real-World Next.js
+359.  1  Modern Asynchronous JavaScript
+360.  1  Angular and Node.js - The MEAN Stack Guide
+361.  0  JavaScript: The Hidden Parts
+362.  0  Learn Enough JavaScript to Be Dangerous: Write Programs, Publish Packages, and Develop Interactive Websites with JavaScript
+363.  0  Multithreaded JavaScript
+364.  0  Learn JavaScript from Scratch: JavaScript for Everyone
+365.  0  JavaScript Complete Grandmaster 2022
+366.  0  100 JavaScript Algorithms Challenge
+367.  0  JavaScript DOM Projects for Interactive Dynamic Webpages
+368.  0  Begin to Code with JavaScript
+369.  0  JavaScript
+370.  0  Mastering JavaScript Essentials Novice to Professional
+371.  0  Essential Cryptography for JavaScript Developers
+372.  0  25+ Projects with AJAX, JavaScript, and JSON
+373.  0  JavaScript in Action - 3 Fun Interactive JavaScript Projects
+374.  0  Sams Teach Yourself JavaScript in 24 Hours, Seventh Edition
+375.  0  6 JavaScript Projects
+376.  0  Modern JavaScript Tools & Skills
+377.  0  Beginning Object-Oriented Programming with JavaScript
+378.  0  Svelte 3 Up and Running
+379.  0  JavaScript and Open Data
+380.  0  Secrets of the JavaScript Ninja, 2nd Ed, video edition
+381.  0  Coding with JavaScript For Dummies
+382.  0  Building Isomorphic JavaScript Apps
+383.  0  Web Development with ReasonML
+384.  0  Source Code Analytics With Roslyn and JavaScript Data Visualization
+385.  0  JavaScript Recipes: A Problem-Solution Approach
+386.  0  The JavaScript Abstractions Video Collection
+387.  0  Pro JavaScript Techniques, Second Edition
+388.  0  JavaScript Video How-To
+389.  0  Reliable JavaScript: How to Code Safely in the World's Most Dangerous Language
+390.  0  JavaScript Object Programming
+391.  0  Web App Optimization with JavaScript
+392.  0  Async JavaScript
+393.  0  ECMAScript Cookbook
+394.  0  JavaScript Creativity
+395.  0  Secrets of the JavaScript Ninja, Second Edition
+396.  0  Learning ECMAScript 2017
+397.  0  Visual QuickStart Guide: JavaScript, Ninth Edition
+398.  0  JavaScript: A Beginner's Guide, Fourth Edition, 4th Edition
+399.  0  Writing Extensible JavaScript Without Getting Too Enterprisey
+400.  0  Beginning JavaScript with DOM Scripting and Ajax, Second Edition
+401.  0  Pro JavaScript for Web Apps
+402.  0  JavaScript® Bible, Seventh Edition
+403.  0  JavaScript™ for Programmers: Deitel
+404.  0  The JavaScript Programming Language
+405.  0  JavaScript and Ajax for the Web: Visual QuickStart Guide, Seventh Edition
+406.  0  Learning JavaScript
+407.  0  The Art & Science of JavaScript
+408.  0  Prototype and Scriptaculous: Taking the Pain out of JavaScript
+409.  0  Sams Teach Yourself JavaScript in 24 Hours
+410.  0  Web 2.0 Fundamentals: With AJAX, Development Tools, and Mobile Platforms
+411.  0  JavaScript and Ajax for the Web, Sixth Edition: Visual QuickStart Guide
+412.  0  Adobe® Bridge® Official JavaScript Reference
+413.  0  DOM Scripting: Web Design with JavaScript and the Document Object Model
+414.  0  Add Interactivity to Your Site: The Mini Missing Manual
+415.  0  Adobe GoLive CS2 Official JavaScript Reference
+416.  0  The Trance of Scarcity
+417.  0  Inside JavaScript
+418.  0  JavaScript Pocket Reference, 2nd Edition
+419.  0  JavaScript & DHTML Cookbook
+420.  0  JavaScript Design
+421.  0  Ajax Bible
+422.  0  Pure JavaScript, Second Edition
+423.  0  Pure JavaScript
+424.  0  Essential JavaScript™ for Web Professionals, Second Edition
+425.  0  Javascript for the World Wide Web: Visual Quickstart Guide, Fifth Edition
+426.  0  Advanced JavaScript™: Insights and Innovative Techniques
+427.  0  JavaScript™ 1.5 by Example
+428.  0  Vue.js 3 By Example
+429.  0  Jump Start Vue.js, 2nd Edition
+430.  0  How to Build Microservices with Node.js
+431.  0  MERN Projects for Beginners: Create Five Social Web Apps Using MongoDB, Express.js, React, and Node
+432.  0  Your First Week With Node.js, 2nd Edition
+433.  0  Hands-on Three.js 3D Web Visualisations
+434.  0  Node.js from Ground Up for Beginners
+435.  0  Vue.js: 11 Practical Projects
+436.  0  Node.js: Tools & Skills, 2nd Edition
+437.  0  3D Graphics Rendering Cookbook
+438.  0  Real-Time Twilio and Flybase: Build Real-Time Web Apps Using Twilio and Flybase with Node.js
+439.  0  Vue.js: Tools & Skills
+440.  0  Working with Vue.js
+441.  0  Vue.js: Build a Full Stack App with Firebase, Vuex and Router
+442.  0  Learning Ext JS - Fourth Edition
+443.  0  Ember.js Cookbook
+444.  0  Practical Projects with Vue JS 2
+445.  0  Vue.js Quick Start Guide
+446.  0  Node.js: Related Tools & Skills
+447.  0  Troubleshooting Vue.js
+448.  0  Fundamentals of Level Three Leadership
+449.  0  NodeJS Made Easy for MEAN or MERN Stack
+450.  0  Pro Ember Data: Getting Ember Data to Work with Your API
+451.  0  Mastering Ext JS - Second Edition
+452.  0  Node.js for Embedded Systems
+453.  0  Three.js Cookbook
+454.  0  Getting Started with Knockout.js for .NET Developers
+455.  0  Express.js Deep API Reference
+456.  0  Node.js High Performance
+457.  0  Pro Express.js
+458.  0  JS.next: A Manager's Guide
+459.  0  Building Scalable Apps with Redis and Node.js
+460.  0  Vuex Quick Start Guide
+461.  0  Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript
+462.  0  Node.js for .NET Developers
+463.  0  Wind Energy Systems
+464.  0  Best Job Ever!
+465.  0  Socket.IO Cookbook
+466.  0  MVVM in Delphi: Architecting and Building Model View ViewModel Applications
+467.  0  Expert GeoServer
+468.  0  Build Applications with Meteor
+469.  0  WebGL HOTSHOT
+470.  0  Large-Scale Wind Power Grid Integration
+471.  0  Deliver Audacious Web Apps with Ember 2
+472.  0  Web Application Development with MEAN
+473.  0  Offshore Wind, 2nd Edition
+474.  0  Practical Ext JS Projects with Gears
+475.  0  Getting MEAN with Mongo, Express, Angular, and Node video edition
+476.  0  Building a Complete Web Application
+477.  0  The Essential Guide to Serial ATA and SATA Express
+478.  0  Meteor in Action
+479.  0  Introducing Meteor
+480.  0  Seven Versions of One Web Application
+481.  0  Getting Started with Macaw: Build responsive websites with a cutting-edge application
+482.  0  Design and Implementation of 3D Graphics Systems
+483.  0  Vue 7
+484.  0  Three Commitments of Leadership: How Clarity, Stability, and Rhythm Create Great Leaders
+485.  0  Winning in High-Risk, High-Stakes Negotiations
+486.  0  Pro Oracle Application Express
+487.  0  Microsoft® Visual Web Developer™ 2005 Express Edition: Build a Web Site Now!
+488.  0  IBM Express Runtime V2.1
+489.  0  IBM Workplace Services Express
+490.  0  Shifting Sands
+491.  0  OpenView Network Node Manager: Designing and Implementing an Enterprise Solution
+492.  0  JavaScript Bible - JavaScript and ES6 Bootcamp 2019
+493.  0  Roguelike Development with JavaScript: Build and Publish Roguelike Genre Games with JavaScript and Phaser
+494.  0  Beginning Machine Learning in the Browser: Quick-start Guide to Gait Analysis with JavaScript and TensorFlow.js
+495.  0  HTML5 and JavaScript Projects: Build on your Basic Knowledge of HTML5 and JavaScript to Create Substantial HTML5 Applications
+496.  0  Building Web Applications with .NET Core 2.1 and JavaScript: Leveraging Modern JavaScript Frameworks
+497.  0  Beginning CSS Preprocessors: With SASS, Compass.js, and Less.js
+498.  0  Universal React with Next.js - The Ultimate Guide
+499.  0  The Official Guide to Mermaid.js
+500.  0  Data Visualization with Python and JavaScript, 2nd Edition

@@ -1,0 +1,502 @@
+INPUT: python
+TOTAL BOOKS: 500
+1.  341  Introduction to Python
+2.  143  Python Programming Language
+3.  78  Learning Python, 5th Edition
+4.  66  Fluent Python
+5.  60  Learning Python, 4th Edition
+6.  56  Python Programming
+7.  51  Python Cookbook, 3rd Edition
+8.  50  Python Crash Course, 2nd Edition
+9.  49  Fluent Python, 2nd Edition
+10.  44  Python Fundamentals
+11.  43  Modern Python LiveLessons: Big Ideas and Little Code in Python
+12.  37  Deep Learning with Python
+13.  35  Python for Data Analysis
+14.  33  Python for Beginners: Learn Python Programming (Python 3)
+15.  33  Introducing Python
+16.  33  Head First Python
+17.  32  Programming Python, 4th Edition
+18.  32  Test-Driven Development with Python
+19.  30  Web Programming With Python
+20.  27  Architecture Patterns with Python
+21.  27  Data Analysis with Pandas and Python
+22.  26  Python Testing with pytest
+23.  26  Python Data Science Handbook
+24.  24  Python for Data Analysis, 2nd Edition
+25.  23  Automate the Boring Stuff with Python
+26.  21  Python: Essential Reference
+27.  21  REST APIs with Flask and Python
+28.  20  Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code
+29.  20  Django 3 - Full Stack Websites with Python Web Development
+30.  20  Django 3 By Example - Third Edition
+31.  19  Python Crash Course
+32.  18  Using Asyncio in Python
+33.  18  Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code, Third Edition, Video-Enhanced Edition
+34.  17  Effective Python
+35.  17  Think Python
+36.  17  Python Django Dev To Deployment
+37.  16  Web Development in Python with Django: Building Backend Web Applications and APIs with Django
+38.  16  Python for DevOps
+39.  16  Flask Web Development, 2nd Edition
+40.  16  Introduction to Machine Learning with Python
+41.  15  Building Data Pipelines with Python
+42.  14  Effective Python: 90 Specific Ways to Write Better Python, 2nd Edition
+43.  13  Python for Everybody: The Ultimate Python 3 Bootcamp
+44.  13  Head First Python, 2nd Edition
+45.  12  Think Python, 2nd Edition
+46.  12  Python Guide for the Total Beginner LiveLessons (Video Training)
+47.  12  Python Epiphanies
+48.  11  Complete Python Scripting for Automation
+49.  11  Violent Python
+50.  10  Introducing Python, 2nd Edition
+51.  10  Python for Programmers
+52.  10  Introduction to Python: Learn How to Program Today with Python
+53.  10  Python One-Liners
+54.  10  Java to Python in 100 Easy Steps
+55.  10  Practical Docker with Python: Build, Release and Distribute your Python App with Docker
+56.  9  Automate the Boring Stuff with Python, 2nd Edition
+57.  9  Python A-Z: Learn Python Programming by Building 6 Projects
+58.  9  The Hitchhiker's Guide to Python
+59.  9  Effective Python: 59 Specific Ways to Write Better Python
+60.  9  Learning Path: Expert Python Projects
+61.  9  Programming in Python 3: A Complete Introduction to the Python Language, Second Edition
+62.  9  Think Complexity
+63.  9  Head First Programming
+64.  9  Python Network Programming for Network Engineers (Python 3)
+65.  9  Web Development with Django
+66.  9  Mastering Python Networking - Third Edition
+67.  9  Hands-On Unsupervised Learning Using Python
+68.  8  Python Workout
+69.  8  The Complete Python Course
+70.  8  Python for Finance, 2nd Edition
+71.  8  Python in a Nutshell, 3rd Edition
+72.  8  Beginning Python®: Using Python 2.6 and Python 3.1
+73.  8  Learning Python, 3rd Edition
+74.  8  Learning Python
+75.  8  Build REST APIs with Django REST Framework and Python
+76.  8  Python for Excel
+77.  8  Python 3 Object-Oriented Programming
+78.  7  Tiny Python Projects
+79.  7  High Performance Python, 2nd Edition
+80.  7  Python Fundamentals
+81.  7  The Quick Python Book, Third Edition
+82.  7  Python Programming Advanced: Understanding Weird Concepts
+83.  7  Introduction to Programming in Python: An Interdisciplinary Approach
+84.  7  Foundations of Python Network Programming, Third Edition
+85.  7  High Performance Python
+86.  7  Foundations of Python Network Programming: The comprehensive guide to building network applications with Python, Second Edition
+87.  7  Gray Hat Python
+88.  7  Python Algorithms: Mastering Basic Algorithms in the Python Language, Second Edition
+89.  7  Cython
+90.  7  Learning Cython
+91.  7  Blueprints for Text Analytics Using Python
+92.  7  Pandas for Everyone: Python Data Analysis, First Edition
+93.  7  Apache Spark 3 for Data Engineering and Analytics with Python
+94.  6  Practices of the Python Pro
+95.  6  Text Analytics with Python: A Practical Real-World Approach to Gaining Actionable Insights from your Data
+96.  6  The Python Apprentice
+97.  6  Python Unit Test Automation: Practical Techniques for Python Developers and Testers
+98.  6  What are f-strings in Python and how can I use them?
+99.  6  Python Pocket Reference, 5th Edition
+100.  6  Getting Started with Pyparsing
+101.  6  Working with Unicode in Python
+102.  6  pytest Quick Start Guide
+103.  6  Beginning Django: Web Application Development and Deployment with Python
+104.  6  Data Visualization Basics with Python
+105.  6  Selenium Python Automation Testing from Scratch and Frameworks
+106.  6  Full Stack Web Development Bootcamp with React and Python
+107.  6  Browser Automation with Python and Selenium
+108.  5  Python Distilled
+109.  5  Supercharged Python: Take Your Code to the Next Level, First Edition
+110.  5  Serious Python
+111.  5  Bayesian Analysis with Python - Second Edition
+112.  5  Python 3 from Beginner to Expert - Learn Python from Scratch
+113.  5  Learn More Python 3 the Hard Way: The Next Step for New Python Programmers
+114.  5  MTA 98-381: Introduction to Programming Using Python
+115.  5  Asynchronous Programming with Python: Write, Test, and Debug Robust Asynchronous Code
+116.  5  A Whirlwind Tour of Python
+117.  5  Learning Concurrency in Python
+118.  5  Python: Journey from Novice to Expert
+119.  5  Learn Python in 7 Days
+120.  5  Python 3 Object-oriented Programming - Second Edition
+121.  5  Python from Scratch LiveLessons
+122.  5  Expert Python Programming - Second Edition
+123.  5  How do I handle missing dictionary keys in Python?
+124.  5  Core Python Applications Programming, 3rd Edition
+125.  5  Bioinformatics Programming Using Python
+126.  5  RT Essentials
+127.  5  Python 3: Project-based Python, Algorithms, Data Structures
+128.  5  Expert Python Programming - Third Edition
+129.  5  Python GUI Programming with Tkinter
+130.  5  Python Algorithms: Mastering Basic Algorithms in the Python Language
+131.  5  Building REST APIs with Flask: Create Python Web Services with MySQL
+132.  5  Learning Swing GUI Programming
+133.  5  Django: Web Development with Python
+134.  5  Hands-On Recommendation Systems with Python
+135.  5  Python Machine Learning - Third Edition
+136.  4  Robust Python
+137.  4  Python Projects for Beginners: A Ten-Week Bootcamp Approach to Python Programming
+138.  4  Practical Python for DevOps Engineers LiveLessons
+139.  4  Web Scraping with Python, 2nd Edition
+140.  4  Classic Computer Science Problems in Python
+141.  4  Mastering Concurrency in Python
+142.  4  Python Automation Cookbook
+143.  4  Learn Python 3 the Hard Way (Companion Videos)
+144.  4  Python Interviews
+145.  4  Python for Finance
+146.  4  Foundations for Analytics with Python
+147.  4  Mastering Machine Learning with Python in Six Steps: A Practical Implementation Guide to Predictive Data Analytics Using Python
+148.  4  Professional Python
+149.  4  Modern Python Cookbook
+150.  4  Understanding Unittest.Mock
+151.  4  Get Programming
+152.  4  Implementing stateful objects or state machines in Python
+153.  4  Making classes support comparison operations in Python
+154.  4  Twisted Python: The Engine of Your Internet
+155.  4  Python: Visual QuickStart Guide, Second Edition
+156.  4  Twisted Network Programming Essentials, 2nd Edition
+157.  4  Elegant Automation Frameworks with Python and Pytest
+158.  4  Deep Learning with Python, Second Edition
+159.  4  Python API Development Fundamentals
+160.  4  Advanced Web Development in Python with Django
+161.  4  Django A-Z: Build and Deploy Web Application with Python and Django
+162.  4  Tkinter GUI Application Development Blueprints
+163.  4  Python Web Development with Flask
+164.  4  Decoupled Django: Understand and Build Decoupled Django Architectures for JavaScript Front-ends
+165.  4  Natural Language Processing with Python and spaCy
+166.  4  Advanced Deep Learning with Python
+167.  3  Expert Python Programming - Fourth Edition
+168.  3  Next Level Python
+169.  3  Python Data Structures and Algorithms
+170.  3  The Python Workshop
+171.  3  Python Workout Video Edition
+172.  3  Clean Python: Elegant Coding in Python
+173.  3  The Python 3 Standard Library by Example, Second Edition
+174.  3  Python Survival Skills
+175.  3  Beginning Python: From Novice to Professional, 3rd Edition
+176.  3  Hands-On Enterprise Application Development with Python
+177.  3  Machine Learning for Algorithmic Trading Bots with Python
+178.  3  Regression Analysis with Python
+179.  3  Hands-On Python for Finance
+180.  3  Mastering Python Networking
+181.  3  Learn Python in 3 Hours
+182.  3  Learning Python
+183.  3  Learning Python Application Development
+184.  3  Working with Excel files in Python
+185.  3  Data Wrangling and Analysis with Python
+186.  3  Python Projects
+187.  3  Modular Programming with Python
+188.  3  Learning Predictive Analytics with Python
+189.  3  Python Programming in Context, 2nd Edition
+190.  3  The Python Quick Syntax Reference
+191.  3  Pro Python
+192.  3  The Quick Python Book
+193.  3  Python 3 Object Oriented Programming
+194.  3  Python Pocket Reference, 4th Edition
+195.  3  Next-Generation Web Frameworks in Python
+196.  3  Python Programming On Win32
+197.  3  Twisted Network Programming Essentials
+198.  3  Python for Finance: Investment Fundamentals and Data Analytics
+199.  3  Complete Python Web Course: Build 8 Python Web Applications
+200.  3  Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing
+201.  3  Pytest Master Class
+202.  3  IPython Interactive Computing and Visualization Cookbook - Second Edition
+203.  3  Advanced REST APIs with Flask and Python
+204.  3  Learning IPython for Interactive Computing and Data Visualization - Second Edition
+205.  3  Matplotlib for Python Developers
+206.  3  Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud
+207.  3  Learning iPython Notebook
+208.  3  Data Engineering with Python
+209.  3  Master Math by Coding in Python
+210.  3  Python Machine Learning By Example - Third Edition
+211.  3  Python Feature Engineering Cookbook
+212.  2  Black Hat Python, 2nd Edition
+213.  2  Modern Python Cookbook - Second Edition
+214.  2  Begin to Code with Python
+215.  2  Head First Learn to Code
+216.  2  Qt5 Python GUI Programming Cookbook
+217.  2  Bite-Size Python
+218.  2  What Is Python?
+219.  2  Modern Python Standard Library Cookbook
+220.  2  Foundations of PyGTK Development: GUI Creation with Python
+221.  2  Lean Python: Learn Just Enough Python to Build Useful Tools
+222.  2  Python Without Fear
+223.  2  Mastering Social Media Mining with Python
+224.  2  Think Complexity, 2nd Edition
+225.  2  Bayesian Analysis with Python
+226.  2  Learn Python the Hard Way (Companion Videos)
+227.  2  Python Data Analysis Cookbook
+228.  2  Beginning Python Games Development : With Pygame, Second Edition
+229.  2  Mastering Python for Finance
+230.  2  Learning Scrapy
+231.  2  Data Science Algorithms in a Week - Second Edition
+232.  2  Mastering Python Data Analysis
+233.  2  Porting from Python 2 to Python 3
+234.  2  Hello! Python
+235.  2  Pro Python, Second Edition
+236.  2  Advanced Python 3 Programming Techniques
+237.  2  FreeCAD [How-to]
+238.  2  Python in a Nutshell, 2nd Edition
+239.  2  Programming Python, 3rd Edition
+240.  2  Python: Essential Reference, Third Edition
+241.  2  Python® Create-Modify-Reuse
+242.  2  Hello World! Computer Programming for Kids and Other Beginners
+243.  2  Python Standard Library
+244.  2  Practical Docker with Python: Build, Release, and Distribute Your Python App with Docker
+245.  2  Daniel Arbuckle’s Mastering Python
+246.  2  Modern PyQt: Create GUI Applications for Project Management, Computer Vision, and Data Analysis
+247.  2  Become more productive by using IPython
+248.  2  Introduction to Django with Python for Web Development
+249.  2  Matplotlib for Python Developers
+250.  2  Python Object-Oriented Programming - Fourth Edition
+251.  2  Python for Algorithmic Trading
+252.  2  Mastering Object-Oriented Python - Second Edition
+253.  2  IPython Interactive Computing and Visualization Cookbook
+254.  2  Spark Programming in Python for Beginners with Apache Spark 3
+255.  2  Python for Geospatial Data Analysis
+256.  2  Machine Learning Engineering with Python
+257.  2  Practical Python Data Wrangling and Data Quality
+258.  2  Python for Data Analysis: Step-By-Step with Projects
+259.  2  Python Interactive Dashboards with Plotly Dash
+260.  2  Python for Finance Cookbook
+261.  2  Hands-On Natural Language Processing with Python
+262.  2  Machine Learning with Python for Everyone
+263.  2  Learn AWS Automation with Boto3, Python, and Lambda Functions
+264.  1  Practical Python: Learn Python Basics Step by Step- Python 3
+265.  1  Python Concurrency with asyncio
+266.  1  Learn Python Programming - Third Edition
+267.  1  Beyond the Basic Stuff with Python
+268.  1  Python in Containers
+269.  1  Hands-On Enterprise Automation with Python.
+270.  1  Python Command Line Tools
+271.  1  Testing In Python
+272.  1  Hands-On Ensemble Learning with Python
+273.  1  Three Most Important Files in a Python Project
+274.  1  How to Build Your Own First Voice Assistant in Python
+275.  1  Python for Finance - Second Edition
+276.  1  Effective Python Exceptions
+277.  1  Python GUI Programming Cookbook - Third Edition
+278.  1  Numerical Computing with Python
+279.  1  Math Adventures with Python
+280.  1  Getting Started with Python
+281.  1  Expert Twisted: Event-Driven and Asynchronous Programming with Python
+282.  1  Get Programming with Python in Motion
+283.  1  Python: Data Analytics and Visualization
+284.  1  Python Reinforcement Learning Projects
+285.  1  Python All-in-One For Dummies
+286.  1  Beginning Programming with Python For Dummies, 2nd Edition
+287.  1  Python Network Programming Cookbook - Second Edition
+288.  1  Python for Teenagers: Learn to Program like a Superhero!
+289.  1  Pro Python 3: Features and Tools for Professional Development
+290.  1  Secret Recipes of the Python Ninja
+291.  1  Python Data Analysis - Second Edition
+292.  1  The Python Programming Bible: Networking, GUI, Email, XML, CGI
+293.  1  Practical Programming, 3rd Edition
+294.  1  Python Programming Blueprints
+295.  1  Pro Python Best Practices: Debugging, Testing and Maintenance
+296.  1  Learning Python Network Programming
+297.  1  Geoprocessing with Python
+298.  1  Distributed Computing with Python
+299.  1  asyncio Recipes: A Problem-Solution Approach
+300.  1  Mastering Python
+301.  1  Hello World! Third Edition
+302.  1  Python Essentials
+303.  1  Python Recipes Handbook: A Problem-Solution Approach
+304.  1  Python GUI Programming Cookbook - Second Edition
+305.  1  Python for Secret Agents
+306.  1  Learn to Program with Python
+307.  1  Learning BeagleBone Python Programming
+308.  1  Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns
+309.  1  Mastering Python High Performance
+310.  1  Beginning Programming with Python For Dummies
+311.  1  Python Data Analysis
+312.  1  Python: Visual QuickStart Guide, Third Edition
+313.  1  The Python Standard Library by Example
+314.  1  Programming ArcGIS 10.1 with Python Cookbook
+315.  1  Programming in Python 3: A Complete Introduction to the Python Language
+316.  1  Python Cookbook
+317.  1  Python Cookbook, 2nd Edition
+318.  1  Python in a Nutshell
+319.  1  Python Pocket Reference, 3rd Edition
+320.  1  Programming Python, Second Edition
+321.  1  Creating Widgets
+322.  1  Python Essential Reference, Second Edition
+323.  1  Python Graphics: A Reference for Creating 2D and 3D Images
+324.  1  Mastering Python Data Visualization
+325.  1  A Python Data Analyst’s Toolkit: Learn Python and Python-based Libraries with Applications in Data Analysis and Statistics
+326.  1  C and Python Applications : Embedding Python Code in C Programs, SQL Methods, and Python Sockets
+327.  1  Python Testing with pytest
+328.  1  Introduction to Python for Kids : Learn Python the Fun Way by Completing Activities and Solving Puzzles
+329.  1  Optimizing Visual Studio Code for Python Development: Developing More Efficient and Effective Programs in Python
+330.  1  DevOps in Python: Infrastructure as Python
+331.  1  The Art of Doing: Create 10 Python GUIs with Tkinter Today!
+332.  1  Crafting Test-Driven Software with Python
+333.  1  Testing In Python Video Course
+334.  1  Pro iOS Testing: XCTest Framework for UI and Unit Testing
+335.  1  Hands-On Application Development with PyCharm
+336.  1  Tkinter GUI Application Development Blueprints - Second Edition
+337.  1  Python Automation Cookbook - Second Edition
+338.  1  The Complete Python Course including the Django Web Framework
+339.  1  Tkinter GUI Programming by Example
+340.  1  Clean Code in Python - Second Edition
+341.  1  Building RESTful Python Web Services
+342.  1  Python Web Frameworks
+343.  1  Advanced Forecasting with Python: With State-of-the-Art-Models Including LSTMs, Facebook’s Prophet, and Amazon’s DeepAR
+344.  1  Behavioral Data Analysis with R and Python
+345.  1  Make Python Talk
+346.  1  Computer Vision Theory and Projects in Python for Beginners
+347.  1  Web Applications with Python and the Pyramid Framework
+348.  1  Mastering Reinforcement Learning with Python
+349.  1  Python Image Processing Cookbook
+350.  1  Django 3 Web Development Cookbook - Fourth Edition
+351.  0  Python in a Nutshell, 4th Edition
+352.  0  Python: Zero to Coder (Video Collection)
+353.  0  Python for Beginners - Start to Code with Python
+354.  0  Python for Geeks
+355.  0  The Big Book of Small Python Projects
+356.  0  Job Ready Python
+357.  0  Python All-in-One For Dummies, 2nd Edition
+358.  0  Python Challenges: 100 Proven Programming Tasks Designed to Prepare You for Anything
+359.  0  Ontologies with Python: Programming OWL 2.0 Ontologies with Python and Owlready2
+360.  0  Learning Ray
+361.  0  Learn Python Visually
+362.  0  Advanced Python Development: Using Powerful Language Features in Real-World Applications
+363.  0  Mastering Python for Finance - Second Edition
+364.  0  The Complete Python and PostgreSQL Developer Course
+365.  0  Real-World Python
+366.  0  Learn to Code by Solving Problems
+367.  0  Python Programming for Beginners: Hands-on (Online Lab)
+368.  0  Let's build a Python package!
+369.  0  Python Basics
+370.  0  Applied Computational Thinking with Python
+371.  0  Python Programming
+372.  0  Hands-On GPU Computing with Python
+373.  0  Build a useful Python decorator
+374.  0  Pythonic Programming
+375.  0  Python Workout
+376.  0  Robust Python CLI
+377.  0  Fast and Easy Python CLI
+378.  0  Learn Programming in Python with Cody Jackson
+379.  0  Beyond "def": Exploring Python functions
+380.  0  Python: Advanced Guide to Artificial Intelligence
+381.  0  Python command line one hour
+382.  0  Python for the Life Sciences: A Gentle Introduction to Python for Life Scientists
+383.  0  Data Analysis with Python
+384.  0  Hands-On Reactive Programming with Python
+385.  0  Python GPU Programming in 5 Minutes
+386.  0  Become a Python Data Analyst
+387.  0  Create a Dialog Engine or Finite State Machine (FSM)
+388.  0  Classic Computer Science Problems in Python video edition
+389.  0  Python: End-to-end Data Analysis
+390.  0  Python Fundamentals
+391.  0  Learning Python
+392.  0  Python Descriptors: Understanding and Using the Descriptor Protocol
+393.  0  Learn Data Analysis with Python: Lessons in Coding
+394.  0  Beginning Ethical Hacking with Python
+395.  0  Learn from the Experts about Python: Aaron Maxwell
+396.  0  Python for Experimental Psychologists
+397.  0  Python 2 and 3 Compatibility: With Six and Python-Future Libraries
+398.  0  Python and HDF5
+399.  0  Python for Data Science For Dummies
+400.  0  Learning Python for Forensics
+401.  0  Computational Modeling and Visualization of Physical Systems with Python
+402.  0  Python GUI Programming Cookbook
+403.  0  Python Geospatial Development - Third Edition
+404.  0  wxPython Recipes: A Problem - Solution Approach
+405.  0  Pro Python System Administration, Second Edition
+406.  0  Python in 24 Hours, Sams Teach Yourself, Second Edition
+407.  0  Adventures in Python
+408.  0  Learning Geospatial Analysis with Python
+409.  0  Beginning Python Visualization
+410.  0  Mining the Social Web: Mining Instagram
+411.  0  Mastering PyCharm
+412.  0  Dive Into Python 3
+413.  0  Nonlinear Systems Stability Analysis
+414.  0  Python Programming in Context
+415.  0  Beginning Python: From Novice to Professional, Second Edition
+416.  0  Python Phrasebook: Essential Code and Commands
+417.  0  Quick Python, 2nd Ed, video edition
+418.  0  Python Developer's Handbook
+419.  0  Learning Python, 2nd Edition
+420.  0  Python Pocket Reference, Second Edition
+421.  0  Python Pocket Reference
+422.  0  The Definitive Guide to Masonite: Building Web Applications with Python
+423.  0  Python Data Visualization Cookbook - Second Edition
+424.  0  Python Unit Test Automation: Automate, Organize, and Execute Unit Tests in Python
+425.  0  Python GUI Programming with Tkinter - Second Edition
+426.  0  Practical Python Data Visualization: A Fast Track Approach To Learning Data Visualization With Python
+427.  0  Benchmarking, Profiling, and Optimizing Your Python Code: Easily Identify Bottlenecks and Efficiently Speed Up Your Python Code
+428.  0  Practical Explainable AI Using Python: Artificial Intelligence Model Explanations Using Python-based Libraries, Extensions, and Frameworks
+429.  0  Supervised Learning with Python: Concepts and Practical Implementation Using Python
+430.  0  Python, SQL, and Tableau: Integrating Python, SQL, and Tableau
+431.  0  Programming Microcontrollers with Python: Experience the Power of Embedded Python
+432.  0  Foundation Db2 and Python: Access Db2 with Module-Based API Examples Using Python
+433.  0  Refactoring a Python script into a library called by Python Click CLI
+434.  0  Python for MATLAB Development: Extend MATLAB with 300,000+ Modules from the Python Package Index
+435.  0  Python for SAS Users: A SAS-Oriented Introduction to Python
+436.  0  Data Analytics of Stock Price Movements with Python: Statistical Techniques in Python Applied to Security Analysis
+437.  0  Mastering Machine Learning with Python in Six Steps: A Practical Implementation Guide to Predictive Data Analytics Using Python
+438.  0  MySQL Connector/Python Revealed: SQL and NoSQL Data Storage Using MySQL for Python Programmers
+439.  0  Modernizing Oracle Tuxedo Applications with Python
+440.  0  EMERGENCY! Debugging Python Code in One Hour
+441.  0  Python Data Analytics: Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language
+442.  0  Python GUI Programming - A Complete Reference Guide
+443.  0  Python Code Camp
+444.  0  Python High Performance - Second Edition
+445.  0  Test Driven Development in .NET Core - The Handbook
+446.  0  Building Cross-Platform GUI Applications with Fyne
+447.  0  Unit Testing Principles, Practices, and Patterns video edition
+448.  0  Advanced Testing with Pytest Video Course
+449.  0  Python Web Development with Sanic
+450.  0  Hands-on Matplotlib: Learn Plotting and Visualizations with Python 3
+451.  0  Hands-On GUI Application Development in Go
+452.  0  Python for Data Analysis, 3rd Edition
+453.  0  Data Understanding and Data Visualization with Python
+454.  0  Functional Test Matrix with Tox
+455.  0  Python Programming with Design Patterns
+456.  0  Algorithmic Short Selling with Python
+457.  0  Learn Web Development with Python
+458.  0  Python Microservices Development - Second Edition
+459.  0  Learning IPython for Interactive Computing and Data Visualization
+460.  0  Data Analysis with Python and PySpark
+461.  0  Mastering IPython 4.0
+462.  0  Python Django Web Development: To-Do App
+463.  0  Hands-On RESTful Python Web Services - Second Edition
+464.  0  Python Data Science Handbook, 2nd Edition
+465.  0  Object-Oriented Python
+466.  0  Django 2.2 and Python - The Ultimate Web Development Bootcamp
+467.  0  Machine Learning for Time-Series with Python
+468.  0  Financial Theory with Python
+469.  0  Artificial Intelligence Programming with Python
+470.  0  Scaling Python with Ray
+471.  0  Data Visualization with Python and JavaScript, 2nd Edition
+472.  0  Practical Data Science with Python
+473.  0  Python for Cybersecurity
+474.  0  Advanced Python Programming - Second Edition
+475.  0  Python Architecture Patterns
+476.  0  Scaling Python with Dask
+477.  0  Interpretable Machine Learning with Python
+478.  0  Machine Learning for Time Series Forecasting with Python
+479.  0  Machine Learning for Financial Risk Management with Python
+480.  0  Python Ethical Hacking from Scratch
+481.  0  Distributed Machine Learning with Python
+482.  0  Deep Learning with Python, Second Edition, Video Edition
+483.  0  Hands-On Financial Trading with Python
+484.  0  Mastering Python for Bioinformatics
+485.  0  Foundational Python for Data Science
+486.  0  Python Data Cleaning Cookbook
+487.  0  Python Natural Language Processing Cookbook
+488.  0  Python Network Programming Techniques
+489.  0  Hands-On Exploratory Data Analysis with Python
+490.  0  Speed Up Your Python with Rust
+491.  0  Full Stack Python Security
+492.  0  Visual Studio Code for Python Programmers
+493.  0  Deep Reinforcement Learning with Python - Second Edition
+494.  0  Introduction to Python Network Automation: The First Journey
+495.  0  Hands-On Data Preprocessing in Python
+496.  0  Learn Quantum Computing with Python and Q#
+497.  0  Python Data Analysis - Third Edition
+498.  0  Intuitive Python
+499.  0  Hands-on Time Series Analysis with Python: From Basics to Bleeding Edge Techniques
+500.  0  Mastering Probability and Statistics in Python

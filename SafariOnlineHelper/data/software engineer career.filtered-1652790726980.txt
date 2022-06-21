@@ -1,0 +1,302 @@
+INPUT: software engineer career
+TOTAL BOOKS: 300
+1.  125  Software Architecture Fundamentals Understanding the Basics
+2.  45  Fundamentals of Software Architecture
+3.  39  Software Architecture Fundamentals Beyond the Basics
+4.  25  The Software Architect Elevator
+5.  24  Software Engineering at Google
+6.  22  Peopleware: Productive Projects and Teams, Third Edition
+7.  19  Data Mesh
+8.  18  97 Things Every Software Architect Should Know
+9.  16  Software Architecture in Practice, Third Edition
+10.  16  Get Your Hands Dirty on Clean Architecture
+11.  16  Documenting Software Architectures: Views and Beyond, Second Edition
+12.  15  The Software Craftsman: Professionalism, Pragmatism, Pride
+13.  12  Righting Software
+14.  12  Technology Strategy Patterns
+15.  12  Hackers
+16.  11  Implementing Lean Software Development: From Concept to Cash
+17.  10  Red Hat Certified Engineer (RHCE) EX294: Red Hat Ansible Automation
+18.  9  97 Things Every Data Engineer Should Know
+19.  8  Mastering API Architecture
+20.  8  The Unicorn Project
+21.  8  O'Reilly Software Architecture Conference 2017 - New York, New York
+22.  8  Enterprise Software with Python
+23.  8  OSCON 2015: Video Compilation
+24.  8  Google Cloud Certified Associate Cloud Engineer
+25.  8  The Passionate Programmer
+26.  7  Software Development From A to Z: A Deep Dive into all the Roles Involved in the Creation of Software
+27.  7  MANAGING HUMANS: BITING AND HUMOROUS TALES OF A SOFTWARE ENGINEERING MANAGER
+28.  7  Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives, Second Edition
+29.  7  OSCON 2018 - Portland, Oregon
+30.  7  Hands-On Software Engineering with Golang
+31.  7  JOEL ON SOFTWARE: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity
+32.  6  The Software Test Engineer's Handbook, 2nd Edition, 2nd Edition
+33.  6  O'Reilly Software Architecture Conference 2019 - New York, New York
+34.  6  Small, Sharp Software Tools
+35.  6  Software Requirements
+36.  6  Modern Software Engineering: Doing What Works to Build Better Software Faster
+37.  6  Software Architecture Fundamentals People Skills
+38.  6  12 Essential Skills for Software Architects
+39.  6  OSCON 2016: Video Compilation
+40.  6  Effective Computation in Physics
+41.  6  Software Architecture Fundamentals Soft Skills
+42.  6  Software Architecture in Practice, Second Edition
+43.  6  Beautiful Architecture
+44.  5  Software Architect's Handbook
+45.  5  O’Reilly Software Architecture Conference New York 2018
+46.  5  I'm a Software Architect, Now What?
+47.  5  Software Architecture: Foundations, Theory, and Practice
+48.  5  Making Software
+49.  5  Become an Effective Software Engineering Manager
+50.  5  Software Architecture: A Case Based Approach
+51.  5  Solid Code: Optimizing the Software Development Life Cycle
+52.  5  Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives
+53.  5  Hackers & Painters
+54.  5  Technical debt: A master class
+55.  4  Making it Big in Software: Get the Job. Work the Org. Become Great
+56.  4  The Procrastination Cure
+57.  4  Working with Coders: A Guide to Software Development for the Perplexed Non-Techie
+58.  4  SharePoint 2013 Essentials for Developers LiveLessons (Video Training): A Developers Guide to Beginning or Transitioning to a Career in SharePoint 2013
+59.  4  Software Development and Professional Practice
+60.  4  Becoming a Better Programmer
+61.  4  Beyond Legacy Code
+62.  4  Exercises in Programming Style
+63.  4  The New Kingmakers
+64.  4  Software Defined Networks
+65.  4  Open Sources
+66.  3  Building a Career in Software: A Comprehensive Guide to Success in the Software Industry
+67.  3  Facts and Fallacies of Software Engineering
+68.  3  Personality Power
+69.  3  Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps
+70.  3  Software Architecture Superstream Series: Software Architecture Fundamentals
+71.  3  O'Reilly Software Architecture Conference 2020 - New York, NY
+72.  3  Semantic Software Design
+73.  3  Software Engineering: Principles and Practice
+74.  3  Essentials of Computer Organization and Architecture, 5th Edition
+75.  3  O'Reilly Software Architecture Conference 2017 - London, UK
+76.  3  Thinking Architecturally
+77.  3  O'Reilly Software Architecture Conference 2015 Complete Video Compilation
+78.  3  O'Reilly Software Architecture Conference 2016 - London, United Kingdom
+79.  3  Practical Software Architecture: Moving from System Context to Deployment
+80.  3  Modeling for Software Architects
+81.  3  O'Reilly Software Architecture Conference 2016 - New York, New York
+82.  3  Hands-On Embedded Programming with C++17
+83.  3  Unikernels
+84.  3  Mastering Embedded Linux Programming
+85.  3  Software Craftsmanship: The New Imperative
+86.  3  Estimating Software Costs, 2nd Edition
+87.  3  Beyond Software Architecture: Creating and Sustaining Winning Solutions
+88.  3  Soft Skills to Advance Your Developer Career: Actionable Steps to Help Maximize Your Potential
+89.  2  Remotely Possible: Strategic Lessons and Tactical Best Practices for Remote Work
+90.  2  5 Key Areas for Tech Leaders to Watch in 2020
+91.  2  Skill Up: A Software Developer's Guide to Life and Career
+92.  2  12 More Essential Skills for Software Architects
+93.  2  Software Architecture in Practice, 4th Edition
+94.  2  Managing Software Requirements the Agile Way
+95.  2  10 Steps Every CISO Should Take to Secure Next-Gen Software
+96.  2  O'Reilly Software Architecture Conference 2016 - San Francisco, California
+97.  2  Adaptive Software Development: A Collaborative Approach to Managing Complex Systems
+98.  2  Break me if you can: A practical guide to building fault-tolerant systems
+99.  2  Getting Results from Software Development Teams
+100.  2  Just Enough Requirements Management: Where Software Development Meets Marketing
+101.  2  Learning Path: Resource-Oriented Architecture
+102.  2  Emergent Design: The Evolutionary Nature of Professional Software Development
+103.  2  Applied Software Measurement, 3rd Edition
+104.  2  Glitch: The Hidden Impact of Faulty Software
+105.  2  Embedded Software
+106.  2  The Economics of Iterative Software Development: Steering Toward Better Business Results
+107.  2  A Career-Changer’s Checklist: Twelve Common-Sense Questions to Find Your Career
+108.  2  THE BEST SOFTWARE WRITING I
+109.  2  Software Defined Networks, 2nd Edition
+110.  2  Rapid Development: Taming Wild Software Schedules
+111.  2  Build a Career in Data Science
+112.  2  Networking for People Who Hate Networking, Second Edition, 2nd Edition
+113.  1  Networking for Nerds: Find, Access and Land Hidden Game-Changing Career Opportunities Everywhere
+114.  1  Skills for Career Success
+115.  1  HBR Guides to Managing Your Career Collection (6 Books)
+116.  1  O'Reilly Software Architecture Conference 2019 - Berlin, Germany
+117.  1  IT Career JumpStart: An Introduction to PC Hardware, Software, and Networking
+118.  1  Tech Job Hunt Handbook: Career Management for Technical Professionals
+119.  1  Navigating the midcareer plateau
+120.  1  Forever Skills
+121.  1  Don't Pay for Your MBA
+122.  1  Beating the Odds: Winning Strategies of Women in STEM
+123.  1  Unstoppable You: Adopt the New Learning 4.0 Mindset and Change Your Life
+124.  1  New Programmer's Survival Manual
+125.  1  Beginning Software Engineering
+126.  1  Software Development Pearls: Lessons from Fifty Years of Software Experience
+127.  1  OSCON 2019 - Portland, Oregon
+128.  1  Software Architecture Hour with Neal Ford: Enterprise Architecture with Matt Stine
+129.  1  Going IT Alone: The Handbook for Freelance and Contract Software Developers
+130.  1  O'Reilly Software Architecture Conference 2019 - San Jose, California
+131.  1  Introduction to the Personal Software Process(SM)
+132.  1  An architect's guiding principles for leadership, 2019 Software Architecture Conference, NY
+133.  1  Low-Code and the Democratization of Programming
+134.  1  How Open Source Ate Software: Understand the Open Source Movement and So Much More
+135.  1  PSP(SM): A Self-Improvement Process for Software Engineers
+136.  1  Economics-Driven Software Architecture
+137.  1  Relating System Quality and Software Architecture
+138.  1  A Software Engineering Approach to LabVIEW™
+139.  1  Apple Device Management: A Unified Theory of Managing Macs, iPads, iPhones, and AppleTVs
+140.  1  Secure and Resilient Software Development
+141.  1  OSCON 2016 - London, United Kingdom
+142.  1  Modernizing Legacy Systems: Software Technologies, Engineering Processes, and Business Practices
+143.  1  Geekonomics: The Real Cost of Insecure Software
+144.  1  Software Architect Bootcamp, Second Edition
+145.  1  Quality Software Project Management
+146.  1  97 Things Every Cloud Engineer Should Know
+147.  1  The Developer's Code
+148.  1  Sustainable Software Development: An Agile Perspective
+149.  1  Agile Development and Business Goals
+150.  1  Circuit Design: Know It All
+151.  1  Professional Windows® Embedded Compact 7
+152.  1  Practical Embedded Security
+153.  1  Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design
+154.  1  Patterns for Effective Use Cases
+155.  1  The Art of Project Management for Software and IT Engineers
+156.  0  Software Development Superstream: Becoming a Senior Software Engineer
+157.  0  The Software Developer's Career Handbook
+158.  0  Building a More Inclusive Workplace. Mentorship: How to build a program in service of DEI
+159.  0  Lean Software Systems Engineering for Developers: Managing Requirements, Complexity, Teams, and Change Like a Champ
+160.  0  The Introvert's Complete Career Guide
+161.  0  Hands-On Software Architecture with Java
+162.  0  Kick Start Your Career
+163.  0  Career Development All-in-One For Dummies
+164.  0  Managing Technical Debt: Reducing Friction in Software Development
+165.  0  The Upskilling Imperative: 5 Ways to Make Learning Core to the Way We Work
+166.  0  OSCON Open Source Software Superstream Series: Live Coding—Go, Rust, and Python
+167.  0  What to Do When Things Go Wrong: A Five-Step Guide to Planning for and Surviving the Inevitable—And Coming Out Ahead
+168.  0  The well-rounded architect
+169.  0  Woman of Influence: 9 Steps to Build Your Brand, Establish Your Legacy, and Thrive
+170.  0  Be a Startup Superstar
+171.  0  Advance
+172.  0  The Science of Intelligent Achievement
+173.  0  Where to Play
+174.  0  Career Moves: Be Strategic About Your Future (Revised and Enhanced Edition)
+175.  0  The Energy Equation
+176.  0  Untenable
+177.  0  Compassionate Careers
+178.  0  The Next Generation
+179.  0  Becoming an International Humanitarian Aid Worker
+180.  0  What to Do When You're New
+181.  0  What You're Really Meant to Do: A Road Map for Reaching Your Unique Potential
+182.  0  2016 European Software Development Salary Survey
+183.  0  Rookie Smarts - Why Learning Beats Knowing in the New Game of Work
+184.  0  Make It Matter
+185.  0  How to get that job, 4th Edition
+186.  0  21st Century Skills: Learning for Life in Our times
+187.  0  How to Land a Top-Paying Federal Job, 2nd Edition
+188.  0  Stiletto Network
+189.  0  Software Engineering for Absolute Beginners: Your Guide to Creating Software Products
+190.  0  Wicked Success is Inside Every Woman
+191.  0  The Complete Guide to Knowledge Management: A Strategic Plan to Leverage Your Company's Intellectual Capital
+192.  0  Software Architecture Metrics
+193.  0  50 Jobs in 50 States
+194.  0  The Elements of Power
+195.  0  Software Engineering
+196.  0  12 Steps to Power Presence: How to Assert Your Authority to Lead
+197.  0  Essentials of Software Engineering, 3rd Edition
+198.  0  Patterns in the Machine: A Software Engineering Guide to Embedded Development
+199.  0  Software Architecture by Example: Using C# and .NET
+200.  0  Software Architecture Superstream: Domain-Driven Design and Event-Driven Architecture
+201.  0  Software Architecture Superstream Series: Software Architecture Fundamentals 2021
+202.  0  Software Architecture Patterns for Serverless Systems
+203.  0  Power Mentoring
+204.  0  Software Telemetry
+205.  0  Software Architecture Superstream Series: Software Architecture Fundamentals—Comparing Architectural Styles
+206.  0  Politics in Software Development: Navigating Stakeholder Power and Conflict in Organizations
+207.  0  Patterns of Software Construction: How to Predictably Build Results
+208.  0  Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture
+209.  0  Effective Performance Engineering
+210.  0  Meet the Experts: Mark Richards and Neal Ford on the Journey from Developer to Software Architect
+211.  0  Software Architecture Superstream Series: Architecture Outside of Applications
+212.  0  Software Architecture Superstream Series: Mastering Your Microservices Stack
+213.  0  O'Reilly Software Architecture Conference - London, UK 2018
+214.  0  Mastering Embedded Linux Programming - Third Edition
+215.  0  Software Architecture Hour: Mature Microservices
+216.  0  Developing Safety-Critical Software
+217.  0  Software Architecture Hour: Architecture and Security with Aaron Bedra
+218.  0  A Guide to Writing as an Engineer, 4th Edition
+219.  0  How Microsoft applied human factors ideas to software development
+220.  0  Software Architecture Superstream Series: Microservices; September 9, 2020
+221.  0  Model-Based System Architecture, 2nd Edition
+222.  0  Stairway to Success: The Complete Blueprint for Personal and Professional Achievement
+223.  0  Highlights from the Keynotes of Software Architecture Conference in New York 2020
+224.  0  Infrastructure & Ops Hour: Team Topologies with Manuel Pais and Matthew Skelton
+225.  0  Practical Software Development Techniques: Tools and Techniques for Building Enterprise Software
+226.  0  Rapid Application Development with OutSystems
+227.  0  Electrical Engineering: Know It All
+228.  0  Introduction to Software Project Management
+229.  0  Defining Data-Driven Software Development
+230.  0  Practical Software Development Techniques: Tools and Techniques for Building Enterprise Software
+231.  0  The Kollected Kode Vicious
+232.  0  Architectural Katas, October – December 2020
+233.  0  Software Architecture Superstream Series: Soft Skills Are the Hardest Part
+234.  0  Adopting InnerSource
+235.  0  Model-Driven Software Development: Technology, Engineering, Management
+236.  0  Collaborative Spaces at Work
+237.  0  The Essentials of Computer Organization and Architecture, 4th Edition
+238.  0  Software Designers in Action
+239.  0  Code That Fits in Your Head: Heuristics for Software Engineering
+240.  0  The Incremental Commitment Spiral Model: Principles and Practices for Successful Systems and Software
+241.  0  Beyond accidental architecture
+242.  0  Developing a new architecture organization at Ausley
+243.  0  Software Engineering and Computer Games
+244.  0  Problem Management
+245.  0  AWS Certified DevOps Engineer - Professional Certification and Beyond
+246.  0  Software Endgames: Eliminating Defects, Controlling Change, and the Countdown to On-Time Delivery
+247.  0  Evolutionary Learning in Strategy-Project Systems
+248.  0  Training and Development For Dummies
+249.  0  Building Your I.T. Career: A Complete Toolkit for a Dynamic Career in Any Economy, Second Edition
+250.  0  Post-Incident Reviews
+251.  0  Methodologies help you get it all in place at once
+252.  0  Engineering Software Products: An Introduction to Modern Software Engineering
+253.  0  The IFPUG Guide to IT and Software Measurement
+254.  0  Convergence
+255.  0  The Business of Open Source Video Collection
+256.  0  Build a Career in Data Science video edition
+257.  0  The Software IP Detective’s Handbook: Measurement, Comparison, and Infringement Detection
+258.  0  Ecological Sustainability
+259.  0  Embedded and Networking Systems
+260.  0  Building Software
+261.  0  Trends Shaping the London Tech Scene
+262.  0  Opto-Mechanical Systems Design, Fourth Edition, Volume 1, 4th Edition
+263.  0  Changing Software Development: Learning to Become Agile
+264.  0  The Art of Software Modeling
+265.  0  Dynamics of Software Development, Second Edition
+266.  0  Explore Software Defined Radio
+267.  0  Leading Organization Design: How to Make Organization Design Decisions to Drive the Results You Want
+268.  0  Software Life Cycle Management Standards
+269.  0  Software Architect Bootcamp
+270.  0  Practical Software Estimation: Function Point Methods for Insourced and Outsourced Projects
+271.  0  Software Piracy Exposed
+272.  0  Catastrophe Disentanglement: Getting Software Projects Back on Track
+273.  0  Early Estimation of Project Determinants
+274.  0  A Companion to the Philosophy of Technology
+275.  0  Practicing Organization Development: A Guide for Leading Change: A Third Edition
+276.  0  Value Analysis and Engineering Reengineered
+277.  0  The Laws of Software Process
+278.  0  iLife '11 Made Simple
+279.  0  Performance Measurement and Management for Engineers
+280.  0  Software Development: Building Reliable Systems
+281.  0  Peopleware Papers: Notes on the Human Side of Software, The
+282.  0  Launch Your Career
+283.  0  Own Your Tech Career
+284.  0  Point, Click & Wow!: The Techniques and Habits of Successful Presenters
+285.  0  The Staff Engineer's Path
+286.  0  Take Control of iWeb: iLife ’06 Edition
+287.  0  Software Mistakes and Tradeoffs
+288.  0  Customizable Embedded Processors Design Technologies and Applications
+289.  0  Basics of Career Systems Development—Career Development
+290.  0  The Right Measures
+291.  0  Program Evaluation, 3rd Edition
+292.  0  Software Defined Mobile Networks (SDMN)
+293.  0  iLife '04: The Missing Manual
+294.  0  CSSLP SECURE SOFTWARE LIFECYCLE PROFESSIONAL ALL-IN-ONE EXAM GUIDE, Third Edition, 3rd Edition
+295.  0  Cybersecurity Career Master Plan
+296.  0  Paralegal Career For Dummies, 2nd Edition
+297.  0  Measuring Business Interruption Losses and Other Commercial Damages, 3rd Edition
+298.  0  Requirements Writing for System Engineering
+299.  0  Building the Knowledge Management Network: Best Practices, Tools, and Techniques for Putting Conversation to Work
+300.  0  Safety Metrics for the Modern Safety Professional

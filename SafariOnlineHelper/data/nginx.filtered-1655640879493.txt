@@ -1,0 +1,402 @@
+INPUT: nginx
+TOTAL BOOKS: 400
+1.  166  Docker for the Absolute Beginner - Hands-On
+2.  42  Kubernetes for the Absolute Beginners - Hands-On
+3.  38  Docker, Dockerfile, and Docker-Compose (2020 Ready!)
+4.  36  Kubernetes: Up and Running
+5.  36  Introduction to Docker
+6.  32  Test-Driven Development with Python
+7.  31  Learn Docker - Fundamentals of Docker 18.x
+8.  25  Red Hat Certified System Administrator (RHCSA), 3/e
+9.  25  Docker in Motion
+10.  23  Getting Started with Kubernetes
+11.  23  The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition
+12.  21  REST APIs with Flask and Python
+13.  21  Building Microservice Systems with Docker and Kubernetes
+14.  21  Dive Into Ansible - From Beginner to Expert in Ansible
+15.  20  SSL Complete Guide 2021: HTTP to HTTPS
+16.  20  Django 3 By Example - Third Edition
+17.  20  Elasticsearch 7 and Elastic Stack - In Depth and Hands On!
+18.  18  Getting Started with Kubernetes LiveLessons, 2nd Edition
+19.  18  Hands-on Ansible
+20.  17  Python Django Dev To Deployment
+21.  17  Linux Web Operations
+22.  17  Hands-On Microservices with Spring Boot and Spring Cloud
+23.  16  Certified Kubernetes Application Developer (CKAD)
+24.  15  Ansible: Up and Running
+25.  14  Concurrent and Parallel Programming Concepts
+26.  14  Modern PHP
+27.  14  Microservices Security in Action
+28.  13  Practical Jenkins
+29.  12  Ansible: Up and Running, 2nd Edition
+30.  12  Mastering Django: Core
+31.  11  Django 2 by Example
+32.  10  Learning Chef for Linux and macOS
+33.  10  Introduction to CoreOS
+34.  10  Introduction to Tornado
+35.  10  Certified Kubernetes Administrator (CKA)
+36.  10  Test-Driven Development with Python, 2nd Edition
+37.  10  Red Hat OpenShift Fundamentals, 3/e
+38.  10  Red Hat Certified Engineer (RHCE) EX294: Red Hat Ansible Automation
+39.  10  Practical Docker with Python: Build, Release and Distribute your Python App with Docker
+40.  10  Docker Orchestration and Microservices, Second Edition
+41.  10  Building Microservices with Go
+42.  9  Red Hat Certified Specialist in Containers and Kubernetes Complete Video Course: Red Hat EX180
+43.  9  Complete Bash Shell Scripting
+44.  8  OSCON 2015: Video Compilation
+45.  8  The Complete Practical Docker Guide
+46.  8  Linux Foundation Certified Engineer (LFCE)
+47.  8  Certified Kubernetes Application Developer (CKAD), 2nd Edition
+48.  8  Professional Cloud Architect - Google Cloud Certification Guide
+49.  8  The Book of Ruby
+50.  8  Learn Docker in a Month of Lunches
+51.  8  Google Cloud Certified Associate Cloud Engineer
+52.  7  OSCON 2018 - Portland, Oregon
+53.  7  Certified Kubernetes Administrator (CKA), 2nd Ed
+54.  7  Learn Docker - Fundamentals of Docker 19.x - Second Edition
+55.  7  Mastering Ansible - Third Edition
+56.  7  Certified Kubernetes Application Developer (CKAD) Study Guide
+57.  7  Full-Stack React, TypeScript, and Node
+58.  7  Hands-On Amazon Elastic Kubernetes Service (EKS) LiveLessons: Running Microservices
+59.  7  Hands-On Software Engineering with Golang
+60.  7  Modern Container-Based DevOps: Managing Microservices using Kubernetes and Docker
+61.  6  Linux Administration Cookbook
+62.  6  OSCON 2016: Video Compilation
+63.  6  Ubuntu Unleashed 2013 Edition: Covering 12.10 and 13.04, Eighth Edition
+64.  6  Network Automation Cookbook
+65.  6  Kubernetes and Docker: The Container Masterclass
+66.  6  Learning Elastic Stack 7.0 - Second Edition
+67.  6  DevOps with Kubernetes - Second Edition
+68.  6  Kubernetes Cookbook
+69.  6  Microservice Patterns and Best Practices
+70.  6  Hands-on Kubernetes
+71.  6  Ansible Certification: Red Hat EX407
+72.  6  The DevOps 2.3 Toolkit
+73.  6  Learning Path: Delivering Applications with Docker
+74.  6  HTTP/2 in Action
+75.  6  Hands-On Network Programming with C
+76.  6  Learn Helm
+77.  5  Kubernetes Cookbook, 2nd Edition
+78.  5  Learn Ansible
+79.  5  Building Enterprise JavaScript Applications
+80.  5  Google Cloud Platform for Architects
+81.  5  Django: Web Development with Python
+82.  5  Angular 6 for Enterprise-Ready Web Applications
+83.  5  Linux Troubleshooting: Red Hat EX342
+84.  5  Mastering RabbitMQ
+85.  5  Expert Python Programming - Third Edition
+86.  5  GitOps and Kubernetes
+87.  5  Full Stack Development with JHipster - Second Edition
+88.  5  Docker Certified Associate (DCA): Exam Guide
+89.  5  React 17 Design Patterns and Best Practices - Third Edition
+90.  4  Hands-On RESTful Web Services with Go - Second Edition
+91.  4  Practical Microservices Architectural Patterns: Event-Based Java Microservices with Spring Boot and Spring Cloud
+92.  4  React Design Patterns and Best Practices - Second Edition
+93.  4  Building RESTful Web services with Go
+94.  4  Ubuntu Unleashed 2019 Edition: Covering 18.04, 18.10, 19.04, 13th Edition
+95.  4  TypeScript Microservices
+96.  4  Mastering Ubuntu Server - Second Edition
+97.  4  Infrastructure as Code (IAC) Cookbook
+98.  4  Google Cloud Platform for Developers
+99.  4  Learning DevOps
+100.  4  Learning Elastic Stack 6.0
+101.  4  Getting Started with Kubernetes - Third Edition
+102.  4  Puppet 5 Beginner's Guide - Third Edition
+103.  4  Modern Python Cookbook
+104.  4  Hands-On Security in DevOps
+105.  4  Cloud Native Python
+106.  4  Spring Boot 2.0 Projects
+107.  4  Mastering Kubernetes
+108.  4  Practical Ansible 2
+109.  4  Hands-On Software Architecture with Golang
+110.  4  Introducing Play Framework: Java Web Application Development
+111.  4  The Ultimate Flask Course
+112.  4  Working with Advanced Docker Operations
+113.  4  Go: Building Web Applications
+114.  4  Red Hat Certified Engineer (RHCE) Study Guide: Ansible Automation for the Red Hat Enterprise Linux 8 Exam (EX294)
+115.  4  The Enterprise Path to Service Mesh Architectures
+116.  4  .NET Core Microservices
+117.  4  Practical Load Balancing: Ride the Performance Tiger
+118.  4  Hybrid Cloud Apps with OpenShift and Kubernetes
+119.  3  NGINX Cookbook
+120.  3  Nginx: From Beginner to Pro
+121.  3  GitLab Quick Start Guide
+122.  3  Flask Framework Cookbook - Second Edition
+123.  3  Mastering Node.js - Second Edition
+124.  3  Learning AWK Programming
+125.  3  Complete Python Web Course: Build 8 Python Web Applications
+126.  3  Learning Continuous Integration with Jenkins - Second Edition
+127.  3  Hands-On Enterprise Application Development with Python
+128.  3  React Cookbook
+129.  3  Mastering Jenkins
+130.  3  Hands-On Full Stack Web Development with Angular 6 and Laravel 5
+131.  3  Learning DevOps: Continuously Deliver Better Software
+132.  3  CentOS 7 Server Deployment Cookbook
+133.  3  Learning ASP.NET Core MVC Programming
+134.  3  Ubuntu Unleashed 2014 Edition: Covering 13.10 and 14.04,Ninth Edition
+135.  3  Facebook Cookbook
+136.  3  Building Google Cloud Platform Solutions
+137.  3  Cloud Foundry BOSH Fundamentals LiveLessons
+138.  3  Docker on Amazon Web Services
+139.  3  Implementing Modern DevOps
+140.  3  Django Deployment Workshop
+141.  3  Cloud Native programming with Golang
+142.  3  Building Large-Scale Web Applications with Angular
+143.  3  Ansible Quick Start Guide
+144.  3  Software Architecture with Spring 5.0
+145.  3  Automating with Ansible
+146.  3  Fluent Conference 2015 Complete Video Compilation
+147.  3  Kubernetes in the Enterprise
+148.  3  Docker Quick Start Guide
+149.  3  Microservices with Docker on Microsoft Azure™ (includes Content Update Program)
+150.  3  Functional Python Programming - Second Edition
+151.  3  AWS Certified Solutions Architect - Associate Guide
+152.  3  Building and Managing Microservices with Kubernetes and Istio
+153.  3  Infrastructure-as-Code Automation Using Terraform, Packer, Vault, Nomad and Consul : Hands-on Deployment, Configuration, and Best Practices
+154.  3  Full-Stack Vue.js 2 and Laravel 5
+155.  3  Hands-On High Performance Programming with Qt 5
+156.  3  Hands-On Swift 5 Microservices Development
+157.  3  Magento 2 Developer's Guide
+158.  3  Google Cloud Platform Administration
+159.  3  Programming Crystal
+160.  3  The Complete Cybersecurity Bootcamp (Video Collection): Threat Defense, Ethical Hacking, and Incident Handling
+161.  2  NGINX Cookbook
+162.  2  Nginx HTTP Server - Fourth Edition
+163.  2  Nginx Essentials
+164.  2  Kubernetes for Beginners
+165.  2  Node.js API Masterclass with Express and MongoDB
+166.  2  Mastering GitLab 12
+167.  2  Microservices Security in Action video edition
+168.  2  Getting Started with Containerization
+169.  2  Mastering Flask Web Development - Second Edition
+170.  2  Linux: Powerful Server Administration
+171.  2  Security Automation with Ansible 2
+172.  2  Load Balancing in the Cloud
+173.  2  DevOps: Puppet, Docker, and Kubernetes
+174.  2  Introduction to Docker and the DCA Certification
+175.  2  Deployment with Docker
+176.  2  Ansible Playbook Essentials
+177.  2  Chef: Powerful Infrastructure Automation
+178.  2  Velocity Conference Santa Clara 2014: Complete Video Compilation
+179.  2  Puppet 2.7 Cookbook
+180.  2  DevOps with Kubernetes
+181.  2  Practical Site Reliability Engineering
+182.  2  Mastering Kubernetes
+183.  2  GitLab Cookbook
+184.  2  Learn Kali Linux 2019
+185.  2  Mastering Puppet - Second Edition
+186.  2  Docker for Serverless Applications
+187.  2  Docker Orchestration
+188.  2  Learning Splunk Web Framework
+189.  2  Java EE 8 and Angular
+190.  2  Vagrant Virtual Development Environment Cookbook
+191.  2  Getting Started with Containers
+192.  2  Implementing DevOps with Ansible 2
+193.  2  Beginning Kubernetes on the Google Cloud Platform: A Guide to Automating Application Deployment, Scaling, and Management
+194.  2  Architecting Modern Java EE Applications
+195.  2  Linux High Availability: Red Hat EX436 and LPIC-3 304
+196.  2  Practical Docker with Python: Build, Release, and Distribute Your Python App with Docker
+197.  2  Hands-On Microservices with Rust
+198.  2  Kibana 7 Quick Start Guide
+199.  2  Hands-On Full-Stack Web Development with ASP.NET Core
+200.  2  Python Web Scraping Cookbook
+201.  2  Google Cloud Cookbook
+202.  2  Django Design Patterns and Best Practices - Second Edition
+203.  2  ASP.NET Core 2 High Performance - Second Edition
+204.  2  Getting Started with Kubernetes - Second Edition
+205.  2  Salt Cookbook
+206.  2  SELinux System Administration - Second Edition
+207.  2  Learning PHP 7
+208.  2  Kubernetes on AWS
+209.  2  Elasticsearch 7 Quick Start Guide
+210.  2  Mastering ASP.NET Web API
+211.  2  Rust Web Programming
+212.  2  Learn Kubernetes in a Month of Lunches
+213.  2  Cisco CyberOps Associate CBROPS 200-201
+214.  2  Automation through Chef Opscode
+215.  2  CompTIA Linux+ XK0-004, 2nd Edition
+216.  1  NGINX Cookbook
+217.  1  Nginx Troubleshooting
+218.  1  Nginx HTTP Server - Third Edition
+219.  1  Django 3 Web Development Cookbook - Fourth Edition
+220.  1  Ubuntu Linux Unleashed 2021 Edition, 14th Edition
+221.  1  Complete AWS ECS Bootcamp (Beginner Friendly)
+222.  1  OSCON 2019 - Portland, Oregon
+223.  1  Building Applications with Spring 5 and Vue.js 2
+224.  1  Enterprise Cloud Security and Governance
+225.  1  FreeSWITCH 1.8
+226.  1  Go Web Development Cookbook
+227.  1  Hands-On DevOps with Vagrant
+228.  1  Hands-On Kubernetes on Azure
+229.  1  Python Microservices Development
+230.  1  Continuous Integration, Delivery, and Deployment
+231.  1  Odoo 11 Development Essentials - Third Edition
+232.  1  Kubernetes for Serverless Applications
+233.  1  Odoo 12 Development Essentials - Fourth Edition
+234.  1  Puppet: Mastering Infrastructure Automation
+235.  1  Ubuntu Server Cookbook
+236.  1  Native Docker Clustering with Swarm
+237.  1  Chef Cookbook - Third Edition
+238.  1  Back-end Performance
+239.  1  ASP.NET Core: Cloud-ready, Enterprise Web Application Development
+240.  1  Microservices Deployment Cookbook
+241.  1  Isomorphic Go
+242.  1  Raspberry Pi 2 Server Essentials
+243.  1  Puppet Cookbook - Third Edition
+244.  1  Advanced Jupyter Notebook Deployment
+245.  1  Flask Framework Cookbook
+246.  1  Chef Infrastructure Automation Cookbook - Second Edition
+247.  1  Docker Cookbook - Second Edition
+248.  1  Learn OpenShift
+249.  1  Kubernetes: Preparing for the CKA and CKAD Certifications
+250.  1  Learn Apache Mesos
+251.  1  Red Hat OpenShift Administration: Red Hat EX280
+252.  1  Mastering Docker - Third Edition
+253.  1  Hands-On Docker for Microservices with Python
+254.  1  Mastering Puppet
+255.  1  AWS Automation Cookbook
+256.  1  Microservices Development Cookbook
+257.  1  Mastering Service Mesh
+258.  1  VMware vSphere 6.7 Cookbook - Fourth Edition
+259.  1  The DevOps 2.4 Toolkit
+260.  1  Implementing DevOps on AWS
+261.  1  Mastering Backbone.js
+262.  1  Hands-On Enterprise Automation on Linux
+263.  1  PHP 7: Real World Application Development
+264.  1  Python Programming Blueprints
+265.  1  Certified Kubernetes Administrator (CKA) Study Guide
+266.  1  Hands-On Kubernetes on Windows
+267.  1  kubectl: Command-Line Kubernetes in a Nutshell
+268.  1  Modern DevOps Practices
+269.  1  PHP 7 Data Structures and Algorithms
+270.  1  Odoo Development Cookbook
+271.  1  Learning Raspberry Pi
+272.  1  The Kubernetes Bible
+273.  1  The Kubernetes Workshop
+274.  1  Rust Programming Cookbook
+275.  1  Programming Kotlin
+276.  1  AWS Administration Cookbook
+277.  1  Puppet 4.10 Beginner's Guide - Second Edition
+278.  1  Yii2 Application Development Cookbook - Third Edition
+279.  1  Troubleshooting Kubernetes
+280.  1  Learning PostgreSQL 10 - Second Edition
+281.  1  MEAN Blueprints
+282.  1  Learning Node.js for Mobile Application Development
+283.  1  RESTful Rails Development
+284.  1  CoreOS in Action: Running Applications on Container Linux
+285.  1  Go Systems Programming
+286.  1  Mastering Ansible - Second Edition
+287.  1  ASP.NET Core MVC 2.0 Cookbook
+288.  1  Mastering PHP 7
+289.  1  Instant Debian – Build a Web Server
+290.  1  Deploying Node.js
+291.  1  Instant jQuery 2.0 Table Manipulation How-to
+292.  1  LPIC-2 Cert Guide: (201-400 and 202-400 exams)
+293.  1  Getting Started with Elastic Stack 8.0
+294.  1  The DevOps 2.5 Toolkit
+295.  1  The Art of Monitoring
+296.  1  Mastering JBoss Enterprise Application Platform 7
+297.  1  Drupal 8 Module Development - Second Edition
+298.  1  PHP Microservices
+299.  1  Monitoring Elasticsearch
+300.  1  Puppet 5 Essentials - Third Edition
+301.  1  Hands-On Enterprise Automation with Python.
+302.  1  Drupal 8 Module Development
+303.  1  Kubernetes in Production Best Practices
+304.  1  Modular Programming with PHP 7
+305.  1  Mastering Magento 2 - Second Edition
+306.  1  Advanced Express Web Application Development
+307.  1  PostgreSQL High Availability Cookbook - Second Edition
+308.  1  Drupal 7 Media
+309.  1  Elastic Beanstalk
+310.  0  NGINX Cookbook, 2nd Edition
+311.  0  NGINX Cookbook (Japanese Version)
+312.  0  NGINX Unit Cookbook
+313.  0  NGINX Unit Cookbook
+314.  0  Mastering NGINX - Second Edition
+315.  0  Sun Web Server: The Essential Guide
+316.  0  Application Delivery and Load Balancing in Microsoft Azure
+317.  0  Fluent 2016 - San Francisco, California: Video Compilation
+318.  0  Certified Kubernetes Security Specialist (CKS) Course
+319.  0  Your First Week With Node.js, 2nd Edition
+320.  0  GitOps and Kubernetes video edition
+321.  0  Software Architecture Superstream Series: Software Architecture Fundamentals—Comparing Architectural Styles
+322.  0  Micro Frontends in Action video edition
+323.  0  Apache Superset Quick Start Guide
+324.  0  Practical Internet Server Configuration: Learn to Build a Fully Functional and Well-Secured Enterprise Class Internet Server
+325.  0  Mastering SVG
+326.  0  Puppet 5 Cookbook - Fourth Edition
+327.  0  Ubuntu Unleashed 2017 Edition
+328.  0  Mastering Kibana 6.x
+329.  0  Docker High Performance - Second Edition
+330.  0  Mastering Docker Enterprise
+331.  0  Django 2.2 and Python - The Ultimate Web Development Bootcamp
+332.  0  Linux Networking Cookbook
+333.  0  Load Balancing in Microsoft Azure
+334.  0  Odoo 12 Development Cookbook - Third Edition
+335.  0  Extending OpenStack
+336.  0  Oracle Business Intelligence Enterprise Edition 12c - second Edition
+337.  0  Socket.IO Cookbook
+338.  0  Performance Project
+339.  0  Hands-On Full Stack Web Development with Aurelia
+340.  0  Odoo 11 Development Cookbook - Second Edition
+341.  0  Study Guide for LPIC-2 Exams 201 and 202
+342.  0  Magento 2 Cookbook
+343.  0  CentOS System Administration Essentials
+344.  0  Ubuntu Unleashed 2015 Edition: Covering 14.10 and 15.04, Tenth Edition
+345.  0  Ubuntu Unleashed 2016 Edition: Covering 15.10 and 16.04, Eleventh Edition
+346.  0  Meteor in Action
+347.  0  Troubleshooting Docker
+348.  0  Red Hat Certified Specialist in Containers and Kubernetes (EX180) and OpenShift Administration (EX280) (Video Collection)
+349.  0  Hands-On Linux Administration on Azure
+350.  0  Certified Kubernetes CKAD & CKA (Video Collection)
+351.  0  Redash v5 Quick Start Guide
+352.  0  Odoo 10 Development Essentials
+353.  0  Ansible: Up and Running, 3rd Edition
+354.  0  React 16 Tooling
+355.  0  Modern Systems Programming with Scala Native
+356.  0  Beginning Ansible Concepts and Application: Provisioning, Configuring, and Managing Servers, Applications, and Their Dependencies
+357.  0  MLOps Engineering at Scale
+358.  0  Getting started with z/OS Container Extensions and Docker
+359.  0  Hands-On Microservices with Kubernetes
+360.  0  Kubernetes Design Patterns and Extensions
+361.  0  Elasticsearch Essentials
+362.  0  Tweak Your Mac Terminal: Command Line macOS
+363.  0  A Complete Guide to Docker for Operations and Development : Test-Prep for the Docker Certified Associate (DCA) Exam
+364.  0  Learning Windows Server Containers
+365.  0  Datadog Cloud Monitoring Quick Start Guide
+366.  0  Hands-On Serverless Applications with Go
+367.  0  OpenShift for Developers, 2nd Edition
+368.  0  Building Serverless Python Web Services with Zappa
+369.  0  SQL Server on Kubernetes: Designing and Building a Modern Data Platform
+370.  0  Laravel 5.x Cookbook
+371.  0  Mastering OpenStack - Second Edition
+372.  0  PHP 7 Programming Blueprints
+373.  0  Introduction to DevOps with Kubernetes
+374.  0  Hands-On Web Penetration Testing with Metasploit
+375.  0  Migrating Applications to the Cloud with Azure
+376.  0  Technical Blogging, 2nd Edition
+377.  0  Learn Web Development with Python
+378.  0  Hands-On Penetration Testing with Kali NetHunter
+379.  0  Mastering Chef
+380.  0  The Definitive Guide to Masonite: Building Web Applications with Python
+381.  0  Windows Terminal Tips, Tricks, and Productivity Hacks
+382.  0  Zabbix Performance Tuning
+383.  0  Linux Hardening in Hostile Networks: Server Security from TLS to Tor
+384.  0  Learning Flask Framework
+385.  0  Containers in OpenStack
+386.  0  Amazon EC2 Cookbook
+387.  0  PostgreSQL 12 High Availability Cookbook
+388.  0  Web Application Development with MEAN
+389.  0  SELinux System Administration - Third Edition
+390.  0  Magento 2 - Build World-Class online stores
+391.  0  Advanced Platform Development with Kubernetes: Enabling Data Management, the Internet of Things, Blockchain, and Machine Learning
+392.  0  Mastering Docker - Fourth Edition
+393.  0  Odoo 15 Development Essentials - Fifth Edition
+394.  0  Introducing Azure Kubernetes Service : A Practical Guide to Container Orchestration
+395.  0  The Complete Cybersecurity Bootcamp, 2nd Edition
+396.  0  AWS Tools for PowerShell 6
+397.  0  Learning PostgreSQL
+398.  0  Perl 6 Deep Dive
+399.  0  Podman for DevOps
+400.  0  Docker Management Design Patterns: Swarm Mode on Amazon Web Services

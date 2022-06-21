@@ -1,0 +1,402 @@
+INPUT: distributed system
+TOTAL BOOKS: 400
+1.  92  Distributed Systems in One Lesson
+2.  41  Linux System Administration
+3.  25  Designing Distributed Systems
+4.  25  Red Hat Certified System Administrator (RHCSA), 3/e
+5.  23  Red Hat Certified System Administrator (RHCSA) with Virtual Machines, Second Edition
+6.  23  Linux System Programming, 2nd Edition
+7.  17  Systems Performance: Enterprise and the Cloud
+8.  17  Building Microservices, 2nd Edition
+9.  16  Beginning Linux System Administration
+10.  14  Distributed Systems Observability
+11.  13  Python for Unix and Linux System Administration
+12.  12  Linux Foundation Certified System Administrator (LFCS)
+13.  11  UNIX and Linux System Administration Handbook, 5th Edition
+14.  11  Apache ZooKeeper and The Art of Building Distributed Systems
+15.  11  Intermediate System to Intermediate System (IS-IS) Routing Protocol
+16.  10  Mastering Distributed Tracing
+17.  10  Distributed event-driven services: From the trenches
+18.  10  Learning Linux System Administration
+19.  10  Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2
+20.  10  Practical Docker with Python: Build, Release and Distribute your Python App with Docker
+21.  9  System Center Configuration Manager 2007 Unleashed
+22.  9  LDAP System Administration
+23.  9  System Design Fundamentals
+24.  8  RabbitMQ in Action: Distributed messaging for everyone
+25.  8  Operating System Concepts, 9th Edition
+26.  8  Linux Foundation Certified System Administrator (LFCS)
+27.  7  Distributed Network Data
+28.  6  Developing Large Web Applications
+29.  6  Upgrading and Repairing PCs
+30.  6  Velocity Conference 2017 - San Jose, California
+31.  6  Getting Started with Git: Understand the Git Version Control System and How to Use it at a Basic Level
+32.  6  Linux System Administration
+33.  6  How Slack rearchitected its system to achieve zero downtime and improve latency, reliability and availability
+34.  5  Microsoft® System Center 2012 Unleashed
+35.  5  Unix® and Linux® System Administration Handbook, Fourth Edition
+36.  5  Distributed Systems with Node.js
+37.  5  Windows Internals Seventh Edition Part 1: System architecture, processes, threads, memory management, and more, Seventh Edition
+38.  5  Design Patterns for Cloud Native Applications
+39.  4  Distributed Systems, 2nd Edition
+40.  4  Learning Path: Advanced Architecture for Big Data Applications
+41.  4  Learning Chaos Engineering
+42.  4  Essential System Administration, 3rd Edition
+43.  4  Distributed Services with Go
+44.  4  Operating System Concepts, 8th Edition
+45.  4  Operating System Concepts, Seventh Edition
+46.  4  Learning Path: Red Hat Certified System Administrator (RHCSA)
+47.  4  Principles of Computer System Design
+48.  4  Practice of System and Network Administration, The: DevOps and other Best Practices for Enterprise IT, Volume 1
+49.  4  Practical System Programming for Rust Developers
+50.  3  Distributed Tracing in Practice
+51.  3  Istio: Up and Running
+52.  3  Principles of Concurrent and Distributed Programming, Second Edition
+53.  3  HP OpenView System Administration Handbook: Network Node Manager, Customer Views, Service Information Portal, HP OpenView Operations
+54.  3  System Center 2012 Configuration Manager Unleashed
+55.  3  System Center Operations Manager 2007 Unleashed
+56.  3  System Center 2012 Orchestrator Unleashed
+57.  3  Storm Blueprints: Patterns for Distributed Real-time Computation
+58.  3  Parallel and Distributed Programming Using C++
+59.  3  Beginning Apache Spark 2: With Resilient Distributed Datasets, Spark SQL, Structured Streaming and Spark Machine Learning library
+60.  3  Solaris™ 10 System Administration Essentials
+61.  3  Hands-On System Programming with Linux
+62.  2  From zero to distributed traces—an OpenTracing tutorial
+63.  2  Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing, 4th Volume
+64.  2  Monitoring Distributed Systems
+65.  2  Modern System Administration
+66.  2  Mastering Python Scripting for System Administrators
+67.  2  Getting Started with Microsoft System Center Operations Manager
+68.  2  System Center 2012 Operations Manager Unleashed, 2nd Edition
+69.  2  Pro Python System Administration
+70.  2  SolarWinds Server & Application Monitor: Deployment and Administration
+71.  2  Automating Linux and Unix System Administration, Second Edition
+72.  2  The Information Technology Fix for Health
+73.  2  How to Cheat at Windows System Administration Using Command Line Scripts
+74.  2  Process for System Architecture and Requirements Engineering
+75.  2  Distributed Denial of Service (DDoS)
+76.  2  System Center Service Manager 2010 Unleashed
+77.  2  Security Engineering: A Guide to Building Dependable Distributed Systems, Second Edition
+78.  2  Monitoring Exchange Server 2007 with System Center Operations Manager
+79.  2  Configuration Management: Expert guidance for IT service managers and practitioners - Revised
+80.  2  Knowledge-Based Configuration
+81.  2  Software Configuration Management Patterns: Effective Teamwork, Practical Integration
+82.  2  Java Distributed Computing
+83.  2  Velocity Europe Conference 2014: Video Compilation
+84.  2  Practical Docker with Python: Build, Release, and Distribute Your Python App with Docker
+85.  2  SELinux System Administration - Second Edition
+86.  2  Inside the Android OS: Building, Customizing, Managing and Operating Android System Services
+87.  2  Designing Microservices Platforms with NATS
+88.  1  Building Modern Distributed Systems with Java
+89.  1  The Art of Immutable Architecture: Theory and Practice of Data Management in Distributed Systems
+90.  1  What Is Distributed SQL?
+91.  1  Designing Reactive Systems
+92.  1  Distributed Data Fusion for Network-Centric Operations
+93.  1  Distributed Computing Through Combinatorial Topology
+94.  1  Switch/Router Architectures
+95.  1  Signals and Systems
+96.  1  Distributed Intelligence in Design
+97.  1  Introducing Distributed Application Runtime (Dapr): Simplifying Microservices Applications Development Through Proven and Reusable Patterns and Practices
+98.  1  Building and Managing High-Performance Distributed Teams: Navigating the Future of Work
+99.  1  Event Streams in Action
+100.  1  Transaction Processing
+101.  1  System Center Configuration Manager Current Branch Unleashed, First Edition
+102.  1  Introducing System Center Configuration Manager
+103.  1  Improving real-world system architectures
+104.  1  System Administration Ethics: Ten Commandments for Security and Compliance in a Modern Cyber World
+105.  1  Hands-on Azure Repos: Understanding Centralized and Distributed Version Control in Azure DevOps Services
+106.  1  The IT Support Handbook: A How-To Guide to Providing Effective Help and Support to IT Users
+107.  1  Microsoft System Center 2012 Configuration Manager: Administration Cookbook
+108.  1  Mastering the Microsoft Deployment Toolkit
+109.  1  Introducing Blockchain Applications: Understand and Develop Blockchain Applications Through Distributed Systems
+110.  1  System Center 2016 Virtual Machine Manager Cookbook - Third Edition
+111.  1  Software Configuration Management Strategies and IBM® Rational® ClearCase®: A Practical Introduction, Second Edition
+112.  1  Moodle 2 Administration
+113.  1  IBM eServer Certification Study Guide - pSeries AIX System Administration
+114.  1  System Center 2012 R2 Virtual Machine Manager Cookbook
+115.  1  HP-Certified HP-UX System Administration
+116.  1  HP-UX 11i System Administration Handbook and Toolkit, Second Edition
+117.  1  Linux Administration Handbook, Second Edition
+118.  1  Upgrading and Repairing Servers
+119.  1  Microsoft System Center Configuration Manager Cookbook - Second Edition
+120.  1  System Center 2012 R2 Configuration Manager Unleashed: Supplement to System Center 2012 Configuration Manager (SCCM) Unleashed
+121.  1  Mastering System Center Configuration Manager
+122.  1  Integration of Distributed Energy Resources in Power Systems
+123.  1  Microsoft System Center Configuration Manager Advanced Deployment
+124.  1  System Center 2012 Service Manager Unleashed
+125.  1  Microsoft System Center Configuration Manager High availability and performance tuning
+126.  1  Distributed Computing in Java 9
+127.  1  Microsoft System Center 2012 R2 Compliance Management Cookbook
+128.  1  Microsoft® System Center Enterprise Suite Unleashed
+129.  1  Distributed Computing with Go
+130.  1  Microsoft® System Center Configuration Manager 2007 Administrators Companion
+131.  1  Distributed Computing with Python
+132.  1  Exploiting Online Games: Cheating Massively Distributed Systems
+133.  1  Microsoft System Center 2012 Service Manager Cookbook
+134.  1  Distributed and Cloud Computing
+135.  1  Apache Flume: Distributed Log Collection for Hadoop - Second Edition
+136.  1  Cacti 0.8 Beginner's Guide
+137.  1  Oracle Enterprise Manager Cloud Control 12c: Managing Data Center Chaos
+138.  1  Configuration Management Best Practices: Practical Methods that Work in the Real World
+139.  1  Apache Flume: Distributed Log Collection for Hadoop
+140.  1  The Hands-Off Manager
+141.  1  Building Distributed Applications in Gin
+142.  1  Distributed Algorithms
+143.  1  Concepts of Database Management System
+144.  1  The Blockchain Developer: A Practical Guide for Designing, Implementing, Publishing, Testing, and Securing Distributed Blockchain-based Projects
+145.  1  Building Better Distributed Data Pipelines
+146.  1  Velocity Conference 2017 - London, UK
+147.  1  Topics in Parallel and Distributed Computing
+148.  1  A Practical Guide to Distributed Scrum
+149.  1  Distributed Programming with Ruby
+150.  1  IBM System Storage DS8000 Copy Services for IBM System z
+151.  1  Database Systems: Concepts, Design and Applications
+152.  1  Linux System Programming Techniques
+153.  1  Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices
+154.  1  ISO 22301:2019 and business continuity management – Understand how to plan, implement and enhance a business continuity management system (BCMS)
+155.  1  Robot Operating System Cookbook
+156.  1  System Identification: Theory for the User, 2nd Edition
+157.  1  Cloud Native Infrastructure with Azure
+158.  0  Your team as a distributed system
+159.  0  VFD Challenges for Shipboard Electrical Power System Design
+160.  0  Infrastructure & Ops Superstream: Distributed Computing
+161.  0  Infrastructure and Ops Hour with Sam Newman: Distributed Systems with Nicky Wrightson
+162.  0  Effective Multi-Tenant Distributed Systems
+163.  0  The Distributed Systems Video Collection
+164.  0  Distributed .NET with Microsoft Orleans
+165.  0  Distributed Generation Systems
+166.  0  z/OS Distributed File Service zSeries File System Implementation z/OS V1R13
+167.  0  Large Scale Network-Centric Distributed Systems
+168.  0  Distributed Networks
+169.  0  Distributed Systems Architecture
+170.  0  Distributed Sensor Systems: Practice and Applications
+171.  0  Intelligent Transport Systems
+172.  0  Optimal Resource Allocation for Distributed Video Communication
+173.  0  Implantable Sensor Systems for Medical Applications
+174.  0  The Next Generation of Distributed IBM CICS
+175.  0  Sigma-Delta Converters: Practical Design Guide, 2nd Edition
+176.  0  Cyber-Physical Systems
+177.  0  Meet the Expert: Liz Fong-Jones on Cultivating Production Excellence
+178.  0  Building Enterprise Systems with ODP
+179.  0  Efficient Multirate Teletraffic Loss Models Beyond Erlang
+180.  0  The End of Scale
+181.  0  The Hadoop Performance Myth
+182.  0  Introduction to Lattice Theory with Computer Science Applications
+183.  0  Microwave Filters for Communication Systems: Fundamentals, Design and Applications
+184.  0  Healthcare at a Turning Point
+185.  0  IT Architectures and Middleware: Strategies for Building Large, Integrated Systems, Second Edition
+186.  0  Network Distributed Computing: Fitscapes and Fallacies
+187.  0  PowerBuilder® 9: Internet and Distributed Application Development
+188.  0  IT Necessities for a Distributed World
+189.  0  Basics of Instructional Systems Development—Instructional Systems Development
+190.  0  CentOS System Administration Essentials
+191.  0  Identification and Management of Distributed Data
+192.  0  Distributed Sensor Networks, 2nd Edition
+193.  0  Distributed Sensor Networks, 2nd Edition
+194.  0  Distributed Photovoltaic Grid Transformers
+195.  0  Distributed Jenkins builds with containers
+196.  0  IBM System Blue Gene Solution: Blue Gene/Q System Administration
+197.  0  Large Scale and Big Data
+198.  0  Practical Linux System Administration
+199.  0  Visualizing Shared, Distributed Data
+200.  0  Slamming Spam: A Guide for System Administrators
+201.  0  Deployment using Altiris on IBM System x and BladeCenter Servers
+202.  0  Linux System Administration for the 2020s: The Modern Sysadmin Leaving Behind the Culture of Build and Maintain
+203.  0  The Reciprocity Advantage
+204.  0  Hands-On Kubernetes and Docker for Distributed Applications
+205.  0  Linux Administration Best Practices
+206.  0  High-Performance IT Services
+207.  0  Distributed Strategic Learning for Wireless Engineers
+208.  0  IBM Distributed Virtual Switch 5000V Quickstart Guide
+209.  0  Making a Collection Count
+210.  0  An Introduction to Security in a CSM 1.3 for AIX 5L Environment
+211.  0  Operating Systems: Concurrent and Distributed Software Design
+212.  0  The Ongoing Technological System
+213.  0  POWER UP YOUR SMALL-MEDIUM BUSINESS: A GUIDE TO ENABLING NETWORK TECHNOLOGIES
+214.  0  BizTalk Server 2016 : Performance Tuning and Optimization
+215.  0  ABCs of IBM z/OS System Programming Volume 1
+216.  0  Designing Large Scale Lans
+217.  0  BizTalk
+218.  0  ABCs of IBM z/OS System Programming Volume 6
+219.  0  Distributed Data Systems with Azure Databricks
+220.  0  ABCs of z/OS System Programming Volume 10
+221.  0  ABCs of z/OS System Programming Volume 8
+222.  0  Running Mainframe z on Distributed Platforms: How to Create Robust Cost-Efficient Multiplatform z Environments
+223.  0  ABCs of z/OS System Programming: Volume 9
+224.  0  ABCs of z/OS System Programming: Volume 5
+225.  0  Professional Issues in Information Technology - Second edition
+226.  0  Introduction to Information Technology, 2nd Edition
+227.  0  Getting Started with System Center 2016 Operations Manager
+228.  0  Complex Systems and Systems of Systems Engineering
+229.  0  Students' Guide to Information Technology, 2nd Edition
+230.  0  Microsoft System Center Virtual Machine Manager 2008
+231.  0  Systems Engineering and Architecting
+232.  0  HP-UX i Version 2 System Administration HP Integrity and HP 9000 Servers
+233.  0  Microsoft System Center 2012 R2 Operations Manager Cookbook
+234.  0  IBM AIX Version 7.1 Differences Guide
+235.  0  Indian Administration
+236.  0  Deploying Microsoft System Center Configuration Manager
+237.  0  Exploiting IBM AIX Workload Partitions
+238.  0  Managing Linux® Systems with Webmin™ System Administration and Module Development
+239.  0  Running Linux on IBM System z9 and zSeries under z/VM
+240.  0  Pro BizTalk 2009
+241.  0  System Performance Tuning, 2nd Edition
+242.  0  Software Architecture Hour with Neal Ford: Distributed Systems with Vanya Seth
+243.  0  Speed It Up!: A Non-Technical Guide for Speeding Up Slow Computers
+244.  0  Fundamentals of Fund Administration
+245.  0  Apple Training Series Xsan 2 Administration: A Guide to Designing, Deploying, and Maintaining Xsan
+246.  0  Workload Partition Management in IBM AIX Version 6.1
+247.  0  UNIX System Administration Handbook, Third Edition
+248.  0  Pro BizTalk 2006
+249.  0  Distributed Machine Learning with Python
+250.  0  Troubleshooting System Center Configuration Manager
+251.  0  Learn System Center Configuration Manager in a Month of Lunches: Covers SCCM 1511 and Windows 10
+252.  0  Domino System Administration
+253.  0  UNIX® Fault Management: A Guide for System Administration
+254.  0  Professional Issues in Information Technology
+255.  0  AIX 5L Practical Performance Tools and Tuning Guide
+256.  0  System Center Configuration Manager Reporting Unleashed
+257.  0  Modeling and Optimization of Parallel and Distributed Embedded Systems
+258.  0  Securing NFS in AIX An Introduction to NFS v4 in AIX 5L Version 5.3
+259.  0  Does It Matter?
+260.  0  Microsoft System Center 2016 Service Manager Cookbook - Second Edition
+261.  0  Domino Web Access 6.5 on Linux
+262.  0  Server Disk Management in a Windows Environment
+263.  0  Systems Engineering in the Fourth Industrial Revolution
+264.  0  Cloud-Native Microservices with Apache Pulsar: Build Distributed Messaging Microservices
+265.  0  BizTalk™ Unleashed
+266.  0  Introducing VERITAS Foundation Suite for AIX
+267.  0  Large-scale Distributed Systems and Energy Efficiency: A Holistic View
+268.  0  Microsoft System Center
+269.  0  Frequency-Domain Analysis and Design of Distributed Control Systems
+270.  0  AIX Fast Connect for AIX Version 3.1 Guide
+271.  0  Mastering System Center Configuration Manager 2007 R2
+272.  0  Mastering System Center 2012 R2 Configuration Manager
+273.  0  Microsoft System Center Optimizing Service Manager
+274.  0  Introducing Microsoft System Center 2012 R2
+275.  0  Cyber Security in Parallel and Distributed Computing
+276.  0  Microsoft System Center Designing Orchestrator Runbooks
+277.  0  Microsoft System Center: Troubleshooting Configuration Manager
+278.  0  Microsoft System Center: Building a Virtualized Network Solution
+279.  0  Microsoft System Center: Cloud Management with App Controller
+280.  0  Beginning gRPC on ASP.NET Core: Tools for Developers Working with Distributed Web and Cloud Applications
+281.  0  Ballerina: A Language for Network-Distributed Applications
+282.  0  Mastering System Center 2012 Configuration Manager
+283.  0  Going Further with Git: Use Git’s Killer Feature and Unleash the Full Potential of Distributed Version Control
+284.  0  Practical Blockchains and Cryptocurrencies: Speed Up Your Application Development Process and Develop Distributed Applications with Confidence
+285.  0  Be a Great Manager – Now!
+286.  0  Mastering System Center 2012 Operations Manager
+287.  0  System Center Opalis Integration Server 6.3 Unleashed
+288.  0  A History of U.S. Communications Intelligence during World War II: Policy and Administration
+289.  0  System Center Operations Manager (OpsMgr) 2007 R2 Unleashed: Supplement to System Center Operations Manager 2007 Unleashed
+290.  0  Configuration Management for Senior Managers
+291.  0  How to be a Brilliant Manager
+292.  0  Configuration and Tuning GPFS for Digital Media Environments
+293.  0  Model Driven Engineering for Distributed Real-Time Embedded Systems 2009: Advances, Standards, Applications and Perspectives
+294.  0  Oracle Distributed Systems
+295.  0  Software Configuration Management: A Clear Case for IBM Rational ClearCase and ClearQuest UCM
+296.  0  The Complete Guide to CICS Transaction Gateway Volume 1 Configuration and Administration
+297.  0  Readings in Distributed Artificial Intelligence
+298.  0  Mastering™ System Center Operations Manager 2007
+299.  0  Distributed Artificial Intelligence
+300.  0  IBM PowerVC Version 1.2.3: Introduction and Configuration
+301.  0  Building SOA-based Solutions for IBM System i Platform
+302.  0  In the Forefront of Foreign Missile and Space Intelligence History of the Defense Special Missile and Aerospace Center (DEFSMAC), 1960-2010
+303.  0  Creating a Digital Home Entertainment System with Windows Media Center
+304.  0  Model Driven Engineering for Distributed Real-Time Embedded Systems
+305.  0  IBM zEnterprise EC12 Configuration Setup
+306.  0  Distribution System Modeling and Analysis, 4th Edition
+307.  0  The Manager's Pocket Guide to Motivating Employees
+308.  0  Mastering Virtual Machine Manager 2008 R2
+309.  0  IBM WebSphere® Application Server for Distributed Platforms and z/OS®: An Administrator’s Guide
+310.  0  Microsoft® .NET Distributed Applications: Integrating XML Web Services and .NET Remoting
+311.  0  InstallAnywhere Tutorial and Reference Guide
+312.  0  Distributed Source Coding
+313.  0  Distribution System Modeling and Analysis, 3rd Edition
+314.  0  Zero Configuration Networking: The Definitive Guide
+315.  0  Getting Started with SCLM: A Practical Guide to SCLM and SCLM Advanced Edition
+316.  0  Concurrent and Distributed Computing in Java
+317.  0  The Manager's Pocket Guide® to Downsizing with Confidence
+318.  0  Build Master, The: Microsoft’s Software Configuration Management Best Practices
+319.  0  MCTS Microsoft® Windows Vista™ Client Configuration: Study Guide
+320.  0  Essential Microsoft Operations Manager
+321.  0  IBM Session Manager Implementation
+322.  0  Java™ Network Programming and Distributed Computing
+323.  0  Unattended Pristine Installation with IBM Tivoli Configuration Manager
+324.  0  Energy Storage for Power System Planning and Operation
+325.  0  Implementing a Tivoli Solution for Central Management of Large Distributed Environments
+326.  0  Stage Manager
+327.  0  Cisco Router Configuration, Second Edition
+328.  0  The Multi-Boot Configuration Handbook
+329.  0  Cisco® Router Configuration & Troubleshooting, Second Edition
+330.  0  Windows NT Workstation: Configuration and Maintenance
+331.  0  Build a Distributed IoT Cluster on .NET 6: Using Blazor and SignalR to Manage IoT Devices
+332.  0  Introducing .NET for Apache Spark: Distributed Processing for Massive Datasets
+333.  0  Distributed Learning
+334.  0  Next-Generation Machine Learning with Spark: Covers XGBoost, LightGBM, Spark NLP, Distributed Deep Learning with Keras, and More
+335.  0  Pro Python System Administration, Second Edition
+336.  0  Best Practices and Methodology for Electronic Software Distribution and Operating System Provisioning in an On Demand Business
+337.  0  Velocity Conference 2017 - New York, New York
+338.  0  Solaris™ 8 System Administrator's Reference
+339.  0  Computer System Designs: System-on-Chip
+340.  0  Practical Remote Pair Programming
+341.  0  Mobile Agents in Networking and Distributed Computing
+342.  0  Agile Software Development with Distributed Teams: Staying Agile in a Global World
+343.  0  Distributed Renewable Energies for Off-Grid Communities
+344.  0  IBM Flex System and PureFlex System Network Implementation
+345.  0  Service-Oriented Distributed Knowledge Discovery
+346.  0  Distributed Game Development
+347.  0  The Java Module System: Migrate Legacy Code and Turn JARs into Modules
+348.  0  Adaptive Learning Methods for Nonlinear System Modeling
+349.  0  IBM PureFlex System and IBM Flex System Products and Technology
+350.  0  Statistical Inference for Models with Multivariate t-Distributed Errors
+351.  0  IBM Flex System and PureFlex System Network Implementation with Cisco Systems
+352.  0  IBM Flex System and PureFlex System Network Implementation with Juniper Networks
+353.  0  IBM Storage Solutions for SAS Analytics using IBM Spectrum Scale and IBM Elastic Storage System 3000 Version 1 Release 1
+354.  0  System Assurance
+355.  0  Mobile Clouds: Exploiting Distributed Resources in Wireless, Mobile and Social Networks
+356.  0  IBM zPDT Guide and Reference: System z Personal Development Tool
+357.  0  Understanding Decision-Making within Distributed Project Teams
+358.  0  DB2 10 for Linux on System z Using z/VM v6.2, Single System Image Clusters and Live Guest Relocation
+359.  0  End-to-End High Availability Solution for System z from a Linux Perspective
+360.  0  Power System SCADA and Smart Grids
+361.  0  Practical Migration from x86 to Linux on IBM System z
+362.  0  Modern Power System Analysis, 2nd Edition
+363.  0  IBM System z Personal Development Tool: Volume 3 Additional Topics
+364.  0  The Monetary System
+365.  0  IBM System z Personal Development Tool Vol. 4 Coupling and Parallel Sysplex
+366.  0  Efficient Learning Machines: Theories, Concepts, and Applications for Engineers and System Designers
+367.  0  Power System Transients
+368.  0  The System Engineers Handbook
+369.  0  IBM System Storage N series Software Guide
+370.  0  IBM System Storage N series Clustered Data ONTAP
+371.  0  Embedded Linux System Design and Development
+372.  0  UPC: DISTRIBUTED SHARED MEMORY PROGRAMMING
+373.  0  Modeling and Simulation Support for System of Systems Engineering Applications
+374.  0  Developing a Warehouse and Inventory Level Optimization system
+375.  0  CCNP Security Cisco Secure Firewall and Intrusion Prevention System Official Cert Guide
+376.  0  Implementing IBM InfoSphere BigInsights on IBM System x
+377.  0  Implementing IBM SmartCloud Entry on IBM PureFlex System
+378.  0  IBM System Storage N series Software Guide
+379.  0  Large-Scale Computing Techniques for Complex System Simulations
+380.  0  Mastering Linux System Administration
+381.  0  System Requirements Engineering
+382.  0  IBM z/VM and Linux on IBM System z: Virtualization Cookbook for Red Hat Enterprise Linux 4
+383.  0  AWS System Administration, 2nd Edition
+384.  0  SELinux System Administration - Third Edition
+385.  0  ISO22301: 2019 - An Introduction to a Business Continuity Management System (BCMS)
+386.  0  A Network Architect's Guide to 5G
+387.  0  AWS for System Administrators
+388.  0  Windows Operating System Fundamentals
+389.  0  IBM® WebSphere® System Administration
+390.  0  X Windows System Administrator's Guide, Vol 8 (Definitive Guides to the X Window System)
+391.  0  Informix Dynamic Server V10: Superior Data Replication for Availability and Distribution
+392.  0  Model-Based System Architecture, 2nd Edition
+393.  0  Building Microservices
+394.  0  Velocity Conference - London, UK 2018
+395.  0  Model-Based System Architecture
+396.  0  Building Microservices with Micronaut®
+397.  0  Microsoft System Center Data Protection Manager Cookbook
+398.  0  Datadog Cloud Monitoring Quick Start Guide
+399.  0  End-to-end Automation with IBM Tivoli System Automation for Multiplatforms
+400.  0  IBM Cloud Object Storage System Product Guide

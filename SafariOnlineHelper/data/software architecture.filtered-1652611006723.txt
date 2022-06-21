@@ -1,0 +1,502 @@
+INPUT: software architecture
+TOTAL BOOKS: 500
+1.  125  Software Architecture Fundamentals Understanding the Basics
+2.  92  Distributed Systems in One Lesson
+3.  86  Clean Architecture: A Craftsman's Guide to Software Structure and Design
+4.  48  Domain-Driven Design: Tackling Complexity in the Heart of Software
+5.  45  Fundamentals of Software Architecture
+6.  40  Python Beyond The Basics - Object Oriented Programming
+7.  39  Software Architecture Fundamentals Beyond the Basics
+8.  39  Domain-Driven Design Distilled
+9.  34  Implementing Domain-Driven Design
+10.  32  Growing Object-Oriented Software, Guided by Tests
+11.  31  Software Architecture Fundamentals, Second Edition
+12.  27  Patterns of Enterprise Application Architecture
+13.  27  Architecture Patterns with Python
+14.  25  The Software Architect Elevator
+15.  25  Building Evolutionary Architectures
+16.  25  Moving to Microservices: Using Domain-Driven Design to Break Down the Monolith
+17.  24  Designing Distributed Systems
+18.  22  Domain Modeling Made Functional
+19.  20  Software Architecture Patterns
+20.  19  Data Mesh
+21.  19  Domain-Driven Design Distilled, 1/e
+22.  18  97 Things Every Software Architect Should Know
+23.  17  What Is Domain-Driven Design?
+24.  16  Software Architecture in Practice, Third Edition
+25.  16  Get Your Hands Dirty on Clean Architecture
+26.  16  Documenting Software Architectures: Views and Beyond, Second Edition
+27.  16  Scalable Internet Architectures
+28.  16  Patterns, Principles, and Practices of Domain-Driven Design
+29.  15  Head First Object-Oriented Analysis and Design
+30.  14  Distributed Systems Observability
+31.  13  Microservices AntiPatterns and Pitfalls
+32.  12  Software Architecture Patterns
+33.  12  Righting Software
+34.  12  Technology Strategy Patterns
+35.  11  Architectural Patterns
+36.  10  Software Architecture in Practice LiveLessons (Video Training)
+37.  10  Production-Ready Serverless
+38.  10  Building a Scalable Serverless Microservice REST Data API
+39.  10  Mastering Distributed Tracing
+40.  10  Microservices vs. Service-Oriented Architecture
+41.  10  Microservices AntiPatterns and Pitfalls
+42.  9  System Design Fundamentals
+43.  9  Full Stack Serverless
+44.  9  Modeling Enterprise Architecture with TOGAF
+45.  8  Mastering API Architecture
+46.  8  O'Reilly Software Architecture Conference 2017 - New York, New York
+47.  8  Learning Serverless
+48.  8  Serverless Fundamentals for Microservices: An Introduction to Core Concepts and Best Practices
+49.  8  Python 3 Object-Oriented Programming
+50.  8  Practical Object-Oriented Design: An Agile Primer Using Ruby, 2/e
+51.  7  Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives, Second Edition
+52.  7  Continuous API Management
+53.  7  AWS Lambda: Developing Serverless Applications with Java
+54.  7  Domain-Driven Design in PHP
+55.  7  Service-Based Architectures
+56.  7  Distributed Network Data
+57.  7  Object-oriented Programming with Python - A Practical Guide
+58.  6  O'Reilly Software Architecture Conference 2019 - New York, New York
+59.  6  Foundations of Scalable Systems
+60.  6  Software Architecture Fundamentals People Skills
+61.  6  The Zen of Software Architecture
+62.  6  Designing Software Architectures: A Practical Approach
+63.  6  Software Architecture in Practice, Second Edition
+64.  6  12 Essential Skills for Software Architects
+65.  6  Beautiful Architecture
+66.  6  Software Architecture Fundamentals Soft Skills
+67.  6  Enterprise API Management
+68.  6  Learning Domain-Driven Design
+69.  6  Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, Eclipse MicroProfile, Spring Boot, and the Axon Framework
+70.  6  7 years of DDD: Tackling complexity in large-scale marketing systems
+71.  6  The Four Principles of Great Design: Learn by Video
+72.  6  Object-Oriented Thought Process, 5th Edition
+73.  6  Developing Large Web Applications
+74.  6  Applying Domain-Driven Design and Patterns: With Examples in C# and .NET
+75.  6  The Object-Oriented Thought Process, Fourth Edition
+76.  5  Software Architecture: The Hard Parts
+77.  5  O’Reilly Software Architecture Conference New York 2018
+78.  5  Software Architect's Handbook
+79.  5  Software Architecture: Foundations, Theory, and Practice
+80.  5  Software Architecture: A Case Based Approach
+81.  5  I'm a Software Architect, Now What?
+82.  5  Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives
+83.  5  Microservices: Flexible Software Architecture
+84.  5  Practical Process Automation
+85.  5  Complex Enterprise Architecture: A New Adaptive Systems Approach
+86.  5  Building Serverless Applications with Google Cloud Run
+87.  5  Object Design Style Guide
+88.  5  Lean Architecture for Agile Software Development
+89.  4  Hands-On Software Architecture with Golang
+90.  4  Evolutionary Architecture Fundamentals
+91.  4  Introduction to Cloud Native Architecture Patterns
+92.  4  Software Architecture with C++
+93.  4  Architecture Best Practices
+94.  4  Agile Software Architecture
+95.  4  Learning Dapr
+96.  4  Serverless Design Patterns and Best Practices
+97.  4  What Is Serverless?
+98.  4  Learning Path: Advanced Architecture for Big Data Applications
+99.  4  Distributed Systems, 2nd Edition
+100.  4  Service-Oriented Architecture: Analysis and Design for Services and Microservices
+101.  4  SOA Principles of Service Design
+102.  4  Implementing SOA: Total Architecture in Practice
+103.  3  Software Architecture Superstream Series: Software Architecture Fundamentals
+104.  3  Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps
+105.  3  O'Reilly Software Architecture Conference 2020 - New York, NY
+106.  3  O'Reilly Software Architecture Conference 2017 - London, UK
+107.  3  Essentials of Computer Organization and Architecture, 5th Edition
+108.  3  Designing Hexagonal Architecture with Java
+109.  3  Practical Software Architecture: Moving from System Context to Deployment
+110.  3  O'Reilly Software Architecture Conference 2016 - London, United Kingdom
+111.  3  O'Reilly Software Architecture Conference 2016 - New York, New York
+112.  3  O'Reilly Software Architecture Conference 2015 Complete Video Compilation
+113.  3  Semantic Software Design
+114.  3  Thinking Architecturally
+115.  3  Modeling for Software Architects
+116.  3  Beyond Software Architecture: Creating and Sustaining Winning Solutions
+117.  3  Pattern-Oriented Software Architecture, Volume 1, A System of Patterns
+118.  3  Unikernels
+119.  3  TIBCO Architecture Fundamentals
+120.  3  Software Architecture with Spring 5.0
+121.  3  Software Craftsmanship: The New Imperative
+122.  3  Knative in Action
+123.  3  Cisco Digital Network Architecture: Intent-based Networking for the Enterprise, First Edition
+124.  3  Collaborative Enterprise Architecture
+125.  3  Serverless Web Applications with React and Firebase
+126.  3  Building Serverless Web Applications
+127.  3  Making Change Happen in the Enterprise
+128.  3  The Agile Architecture Revolution: How Cloud Computing, REST-Based SOA, and Mobile Computing Are Changing Enterprise IT
+129.  3  Distributed Tracing in Practice
+130.  3  Client-Server Web Apps with JavaScript and Java
+131.  3  Principles of Concurrent and Distributed Programming, Second Edition
+132.  3  Service-Oriented Architecture: Concepts, Technology, and Design
+133.  3  Applied SOA Patterns on the Oracle Platform
+134.  2  Software Architecture in Practice, 4th Edition
+135.  2  Fundamentals of Software Architecture
+136.  2  Icebergs, bathtubs, and flows: Applying systems thinking to software architecture
+137.  2  Brains considered harmful: How cognitive biases undermine your software architecture
+138.  2  O'Reilly Software Architecture Conference 2016 - San Francisco, California
+139.  2  The Software Architect Elevator
+140.  2  System Architecture: Strategy and Product Development for Complex Systems, First Edition
+141.  2  Effective Feature Management
+142.  2  Software Engineering
+143.  2  Software and Systems Architecture in Action
+144.  2  Break me if you can: A practical guide to building fault-tolerant systems
+145.  2  Software Quality Assurance
+146.  2  Learning Path: Resource-Oriented Architecture
+147.  2  Visual Models for Software Requirements
+148.  2  Why Reactive?
+149.  2  Software Requirement Patterns
+150.  2  Emergent Design: The Evolutionary Nature of Professional Software Development
+151.  2  Meet the Expert: Grady Booch on Software Architecture in the Age of AI
+152.  2  Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing, 4th Volume
+153.  2  Pattern Oriented Software Architecture Volume 5: On Patterns and Pattern Languages
+154.  2  Hands-on Azure Functions with C#: Build Function as a Service (FaaS) Solutions
+155.  2  Serverless Computing on AWS with Lambda, API Gateway, S3, and DynamoDB
+156.  2  What Is Serverless?
+157.  2  Pragmatic Enterprise Architecture
+158.  2  Serverless computing in Azure with .NET
+159.  2  Docker for Serverless Applications
+160.  2  Building Serverless Applications with Python
+161.  2  Serverless Single Page Apps
+162.  2  Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software
+163.  2  Rapid J2EE™ Development: An Adaptive Foundation for Enterprise Applications
+164.  2  Living Documentation: Continuous Knowledge Sharing by Design, First Edition
+165.  2  From zero to distributed traces—an OpenTracing tutorial
+166.  2  Modern Web Development: Understanding domains, technologies, and user experience
+167.  2  Python Object-Oriented Programming - Fourth Edition
+168.  2  Event-Driven Architecture: How SOA Enables the Real-Time Enterprise
+169.  2  The Architecture of Computer Hardware, Systems Software, & Networking: An Information Technology Approach, 5th Edition
+170.  2  Mastering Object-Oriented Python - Second Edition
+171.  2  .NET Domain-Driven Design with C#: Problem – Design – Solution
+172.  2  Server Architectures
+173.  2  Learning Object-Oriented Programming
+174.  2  Object-Oriented Design with ABAP: A Practical Approach
+175.  2  Object-Oriented vs. Functional Programming
+176.  2  JavaScript : Object-Oriented Programming
+177.  2  How to Use Objects: Code and Concepts
+178.  2  Applied SOA: Service-Oriented Architecture and Design Strategies
+179.  2  Service Oriented Architecture For Dummies®, 2nd Edition
+180.  2  Mastering Object-oriented Python
+181.  2  SOA with Java: Realizing Service-Orientation with Java Technologies
+182.  1  Software Architecture Hour: What Makes a Good Software Architect with Venkat Subramaniam
+183.  1  Software Architecture Hour with Neal Ford: Enterprise Architecture with Matt Stine
+184.  1  O'Reilly Software Architecture Conference 2019 - Berlin, Germany
+185.  1  O'Reilly Software Architecture Conference 2019 - San Jose, California
+186.  1  An architect's guiding principles for leadership, 2019 Software Architecture Conference, NY
+187.  1  Relating System Quality and Software Architecture
+188.  1  Software Architecture - Impacts of Big Data
+189.  1  Economics-Driven Software Architecture
+190.  1  Becoming an Agile Software Architect
+191.  1  Infrastructure and Ops Hour with Sam Newman: Multi-Cloud with Gregor Hohpe
+192.  1  Model Based Systems Engineering: Fundamentals and Methods
+193.  1  Evolutionary Computation with Biogeography-based Optimization
+194.  1  The Post-Hierarchical Organization
+195.  1  Architecture of Network Systems
+196.  1  The Developer's Code
+197.  1  Geekonomics: The Real Cost of Insecure Software
+198.  1  Resource-Oriented Computing with NetKernel
+199.  1  Software Architecture Hour with Neal Ford: Microservices with Sam Newman
+200.  1  Software Architect Bootcamp, Second Edition
+201.  1  Software Architecture with C# 9 and .NET 5 - Second Edition
+202.  1  Estimating Software-Intensive Systems: Projects, Products, and Processes
+203.  1  The “Oslo” Modeling Language
+204.  1  Object Constraint Language, The: Getting Your Models Ready for MDA, Second Edition
+205.  1  Organization Development Basics
+206.  1  Modernizing Legacy Systems: Software Technologies, Engineering Processes, and Business Practices
+207.  1  Patterns for Effective Use Cases
+208.  1  Software Architecture for Big Data and the Cloud
+209.  1  Absolute Beginner's Guide to Computer Basics, Third Edition
+210.  1  Advanced Use Case Modeling: Software Systems
+211.  1  Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design
+212.  1  Special Edition Using MS-DOS® 6.22, Third Edition
+213.  1  Certified Enterprise Architect All-in-One Exam Guide
+214.  1  Learning Apache OpenWhisk
+215.  1  Serverless Security
+216.  1  Serverless Microservices at Fender Digital
+217.  1  Serverless Swift: Apache OpenWhisk for iOS developers
+218.  1  DevOps for Serverless Applications
+219.  1  WSO2 Developer’s Guide
+220.  1  Building Serverless Architectures
+221.  1  The Experimental Enterprise: Building a Data-Driven Business (SVDS Video Series
+222.  1  Azure Serverless Computing Cookbook
+223.  1  Serverless Ops
+224.  1  Pragmatic Guide to Subversion
+225.  1  Get Ready For Your Next Assignment
+226.  1  The New Era of Enterprise Business Intelligence: Using Analytics to Achieve a Global Competitive Advantage
+227.  1  Open SUSE® 11.0 and SUSE® Linux® Enterprise Server Bible
+228.  1  The Art of Immutable Architecture: Theory and Practice of Data Management in Distributed Systems
+229.  1  Introducing Distributed Application Runtime (Dapr): Simplifying Microservices Applications Development Through Proven and Reusable Patterns and Practices
+230.  1  Enterprise Knowledge Management
+231.  1  What Is Distributed SQL?
+232.  1  Event Streams in Action
+233.  1  Building and Managing High-Performance Distributed Teams: Navigating the Future of Work
+234.  1  On microservices, bounded contexts, and everything in between
+235.  1  Switch/Router Architectures
+236.  1  Designing Reactive Systems
+237.  1  Distributed Computing Through Combinatorial Topology
+238.  1  Distributed Data Fusion for Network-Centric Operations
+239.  1  Object-Oriented Analysis, Design and Programming with UML
+240.  1  Distributed Intelligence in Design
+241.  1  Python Object-Oriented Programming: Hands-on for Beginners [Updated for 2021]
+242.  1  Signals and Systems
+243.  1  Beginner Object Oriented Programming In C# and .NET Core
+244.  1  Interactive Object-Oriented Programming in Java: Learn and Test Your Programming Skills
+245.  1  Write Great Code, Volume 3
+246.  1  Service-Oriented Architecture: An Integration Blueprint
+247.  1  Web Services, Service-Oriented Architectures, and Cloud Computing, 2nd Edition
+248.  1  Mastering JavaScript Object-Oriented Programming
+249.  1  Object-Oriented Programming with C++
+250.  1  Service Oriented Architecture For Dummies®
+251.  0  Software Architecture Superstream: Software Architecture Patterns
+252.  0  Software Architecture Superstream Series: Software Architecture Fundamentals 2021
+253.  0  Software Architecture Superstream Series: Software Architecture Fundamentals—Comparing Architectural Styles
+254.  0  Software Architecture Metrics
+255.  0  Software Architecture Superstream: Domain-Driven Design and Event-Driven Architecture
+256.  0  Software Architecture by Example: Using C# and .NET
+257.  0  Hands-On Software Architecture with Java
+258.  0  Software Architecture Patterns for Serverless Systems
+259.  0  Software Architecture for Busy Developers
+260.  0  Software Architecture Hour with Neal Ford: The Future of Software with Martin Fowler
+261.  0  Software Architecture Hour with Neal Ford: The Future of Java with Brian Goetz
+262.  0  Software Architecture Superstream Series: Architecture Outside of Applications
+263.  0  Software Architecture Superstream Series: Architecture Meets Data
+264.  0  Software Architecture Hour: Incremental Architecture with Allen Holub
+265.  0  Software Architecture Superstream Series: Mastering Your Microservices Stack
+266.  0  Software Architecture Hour with Neal Ford: Choosing Architecture Styles
+267.  0  Software Architecture Hour: Architecture Decision-Making with Michael Nygard
+268.  0  Software Architecture Hour with Neal Ford: Architectural Governance with Birgitta Boeckeler
+269.  0  Software Architecture Hour with Neal Ford: Patterns in Architecture with Unmesh Joshi
+270.  0  Software Architecture Hour: Architecture Meets Data
+271.  0  Software Architecture Hour with Neal Ford: What Makes a Programming Language with Chelsea Troy
+272.  0  Software Architecture Hour with Neal Ford: Distributed Systems with Vanya Seth
+273.  0  Software Architecture Hour: Architecture and Security with Aaron Bedra
+274.  0  O'Reilly Software Architecture Conference - London, UK 2018
+275.  0  Software Architecture Hour: Mature Microservices
+276.  0  Software Architecture Superstream Series: Microservices; September 9, 2020
+277.  0  Highlights from the Keynotes of Software Architecture Conference in San Jose 2019
+278.  0  Highlights from the Keynotes of Software Architecture Conference in New York 2020
+279.  0  Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture
+280.  0  Highlights from the Software Architecture Conference in Berlin, 2019
+281.  0  Meet the Expert: Neal Ford on Invalidating Axioms in Software Architecture
+282.  0  Pattern-Oriented Software Architecture For Dummies
+283.  0  Incremental Software Architecture
+284.  0  Model-Based System Architecture, 2nd Edition
+285.  0  Lean Software Systems Engineering for Developers: Managing Requirements, Complexity, Teams, and Change Like a Champ
+286.  0  Patterns of Software Construction: How to Predictably Build Results
+287.  0  Meet the Experts: Mark Richards and Neal Ford on the Journey from Developer to Software Architect
+288.  0  Software Architecture and Design Illuminated
+289.  0  Architectural Katas, October—November 2021
+290.  0  Technology Strategy Patterns
+291.  0  Architectural Katas, April – May 2021
+292.  0  Essentials of Software Engineering, 3rd Edition
+293.  0  Architectural Katas, October – December 2020
+294.  0  Your First Steps from Programmer to Software Architect
+295.  0  The Essentials of Computer Organization and Architecture, 4th Edition
+296.  0  Beyond accidental architecture
+297.  0  Clarity and confidence: Observability on the New York Times games team
+298.  0  Developing a new architecture organization at Ausley
+299.  0  Don't make them guess: How to improve your architectural visualizations
+300.  0  Defining Data-Driven Software Development
+301.  0  The Learning Organization
+302.  0  Open Source in the Enterprise
+303.  0  Software Architecture Superstream Series: Domain-Driven Design and Event-Driven Architecture
+304.  0  Infrastructure Software Modules for Enterprises: Flexible Software Systems, Module Use-Cases, and Wireframes
+305.  0  Launching BBC's iPlayer on TV
+306.  0  Spotlight on Innovation: Building Resilient Systems with Heidi Waterhouse
+307.  0  Understanding the InnerSource Checklist
+308.  0  Effective Performance Engineering
+309.  0  Improving Code Quality
+310.  0  An Agile architect's framework for navigating complexity
+311.  0  Evolutionary Learning in Strategy-Project Systems
+312.  0  Requirements Engineering for Software and Systems
+313.  0  Post-Incident Reviews
+314.  0  Model-Based Engineering with AADL: An Introduction to the SAE Architecture Analysis & Design Language
+315.  0  Software Architecture with C# 10 and .NET 6 - Third Edition
+316.  0  Pervasive Computing
+317.  0  Convergence
+318.  0  Dialogic Organization Development
+319.  0  The Architecture Reference & Specification Book
+320.  0  Software Essentials
+321.  0  Ecological Sustainability
+322.  0  Designing Complex Systems
+323.  0  Software Designers in Action
+324.  0  Opto-Mechanical Systems Design, Fourth Edition, Volume 1, 4th Edition
+325.  0  Open Systems Dependability, 2nd Edition
+326.  0  Event Processing for Business: Organizing the Real-Time Enterprise
+327.  0  TREAT
+328.  0  Software Architecture Hour: Domain-Driven Design with Jessica Kerr
+329.  0  Leading Organization Design: How to Make Organization Design Decisions to Drive the Results You Want
+330.  0  Software Architecture Hour: Architecture and AI with Tariq King
+331.  0  Software Architecture with Python
+332.  0  1000 Ideas by 100 Architects
+333.  0  Practicing Organization Development: A Guide for Leading Change: A Third Edition
+334.  0  Software Architecture Superstream Series: Soft Skills Are the Hardest Part
+335.  0  Software Design Methodology
+336.  0  The Art of Software Modeling
+337.  0  Executable UML: A Foundation for Model-Driven Architecture
+338.  0  Software Architect Bootcamp
+339.  0  Software Fortresses: Modeling Enterprise Architectures
+340.  0  HyperTransport™ System Architecture
+341.  0  UML Profile for Framework Architectures, The
+342.  0  Cleanroom Software Engineering: Technology and Process
+343.  0  UML Pattern Language, A
+344.  0  The EnterPrize Organization: Organizing Software Projects for Accountability and Success
+345.  0  Software Architecture Design Patterns in Java
+346.  0  Pattern-Oriented Software Architecture Volume 3: Patterns for Resource Management
+347.  0  Pattern-Oriented Software Architecture, Volume 2, Patterns for Concurrent and Networked Objects
+348.  0  Inside Cisco IOS Software Architecture (CCIE Professional Development)
+349.  0  Inside Cisco IOS Software Architecture
+350.  0  Case Study: How Honeycomb used Serverless to Speed Up Its Servers
+351.  0  Effective enterprise architecture
+352.  0  Practical Model-Driven Enterprise Architecture
+353.  0  Integrating Serverless Architecture : Using Azure Functions, Cosmos DB, and SignalR Service
+354.  0  An emerging architecture pattern for Agile integration: Cell-based architecture (sponsored by WSO2)
+355.  0  How Mozilla used enterprise architecture to pivot
+356.  0  Orchestrating data workflows using a fully serverless architecture
+357.  0  Serverless Security: Understand, Assess, and Implement Secure and Reliable Applications in AWS, Microsoft Azure, and Google Cloud
+358.  0  Serverless architecture patterns: The awkward early years
+359.  0  Mastering Azure Serverless Computing
+360.  0  Designing Enterprise Architecture Frameworks
+361.  0  Meet the Expert: Patrick Hamann and Andrew Betts on Getting Started with Serverless
+362.  0  Enterprise Interoperability: Smart Services and Business Impact of Enterprise Interoperability
+363.  0  Building Serverless Microservices in Python
+364.  0  Serverless Programming Cookbook
+365.  0  Build an app with real-time GraphQL, managed PostgreSQL, and async serverless business logic
+366.  0  Meet the Expert: Vadym Kazulkin on the Serverless Value Proposition in AWS
+367.  0  Hands-On Serverless Computing
+368.  0  Enterprise Agility
+369.  0  Building Serverless Applications with Spring and AWS
+370.  0  Beginning Serverless Architectures with Azure
+371.  0  The Sentient Enterprise
+372.  0  Advanced Serverless Architectures with Microsoft Azure
+373.  0  Architecting the Future Enterprise
+374.  0  Building Serverless Python Web Services with Zappa
+375.  0  Developing Serverless Applications
+376.  0  Azure Serverless Computing Cookbook - Second Edition
+377.  0  Enterprise Agility For Dummies
+378.  0  Hands-On Serverless Applications with Kotlin
+379.  0  Beginning Serverless Architectures with Microsoft Azure
+380.  0  Learning Azure Functions
+381.  0  Enterprise Knowledge Capital
+382.  0  Enterprise Architecture and Information Assurance
+383.  0  Cloud Enterprise Architecture
+384.  0  The Sentient Enterprise
+385.  0  Building a More Intelligent Enterprise
+386.  0  The Intelligent Enterprise in the Era of Big Data
+387.  0  Architecture and Patterns for IT Service Management, Resource Planning, and Governance, 2nd Edition
+388.  0  IT Architecture For Dummies
+389.  0  Enterprise Architecture A to Z
+390.  0  Enterprise Architecture: A Pocket Guide
+391.  0  Mobility in the Enterprise: Proactive or Reactive?
+392.  0  C2 Re-envisioned
+393.  0  Enterprise Applications Administration
+394.  0  Enterprise Single Sign-On Design Guide Using IBM Security Access Manager for Enterprise Single Sign-On 8.2
+395.  0  Intersection
+396.  0  SOA and ESB Architecture with BizTalk
+397.  0  MDA Distilled: Principles of Model-Driven Architecture
+398.  0  Marketing Made Simple
+399.  0  Mobile Enterprise Transition and Management
+400.  0  iExec Enterprise Essentials Companion Guide
+401.  0  Python Architecture Patterns
+402.  0  Principles of Package Design: Creating Reusable Software Components
+403.  0  Combating Spyware in the Enterprise
+404.  0  Effective Use of Microsoft Enterprise Library: Building Blocks for Creating Enterprise Applications and Services
+405.  0  Moving Forward with the On Demand Real-time Enterprise
+406.  0  Enterprise JavaBeans™ Component Architecture: Designing and Coding Enterprise Applications
+407.  0  Lightweight Enterprise Architectures
+408.  0  Business Intelligence for the Enterprise
+409.  0  Enterprise J2ME™: Developing Mobile Java™ Applications
+410.  0  Building Modern Distributed Systems with Java
+411.  0  Enterprise Knowledge Portals
+412.  0  Sun Certified Enterprise Architect for J2EE™ Technology Study Guide
+413.  0  Infrastructure & Ops Superstream: Distributed Computing
+414.  0  Domain-Driven Laravel: Learn to Implement Domain-Driven Design Using Laravel
+415.  0  IT Necessities for a Distributed World
+416.  0  Cloud-Native Microservices with Apache Pulsar: Build Distributed Messaging Microservices
+417.  0  Get started with Distributed Tracing
+418.  0  Infrastructure and Ops Hour with Sam Newman: Distributed Systems with Nicky Wrightson
+419.  0  The Art of Distilling, Revised and Expanded
+420.  0  Effective Multi-Tenant Distributed Systems
+421.  0  Sigma-Delta Converters: Practical Design Guide, 2nd Edition
+422.  0  How Naxex uses Domain-Driven Design
+423.  0  Your team as a distributed system
+424.  0  Meet the Expert: Liz Fong-Jones on Cultivating Production Excellence
+425.  0  VFD Challenges for Shipboard Electrical Power System Design
+426.  0  Efficient Multirate Teletraffic Loss Models Beyond Erlang
+427.  0  JavaScript Domain-Driven Design
+428.  0  The Distributed Systems Video Collection
+429.  0  Distributed Networks
+430.  0  Distributed Generation Systems
+431.  0  Intelligent Transport Systems
+432.  0  The End of Scale
+433.  0  Distributed Systems Architecture
+434.  0  Compare Service-based Architectures
+435.  0  Seriously Good Software
+436.  0  Introduction to Nonlinear Aeroelasticity
+437.  0  Introduction to Architectural Technology, 2nd Edition
+438.  0  The Hadoop Performance Myth
+439.  0  Introduction to Lattice Theory with Computer Science Applications
+440.  0  Distributed Sensor Networks, 2nd Edition
+441.  0  Distributed Sensor Networks, 2nd Edition
+442.  0  Identification and Management of Distributed Data
+443.  0  Optimal Resource Allocation for Distributed Video Communication
+444.  0  Implantable Sensor Systems for Medical Applications
+445.  0  Fighting the "Headquarters Knows Best Syndrome"
+446.  0  Object-Oriented Python
+447.  0  Large Scale and Big Data
+448.  0  The Next Generation of Distributed IBM CICS
+449.  0  Large Scale Network-Centric Distributed Systems
+450.  0  The Reciprocity Advantage
+451.  0  Distributed Photovoltaic Grid Transformers
+452.  0  Cyber-Physical Systems
+453.  0  J2EE™ and Beyond: Design, Develop, and Deploy World-Class Java™ Software
+454.  0  Friction-Induced Vibrations and Self-Organization
+455.  0  Architectural Inventions
+456.  0  The Art of Distilling Whiskey and Other Spirits
+457.  0  Healthcare at a Turning Point
+458.  0  Projects and Complexity
+459.  0  Distributed Sensor Systems: Practice and Applications
+460.  0  The Physiology of Bioelectricity in Development, Tissue Regeneration and Cancer
+461.  0  Building Enterprise Systems with ODP
+462.  0  Bioactive Glasses
+463.  0  Visualizing Shared, Distributed Data
+464.  0  Architectural Modelmaking
+465.  0  Making a Collection Count
+466.  0  Event-Driven Applications with Flex 4
+467.  0  Object-Oriented Programming with Java
+468.  0  IT Architectures and Middleware: Strategies for Building Large, Integrated Systems, Second Edition
+469.  0  Disinvestment In India
+470.  0  Client-Server Communications
+471.  0  Microwave Filters for Communication Systems: Fundamentals, Design and Applications
+472.  0  Introduction to OOP Programming in Java EE
+473.  0  Object Design Style Guide
+474.  0  Software Pipelines and SOA: Releasing the Power of Multi-Core Processing
+475.  0  Modern Programming: Object Oriented Programming and Best Practices
+476.  0  Process-Centric Architecture for Enterprise Software Systems
+477.  0  Ajax Patterns and Best Practices
+478.  0  Object Design Style Guide video edition
+479.  0  Next Generation IT Architecture
+480.  0  Network Distributed Computing: Fitscapes and Fallacies
+481.  0  Bug Bounty Program Certification
+482.  0  CICS and SOA: Architecture and Integration Choices
+483.  0  PowerBuilder® 9: Internet and Distributed Application Development
+484.  0  POWER UP YOUR SMALL-MEDIUM BUSINESS: A GUIDE TO ENABLING NETWORK TECHNOLOGIES
+485.  0  Hands-On Object Oriented Programming with Java 11
+486.  0  Architecture as code: Objective measures of value in a changing world
+487.  0  Assessing Student Learning, 3rd Edition
+488.  0  Applied Enterprise JavaBeans™ Technology
+489.  0  Designing Large Scale Lans
+490.  0  Sams Teach Yourself BEA WebLogic Server 7.0™ in 21 Days
+491.  0  The Circle Blueprint
+492.  0  Core J2EE™ Patterns: Best Practices and Design Strategies
+493.  0  Service Oriented Architecture Field Guide for Executives
+494.  0  Service-Oriented Architecture Governance for the Services Driven Enterprise
+495.  0  Large-Scale, Component-Based Development
+496.  0  Service-Oriented Architecture
+497.  0  Handbook of Mobile Systems Applications and Services
+498.  0  Growing Pains, 5th Edition
+499.  0  Object-Oriented Analysis and Design for Information Systems
+500.  0  Process-Driven SOA

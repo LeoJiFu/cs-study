@@ -1,0 +1,302 @@
+INPUT: cloud
+TOTAL BOOKS: 300
+1.  15  Cloud Native Java
+2.  12  GCP: Complete Google Data Engineer and Cloud Architect Guide
+3.  11  Cloud Native Data Center Networking
+4.  10  Official Google Cloud Certified Associate Cloud Engineer Study Guide
+5.  9  Cloud Native
+6.  9  Cloud Computing: Concepts, Technology & Architecture
+7.  8  Cloud FinOps
+8.  8  Cloud Native Transformation
+9.  8  Oracle Cloud Infrastructure Architect Associate All-in-One Exam Guide (Exam 1Z0-1072)
+10.  8  Google Cloud Certified Associate Cloud Engineer
+11.  8  Professional Cloud Architect - Google Cloud Certification Guide
+12.  7  Architecting the Cloud: Design Decisions for Cloud Computing Service Models (SaaS, PaaS, and IaaS)
+13.  6  Designing Cloud Data Platforms
+14.  6  Building a Future-Proof Cloud Infrastructure: A Unified Architecture for Network, Security, and Storage Services
+15.  6  Practical Oracle Cloud Infrastructure: Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless
+16.  6  Amazon Web Services - Virtual Private Cloud
+17.  6  Google Cloud Platform (GCP) Certification: Associate Cloud Engineer 2020
+18.  6  Cloud Native Patterns
+19.  5  Design Patterns for Cloud Native Applications
+20.  5  Cloud Native Architectures
+21.  5  Cloud Native Infrastructure
+22.  5  What Is the Cloud?
+23.  5  Cloud Native Development Patterns and Best Practices
+24.  5  Learning Pivotal Cloud Foundry for Web Developers
+25.  5  Cloud Foundry
+26.  4  Cloud Foundry: The Definitive Guide
+27.  4  The Enterprise Cloud
+28.  4  Cloud Computing
+29.  4  The Basics of Cloud Computing
+30.  4  Cloud Computing
+31.  4  Official Google Cloud Certified Professional Data Engineer Study Guide
+32.  4  Official Google Cloud Certified Professional Cloud Architect Study Guide
+33.  4  The Enterprise Path to Service Mesh Architectures
+34.  4  Cloud Computing Bible
+35.  3  CI/CD in a cloud native world
+36.  3  Cloud Foundry for Developers
+37.  3  Cloud Foundry LiveLessons Video Training
+38.  3  Architecting for the cloud
+39.  3  Cloud Foundry BOSH Fundamentals LiveLessons
+40.  3  Visualizing Google Cloud
+41.  3  Google Cloud for DevOps Engineers
+42.  3  Developing and Hosting Applications on the Cloud
+43.  2  Cloud Computing Basics: A Non-Technical Introduction
+44.  2  Accelerating Cloud Adoption
+45.  2  A Practical Guide to Cloud Migration
+46.  2  Cloud Architecture and Certification Jump Start
+47.  2  An Introduction to Cloud Databases
+48.  2  Hands-On Cloud-Native Applications with Java and Quarkus
+49.  2  Cloud Native Patterns video edition
+50.  2  JavaScript Cloud Native Development Cookbook
+51.  2  How to Choose a Cloud Provider
+52.  2  Getting Started with Oracle Cloud Free Tier: Create Modern Web Applications Using Always Free Resources
+53.  2  Developing Node.js Applications on IBM Cloud
+54.  2  Hybrid Cloud Event Integration: Integrate Your Enterprise and Cloud with Bluemix Integration Services
+55.  2  A Practical Approach to Cloud IaaS with IBM SoftLayer: Presentations Guide
+56.  2  Mastering Cloud Computing
+57.  2  Cloud Computing: Principles and Paradigms
+58.  2  Google Cloud Cookbook
+59.  1  Cloud Native Infrastructure with Azure
+60.  1  Snowflake Essentials: Getting Started with Big Data in the Cloud
+61.  1  97 Things Every Cloud Engineer Should Know
+62.  1  Designing Cloud Data Platforms, Video Edition
+63.  1  Effortless Cloud-Native App Development Using Skaffold
+64.  1  Jumpstart Snowflake: A Step-by-Step Guide to Modern Cloud Analytics
+65.  1  Preparing for Your Migration to the Cloud
+66.  1  Cloud Migration vs. Cloud Native
+67.  1  Planning your cloud architecture
+68.  1  Hybrid Cloud for Architects
+69.  1  Managing PeopleSoft on the Oracle Cloud: Best Practices with PeopleSoft Cloud Manager
+70.  1  The Read Aloud Cloud
+71.  1  Designing and Building a Hybrid Cloud
+72.  1  Cloud Security Automation
+73.  1  Building Your Cloud Strategy
+74.  1  Cloud Computing
+75.  1  Cloud Adoption in 2020
+76.  1  Cloud native data pipelines with Apache Kafka
+77.  1  Essentials of Application Development on IBM Cloud
+78.  1  Software Architecture for Big Data and the Cloud
+79.  1  IBM Cloud Private System Administrator's Guide
+80.  1  Google Cloud Certified Professional Cloud Developer Exam Guide
+81.  1  Open Source Software Superstream Series: Java
+82.  1  Professional Cloud Architect Google Cloud Certification Guide - Second Edition
+83.  1  Migrating to Cloud-Native Application Architectures
+84.  1  How Disney built a modern cloud with open source
+85.  1  Using IPV6 with AWS Virtual Private Cloud (VPC)
+86.  1  Hybrid and Multicloud Management
+87.  1  Microsoft Public Cloud Services: Setting up your business in the cloud
+88.  1  CSA Guide to Cloud Computing
+89.  1  Establishing a Secure Hybrid Cloud with the IBM PureApplication Family
+90.  1  Building a Private Cloud Using Microsoft System Center 2012 R2 Live Lessons
+91.  1  Testing Cloud Services
+92.  1  Google Cloud Certified Professional Cloud Network Engineer Guide
+93.  1  IBM QRadar Version 7.3 Planning and Installation Guide
+94.  1  Implementing Oracle API Platform Cloud Service
+95.  1  Cloudonomics: The Business Value of Cloud Computing, + Website
+96.  1  Exam Ref MCSA 70-246: Monitoring and Operating a Private Cloud
+97.  1  Microsoft Private Cloud Computing
+98.  1  How Computers Work: The Evolution of Technology, Tenth Edition
+99.  1  Oracle VM 3 Cloud Implementation and Administration Guide, 2nd Edition
+100.  1  Private Cloud Computing
+101.  1  Securing the Cloud
+102.  1  Implementing IBM FlashSystem 900 Model AE3
+103.  1  Oracle Exalogic Elastic Cloud Handbook
+104.  1  Introduction to Cloud Computing
+105.  1  Building Cognitive Applications with IBM Watson Services: Volume 2 Conversation
+106.  0  Cloud Native Security Cookbook
+107.  0  Cloud Native Architecture and Design: A Handbook for Modern Day Architecture and Design with Enterprise-Grade Examples
+108.  0  Cloud Computing For Dummies, 2nd Edition
+109.  0  Zscaler Cloud Security Essentials
+110.  0  Cloud Native Monitoring
+111.  0  Cloud Native Security
+112.  0  Systematic Cloud Migration: A Hands-On Guide to Architecture, Design, and Technical Implementation
+113.  0  The Modern Cloud Data Platform
+114.  0  Practical Cloud-Native Java Development with MicroProfile
+115.  0  Cloud Without Compromise
+116.  0  Cloud Computing Security, 2nd Edition
+117.  0  Implementing Hybrid Cloud with Azure Arc
+118.  0  Spotlight on Cloud: Cloud FinOps & Cost Optimization with J.R. Storment
+119.  0  Oracle Cloud Infrastructure for Solutions Architects
+120.  0  Monitoring Cloud-Native Applications: Lead Agile Operations Confidently Using Open Source Software
+121.  0  Developing Open Cloud Native Microservices
+122.  0  Designing Cloud Data Platforms
+123.  0  Cloud Object Storage as a Service: IBM Cloud Object Storage from Theory to Practice - For developers, IT architects and IT specialists
+124.  0  Building Intelligent Cloud Applications
+125.  0  Migrating Applications to the Cloud
+126.  0  Four Ways to Transform Your Mainframe for a Hybrid Cloud World
+127.  0  Cloud Computing with Python Video Course
+128.  0  Pinterest's journey to the cloud
+129.  0  What Is Cloud Native?
+130.  0  Meet the Expert: JJ Asghar on Migrating a Monolith to Cloud Native
+131.  0  Spotlight on Cloud: Moving to the Cloud—What Your Company Needs to Know with David Linthicum
+132.  0  The Cloud in 2021: Adoption Continues
+133.  0  OSCON Open Source Software Superstream Series: Cloud Strategies and Implementation
+134.  0  IBM Cloud Object Storage System Product Guide
+135.  0  The Value of Open Source in the Cloud Era
+136.  0  Infrastructure & Ops Superstream Series: Cloud Engineering for Operations
+137.  0  IBM Cloud Object Storage Concepts and Architecture System Edition
+138.  0  The Evolution of Cloud Computing: How to plan for change
+139.  0  Cloud Computing
+140.  0  How the Financial Times validates the security and compliance of its cloud-based architecture
+141.  0  Meet the Expert: Lee Atchison on the Cloud Mistakes You Didn't Know You Were About to Make
+142.  0  Enabling IBM Cloud Pak for Multicloud Management to Connect Kubernetes Clusters Using IBM Secure Gateway
+143.  0  Cloud-Based Microservices: Techniques, Challenges, and Solutions
+144.  0  Cloud Computing
+145.  0  Spotlight on Cloud: DevSecOps Lessons Learned with Zane Lackey
+146.  0  How to Use IBM Cloud Object Storage When Building and Operating Cloud Native Applications
+147.  0  Spotlight on Cloud: Becoming Cloud Native with Jon Collins
+148.  0  Enhanced Cyber Resilience Solution by Threat Detection using IBM Cloud Object Storage System and IBM QRadar SIEM
+149.  0  Integration Testing for Hybrid Cloud Applications using Galasa
+150.  0  Payara Micro Revealed: Cloud-Native Application Development with Java
+151.  0  Modernizing the Datacenter with Windows Server and Hybrid Cloud
+152.  0  How Intuit moved millions of customers from private infrastructure to public cloud
+153.  0  IBM DS8000 and Transparent Cloud Tiering (DS8000 Release 9.1)
+154.  0  IBM Cloud Object Storage System Product Guide
+155.  0  Cyber Resilience Solution Across Hybrid Cloud Using IBM Storage Solutions
+156.  0  Hybrid Cloud for Developers
+157.  0  Executive's Guide to Cloud Computing
+158.  0  Assured Cloud Computing
+159.  0  How Cerner is modernizing corporate data platforms with hybrid cloud architecture
+160.  0  Financial Governance for Data Processing in the Cloud
+161.  0  How Ticketmaster transitioned to DevOps hybrid cloud
+162.  0  Spotlight on Cloud: Public Interest Technology with Bruce Schneier
+163.  0  Federal Cloud Computing, 2nd Edition
+164.  0  IBM Z Integration Guide for Hybrid Cloud
+165.  0  Mozilla’s journey from the data center to the cloud
+166.  0  Mobile Cloud Computing
+167.  0  Simplify Management of IT Security and Compliance with IBM PowerSC in Cloud and Virtualized Environments
+168.  0  IBM Cloud Object Storage Concepts and Architecture: System Edition
+169.  0  IBM Cloud Private Application Developer's Guide
+170.  0  IBM TS7760 R4.2 Cloud Storage Tier Guide
+171.  0  IBM Private, Public, and Hybrid Cloud Storage Solutions
+172.  0  First steps into the cloud and continuous delivery
+173.  0  Five Principles for Deploying and Managing Linux in the Cloud
+174.  0  Laying the Groundwork for Cloud
+175.  0  IBM Storage Solutions for IBM Cloud Private Blueprint
+176.  0  Cloud-Native Evolution
+177.  0  Spotlight on Cloud: Reliable Product Launches with David Huska and Stephen Thorne
+178.  0  Suddenly Hybrid
+179.  0  Managing cloud native applications
+180.  0  Google Cloud Certified Professional Cloud Architect Study Guide, 2nd Edition
+181.  0  Deploying a Database Instance in an IBM Cloud Private Cluster on IBM Z
+182.  0  Migrating Java to the Cloud
+183.  0  Optimizing Cloud Migration
+184.  0  Spotlight on Cloud: The Future of Internet Security with Bruce Schneier
+185.  0  Learn from the Experts about Cloud Computing: Terren Peterson
+186.  0  Working in the Cloud: Using Web-Based Applications and Tools to Collaborate Online
+187.  0  Cloud Computing
+188.  0  IBM Solutions for Hybrid Cloud Networking Configuration Version 1 Release1
+189.  0  What Is Polycloud?
+190.  0  Moving Microsoft Workloads to IBM Cloud
+191.  0  Cloud Native Patterns
+192.  0  Open Source Software Superstream: Open Source Essentials for Enterprise
+193.  0  IBM Z Integration Guide for the Hybrid Cloud and API Economy
+194.  0  Cloud Computing
+195.  0  Take Control of the Cloud, 2nd Edition
+196.  0  Hybrid Cloud Data and API Integration: Integrate Your Enterprise and Cloud with Bluemix Integration Services
+197.  0  IBM z/OS DFSMS: Transparent Cloud Tiering
+198.  0  IBM DS8880 and z/OS DFSMS: Transparent Cloud Tiering
+199.  0  Set Up and Manage Your Virtual Private Server: Making System Administration Accessible to Professionals
+200.  0  Cloud Computing with e-Science Applications
+201.  0  Migrating to public cloud: How Viadeo made the leap
+202.  0  Cloud Native Architecture Pattern—Externalized Configuration
+203.  0  10 Steps to a Digital Practice in the Cloud, 2nd Edition
+204.  0  Essentials of Cloud Application Development on IBM Bluemix
+205.  0  Cloud Computing Networking
+206.  0  Multicloud Architecture Migration and Security
+207.  0  Essentials of Cloud Application Development on IBM Bluemix
+208.  0  Data Science on the Google Cloud Platform, 2nd Edition
+209.  0  Working with Legacy Systems
+210.  0  Storage as a Service Offering Guide
+211.  0  Mobile Cloud Computing
+212.  0  CCNA Cloud CLDADM 210-455
+213.  0  Securing Your Cloud: IBM z/VM Security for IBM z Systems and LinuxONE
+214.  0  Oracle CX Cloud Suite
+215.  0  OSCON Open Source Software Superstream Series: Infrastructure
+216.  0  Multi-Prem Software
+217.  0  IBM PowerVC Version 1.3.1 Introduction and Configuration Including IBM Cloud PowerVC Manager
+218.  0  Cloud Management and Security
+219.  0  Implementing Oracle Integration Cloud Service
+220.  0  Reliability Assurance of Big Data in the Cloud
+221.  0  How You Learn Is How You Live
+222.  0  Advances in Mobile Cloud Computing Systems
+223.  0  Google Cloud Certified Associate Cloud Engineer All-in-One Exam Guide
+224.  0  Cloud Enabling IBM CICS
+225.  0  Google Cloud Certified Professional Cloud Architect All-in-One Exam Guide
+226.  0  Data Engineering with Google Cloud Platform
+227.  0  Cloud Surfing
+228.  0  Business Intelligence and the Cloud: Strategic Implementation Guide
+229.  0  The Myth of Private Equity
+230.  0  Getting Started With IBM Enterprise Cloud System
+231.  0  IBM Cloud Manager with OpenStack on z Systems V4.2
+232.  0  Hybrid Electric Vehicles, 2nd Edition
+233.  0  Cloud Computing and Electronic Discovery
+234.  0  Cloud Security: A Comprehensive Guide to Secure Cloud Computing
+235.  0  VMware Private Cloud Computing with vCloud Director
+236.  0  What worked for Netflix may not work for you: Expedia's story
+237.  0  IBM Power Systems Infrastructure I/O for SAP Applications
+238.  0  Machine Learning with Business Rules on IBM Z: Acting on Your Insights
+239.  0  Implementation Guide for IBM Blockchain Platform for Multicloud
+240.  0  Developing and Securing the Cloud
+241.  0  Hybrid and Multicloud Solutions
+242.  0  Hybrid Cloud For Dummies
+243.  0  Finding the ideal team and culture at IBM
+244.  0  Building Hybrid Clouds with Azure Stack
+245.  0  Oracle Cloud User Security: Providing for Separation of Duties and Appropriate Access by Job Function
+246.  0  Cloud Computing and Digital Media
+247.  0  Exam Ref 70-247 Configuring and Deploying a Private Cloud (MCSE)
+248.  0  IBM z14 (3906) Technical Guide
+249.  0  The Service Mesh
+250.  0  Moving To The Cloud
+251.  0  ABCs of IBM z/OS System Programming Volume 2
+252.  0  How Pinterest used trace data to solve performance challenges
+253.  0  IBM Z Connectivity Handbook
+254.  0  IBM z14 Technical Guide
+255.  0  Private Equity Firms
+256.  0  The Hybrid Trap: Why Most Efforts to Bridge Old and New Technology Miss the Mark
+257.  0  Rethinking Enterprise Storage: A Hybrid Cloud Model
+258.  0  IBM FlashSystem A9000 and A9000R Architecture and Implementation (Version 12.3.1)
+259.  0  IBM DS8880 Architecture and Implementation (Release 8.51)
+260.  0  Implementing the IBM System Storage SAN Volume Controller with IBM Spectrum Virtualize V8.1
+261.  0  Federal Cloud Computing
+262.  0  IBM TS4500 R5 Tape Library Guide
+263.  0  IBM z14 Technical Introduction
+264.  0  IBM GDPS Family: An Introduction to Concepts and Capabilities
+265.  0  Cloud Security Handbook
+266.  0  IBM Z Functional Matrix
+267.  0  Managing Security and Compliance in Cloud or Virtualized Data Centers Using IBM PowerSC
+268.  0  Synthesis and Tribological Applications of Hybrid Materials
+269.  0  IBM CICS and the Coupling Facility: Beyond the Basics
+270.  0  IBM Copy Services Manager Implementation Guide
+271.  0  Building Cognitive Applications with IBM Watson Services: Volume 6 Speech to Text and Text to Speech
+272.  0  ABCs of IBM z/OS System Programming Volume 1
+273.  0  A Guide to JES3 to JES2 Migration
+274.  0  Security on IBM z/VSE
+275.  0  Enhancing the IBM Power Systems Platform with IBM Watson Services
+276.  0  IBM Open Platform for DBaaS on IBM Power Systems
+277.  0  DS8000 Copy Services
+278.  0  A Polygeneration Process Concept for Hybrid Solar and Biomass Power Plant
+279.  0  IBM TS4500 R4 Tape Library Guide
+280.  0  IBM TS7700 Release 4.1 and 4.1.2 Guide
+281.  0  IBM Hyper-Scale Manager for IBM Spectrum Accelerate Family: IBM XIV, IBM FlashSystem A9000 and A9000R, and IBM Spectrum Accelerate
+282.  0  Hybrid Cloud Integration and Monitoring with IBM WebSphere Cast Iron
+283.  0  IBM zPDT 2017 Sysplex Extensions
+284.  0  IBM PowerAI: Deep Learning Unleashed on IBM Power Systems Servers
+285.  0  IBM Z Connectivity Handbook
+286.  0  Implementing IBM FlashSystem V9000 AE3
+287.  0  IBM Spectrum Scale (formerly GPFS)
+288.  0  ABCs of IBM z/OS System Programming Volume 3
+289.  0  IBM z14 Configuration Setup
+290.  0  IBM FlashSystem A9000 and IBM FlashSystem A9000R Architecture and Implementation
+291.  0  IBM zPDT Guide and Reference
+292.  0  The Definitive Guide to Modernizing Applications on Google Cloud
+293.  0  IBM Spectrum Archive Enterprise Edition V1.2.5.1 Installation and Configuration Guide
+294.  0  The Definitive Guide to Conversational AI with Dialogflow and Google Cloud: Build Advanced Enterprise Chatbots, Voice, and Telephony Agents on Google Cloud
+295.  0  IBM z14 Technical Introduction
+296.  0  POWER8 High-performance Computing Guide IBM Power System S822LC (8335-GTB) Edition
+297.  0  IBM DS8880 Architecture and Implementation (Release 8.3)
+298.  0  IBM PowerHA SystemMirror V7.2.1 for IBM AIX Updates
+299.  0  Building Cognitive Applications with IBM Watson Services: Volume 1 Getting Started
+300.  0  Oracle Mobile Cloud Service Developer's Guide

@@ -1,0 +1,402 @@
+INPUT: data structure javascript
+TOTAL BOOKS: 400
+1.  268  Designing Data-Intensive Applications
+2.  124  JavaScript: The Good Parts
+3.  94  JavaScript: The Good Parts Master Class with Douglas Crockford
+4.  75  Learning JavaScript Design Patterns
+5.  66  JavaScript: The Definitive Guide, 6th Edition
+6.  48  Modern JavaScript From The Beginning
+7.  47  Javascript Fundamentals I and II LiveLessons
+8.  46  Head First JavaScript Programming
+9.  44  You Don't Know JS: Scope & Closures
+10.  42  JavaScript Patterns
+11.  38  You Don't Know JS: Up & Going
+12.  35  JavaScript: The Definitive Guide, 7th Edition
+13.  34  The Principles of Object-Oriented JavaScript
+14.  32  The Complete Node.js Developer Course (3rd Edition)
+15.  30  Strata Conference Santa Clara 2013: Complete Video Compilation
+16.  27  You Don't Know JS: this & Object Prototypes
+17.  25  Fluent Conference 2012: JavaScript & Beyond Video Compilation
+18.  23  Developing Backbone.js Applications
+19.  23  Strata Conference Santa Clara 2012: Video Compilation
+20.  20  Learn JavaScript
+21.  19  Speaking JavaScript
+22.  19  Secrets of the JavaScript Ninja
+23.  19  Node.js Design Patterns - Second Edition
+24.  18  Vue - The Complete Guide (Including Vue Router, Vuex, and Composition API)
+25.  17  JavaScript Web Applications
+26.  17  Modern JavaScript for the Impatient
+27.  17  Beginning Programming with JavaScript
+28.  17  Data Structures and Algorithms with JavaScript
+29.  16  Node.js, MongoDB, and AngularJS Web Development
+30.  16  Express in Action
+31.  15  Secrets of the JavaScript Ninja, Second Edition
+32.  15  Sams Teach Yourself JavaScript and Ajax Video Learning
+33.  15  Learning Node.js, 2/e
+34.  14  High Performance JavaScript
+35.  14  Object-Oriented JavaScript
+36.  14  Building Node Applications with MongoDB and Backbone
+37.  13  Professional: JavaScript® for Web Developers, Third Edition
+38.  12  RxJS Essentials
+39.  12  JavaScript: The Definitive Guide, 5th Edition
+40.  12  JavaScript & jQuery: The Missing Manual, 2nd Edition
+41.  12  MEAN Web Development
+42.  11  Eloquent JavaScript
+43.  11  Understanding ECMAScript 6
+44.  11  Node.js Design Patterns - Third Edition
+45.  11  Data Science Fundamentals Part 1: Learning Basic Concepts, Data Wrangling, and Databases with Python
+46.  11  Strata Conference 2011: Video Compilation
+47.  11  Beginning Node.js
+48.  11  Learning Node.js Development
+49.  11  Learning PHP, MySQL, JavaScript, CSS & HTML5, 3rd Edition
+50.  10  Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
+51.  10  Maintainable JavaScript
+52.  10  JavaScript: The Missing Manual
+53.  10  Strata Conference New York + Hadoop World 2013: Complete Video Compilation
+54.  10  Web Development with Node and Express, 2nd Edition
+55.  9  Learning JavaScript Data Structures and Algorithms
+56.  9  Learning JavaScript, 2nd Edition
+57.  9  Rediscovering JavaScript
+58.  9  Mastering Clean Code in JavaScript
+59.  9  Single Page Web Applications
+60.  9  Strata Data Conference 2017 - London, United Kingdom
+61.  9  Learn Vue.js Essentials
+62.  9  Vue.js: Up and Running
+63.  9  Node.js 8 the Right Way
+64.  8  Modern JavaScript for the Impatient
+65.  8  You Don't Know JS: ES6 & Beyond
+66.  8  JavaScript Essentials LiveLessons (Video Training)
+67.  8  Eloquent JavaScript, 2nd Edition
+68.  8  JavaScript Cookbook
+69.  8  JavaScript Pocket Reference, 3rd Edition
+70.  8  JavaScript Application Cookbook
+71.  8  Get Programming with Node.js
+72.  7  Eloquent JavaScript, 3rd Edition
+73.  7  Learning JavaScript, 3rd Edition
+74.  7  JavaScript with Promises
+75.  7  Test-Driven JavaScript Development
+76.  7  Expert JavaScript
+77.  7  Strata Data Conference - San Jose 2018
+78.  7  Strata Conference New York + Hadoop World 2014: Video Compilation
+79.  7  Strata + Hadoop World 2017 - San Jose, California
+80.  7  Strata Conference Santa Clara 2014: Complete Video Compilation
+81.  7  Node.js - The Complete Guide
+82.  7  Vue.js 2 Academy: Learn Vue Step by Step
+83.  7  Jump Start Vue.js
+84.  7  Knockout.js
+85.  6  JavaScript Data Structures and Algorithms: An Introduction to Understanding and Implementing Core Data Structure and Algorithm Fundamentals
+86.  6  JavaScript Cookbook, 3rd Edition
+87.  6  Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript
+88.  6  Modern JavaScript: Develop and Design
+89.  6  Testable JavaScript
+90.  6  Pro JavaScript™ Techniques
+91.  6  Vue.js 2 Web Development Projects
+92.  6  Learning Vue.js 2
+93.  6  Learning JavaScript Data Structures and Algorithms - Third Edition
+94.  6  Strata + Hadoop World 2016 - San Jose, California: Video Compilation
+95.  6  Front-End Development Projects with Vue.js
+96.  6  Where Conference 2012: The Business of Location: Complete Video Compilation
+97.  6  Node.js in Action, Second Edition
+98.  5  The Modern JavaScript Bootcamp (2019)
+99.  5  Beginning JavaScript: The Ultimate Guide to Modern JavaScript Development
+100.  5  Simplifying JavaScript
+101.  5  Mastering Modular JavaScript
+102.  5  Practical Modern JavaScript
+103.  5  Beginning JavaScript, 5th Edition
+104.  5  Storytelling with Data
+105.  5  Supercharged JavaScript Graphics
+106.  5  The JavaScript PocketGuide
+107.  5  Node.js, Express and MongoDB Dev to Deployment
+108.  5  Strata Rx Conference Boston 2013: Complete Video Compilation
+109.  5  Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)
+110.  5  Distributed Systems with Node.js
+111.  5  You Don't Know JS: Async & Performance
+112.  5  Vue.js 2 Design Patterns and Best Practices
+113.  5  You Don't Know JS: Types & Grammar
+114.  5  Ember.js in Action
+115.  4  JavaScript: Novice to Ninja, 2nd Edition
+116.  4  Expert JavaScript
+117.  4  Professional JavaScript for Web Developers, 4th Edition
+118.  4  JavaScript Everywhere
+119.  4  JavaScript by Example
+120.  4  RxJS in Action
+121.  4  Test-Driving JavaScript Applications
+122.  4  Reactive Programming with RxJS 5
+123.  4  Sams Teach Yourself JavaScript™ in 24 Hours, Fifth Edition
+124.  4  JavaScript by Example
+125.  4  Strata Data Conference 2017 - New York, New York
+126.  4  Strata Data Conference - New York, NY 2018
+127.  4  JavaScript & DHTML Cookbook, 2nd Edition
+128.  4  Node.js, MongoDB and Angular Web Development, 2nd Edition
+129.  4  Getting to Know Vue.js: Learn to Build Single Page Applications in Vue from Scratch
+130.  4  Strata + Hadoop World 2016 - Singapore
+131.  4  Building Open Source Programming Skills at OSCON 2012
+132.  4  Mongoose for Application Development
+133.  4  D3.js in Action
+134.  4  Learning PHP, MySQL & JavaScript, 5th Edition
+135.  4  Building Forms with Vue.js
+136.  4  Beginning Vue.js
+137.  4  Vue on Rails: End-to-End Guide to Building Web Apps Using Vue.js and Rails
+138.  4  Pro Node.js for Developers
+139.  3  20 Web Projects with Vanilla JavaScript
+140.  3  The Joy of JavaScript
+141.  3  Learning Behavior-driven Development with JavaScript
+142.  3  JavaScript Absolute Beginner’s Guide
+143.  3  Object-Oriented JavaScript - Third Edition
+144.  3  Mastering JavaScript Promises
+145.  3  Mastering Reactive JavaScript
+146.  3  Pro JavaScript Development: Coding, Capabilities, and Tooling
+147.  3  JavaScript and HTML5 at OSCON 2013
+148.  3  JavaScript Programming: Pushing the Limits
+149.  3  Object-Oriented JavaScript - Second Edition
+150.  3  JavaScript for Absolute Beginners
+151.  3  Jump Start JavaScript
+152.  3  Building Polyfills
+153.  3  Pro JavaScript™ Design Patterns
+154.  3  Professional, JavaScript® for Web Developers, Second Edition
+155.  3  Strata Data Conference 2019 - San Francisco, California
+156.  3  Data Visualization with Python and JavaScript
+157.  3  Strata + Hadoop World New York 2015: Video Compilation
+158.  3  Strata Conference New York + Hadoop World 2012: Complete Video Compilation
+159.  3  Practical D3.js
+160.  3  Vue.js 3 Cookbook
+161.  3  Pro Vue.js 2
+162.  3  Full-Stack Vue.js 2 and Laravel 5
+163.  3  Vue.js in Action
+164.  3  Mastering Node.js - Second Edition
+165.  3  Mastering Node.js 12.x
+166.  3  Node.js in Motion
+167.  3  Practical Node.js: Building Real-World Scalable Web Apps
+168.  3  Beginning API Development with Node.js
+169.  3  Real-Time 3D Graphics with WebGL 2 - Second Edition
+170.  2  The Complete Javascript Course: Build a Professional Project
+171.  2  JavaScript from Beginner to Professional
+172.  2  JavaScript Next: Your Complete Guide to the New Features Introduced in JavaScript, Starting from ES6 to ES9
+173.  2  Gatsby: The Definitive Guide
+174.  2  The JavaScript Workshop
+175.  2  Advanced JavaScript
+176.  2  Refactoring JavaScript
+177.  2  JavaScript Absolute Beginner's Guide, 2nd Edition
+178.  2  Practical Oracle JET: Developing Enterprise Applications in JavaScript
+179.  2  JavaScript: Best Practice
+180.  2  JavaScript for .NET Developers
+181.  2  Beautiful JavaScript
+182.  2  Mastering JavaScript Design Patterns
+183.  2  JavaScript Security
+184.  2  JavaScript Application Design: A Build First Approach
+185.  2  Learn ECMAScript - Second Edition
+186.  2  O'Reilly Strata Data Conference 2019 - New York, New York
+187.  2  Make: JavaScript Robotics
+188.  2  JavaScript Programmer's Reference
+189.  2  Opa: Up and Running
+190.  2  Managing Data Orchestration and Integration at Scale
+191.  2  Simply JavaScript
+192.  2  JavaScript: The Definitive Guide, Fourth Edition
+193.  2  JavaScript™ Phrasebook: Essential Code and Commands
+194.  2  Strata Data Conference 2017 - Singapore
+195.  2  How to Process Time Series Data with JavaScript
+196.  2  JavaScript Pocket Reference
+197.  2  Learning PHP, MySQL & JavaScript, 6th Edition
+198.  2  Hands-On Data Structures and Algorithms with JavaScript
+199.  2  O'Reilly Design Conference 2016 - San Francisco, California: Video Compilation
+200.  2  Node.js Web Development
+201.  2  Strata + Hadoop World Conference in Barcelona 2014: Complete Video Compilation
+202.  2  Visual Storytelling with D3: An Introduction to Data Visualization in JavaScript™
+203.  2  Full-Stack Web Development with Jakarta EE and Vue.js: Your One-Stop Guide to Building Modern Full-Stack Applications with Jakarta EE and Vue.js
+204.  2  9 Practical Node.js Projects
+205.  2  Hands-on JavaScript for Python Developers
+206.  2  Building Web Applications with Firebase
+207.  2  Node.js API Masterclass with Express and MongoDB
+208.  2  Ext JS Application Development Blueprints
+209.  2  D3.js: Complete Developer Data Visualization Guide
+210.  2  Learning TensorFlow.js
+211.  2  Building Progressive Web Applications with Vue.js : Reliable, Fast, and Engaging Apps with Vue.js
+212.  2  Advanced Data Management
+213.  2  Vue.js: Understanding its Tools and Ecosystem
+214.  2  Node Cookbook
+215.  2  Node.js Web Development - Fourth Edition
+216.  2  Professional Node.js: Building Javascript Based Scalable Software
+217.  2  Fundamentals of Data Engineering
+218.  2  Practical Ext JS 4
+219.  2  Node.js 6.x Blueprints
+220.  2  Learning Vue.js 2.0
+221.  2  Ext JS in Action, Second Edition
+222.  2  hapi.js in Action
+223.  2  Learning Single-page Web Application Development
+224.  1  Learn DOM Manipulation with Easy Modern JavaScript
+225.  1  Get Programming with JavaScript Next
+226.  1  JavaScript Frameworks for Modern Web Development: The Essential Frameworks, Libraries, and Tools to Learn Right Now
+227.  1  JavaScript : Moving to ES2015
+228.  1  Mastering JavaScript
+229.  1  JavaScript Frameworks for Modern Web Dev
+230.  1  Scriptin’ with JavaScript and Ajax: A Designer’s Guide
+231.  1  Hands-On JavaScript High Performance
+232.  1  JavaScript: A Beginner's Guide, Fifth Edition, 5th Edition
+233.  1  Introducing Deno: A First Look at the Newest JavaScript Runtime
+234.  1  Learn JavaScript with p5.js: Coding for Visual Learners
+235.  1  Professional JavaScript
+236.  1  Get Programming with JavaScript
+237.  1  Modern JavaScript Web Development Cookbook
+238.  1  Learning to Program
+239.  1  Jumpstart Jamstack Development
+240.  1  Mastering Immutable.js
+241.  1  JavaScript Cookbook, 2nd Edition
+242.  1  Modern JavaScript
+243.  1  The Definitive Guide to AdonisJs: Building Node.js Applications with JavaScript
+244.  1  Modern JavaScript
+245.  1  JavaScript Step by Step
+246.  1  JavaScript for Sound Artists
+247.  1  Microsoft® Start Here!™ Learn JavaScript
+248.  1  JavaScript for Web Designers
+249.  1  Modular Programming with JavaScript
+250.  1  JS.Next: A Manager's Guide, 2nd Edition
+251.  1  JavaScript Essentials
+252.  1  JavaScript in 24 Hours, Sams Teach Yourself, Sixth Edition
+253.  1  Beginning JavaScript®, Fourth Edition
+254.  1  Beginning JavaScript Charts: With jqPlot, d3, and Highcharts
+255.  1  JavaScript: Novice to Ninja
+256.  1  Third-Party JavaScript
+257.  1  Introduction to JavaScript: More than a Pretty Face
+258.  1  The Craft of JavaScript
+259.  1  The Business of JavaScript
+260.  1  Training Data for Machine Learning
+261.  1  The Past, Present, and Future of JavaScript
+262.  1  Advanced Javascript, 3rd Edition
+263.  1  Pro JavaScript with MooTools: Learning Advanced JavaScript Programming
+264.  1  Enyo: Up and Running, 2nd Edition
+265.  1  ppk on JavaScript
+266.  1  JavaScript® Bible, Sixth Edition
+267.  1  JavaScript Step by Step
+268.  1  Hands-on Nuxt.js Web Development
+269.  1  Big Data Fundamentals: Concepts, Drivers & Techniques
+270.  1  The Book of JavaScript, 2nd Edition
+271.  1  Data Wrangling with JavaScript
+272.  1  Strata + Hadoop World London 2015: Video Compilation
+273.  1  Mastering JavaScript Single Page Application Development
+274.  1  Vue.js 2 Cookbook
+275.  1  iOS 15 SwiftUI 3 Loan Tracker MVVM, CoreData, and Cloud Kit
+276.  1  Data Visualization Toolkit: Using JavaScript, Rails™, and Postgres to Present Data and Geospatial Information
+277.  1  Data Visualization with JavaScript
+278.  1  Strata + Hadoop World San Jose 2015: Video Compilation
+279.  1  Learning ClojureScript
+280.  1  Strata + Hadoop World Singapore 2015: : Video Compilation
+281.  1  Cultivate Conference NY 2015: Complete Video Compilation
+282.  1  Cleaning Data for Effective Data Science
+283.  1  Learning JavaScript Data Structures and Algorithms - Second Edition
+284.  1  MEAN Blueprints
+285.  1  Pro D3.js: Use D3.js to Create Maintainable, Modular, and Testable Charts
+286.  1  Strata Conference New York 2011: Video Compilation
+287.  1  Strata Rx Conference San Francisco 2012: Complete Video Compilation
+288.  1  Hands-On Big Data Modeling
+289.  1  Vue.js 2.x by Example
+290.  1  Server Side development with Node.js and Koa.js Quick Start Guide
+291.  1  Advanced Node.js Development
+292.  1  Swift Data Structure and Algorithms
+293.  1  Testing Vue.js Applications
+294.  1  Understanding Oracle APEX 20 Application Development: Think Like an Application Express Developer
+295.  1  Learning Node.js for .NET Developers
+296.  1  Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB, Second Edition
+297.  1  Node Cookbook - Third Edition
+298.  1  Learning Three.js – the JavaScript 3D Library for WebGL - Second Edition
+299.  1  Building APIs with Node.js
+300.  1  The CLI Book: Writing Successful Command Line Interfaces with Node.js
+301.  1  Learn Pixi.js: Create Great Interactive Graphics for Games and the Web
+302.  0  Learn JavaScript from Scratch: JavaScript for Everyone
+303.  0  Web Development with ReasonML
+304.  0  JavaScript and Open Data
+305.  0  ECMAScript Cookbook
+306.  0  Source Code Analytics With Roslyn and JavaScript Data Visualization
+307.  0  JavaScript: The Hidden Parts
+308.  0  Multithreaded JavaScript
+309.  0  Learn Enough JavaScript to be Dangerous: A Tutorial Introduction to Programming with JavaScript
+310.  0  Begin to Code with JavaScript
+311.  0  DOM Scripting: Web Design with JavaScript and the Document Object Model
+312.  0  JavaScript Design
+313.  0  Essential Cryptography for JavaScript Developers
+314.  0  JavaScript
+315.  0  Sams Teach Yourself JavaScript in 24 Hours, Seventh Edition
+316.  0  6 JavaScript Projects
+317.  0  The JavaScript Abstractions Video Collection
+318.  0  Modern JavaScript Tools & Skills
+319.  0  Beginning Object-Oriented Programming with JavaScript
+320.  0  Svelte 3 Up and Running
+321.  0  Coding with JavaScript For Dummies
+322.  0  Building Isomorphic JavaScript Apps
+323.  0  Data Structure and Software Engineering
+324.  0  Pro JavaScript Techniques, Second Edition
+325.  0  Pro Ember Data: Getting Ember Data to Work with Your API
+326.  0  JavaScript Recipes: A Problem-Solution Approach
+327.  0  Beginning JavaScript with DOM Scripting and Ajax, Second Edition
+328.  0  Reliable JavaScript: How to Code Safely in the World's Most Dangerous Language
+329.  0  JavaScript Creativity
+330.  0  Async JavaScript
+331.  0  Data Visualization with Python and JavaScript, 2nd Edition
+332.  0  Visual QuickStart Guide: JavaScript, Ninth Edition
+333.  0  JavaScript: A Beginner's Guide, Fourth Edition, 4th Edition
+334.  0  Learning ECMAScript 2017
+335.  0  JavaScript® Bible, Seventh Edition
+336.  0  Writing Extensible JavaScript Without Getting Too Enterprisey
+337.  0  Pro JavaScript for Web Apps
+338.  0  JavaScript and Ajax for the Web: Visual QuickStart Guide, Seventh Edition
+339.  0  JavaScript™ for Programmers: Deitel
+340.  0  Strata Data Superstream Series: Creating Data-Intensive Applications
+341.  0  The JavaScript Programming Language
+342.  0  Learning JavaScript
+343.  0  The Art & Science of JavaScript
+344.  0  Strata Data Conference 2019 - London, United Kingdom
+345.  0  Pure JavaScript
+346.  0  Web 2.0 Fundamentals: With AJAX, Development Tools, and Mobile Platforms
+347.  0  JavaScript and Ajax for the Web, Sixth Edition: Visual QuickStart Guide
+348.  0  Sams Teach Yourself JavaScript in 24 Hours
+349.  0  Adobe GoLive CS2 Official JavaScript Reference
+350.  0  Data Structures in JavaScript - Master the Fundamentals
+351.  0  Adobe® Bridge® Official JavaScript Reference
+352.  0  Add Interactivity to Your Site: The Mini Missing Manual
+353.  0  Hands-On Microsoft Lists
+354.  0  JavaScript Pocket Reference, 2nd Edition
+355.  0  Pure JavaScript, Second Edition
+356.  0  Inside JavaScript
+357.  0  JavaScript & DHTML Cookbook
+358.  0  Ajax Bible
+359.  0  Mastering Ext JS - Second Edition
+360.  0  Essential JavaScript™ for Web Professionals, Second Edition
+361.  0  Javascript for the World Wide Web: Visual Quickstart Guide, Fifth Edition
+362.  0  Advanced JavaScript™: Insights and Innovative Techniques
+363.  0  Creating Good Data: A Guide to Dataset Structure and Data Representation
+364.  0  Strata + Hadoop World 2016 - London, United Kingdom: Video Compilation
+365.  0  Node.js for .NET Developers
+366.  0  Too Big to Ignore
+367.  0  JavaScript Essentials for SAP ABAP Developers: A Guide to Mobile and Desktop Application Development
+368.  0  Your First Week With Node.js, 2nd Edition
+369.  0  Transliteracy in Complex Information Environments
+370.  0  Deliver Audacious Web Apps with Ember 2
+371.  0  Unleashing Twitter Data for Fun and Insight
+372.  0  Jump Start Vue.js, 2nd Edition
+373.  0  Information Services and Digital Literacy
+374.  0  Vue.js 3 By Example
+375.  0  Vue.js: 11 Practical Projects
+376.  0  D3.js in Action Video Edition
+377.  0  Information Literacy Landscapes
+378.  0  How to Build Microservices with Node.js
+379.  0  A Quick Introduction to JavaScript JSON
+380.  0  Scholarly Communication in Library and Information Services
+381.  0  3D Graphics Rendering Cookbook
+382.  0  MERN Projects for Beginners: Create Five Social Web Apps Using MongoDB, Express.js, React, and Node
+383.  0  Data Science Fundamentals for Python and MongoDB
+384.  0  Intelligent Production Machines and Systems - First I*PROMS Virtual Conference
+385.  0  Building Scalable Apps with Redis and Node.js
+386.  0  Node.js: Tools & Skills, 2nd Edition
+387.  0  Scala for Data Science
+388.  0  Pro Data Visualization Using R and JavaScript: Analyze and Visualize Key Data on the Web
+389.  0  Integrating D3.js with React: Learn to Bring Data Visualization to Life
+390.  0  Working with Vue.js
+391.  0  Real-Time Twilio and Flybase: Build Real-Time Web Apps Using Twilio and Flybase with Node.js
+392.  0  Learning Ext JS - Fourth Edition
+393.  0  Vue.js: Tools & Skills
+394.  0  Node.js: Related Tools & Skills
+395.  0  Build Applications with Meteor
+396.  0  Ember.js Cookbook
+397.  0  Hands-On Data Visualization
+398.  0  Practical Projects with Vue JS 2
+399.  0  Troubleshooting Vue.js
+400.  0  Web Application Development with MEAN

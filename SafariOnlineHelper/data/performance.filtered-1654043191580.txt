@@ -1,0 +1,402 @@
+INPUT: performance
+TOTAL BOOKS: 400
+1.  24  High Performance Web Sites
+2.  21  High Performance Spark
+3.  12  High Performance Browser Networking
+4.  11  BPF Performance Tools
+5.  10  Designing for Performance
+6.  10  Even Faster Web Sites
+7.  9  Web Design in a Nutshell
+8.  7  Code review skills for emotionally intelligent developers
+9.  7  Java Performance, 2nd Edition
+10.  7  High Performance Python, 2nd Edition
+11.  7  Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications
+12.  6  The Manager’s Phrase Book
+13.  6  Pro PHP Application Performance Tuning PHP Web Projects for Maximum Performance
+14.  6  C++ High Performance - Second Edition
+15.  6  Learn JMeter from Scratch on Live Applications - Performance Testing
+16.  5  Codermetrics
+17.  5  Neuro Web Design: What Makes Them Click?
+18.  5  Developing with Web Standards
+19.  5  Pro .NET Memory Management: For Better Code, Performance, and Scalability
+20.  5  C++ High Performance
+21.  5  You Don't Know JS: Async & Performance
+22.  4  Integrated Measurement- KPIs and Metrics
+23.  4  Systems Performance, 2nd Edition
+24.  4  Practical Load Balancing: Ride the Performance Tiger
+25.  4  Using Linux Performance Tools
+26.  4  Art of Scalability, The: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise, 2nd Edition
+27.  3  Hacking Web Performance
+28.  3  Intelligent Caching
+29.  3  Performance Appraisals & Phrases For Dummies®
+30.  3  2600 Phrases for Effective Performance Reviews
+31.  3  From Idea to Web Start-up in 21 Days: Creating bacn.com
+32.  3  Key Performance Indicators (KPI)
+33.  3  Webmaster in a Nutshell, Second Edition
+34.  3  Key Management Development Models
+35.  3  Hands-On High Performance with Go
+36.  3  Linux Performance Optimization: Red Hat EX442
+37.  3  Hands-On High Performance Programming with Qt 5
+38.  2  Jump Start Web Performance
+39.  2  Web Performance in Action: Building Fast Web Pages
+40.  2  Introduction to Web Performance Optimization (WPO)
+41.  2  Understanding Compression
+42.  2  The Truth About Employee Engagement
+43.  2  Mobile Performance Is User Experience
+44.  2  The Performance Appraisal Tool Kit
+45.  2  Difficult Conversations (HBR 20-Minute Manager Series)
+46.  2  How to Be Good at Performance Appraisals
+47.  2  The Browser Hacker's Guide to Instantly Loading Everything
+48.  2  Professional Website Performance: Optimizing the Front-End and Back-End
+49.  2  Web Performance Daybook Volume 2
+50.  2  Architecting High Performing, Scalable and Available Enterprise Web Applications
+51.  2  Project Retrospectives: A Handbook for Team Reviews
+52.  2  Squid Proxy Server 3.1 Beginner's Guide
+53.  2  Lean Websites
+54.  2  Make Getting Feedback Less Stressful
+55.  2  Performance Appraisal: Expert Solutions to Everyday Challenges
+56.  2  The Pocket Idiot's Guide to Performance Appraisal Phrases
+57.  2  Measure Employee Productivity Accurately
+58.  2  Perfect Phrases for Office Professionals: Hundreds of ready-to-use phrases for getting respect, recognition, and results in today’s workplace
+59.  2  Web Design For Dummies® 3rd Edition
+60.  2  Workscripts: Perfect Phrases for High-Stakes Conversations
+61.  2  Metrics 101: What to Measure on Your Website
+62.  2  Web Video: Making It Great, Getting It Noticed
+63.  2  MORE JOEL ON SOFTWARE: Further Thoughts on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity
+64.  2  Web Design in a Nutshell, 3rd Edition
+65.  2  Fundamentals of Performance Improvement: A Guide to Improving People, Process, and Performance, 3rd Edition
+66.  2  Objectives and Key Results
+67.  2  Key Performance Indicators: Developing, Implementing, and Using Winning KPIs
+68.  2  Optimizing Linux® Performance: A Hands-On Guide to Linux® Performance Tools
+69.  2  Efficient MySQL Performance
+70.  2  MongoDB Performance Tuning: Optimizing MongoDB Databases and their Applications
+71.  2  PostgreSQL Configuration: Best Practices for Performance and Security
+72.  2  PostgreSQL 10 High Performance
+73.  2  Rust High Performance
+74.  2  Oracle Database 12c Release 2 Performance Tuning Tips & Techniques
+75.  2  High-Performance Computing with Python 3.x
+76.  1  Modern Web Performance Optimization: Methods, Tools, and Patterns to Speed Up Digital Platforms
+77.  1  Web performance basics
+78.  1  Web Performance Optimization Basics
+79.  1  Performance Tools
+80.  1  Back-end Performance
+81.  1  Web Performance as a Competitive Advantage
+82.  1  Practical Performance Improvement
+83.  1  101 Sample Write-Ups for Documenting Employee Performance Problems, 3rd Edition
+84.  1  Performance Basics, 2nd Edition
+85.  1  Performance Reviews (HBR 20-Minute Manager Series)
+86.  1  HBR Guide to Data Analytics Basics for Managers (HBR Guide Series)
+87.  1  Getting Started with Varnish Cache
+88.  1  Perfect Phrases for Performance Reviews 2/E, 2nd Edition
+89.  1  Going Offline
+90.  1  Fearless Performance Reviews: Coaching Conversations that Turn Every Employee into a Star Player
+91.  1  Achieve with Accountability
+92.  1  Innovative Performance Support: Strategies and Practices for Learning in the Workflow
+93.  1  Employee Engagement: A Roadmap for Creating Profits, Optimizing Performance, and Increasing Loyalty
+94.  1  Competency-Based Performance Reviews
+95.  1  Make Employees Responsible for Outcomes
+96.  1  101 Tough Conversations to Have with Employees: A Manager’s Guide to Addressing Performance, Conduct, and Discipline Challenges
+97.  1  Getting Started with PhantomJS
+98.  1  Exposed
+99.  1  Perfect Phrases for Motivating and Rewarding Employees, Second Edition, 2nd Edition
+100.  1  Perfect Phrases for Performance Reviews
+101.  1  The Truth About Creating Effective Feedback Loops with Your Employees
+102.  1  Perfect Phrases for Communicating Change
+103.  1  Perfect Phrases for Employee Development Plans
+104.  1  JavaScript® and AJAX for Dummies®
+105.  1  Whale Done Parenting
+106.  1  Creating Web Pages Simplified
+107.  1  QuarkXPress 8: Essential Skills for Page Layout and Web Design
+108.  1  Key Performance Indicators: Developing, Implementing, and Using Winning KPIs, 3rd Edition
+109.  1  Squid: The Definitive Guide
+110.  1  More Quick Team-Building Activities for Busy Managers: 50 New Exercises That Get Results in Just 15 Minutes
+111.  1  25 Need-To-Know Key Performance Indicators
+112.  1  Web Caching
+113.  1  Web Caching and Replication
+114.  1  Maintaining and Evolving Successful Commercial Web Sites
+115.  1  Measuring and Managing Performance in Organizations
+116.  1  Accountability: The Key to Driving a High-Performance Culture
+117.  1  Community Building On the Web
+118.  1  Key Business Analytics
+119.  1  Key Management Deployment Guide: Using the IBM Enterprise Key Management Foundation
+120.  1  Economic Indicators That Matter to Investors
+121.  1  The Secrets of Economic Indicators: Hidden Clues to Future Economic Trends and Investment Opportunities, Second Edition
+122.  1  The Trader's Guide to Key Economic Indicators: Updated and Expanded Edition
+123.  1  SQL Server 2017 Query Performance Tuning: Troubleshoot and Optimize Query Performance
+124.  1  Agile Performance Improvement: The New Synergy of Agile and Human Performance Technology
+125.  1  Parallel and High Performance Computing
+126.  1  Pro SQL Server Relational Database Design and Implementation: Best Practices for Scalability and Performance
+127.  1  MySQL 8 Query Performance Tuning: A Systematic Method for Improving Execution Speeds
+128.  1  Hands-On JavaScript High Performance
+129.  1  Hands-On High Performance with Spring 5
+130.  1  Building and Managing High-Performance Distributed Teams: Navigating the Future of Work
+131.  1  Image Performance
+132.  1  Software Performance and Scalability: A Quantitative Approach
+133.  1  High Performance SQL Server: Consistent Response for Mission-Critical Applications
+134.  1  Quick Start Guide to Dart Programming: Create High-Performance Applications for the Web and Mobile
+135.  1  Java EE 8 High Performance
+136.  0  Coaching for Performance, 5th Edition
+137.  0  Performance Management For Dummies
+138.  0  Front-end Performance
+139.  0  Unfear: Transform Your Organization to Create Breakthrough Performance and Employee Well-Being
+140.  0  How to Be Good at Performance Appraisals
+141.  0  Building Performance Analysis
+142.  0  HBR Guide to Performance Management (HBR Guide Series)
+143.  0  Power and Performance
+144.  0  Performance Reviews and Coaching: The Performance Management Collection (5 Books)
+145.  0  How Performance Management Is Killing Performance—and What to Do About It
+146.  0  8 Steps to High Performance
+147.  0  HBR Guides to Performance Management Collection (4 Books) (HBR Guide Series)
+148.  0  Web performance is user experience
+149.  0  Understanding Web Performance
+150.  0  Full Stack Web Performance
+151.  0  Performance Is Everything
+152.  0  High Performance Images
+153.  0  Measurement tools for high performance
+154.  0  tl;dr: Web Performance
+155.  0  Helping Employees Improve Performance
+156.  0  Facebook's data-driven approach to web performance
+157.  0  Web Performance and the Customer Experience
+158.  0  Perceived Performance: The Only Kind that Really Matters
+159.  0  Accelerating Performance
+160.  0  The Missing Piece in Performance Development
+161.  0  What Is Web Performance?
+162.  0  Performance Leadership™
+163.  0  Web Design Playground
+164.  0  How Vox optimized their web performance from the ground up
+165.  0  10 Essentials for High Performance Quality in the 21st Century
+166.  0  Successful Supervision and Leadership
+167.  0  The HBR Essential 20-Minute Manager Collection (5 Books) (HBR 20-Minute Manager Series)
+168.  0  Bridging Organization Design and Performance: Five Ways to Activate a Global Operation Model
+169.  0  HBR Guide to Motivating People (HBR Guide Series)
+170.  0  The Crowdsourced Performance Review: How to Use the Power of Social Recognition to Transform Employee Performance
+171.  0  Becoming the Supervisor
+172.  0  Web Performance Warrior
+173.  0  Analyzing Websites to See if They Will Benefit from HTTP/2
+174.  0  Measurement Madness: Recognizing and Avoiding the Pitfalls of Performance Measurement
+175.  0  Performance Management Systems and Strategies
+176.  0  Powerful Performance Management
+177.  0  Feedback in Performance Reviews
+178.  0  The Quick and Easy Performance Appraisal Phrase Book
+179.  0  Harvard Business Review 20-Minute Manager Ultimate Boxed Set (16 Books)
+180.  0  Business Express: Managing performance and appraisals
+181.  0  Organizations for People
+182.  0  Performance Evaluation: Proven Approaches for Improving Program and Organizational Performance
+183.  0  Pro JavaScript Performance: Monitoring and Visualization
+184.  0  Perfect Phrases for Coaching Employee Performance: Hundreds of Ready-to-Use Phrases for Building Employee Engagement and Creating Star Performers
+185.  0  Getting Started with Web Performance and Optimization
+186.  0  HBR Guides to Being an Effective Manager Collection (5 Books) (HBR Guide Series)
+187.  0  Ultimate Performance Management: Training to Transform Performance Reviews into Performance Partnerships
+188.  0  AMP: Building Accelerated Mobile Pages
+189.  0  Beyond the Bubble Test: How Performance Assessments Support 21st Century Learning
+190.  0  Conversion rate optimization
+191.  0  A Practical Approach to Performance Interventions and Analysis: 50 Models for Building a High-Performance Culture
+192.  0  Powerful Conversations: How High Impact Leaders Communicate
+193.  0  Speed as competitive advantage
+194.  0  A New Playbook for Diversified Companies
+195.  0  Painless Performance Conversations: A Practical Approach to Critical Day-to-Day Workplace Discussions
+196.  0  Time Is Money
+197.  0  Conversations About Job Performance
+198.  0  Optimizing images
+199.  0  Leveraging Multi-CDN at Riot Games
+200.  0  HBR Guide to Delivering Effective Feedback (HBR Guide Series)
+201.  0  Frontend Optimization Handbook
+202.  0  The Truth About Performance Evaluations
+203.  0  Performance Gap Analysis
+204.  0  Solving Employee Performance Problems: How to Spot Problems Early, Take Appropriate Action, and Bring Out the Best in Everyone
+205.  0  Giving Effective Feedback (HBR 20-Minute Manager Series)
+206.  0  Nanosensors
+207.  0  Perfect Phrases for Setting Performance Goals, Second Edition, 2nd Edition
+208.  0  Performance Management: Putting Research into Action
+209.  0  Improving the Performance of Government Employees
+210.  0  Conversations for Creating Star Performers: Go Beyond the Performance Review to Inspire Excellence Every Day
+211.  0  The Browser Performance Toolkit
+212.  0  Win-Win Performance Appraisals: What to Do Before, During, and After the Review to Get the Best Results for Yourself and Your Employees
+213.  0  Employee LEAPS
+214.  0  The Great Workplace: Building Trust and Inspiring Performance
+215.  0  HBR Guide to Coaching Employees (HBR Guide Series)
+216.  0  Computer Interpretation of Metaphoric Phrases
+217.  0  The Alliance
+218.  0  Measuring Performance
+219.  0  Past Performance Handbook, 2nd Edition
+220.  0  Recognizing and Engaging Employees For Dummies
+221.  0  Performance Feedback
+222.  0  Analyzing Complex Appraisals for Business Professionals
+223.  0  Managing and Delivering Performance
+224.  0  100 Ideas that Changed the Web
+225.  0  Delegating Work (HBR 20-Minute Manager Series)
+226.  0  How Workplace Fairness Affects Employee Commitment
+227.  0  Measuring the Benefits of Employee Engagement
+228.  0  Best Practices: Evaluating Performance
+229.  0  Retail 101: The Guide to Managing and Marketing Your Retail Business
+230.  0  Employee Engagement For Dummies
+231.  0  The Manager's Employee Engagement Toolbox
+232.  0  Composite Magnetoelectrics
+233.  0  Performance Budgeting
+234.  0  South Korean Democracy
+235.  0  Five Stars: Putting Online Reviews to Work for Your Business
+236.  0  Managing for Performance: Delivering Results Through Others
+237.  0  The ROI of Human Capital: Measuring the Economic Value of Employee Performance, Second Edition
+238.  0  Wiley CPAexcel Exam Review 2015 Focus Notes: Business Environment and Concepts
+239.  0  The HBR Guides Collection (8 Books) (HBR Guide Series)
+240.  0  Wiley CPAexcel Exam Review 2015 Focus Notes: Regulation
+241.  0  Transforming Performance Measurement
+242.  0  50 Activities for Performance Appraisal Training
+243.  0  Productive Performance Appraisals, Second Edition
+244.  0  Foundations of Instructional and Performance Technology
+245.  0  Socialism and War
+246.  0  Wiley CPAexcel Exam Review 2014 Focus Notes: Business Environment and Concepts
+247.  0  Manager's Guide to Employee Engagement
+248.  0  Performance Appraisals
+249.  0  Perfect Phrases for New Employee Orientation and Onboarding: Hundreds of ready-to-use phrases to train and retain your top talent
+250.  0  Perfect Phrases for Conflict Resolution: Hundreds of Ready-to-Use Phrases for Encouraging a More Productive and Efficient Work Environment
+251.  0  Perfect Phrases for Sales Referrals: Hundreds of Ready-to-Use Phrases for Getting New Clients, Building Relationships, and Increasing Your Sales
+252.  0  Wiley CPAexcel Exam Review 2014 Focus Notes: Regulation
+253.  0  High-Speed Photonics Interconnects
+254.  0  Engaged: Unleashing Your Organization's Potential Through Employee Engagement
+255.  0  Key Performance Indicators, 4th Edition
+256.  0  The First-Time Manager’s Guide to Performance Appraisals
+257.  0  Performance Analysis: Knowing What to Do and How
+258.  0  Performance Management
+259.  0  Perfect Phrases for Healthcare Professionals: Hundreds of Ready-to-Use Phrases
+260.  0  Employee to Entrepreneur
+261.  0  Performance Test: Designing an Effective Competency Model
+262.  0  Guaranteeing Performance Improvement: A Purely Practical Positive Approach
+263.  0  Perfect Phrases for Virtual Teamwork: Hundreds of Ready-to-Use Phrases for Fostering Collaboration at a Distance
+264.  0  Improving Employee Performance Through Appraisal and Coaching, 2nd Edition
+265.  0  How to Motivate Employees
+266.  0  Perfect Phrases for Managers and Supervisors, Second Edition, 2nd Edition
+267.  0  Performance Management: Measure and Improve The Effectiveness of Your Employees
+268.  0  Beyond Training Ain't Performance Fieldbook
+269.  0  Beginning ASP.NET Web Pages with WebMatrix®
+270.  0  20 Minutes to a Top Performer: Three Fast and Effective Conversations to Motivate, Develop, and Engage Your Employees
+271.  0  Perfect Phrases for Writing Employee Surveys
+272.  0  Creating Web Pages Simplified®, Second Edition
+273.  0  The Insider's Guide to Supervising Government Employees
+274.  0  Managers, Can You Hear Me Now?: Hard-Hitting Lessons on How to Get Real Results
+275.  0  Abolishing Performance Appraisals
+276.  0  Multisite Commerce: Proven Principles for Overcoming the Business, Organizational, and Technical Challenges
+277.  0  Empowered
+278.  0  Visitor Management
+279.  0  Employees First, Customers Second: Turning Conventional Management Upside Down
+280.  0  Web Sites Do-It-Yourself for Dummies®, 2nd Edition
+281.  0  Stress-Free Performance Appraisals
+282.  0  Web Performance Tuning, 2nd Edition
+283.  0  The M-Factor
+284.  0  The First-Time Trainer: A Step-by-Step Quick Guide for Managers, Supervisors, and New Training Professionals
+285.  0  Attract Visitors to Your Site: The Mini Missing Manual
+286.  0  50 Activities for Employee Engagement
+287.  0  Developing Employees
+288.  0  The Compromise Trap
+289.  0  Microformats Made Simple
+290.  0  In Focus/Executive Coaching-Coaching and Performance: Substantiating the Link
+291.  0  Greasemonkey Hacks
+292.  0  Competency-Based Training Basics
+293.  0  DotNetNuke® 5 User's Guide: Get Your Website Up and Running
+294.  0  Evaluating Performance Interventions—Performance
+295.  0  Internet Explorer 8 and Its Impact on Your ASP.NET Web Sites
+296.  0  Key Performance Indicators
+297.  0  Keeping Employees Accountable for Results: Quick Tips for Busy Managers
+298.  0  Post-Project Reviews to Gain Effective Lessons Learned
+299.  0  Creating Web Pages For Dummies®
+300.  0  Performance and Fault Management
+301.  0  1,000 Retail Graphics
+302.  0  Dotnetnuke™ For Dummies®
+303.  0  The Role of the Performance Evaluator—Performance
+304.  0  Web Performance Tuning
+305.  0  Codin’ for the Web: A Designer’s Guide to Developing Dynamic Web Sites
+306.  0  Coaching People
+307.  0  Set-up-to-Fail Syndrome
+308.  0  Easy Web Design
+309.  0  Libraries and Key Performance Indicators
+310.  0  Performance Scorecards: Measuring the Right Things in the Real World
+311.  0  First Line Supervision, Fifth Edition
+312.  0  Your Life in Web Apps
+313.  0  The Performance of Photovoltaic (PV) Systems
+314.  0  Web Design For Dummies®, 2nd Edition
+315.  0  Key Performance Indicators For Dummies
+316.  0  Web Site Measurement Hacks
+317.  0  Creating a Web Site with flash 8: Visual QuickProject Guide
+318.  0  FrontPage 2003: The Missing Manual
+319.  0  Demand Driven Performance
+320.  0  The Manager's Pocket Guide to Performance Management
+321.  0  Formula 2+2
+322.  0  Apache Cookbook
+323.  0  The Manager's Pocket Guide to Documenting Employee Performance
+324.  0  Supervisor's Survival Kit: Your First Step into Management, Ninth Edition
+325.  0  Designing With Web Standards
+326.  0  Analytics and Big Data for Accountants, 2nd Edition
+327.  0  Winning with Past Performance
+328.  0  Web Design in a Nutshell, 2nd Edition
+329.  0  Running Weblogs with Slash
+330.  0  Fast Feedback
+331.  0  Key Management Models, 3rd Edition, 3rd Edition
+332.  0  The Path to Peak Performance
+333.  0  How to Create a Good Learning Environment—Training Basics
+334.  0  Accelerated Learning—Training Basics
+335.  0  Key Buildings from Prehistory to the Present
+336.  0  25 Need-To-Know Management Ratios
+337.  0  Technology Scorecards: Aligning IT Investments with Business Performance
+338.  0  Sustainability Indicators in Practice
+339.  0  Performance By Design: The Systematic Selection, Design, and Development of Performance Technologies that Produce Useful Results
+340.  0  Key Business Solutions
+341.  0  The Key: How Corporations Succeed by Solving the World's Toughest Problems
+342.  0  The Trader's Guide to Key Economic Indicators, 3rd Edition
+343.  0  Keys to the Kingdom
+344.  0  The Secrets of Economic Indicators: Hidden Clues to Future Economic Trends and Investment Opportunities, Third Edition
+345.  0  The Trader's Guide to the Euro Area: Economic Indicators, the ECB and the Euro Crisis
+346.  0  The 3 Keys to Empowerment
+347.  0  The Winning Factor
+348.  0  The Key to the C-Suite
+349.  0  Working with Economic Indicators
+350.  0  Understanding China’s Economic Indicators: Translating the Data into Investment Opportunities
+351.  0  Balanced Scorecard: Step-by-Step for Government and Nonprofit Agencies, 2nd Edition
+352.  0  Market Indicators Other Than Price
+353.  0  CMF—Chaikin Money Flow: Changes Anticipating Price Reversal
+354.  0  HPI Balanced Scorecard—Performance
+355.  0  The Role of the Performance Intervention Specialist—Performance
+356.  0  Improving Performance: How to Manage the White Space on the Organization Chart
+357.  0  In it for the Long Haul: Coaching is Key to Continued Development
+358.  0  Foundations of Software and System Performance Engineering: Process, Performance Modeling, Requirements, Testing, Scalability, and Practice
+359.  0  IBM CICS Performance Series: CICS TS for z/OS V5 Performance Report
+360.  0  Sports Performance Measurement and Analytics: The Science of Assessing Performance, Predicting Future Outcomes, Interpreting Statistical Models, and Evaluating the Market Value of Athletes
+361.  0  IBM CICS Performance Series: CICS TS for z/OS V5 Performance Report
+362.  0  Performance Consulting: Applying Performance Improvement in Human Resource Development
+363.  0  The Performance Pipeline: Getting the Right Performance At Every Level of Leadership
+364.  0  Performance Management: Using IBM InfoSphere Optim Performance Manager and Query Workload Tuner
+365.  0  High Performance MySQL, 4th Edition
+366.  0  DB2 UDB ESE V8 non-DPF Performance Guide for High Performance OLTP and BI
+367.  0  SQL Server Advanced Troubleshooting and Performance Tuning
+368.  0  Model Performance Management with Explainable AI
+369.  0  Microsoft Power BI Performance Best Practices
+370.  0  Expert Oracle Database Architecture: Techniques and Solutions for High Performance and Productivity
+371.  0  The Role of the Performance Needs Analyst—Performance
+372.  0  The Performance Optimization Video Collection
+373.  0  Architecting High-Performance Embedded Systems
+374.  0  Performance Testing: An ISTQB Certified Tester Foundation Level Specialist Certification Review
+375.  0  Implementing Machine Learning for Finance: A Systematic Approach to Predictive Risk and Performance Analysis for Investment Portfolios
+376.  0  Building High Performance Java 17 Applications: Using GraalVM Native Image and Apache OpenJDK 17
+377.  0  8 Steps to High Performance
+378.  0  Pro .NET Benchmarking: The Art of Performance Measurement
+379.  0  Oracle Database Transactions and Locking Revealed: Building High Performance Through Concurrency
+380.  0  Performance Tuning Deep Learning in Python - A Masterclass
+381.  0  Supply Chain Costing and Performance Management, 2nd Edition
+382.  0  HBR’s 10 Must Reads on High Performance (with bonus article "The Right Way to Form New Habits” An interview with James Clear)
+383.  0  Financial Planning & Analysis and Performance Management
+384.  0  Peak Performance Culture
+385.  0  Strategic KAIZEN™: Using Flow, Synchronization, and Leveling [FSL™] Assessment to Measure and Strengthen Operational Performance
+386.  0  Blazor Performance: Optimizing Your Blazor Website
+387.  0  The Performance Curve
+388.  0  High Performance Boards
+389.  0  Managing Kubernetes Performance at Scale
+390.  0  SQL Server Indexing, Statistics, and Parameter Sniffing: Solving Performance Challenges by Designing Better Data Structures
+391.  0  Put Happiness to Work: 7 Strategies to Elevate Engagement for Optimal Performance
+392.  0  Business Sustainability Factors of Performance, Risk, and Disclosure
+393.  0  Pro SQL Server 2019 Wait Statistics: A Practical Guide to Analyzing Performance in SQL Server
+394.  0  Sustainability Performance and Reporting
+395.  0  Peak Performance Culture
+396.  0  Strategic Environmental Performance
+397.  0  Mastering High Performance with Kotlin
+398.  0  Beyond Performance Management
+399.  0  Expert Performance Indexing in SQL Server 2019: Toward Faster Results and Lower Maintenance
+400.  0  SAP SuccessFactors Talent: Volume 1: A Complete Guide to Configuration, Administration, and Best Practices: Performance and Goals

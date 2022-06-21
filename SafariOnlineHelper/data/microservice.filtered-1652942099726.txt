@@ -1,0 +1,502 @@
+INPUT: microservice
+TOTAL BOOKS: 500
+1.  86  Building Microservices
+2.  55  The Principles of Microservices
+3.  46  Kubernetes Microservices
+4.  45  Event-Driven Microservices
+5.  33  Microservices Patterns
+6.  31  Learn Docker - Fundamentals of Docker 18.x
+7.  30  RESTful Web APIs with Spring
+8.  29  Spring in Action, Fifth Edition
+9.  27  Master Microservices with Spring Boot and Spring Cloud
+10.  25  Moving to Microservices: Using Domain-Driven Design to Break Down the Monolith
+11.  25  Building Microservices with Spring
+12.  25  Docker in Motion
+13.  22  Building Microservices with Spring Boot, Second Edition
+14.  22  Domain Modeling Made Functional
+15.  21  Building Microservice Systems with Docker and Kubernetes
+16.  21  Automation in AWS with CloudFormation, CLI, and SDKs
+17.  20  Building Microservices with Spring Boot LiveLessons (Video Training)
+18.  19  Spring Microservices
+19.  19  11 Steps to Awesome with Kubernetes, Istio, and Knative LiveLessons
+20.  17  Building Microservices, 2nd Edition
+21.  17  Hands-On Microservices with Spring Boot and Spring Cloud
+22.  16  Docker Orchestration and Microservices
+23.  16  Monolith to Microservices
+24.  15  Hands-On RESTful API Design Patterns and Best Practices
+25.  14  Microservices Security in Action
+26.  14  Building Micro-Frontends
+27.  13  Production-Ready Microservices
+28.  13  Spring: Microservices with Spring Boot
+29.  12  Microservice Architecture
+30.  12  Spring Microservices in Action
+31.  12  gRPC [Java] Master Class: Build Modern API and Microservices
+32.  12  gRPC [Golang] Master Class: Build Modern API and Microservices
+33.  11  Architectural Patterns
+34.  10  Building a Scalable Serverless Microservice REST Data API
+35.  10  Building Microservices with Go
+36.  10  OSCON 2017 - Austin, Texas
+37.  10  Docker Orchestration and Microservices, Second Edition
+38.  10  Learning Functional Programming in Go
+39.  10  Developing Ops-Friendly Microservices
+40.  10  Microservices AntiPatterns and Pitfalls
+41.  10  Mastering Distributed Tracing
+42.  10  Cloud Native Java
+43.  9  97 Things Every Data Engineer Should Know
+44.  9  Apache Kafka - Real-time Stream Processing (Master Class)
+45.  9  Docker and Kubernetes for Java Developers
+46.  9  Spring 5.0 Microservices - Second Edition
+47.  9  Learning Path: Expert Python Projects
+48.  9  Red Hat Certified Specialist in Containers and Kubernetes Complete Video Course: Red Hat EX180
+49.  8  Building Event-Driven Microservices
+50.  8  O'Reilly Software Architecture Conference 2017 - New York, New York
+51.  8  Implementing Serverless Microservices Architecture Patterns
+52.  8  Event storming
+53.  8  Professional Cloud Architect - Google Cloud Certification Guide
+54.  8  Mastering API Architecture
+55.  8  Data Science on the Google Cloud Platform
+56.  8  Serverless Fundamentals for Microservices: An Introduction to Core Concepts and Best Practices
+57.  8  Pivotal Certified Professional Core Spring 5 Developer Exam: A Study Guide Using Spring Framework 5
+58.  7  Learn Microservices with Spring Boot: A Practical Approach to RESTful Services Using an Event-Driven Architecture, Cloud-Native Patterns, and Containerization
+59.  7  Hands-On Software Engineering with Golang
+60.  7  Learn Docker - Fundamentals of Docker 19.x - Second Edition
+61.  7  Mastering Spring Boot 2.0
+62.  7  OSCON 2018 - Portland, Oregon
+63.  7  Learn Scala Programming
+64.  7  Cloud-Native Applications in Java
+65.  7  Mastering Spring 5.0
+66.  7  Service-Based Architectures
+67.  7  Full-Stack React with Spring Boot
+68.  7  Learn Microservices with Spring Boot: A Practical Approach to RESTful Services using RabbitMQ, Eureka, Ribbon, Zuul and Cucumber
+69.  6  Microservice Patterns and Best Practices
+70.  6  Modern Container-Based DevOps: Managing Microservices using Kubernetes and Docker
+71.  6  Learning Spring Boot 2.0 - Second Edition
+72.  6  Building RESTful Web Services with .NET Core
+73.  6  Building Microservices with ASP.NET Core
+74.  6  Learning Path: Delivering Applications with Docker
+75.  6  Velocity 2016 - Santa Clara, California: Video Compilation
+76.  6  Mastering PHP Design Patterns
+77.  6  DevOps with Kubernetes - Second Edition
+78.  6  Enterprise API Management
+79.  6  Microservices for the Enterprise: Designing, Developing, and Deploying
+80.  6  Hands-On Network Programming with C
+81.  6  Foundations of Scalable Systems
+82.  6  Go: Design Patterns for Real-World Projects
+83.  6  What are microservices?
+84.  6  Continuous Delivery with Docker and Jenkins
+85.  6  Camel in Action, Second Edition
+86.  6  Testing microservices with consumer-driven contracts
+87.  6  Building Java 8 Web Applications with Microservices
+88.  6  Clean Code in Python
+89.  6  Certified Kubernetes Application Developer (CKAD), 2nd Edition
+90.  6  Learning Domain-Driven Design
+91.  5  Microservices in .NET Core: with examples in Nancy
+92.  5  Software Architect's Handbook
+93.  5  Reactive Spring Boot, 2nd Edition
+94.  5  Full Stack Development with JHipster - Second Edition
+95.  5  Design Patterns and Best Practices in Java
+96.  5  Cloud Native Architectures
+97.  5  Microservices: Flexible Software Architecture
+98.  5  Enterprise Application Architecture with .NET Core
+99.  5  O’Reilly Software Architecture Conference New York 2018
+100.  5  Spring: Developing Java Applications for the Enterprise
+101.  5  RESTful Java Web Services - Second Edition
+102.  5  Real World Docker
+103.  5  Kubernetes Cookbook, 2nd Edition
+104.  5  Building Microservices with Clojure
+105.  5  What Are Microservices?, 2nd Edition
+106.  5  Modern Java Web Applications with Spring Boot 2.x
+107.  5  Practical Microservices with Dapr and .NET
+108.  5  Design Patterns for Cloud Native Applications
+109.  5  Learning Pivotal Cloud Foundry for Web Developers
+110.  5  Hands-On Spring Security 5.x
+111.  5  Go in Practice
+112.  4  Security and Microservice Architecture on AWS
+113.  4  Building a scalable microservice architecture with Envoy, Kubernetes, and Istio
+114.  4  Hands-On RESTful Web Services with Go - Second Edition
+115.  4  Practical Microservices Architectural Patterns: Event-Based Java Microservices with Spring Boot and Spring Cloud
+116.  4  Hands-On Microservices - Monitoring and Testing
+117.  4  Spring Boot 2.0 Projects
+118.  4  Mastering Microservices with Java - Third Edition
+119.  4  Building RESTful Web services with Go
+120.  4  Hands-On Microservices with Kotlin
+121.  4  Reactive Microsystems
+122.  4  TypeScript Microservices
+123.  4  Full Stack Development with JHipster
+124.  4  Spring 5.0 By Example
+125.  4  Java EE 8 Application Development
+126.  4  Deploying Machine Learning Models as Microservices Using Docker
+127.  4  Mastering Spring Cloud
+128.  4  Design Patterns and SOLID Principles with Java
+129.  4  Hands-On Full Stack Development with Go
+130.  4  Refactor your Java EE application using Microservices and Containers
+131.  4  Practical Microservices
+132.  4  Cloud Native Python
+133.  4  Java Projects - Second Edition
+134.  4  Hands-On Software Architecture with Golang
+135.  4  Go: Building Web Applications
+136.  4  Chaos Engineering
+137.  4  The Enterprise Path to Service Mesh Architectures
+138.  4  Google Cloud Platform for Developers
+139.  4  Mastering Kubernetes
+140.  4  Service-Oriented Architecture: Analysis and Design for Services and Microservices
+141.  4  .NET Core Microservices: Transitioning monolithic architectures using microservices with .NET Core
+142.  3  Spring Cloud Data Flow: Native Cloud Orchestration Services for Microservice Applications on Modern Runtimes
+143.  3  Migrating to Microservice Databases
+144.  3  Microservices with Spring Boot and Spring Cloud - Second Edition
+145.  3  API Security in Action
+146.  3  Bootstrapping Microservices with Docker, Kubernetes, and Terraform
+147.  3  Engineering MLOps
+148.  3  Hands-On Reactive Programming in Spring 5
+149.  3  O'Reilly Software Architecture Conference 2020 - New York, NY
+150.  3  Microservices in Action
+151.  3  Hands-On Industrial Internet of Things
+152.  3  Hands-On Swift 5 Microservices Development
+153.  3  Cloud Native programming with Golang
+154.  3  Enterprise Java Microservices
+155.  3  Hands-On Enterprise Application Development with Python
+156.  3  Hands-On Blockchain with Hyperledger
+157.  3  Spring Security - Third Edition
+158.  3  Microservices with Docker on Microsoft Azure™ (includes Content Update Program)
+159.  3  O'Reilly Software Architecture Conference 2017 - London, UK
+160.  3  O'Reilly Software Architecture Conference 2016 - London, United Kingdom
+161.  3  Spring MVC: Designing Real-World Web Applications
+162.  3  O'Reilly Software Architecture Conference 2016 - New York, New York
+163.  3  Hands-On RESTful Web Services with TypeScript 3
+164.  3  Hands-On Reactive Programming with Reactor
+165.  3  Pytest Master Class
+166.  3  AWS Certified Developer (Associate)
+167.  3  Hands-On Design Patterns with C# and .NET Core
+168.  3  Building RESTful Web Services with Java EE 8
+169.  3  Cloud Foundry for Developers
+170.  3  JavaScript: Functional Programming for JavaScript Developers
+171.  3  Learning DevOps: Continuously Deliver Better Software
+172.  3  Practical DevOps
+173.  3  Mastering Node.js - Second Edition
+174.  3  Software Architecture with Spring 5.0
+175.  3  Architecting Microsoft Azure Solutions - Exam Guide 70-535
+176.  3  Beginning Spring Boot 2: Applications and Microservices with the Spring Framework
+177.  3  Hands-On Parallel Programming with C# 8 and .NET Core 3
+178.  3  Microservices from Theory to Practice: Creating Applications in IBM Bluemix Using the Microservices Approach
+179.  3  Go Programming Blueprints - Second Edition
+180.  3  Hands-On Continuous Integration and Delivery
+181.  3  C# and .NET Core Test Driven Development
+182.  3  Mastering Javascript Functional Programming
+183.  3  Software Design X-Rays
+184.  3  Distributed Tracing in Practice
+185.  3  Istio: Up and Running
+186.  3  DevOps: A Software Architect’s Perspective
+187.  3  Building Serverless Web Applications
+188.  3  Microservices and Containers, First edition
+189.  3  NGINX Cookbook
+190.  3  Building Google Cloud Platform Solutions
+191.  3  Microservices: Up and Running
+192.  3  Pro DevOps with Google Cloud Platform: With Docker, Jenkins, and Kubernetes
+193.  3  Cloud Native Java with Kubernetes, 2nd Edition
+194.  3  Mastering Node.js 12.x
+195.  2  Securing Microservice APIs
+196.  2  Patterns for persistence and streaming in microservice architectures (sponsored by DataStax)
+197.  2  Advanced Microservices: A Hands-on Approach to Microservice Infrastructure and Tooling
+198.  2  Daniel Arbuckle’s Mastering Python
+199.  2  Building and Managing Microservices with Kubernetes and Istio
+200.  2  Designing Microservices Platforms with NATS
+201.  2  Node.js Web Development
+202.  2  Machine Learning Engineering with Python
+203.  2  Build Real-World Python Microservices with Continuous Delivery From Zero
+204.  2  Microservices Patterns Video Edition
+205.  2  Microservices Security in Action video edition
+206.  2  Hands-On Microservices with Rust
+207.  2  RESTful Java Web Services - Third Edition
+208.  2  Java EE 8 Development with Eclipse
+209.  2  O'Reilly Strata Data and AI Superstream
+210.  2  Practical Site Reliability Engineering
+211.  2  Python Web Scraping Cookbook
+212.  2  Cloud Native Patterns video edition
+213.  2  Building RESTful Web Services with Spring 5 - Second Edition
+214.  2  Node.js Web Development - Fourth Edition
+215.  2  Building Applications with Spring 5 and Kotlin
+216.  2  Industrial Internet Application Development
+217.  2  Java EE 8 and Angular
+218.  2  Building Reactive Microservices in Java
+219.  2  Java EE 8 Microservices
+220.  2  Java EE 8 Cookbook
+221.  2  Microservices with Clojure
+222.  2  Architecting Modern Java EE Applications
+223.  2  Implementing Azure: Putting Modern DevOps to Use
+224.  2  Expert AWS Development
+225.  2  Building Microservices with .NET Core
+226.  2  O'Reilly Software Architecture Conference 2016 - San Francisco, California
+227.  2  Spring MVC Cookbook
+228.  2  Microservices Best Practices for Java
+229.  2  Reactive Microservices Architecture
+230.  2  Getting Started with Containerization
+231.  2  Mastering ASP.NET Web API
+232.  2  Spring Microservices in Action, Second Edition
+233.  2  DevOps with Kubernetes
+234.  2  Docker for Serverless Applications
+235.  2  Hands-On Reactive Programming with Clojure - Second Edition
+236.  2  The Tao of Microservices
+237.  2  Implementing DevOps with Ansible 2
+238.  2  Java EE 8 Application Development
+239.  2  Akka Cookbook
+240.  2  AWS SysOps Cookbook - Second Edition
+241.  2  Hands-On Cloud-Native Applications with Java and Quarkus
+242.  2  Hands-On Design Patterns with Kotlin
+243.  2  Mastering GitLab 12
+244.  2  Nginx HTTP Server - Fourth Edition
+245.  2  Beginning Quarkus Framework: Build Cloud-Native Enterprise Java Applications and Microservices
+246.  2  Mastering Kubernetes
+247.  2  Site Reliability Engineering on AWS
+248.  2  Docker for Java and Spring Boot Developers
+249.  2  DevOps for Networking
+250.  2  Icebergs, bathtubs, and flows: Applying systems thinking to software architecture
+251.  2  Learn AWS Serverless Computing
+252.  2  C++ Reactive Programming
+253.  2  Applied Akka Patterns
+254.  2  Go Cookbook
+255.  2  Kotlin Blueprints
+256.  2  Deployment with Docker
+257.  2  Node Cookbook
+258.  2  NGINX Cookbook
+259.  2  Break me if you can: A practical guide to building fault-tolerant systems
+260.  2  Kubernetes on AWS
+261.  2  C# 7 and .NET Core 2.0 High Performance
+262.  2  Java 11 Cookbook
+263.  2  Oracle JET for Developers
+264.  2  Building Web Apps with Spring 5 and Angular
+265.  2  Django Design Patterns and Best Practices - Second Edition
+266.  2  C# 7 and .NET: Designing Modern Cross-platform Applications
+267.  2  Spring Boot 2.0 Cookbook - Second Edition
+268.  2  C# 7.1 and .NET Core 2.0 – Modern Cross-Platform Development - Third Edition
+269.  2  Building Serverless Applications with Python
+270.  2  Getting Started with Kubernetes - Second Edition
+271.  2  RESTful Web Clients
+272.  1  Microservices in .NET, Second Edition
+273.  1  Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices
+274.  1  Reactive Spring Boot, 3rd Edition
+275.  1  Pro Microservices in .NET 6: With Examples Using ASP.NET Core 6, MassTransit, and Kubernetes
+276.  1  .NET Core Microservices - The Complete Guide (.NET 6 MVC)
+277.  1  AWS for Solutions Architects
+278.  1  OSCON 2019 - Portland, Oregon
+279.  1  API Security in Action video edition
+280.  1  Hands-On Docker for Microservices with Python
+281.  1  O'Reilly Software Architecture Conference 2019 - Berlin, Germany
+282.  1  API Security in Action (Audiobook)
+283.  1  Software Architecture with C# 9 and .NET 5 - Second Edition
+284.  1  Hands-On Azure for Developers
+285.  1  Mastering Kotlin
+286.  1  Hands-On High Performance with Spring 5
+287.  1  O'Reilly Software Architecture Conference 2019 - San Jose, California
+288.  1  Python Microservices Development
+289.  1  Spring 5.0 Projects
+290.  1  Scala Reactive Programming
+291.  1  Go Web Development Cookbook
+292.  1  Mastering Service Mesh
+293.  1  AWS Automation Cookbook
+294.  1  Practical Industrial Internet of Things Security
+295.  1  Microservices Development Cookbook
+296.  1  Modern JavaScript Web Development Cookbook
+297.  1  Hands-On Microservices with C#
+298.  1  Java EE 8 Design Patterns and Best Practices
+299.  1  Node Cookbook - Third Edition
+300.  1  JBoss: Developer's Guide
+301.  1  PHP Microservices
+302.  1  Implementing Oracle API Platform Cloud Service
+303.  1  Hands-On Cloud Development with WildFly
+304.  1  Microservices Deployment Cookbook
+305.  1  Python Programming Blueprints
+306.  1  Building Microservices with .NET Core 2.0 - Second Edition
+307.  1  Learning ASP.NET Core 2.0
+308.  1  Java 9 Programming Blueprints
+309.  1  Node.js Web Development - Third Edition
+310.  1  Developing Microservices Using a Service Template and Chassis
+311.  1  Testing Java Microservices: Using Arquillian, Hoverfly, AssertJ, JUnit, Selenium, and Mockito
+312.  1  Spring 5.0 Cookbook
+313.  1  Building resilient microservices
+314.  1  Microservices in Production
+315.  1  Blockchain for Enterprise
+316.  1  Hands-On Enterprise Java Microservices with Eclipse MicroProfile
+317.  1  How Sundhed.dk migrated from monolith to GDPR-compliant microservices
+318.  1  The Microservices Video Collection
+319.  1  Distributed Computing in Java 9
+320.  1  Monolith to Microservices
+321.  1  Learn OpenShift
+322.  1  Practical DevOps - Second Edition
+323.  1  Mastering JavaScript Design Patterns - Second Edition
+324.  1  Hands-On Kubernetes on Azure
+325.  1  NGINX Cookbook
+326.  1  JavaScript : Moving to ES2015
+327.  1  Learning IBM Bluemix
+328.  1  .NET Core 2.0 By Example
+329.  1  Accelerating Modernization with Agile Integration
+330.  1  Hands-On Network Programming with C# and .NET Core
+331.  1  Docker Cookbook - Second Edition
+332.  1  Architecting Cloud Computing Solutions
+333.  1  Enterprise Internet of Things Handbook
+334.  1  Go Standard Library Cookbook
+335.  1  Kubernetes Security and Observability
+336.  1  C# 7 and .NET Core Cookbook
+337.  1  C# Programming Cookbook
+338.  1  Building RESTful Web Services with PHP 7
+339.  1  Pro Java Microservices with Quarkus and Kubernetes: A Hands-on Guide
+340.  1  Azure Kubernetes Services with Microservices : Understanding Its Patterns and Architecture
+341.  1  97 Things Every Cloud Engineer Should Know
+342.  1  Security for Web Developers
+343.  1  Mastering Python Design Patterns - Second Edition
+344.  1  Distributed Computing with Go
+345.  1  Service Mesh Patterns
+346.  1  Kotlin Programming By Example
+347.  1  Red Hat OpenShift Administration: Red Hat EX280
+348.  1  The Enterprise Path to Service Mesh Architectures, 2nd Edition
+349.  1  Microservices for Java Developers, 2nd Edition
+350.  1  On microservices, bounded contexts, and everything in between
+351.  1  Hands-On Full Stack Development with Spring Boot 2 and React - Second Edition
+352.  1  Java 9 Programming By Example
+353.  1  Evolve the Monolith to Microservices with Java and Node
+354.  1  Java EE 8 High Performance
+355.  1  Mastering Docker - Third Edition
+356.  1  Velocity Conference New York 2015: Video Compilation
+357.  1  Secret Recipes of the Python Ninja
+358.  1  Pro Spring MVC with WebFlux: Web Development in Spring Framework 5 and Spring Boot 2
+359.  1  Implementing Azure Cloud Design Patterns
+360.  1  Architecting for Scale, 2nd Edition
+361.  1  Programming Kotlin
+362.  1  Modern Web Performance Optimization: Methods, Tools, and Patterns to Speed Up Digital Platforms
+363.  1  Implementing Azure Solutions
+364.  1  AWS Certified Cloud Practitioner CLF-C01: Exam and Beyond
+365.  1  Python in Containers
+366.  1  IBM Cloud Private System Administrator's Guide
+367.  0  Building a Robust Microservice Collaboration
+368.  0  Python Microservice with FastAPI and AWS App Runner
+369.  0  Functions to Containerized Microservice Continuous Delivery to AWS App Runner with Fast API
+370.  0  AWS Fargate for Flask Microservice in One Hour Video Course
+371.  0  Chaos debugging: Finding and fixing microservice abnormalities
+372.  0  Microservices, IoT, and Azure: Leveraging DevOps and Microservice Architecture to Deliver SaaS Solutions
+373.  0  Microservices in .NET, Second Edition, Video Edition
+374.  0  Microservices in .NET, Second Edition
+375.  0  Istio in Action
+376.  0  Software Architecture with C# 10 and .NET 6 - Third Edition
+377.  0  Kubernetes Native Microservices with Quarkus and MicroProfile
+378.  0  Building Microservices
+379.  0  Building Microservices with Micronaut®
+380.  0  Kubernetes - Certified Kubernetes Administrator (CKA) 2022
+381.  0  Spring Microservices in Action, Second Edition, Video Edition
+382.  0  Getting Started with V Programming
+383.  0  Hands-On Microservices with Kubernetes
+384.  0  Bootstrapping Microservices with Docker, Kubernetes, and Terraform, video edition
+385.  0  Developing Java Applications with Spring and Spring Boot
+386.  0  C# 8 and .NET Core 3 Projects Using Azure - Second Edition
+387.  0  Microservices Patterns (Audiobook)
+388.  0  Designing Microservices with Django: An Overview of Tools and Practices
+389.  0  Bootstrapping Microservices with Docker, Kubernetes, and Terraform
+390.  0  .NET Core in Action
+391.  0  Cloud Native Applications with Ballerina
+392.  0  Microservices Security in Action (Audiobook)
+393.  0  Responsible Microservices
+394.  0  O'Reilly Software Architecture Conference - London, UK 2018
+395.  0  Cloud Computing for Data Analysis
+396.  0  Software Architecture with Python
+397.  0  Jakarta EE Cookbook - Second Edition
+398.  0  Building Serverless Microservices in Python
+399.  0  Hands-On RESTful Python Web Services - Second Edition
+400.  0  Microservices Patterns (Audiobook)
+401.  0  Hands-On Server-Side Web Development with Swift
+402.  0  Enterprise Interoperability: Smart Services and Business Impact of Enterprise Interoperability
+403.  0  Java 9: Building Robust Modular Applications
+404.  0  Hands-On Cloud-Native Microservices with Jakarta EE
+405.  0  Introduction to Programming
+406.  0  Blockchain Development with Hyperledger
+407.  0  Your First Steps from Programmer to Software Architect
+408.  0  Building Microservices with Spring
+409.  0  Payara Micro Revealed: Cloud-Native Application Development with Java
+410.  0  Introduction to JVM Languages
+411.  0  Mastering Microservices with Java 9 - Second Edition
+412.  0  Microservices with Azure
+413.  0  Velocity Conference Amsterdam 2015: Complete Video Compilation
+414.  0  PHP 7 Programming Blueprints
+415.  0  Transitioning to .NET Core on Red Hat Enterprise Linux
+416.  0  Logic to Live
+417.  0  MLOps with AWS App Runner
+418.  0  Cloud Computing, 2nd Edition
+419.  0  Spring Cloud Gateway: Resilience and Security
+420.  0  Engineering Software Products: An Introduction to Modern Software Engineering
+421.  0  Azure Serverless Computing Cookbook - Second Edition
+422.  0  How to Build Microservices with Node.js
+423.  0  Get started with Distributed Tracing
+424.  0  Infrastructure & Ops Superstream Series: Microservices & DevOps
+425.  0  How Netflix scales microservices with application data caching
+426.  0  Containers in OpenStack
+427.  0  Microservices Adoption in 2020
+428.  0  Orbitz.com automates its microservices
+429.  0  Working with Kafka for Local Development
+430.  0  Learn to Containerize Algorithms Deploy to AWS with App Runner
+431.  0  Responsible microservices
+432.  0  Building a service delivery infrastructure (sponsored by ThoughtWorks)
+433.  0  Finding the ideal team and culture at IBM
+434.  0  Kotlin for Enterprise Applications using Java EE
+435.  0  Embracing Microservices Design
+436.  0  Web Development with MongoDB and Node - Third Edition
+437.  0  Migrating Applications to the Cloud with Azure
+438.  0  MLOps Masterclass: Theory to DevOps to Cloud-native to AutoML
+439.  0  Testing Practitioner Handbook
+440.  0  Red Hat Certified Specialist in Containers and Kubernetes (EX180) and OpenShift Administration (EX280) (Video Collection)
+441.  0  Spring Microservices in Action, Second Edition
+442.  0  Python Microservices Development - Second Edition
+443.  0  Microservices Security with gRPC and Kafka
+444.  0  NGINX Cookbook, 2nd Edition
+445.  0  Apache Ignite Quick Start Guide
+446.  0  Modern Systems Programming with Scala Native
+447.  0  Principles of Web API Design: Delivering Value with APIs and Microservices
+448.  0  The Modern C# Challenge
+449.  0  Microservices for Modern Commerce
+450.  0  Beginning DevOps with Docker
+451.  0  Python for DevOps Master Class 2022: CI/CD, Github Actions, Containers and Microservices
+452.  0  Python for Geeks
+453.  0  Kubernetes Design Patterns and Extensions
+454.  0  Hands-On Neural Network Programming with C#
+455.  0  Mastering OpenStack - Second Edition
+456.  0  Securing Microservices with Istio Service Mesh
+457.  0  Software Architecture for Busy Developers
+458.  0  Software Architecture Hour: Mature Microservices
+459.  0  Meet the Expert: Sam Newman on Transitioning to Microservices
+460.  0  Microservices for Java Developers
+461.  0  Migrating ASP.NET Microservices to ASP.NET Core: By Example
+462.  0  Hands-On Serverless Computing with Google Cloud
+463.  0  Serverless Security: Understand, Assess, and Implement Secure and Reliable Applications in AWS, Microsoft Azure, and Google Cloud
+464.  0  Hands-On Cloud Solutions with Azure
+465.  0  Puppet 5 Cookbook - Fourth Edition
+466.  0  Practical Cloud-Native Java Development with MicroProfile
+467.  0  Spring Boot Fundamentals Part 2: Deploying Java-based Spring Boot Apps in Kubernetes, Docker and Other Containers
+468.  0  Transforming Your Business with AWS
+469.  0  An Atypical ASP.NET Core 6 Design Patterns Guide - Second Edition
+470.  0  Data-Centric Applications with Vaadin 8
+471.  0  The Definitive Guide to Modernizing Applications on Google Cloud
+472.  0  NGINX Cookbook (Japanese Version)
+473.  0  Advanced TypeScript Programming Projects
+474.  0  Serverless Architectures on AWS, Second Edition
+475.  0  Practical Azure Functions: A Guide to Web, Mobile, and IoT Applications
+476.  0  The Service Mesh
+477.  0  Reducing MTTD for High-Severity Incidents
+478.  0  GitHub Essentials
+479.  0  Improving your C# Skills
+480.  0  Learn Web Development with Python
+481.  0  Becoming the Hacker
+482.  0  Data Analysis with Python
+483.  0  Hands-On Serverless Applications with Go
+484.  0  Serverless Programming Cookbook
+485.  0  What Is Ray?
+486.  0  Mastering High Performance with Kotlin
+487.  0  Ansible 2 Cloud Automation Cookbook
+488.  0  Hands-On Serverless Computing
+489.  0  Haskell Cookbook
+490.  0  Echo Quick Start Guide
+491.  0  The Kubernetes Bible
+492.  0  Deep Learning with Microsoft Cognitive Toolkit Quick Start Guide
+493.  0  Mastering Docker Enterprise
+494.  0  Software Architecture Superstream Series: Software Architecture Fundamentals 2021
+495.  0  Software Architecture Superstream Series: Software Architecture Fundamentals—Comparing Architectural Styles
+496.  0  Certified Kubernetes CKAD & CKA (Video Collection)
+497.  0  Architectural Katas, October—November 2021
+498.  0  Modern Big Data Architectures
+499.  0  Software Architecture Superstream Series: Mastering Your Microservices Stack
+500.  0  Software Architecture Superstream Series: Soft Skills Are the Hardest Part

@@ -1,0 +1,502 @@
+INPUT: web design
+TOTAL BOOKS: 500
+1.  75  Learning JavaScript Design Patterns
+2.  53  HTML & CSS: Design and Build Websites
+3.  39  Domain-Driven Design Distilled
+4.  34  Learning Web Design, 4th Edition
+5.  27  Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, 3rd Edition
+6.  25  REST API Design Rulebook
+7.  23  Responsive Web Design
+8.  22  Don’t Make Me Think!: A Common Sense Approach to Web Usability, Second Edition
+9.  21  The Sketchnote Handbook Video the illustrated guide to visual note taking
+10.  20  RESTful Web APIs
+11.  19  Scott & Neil's Designing Web Interfaces Master Class
+12.  19  Node.js Design Patterns - Second Edition
+13.  17  The Information Diet
+14.  15  Head First Web Design
+15.  15  Hands-On RESTful API Design Patterns and Best Practices
+16.  14  Dynamic Web Design with PHP and MySQL
+17.  13  Head First Design Patterns, 2nd Edition
+18.  12  Learning Web Design, 3rd Edition
+19.  11  Node.js Design Patterns - Third Edition
+20.  10  API Design Methodology
+21.  10  Universal Principles of Design, Revised and Updated
+22.  10  Designing for Performance
+23.  10  About Face 3: The Essentials of Interaction Design
+24.  9  The Principles of Beautiful Web Design, 2nd Edition
+25.  9  Web Design in a Nutshell
+26.  9  The Design of Web APIs
+27.  8  The Non-Designer’s Design Book, Third Edition
+28.  8  HTML CSS and JavaScript for Beginners - A Web Design Course
+29.  8  Responsive Web Design
+30.  8  Handcrafted CSS: More Bulletproof Web Design
+31.  8  Information Architecture for the World Wide Web, 3rd Edition
+32.  8  Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems
+33.  8  Designing Interfaces, 2nd Edition
+34.  7  Learning Responsive Web Design
+35.  7  Simple and Usable Web, Mobile, and Interaction Design
+36.  7  A Complete CSS Flexbox Course and a Real World Website Project
+37.  7  Design It!
+38.  7  Tragic Design
+39.  7  The Elements of User Experience, Second Edition: User-Centered Design for the Web and Beyond
+40.  7  Designing Evolvable Web APIs with ASP.NET
+41.  7  Designing for Emotion
+42.  7  Designing Web Interfaces
+43.  7  Getting Started with Python Web Scraping
+44.  7  Mobile Design Pattern Gallery
+45.  7  The Book of GIMP
+46.  7  SOA Design Patterns
+47.  6  Communicating Design: Developing Web Site Documentation for Design and Planning, Second Edition
+48.  6  'Responsive Web Design: Learn by Video'
+49.  6  Sexy Web Design
+50.  6  Designing APIs for the Web
+51.  6  API Management: An Architect's Guide to Developing and Managing APIs for Your Organization
+52.  6  Modern JavaScript: Develop and Design
+53.  5  Neuro Web Design: What Makes Them Click?
+54.  5  Implementing Responsive Design: Building sites for an anywhere, everywhere web
+55.  5  The Art of Enterprise Information Architecture: A Systems-Based Approach for Unlocking Business Insight
+56.  5  Frontend Architecture for Design Systems
+57.  5  Designing Interfaces, 3rd Edition
+58.  5  Reactive Design Patterns
+59.  5  React 17 Design Patterns and Best Practices - Third Edition
+60.  5  Scalability Rules: Principles for Scaling Web Sites, 2nd Edition
+61.  5  Vue.js 2 Design Patterns and Best Practices
+62.  5  Designing for the Digital Age: How to Create Human-Centered Products and Services
+63.  4  Responsive Web Design with HTML5 and CSS - Third Edition
+64.  4  The Principles of Beautiful Web Design, 4th Edition
+65.  4  Practical Web Design
+66.  4  Responsive Web Design, Second Edition
+67.  4  Jump Start Responsive Web Design
+68.  4  RESTful Web API Design with Node.js 10 - Third Edition
+69.  4  Flexible Web Design: Creating Liquid and Elastic Layouts with CSS
+70.  4  RESTful Web API Design with Node.js
+71.  4  Transcending CSS: The Fine Art of Web Design
+72.  4  Product Design for the Web: Principles of Designing and Releasing Web Products
+73.  4  Service Design Patterns: Fundamental Design Solutions for SOAP/WSDL and RESTful Web Services
+74.  4  Responsive Design Workflow
+75.  4  Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests, Second Edition
+76.  4  Information Architecture for the World Wide Web
+77.  4  Org Design for Design Orgs
+78.  4  SPA Design and Architecture: Understanding single-page web applications
+79.  4  Designing Web APIs
+80.  4  React Design Patterns and Best Practices - Second Edition
+81.  4  Design Sprint
+82.  4  Web Components in Action
+83.  4  Designing for Emerging Technologies
+84.  4  HTML & CSS JumpStart
+85.  4  Microinteractions: Full Color Edition
+86.  4  Security Patterns in Practice: Designing Secure Architectures Using Software Patterns
+87.  3  Learning Web Design, 5th Edition
+88.  3  Hello Web Design
+89.  3  Web ReDesign 2.0: Workflow that Works, Second Edition
+90.  3  Learning Responsive Web Design
+91.  3  Beginning Responsive Web Design with HTML5 and CSS3
+92.  3  Instant Responsive Web Design
+93.  3  DOM Scripting: Web Design with JavaScript and the Document Object Model, Second Edition
+94.  3  Web Service Contract Design and Versioning for SOA
+95.  3  Information Architecture, 4th Edition
+96.  3  Responsible Responsive Design
+97.  3  Designing Web Usability
+98.  3  Articulating Design Decisions, 2nd Edition
+99.  3  Automated Lighting, 2nd Edition
+100.  3  Design Serverless Architecture with AWS and AWS Lambda
+101.  3  Collaborative Product Design
+102.  3  Hands-On Design Patterns with C# and .NET Core
+103.  3  Using Analytics to Inform Product Design
+104.  3  Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences
+105.  3  The Full Stack Web Development
+106.  3  Rapid Prototyping with InVision
+107.  3  Angular Design Patterns
+108.  3  Designing with Microformats for a Beautiful Web, Video
+109.  3  Online Communities Handbook: Building Your Business and Brand on the Web
+110.  3  API Design Patterns
+111.  3  React Design Patterns for Beginners
+112.  3  React Design Patterns
+113.  2  Modern Web Design with HTML5, CSS3, and JavaScript
+114.  2  Modular Web Design: Creating Reusable Components for User Experience Design and Documentation
+115.  2  Web Design For Dummies® 3rd Edition
+116.  2  Web Design in a Nutshell, 3rd Edition
+117.  2  Bootstrap 4 – Responsive Web Design
+118.  2  PHP Solutions: Dynamic Web Design Made Easy
+119.  2  Ordering Disorder: Grid Principles for Web Design
+120.  2  RESTful Web API Design with Node.js - Second Edition
+121.  2  Designing the Obvious: A Common Sense Approach to Web and Mobile Application Design, Second Edition
+122.  2  Everyday Information Architecture
+123.  2  Learning Bulma: Understand How to Develop Responsive, Mobile-first Websites Using This Impressive, Modern Framework
+124.  2  The Design of Sites: Patterns for Creating Winning Web Sites, Second Edition
+125.  2  Information Architecture Essentials
+126.  2  High Performance Responsive Design
+127.  2  Responsive Mobile Architecture
+128.  2  Responsive & Fast
+129.  2  Information Design Workbook
+130.  2  Powered by Design
+131.  2  Storytelling in Design
+132.  2  Usability
+133.  2  Designing with Data
+134.  2  Design Thinking
+135.  2  Speaking in Styles: Fundamentals of CSS for Web Designers
+136.  2  Modern Web Development: Understanding domains, technologies, and user experience
+137.  2  On Web Typography
+138.  2  Designing Web Accessibility for a Beautiful Web, Video
+139.  2  Python: Master the Art of Design Patterns
+140.  2  Angular for Material Design: Leverage Angular Material and TypeScript to Build a Rich User Interface for Web Apps
+141.  2  UX for the Web
+142.  2  Web Performance in Action: Building Fast Web Pages
+143.  2  Python Web Scraping Cookbook
+144.  2  Django Design Patterns and Best Practices - Second Edition
+145.  2  Mastering JavaScript Design Patterns
+146.  2  JavaScript Application Design: A Build First Approach
+147.  2  Android User Interface Design: Implementing Material Design for Developers, Second Edition
+148.  2  Introduction to Web Performance Optimization (WPO)
+149.  2  Painting the Web
+150.  2  Design Patterns in PHP and Laravel
+151.  2  Fluent Conference - San Jose, CA 2018
+152.  1  Browser image loading
+153.  1  Distinctive Design: A Practical Guide to a Useful, Beautiful Web
+154.  1  Mastering Responsive Web Design
+155.  1  Jump Start Responsive Web Design, 2nd Edition
+156.  1  Responsive Web Design with HTML5 and CSS3 Essentials
+157.  1  The Principles of Beautiful Web Design, 3rd Edition
+158.  1  Adaptive Web Design: Crafting Rich Experiences with Progressive Enhancement, Second Edition
+159.  1  PHP 7 Solutions: Dynamic Web Design Made Easy
+160.  1  Modern Web Design Patterns in Angular 8
+161.  1  QuarkXPress 8: Essential Skills for Page Layout and Web Design
+162.  1  Foundations of Web Design: Introduction to HTML & CSS
+163.  1  Practical Web Design for Absolute Beginners
+164.  1  The Essential Guide to HTML5 and CSS3 Web Design
+165.  1  Web Design with Muse (code name) from Adobe®
+166.  1  Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with HTML5 and CSS3, Third Edition
+167.  1  WordPress Web Design For Dummies, 2nd Edition
+168.  1  Beginning CSS: Cascading Style Sheets for Web Design, Third Edition
+169.  1  WordPress® Web Design For Dummies®
+170.  1  The Essential Guide to CSS and HTML Web Design
+171.  1  iPhone® & iPad® Web Design For Dummies®
+172.  1  Simple and Usable Web, Mobile, and Interaction Design, Second Edition
+173.  1  UI Design with Adobe® Illustrator®:Discover the ease and power of using Illustrator to design Web sites and apps
+174.  1  Web Commerce Security Design and Development
+175.  1  Presenting Design Work
+176.  1  Better Onboarding
+177.  1  Universal Design for Web Applications
+178.  1  Designing for Sustainability
+179.  1  Visual Design for the Modern Web
+180.  1  Customization Usability: 46 Design Guidelines to Improve Web-based Interface and Product Customization
+181.  1  Designing for Emotion
+182.  1  UX Optimization: Combining Behavioral UX and Usability Testing Data to Optimize Websites
+183.  1  Responsive Design: Patterns & Principles
+184.  1  Remote Usability Testing
+185.  1  Building Web Reputation Systems
+186.  1  Information Architecture: Blueprints for the Web, Second Edition
+187.  1  Information and Recommender Systems
+188.  1  Knowledge Service Engineering Handbook
+189.  1  Developing Information Systems: Practical guidance for IT professionals
+190.  1  Usability Testing Essentials
+191.  1  Big Data and the Internet of Things: Enterprise Information Architecture for a New Age
+192.  1  Responsive Mobile User Experience Using MQTT and IBM MessageSight
+193.  1  Mobile Usability
+194.  1  Absolute Value - What Really Influences Customers in the Age of (Nearly) Perfect Information
+195.  1  Metaskills: Five Talents for the Robotic Age
+196.  1  Social Information
+197.  1  Online Reputation Management For Dummies
+198.  1  IT Auditing Using Controls to Protect Information Assets, 2nd Edition, 2nd Edition
+199.  1  Strategic Business Development for Information Centres and Libraries
+200.  1  Koha 3 Library Management System
+201.  1  Game Usability
+202.  1  Security and Usability
+203.  1  Design for Cognitive Bias
+204.  1  The Pocket Universal Methods of Design
+205.  1  Creating ASP.NET Core Web Applications: Proven Approaches to Application Design and Development
+206.  1  Demystifying Architectural Research
+207.  1  Design Leadership
+208.  1  Graphics and Multimedia for the Web with Adobe Creative Cloud: Navigating the Adobe Software Landscape
+209.  1  Design in Venture Capital
+210.  1  Effectively Articulating Design Decisions
+211.  1  Adobe® Creative Suite® 6 Design & Web Premium Classroom in a Book®
+212.  1  Adobe® Experience Manager Quick-Reference Guide: Web Content Management [formerly CQ]
+213.  1  Implementing AWS: Design, Build, and Manage your Infrastructure
+214.  1  Practical API Architecture and Development with Azure and AWS: Design and Implementation of APIs for the Cloud
+215.  1  Evaluate the product/market fit
+216.  1  The Elements of User Experience: User-Centered Design for the Web
+217.  1  Practical UI Patterns for Design Systems: Fast-Track Interaction Design for a Seamless User Experience
+218.  1  Digital Design for Print and Web: An Introduction to Theory, Principles, and Techniques
+219.  1  Abduzeedo Inspiration Guide for Designers
+220.  1  Idea-ology
+221.  1  Design for the Mind: Seven Psychological Principles of Persuasive Design
+222.  1  White Space Is Not Your Enemy, 3rd Edition
+223.  1  An Atypical ASP.NET Core 5 Design Patterns Guide
+224.  1  INTERACTION DESIGN: beyond human-computer interaction, 3rd Edition
+225.  1  Using Technology to Design Across the Senses
+226.  1  Photography for the Web
+227.  1  Mastering JavaScript Design Patterns - Second Edition
+228.  1  Get Your Photography on the Web: The Fastest, Easiest Way to Show & Sell Your Work
+229.  1  Getting Started with Web Components
+230.  1  Web Accessibility: Web Standards and Regulatory Compliance
+231.  1  Understanding Context
+232.  1  Designing Prototypes With Framer
+233.  1  Prototyping with Balsamiq: A Beginner's Guide
+234.  1  Go Web Scraping Quick Start Guide
+235.  1  API Security in Action video edition
+236.  1  Learn from the Experts about the Principles of DevOps: Lisa Phillips
+237.  1  API Security in Action
+238.  1  The Adobe Photoshop Lightroom Classic CC Book: Plus an introduction to the new Adobe Photoshop Lightroom CC across desktop, web, and mobile
+239.  1  Checking Out with the Payment Request API : A Practical Introduction to the HTML5 Payment Request API using Real-world Examples
+240.  1  Designing Gestural Interfaces
+241.  1  White Space is Not Your Enemy, 2nd Edition
+242.  1  Reusable Firmware Development: A Practical Approach to APIs, HALs and Drivers
+243.  1  Client-Side Data Storage for Web Developers
+244.  1  The Definitive Guide to Shopify Themes: Master the Design Skills to Build World-Class Ecommerce Sites
+245.  1  Adobe Illustrator Classroom in a Book (2020 release)
+246.  0  Moving to Responsive Web Design: Bring existing static sites into today's multi-device world with responsive web design
+247.  0  Web Design Playground
+248.  0  Adobe XD for Web Design: Essential Principles for UI and UX
+249.  0  Sustainable Web Design
+250.  0  CSS Modern Responsive Web Design - Create 5 Different Websites
+251.  0  Principles of Web API Design: Delivering Value with APIs and Microservices
+252.  0  PHP 8 Solutions: Dynamic Web Design and Development Made Easy
+253.  0  JavaFX™ Special Effects: Taking Java™ RIA to the Extreme with Animation, Multimedia, and Game Elements
+254.  0  Absolute Beginner’s Guide to Creating Web Pages
+255.  0  Bring Your Web Design to Life: Creating Rich Media Websites with Adobe Creative Suite
+256.  0  Web Design All-in-One for Dummies®
+257.  0  Absolute Beginner’s Guide to Creating Web Pages, Second Edition
+258.  0  Adobe® GoLive® Classroom in a Book®
+259.  0  Introduction to 3D Design with Adobe Photoshop and Illustrator: Creating 3D Effects for Print and Web Design Projects
+260.  0  Responsive Web Design with HTML5 and CSS3 - Second Edition
+261.  0  Responsive Web Design Toolkit
+262.  0  Responsive Web Design Video How-To
+263.  0  Sams Teach Yourself Responsive Web Design in 24 Hours
+264.  0  Responsive Web Design with Adobe Photoshop
+265.  0  HTML5 and CSS3 Responsive Web Design
+266.  0  Easy Web Design
+267.  0  Responsive Web Design
+268.  0  Creative Web Design with Adobe Muse
+269.  0  InterACT with Web Standards: A holistic approach to web design
+270.  0  Web Design For Dummies®, 2nd Edition
+271.  0  PHP Solutions: Dynamic Web Design Made Easy, Third Edition
+272.  0  Web Design Essentials
+273.  0  Web Design in a Nutshell, 2nd Edition
+274.  0  Web Design with HTML and CSS Digital Classroom
+275.  0  WordPress Web Design For Dummies
+276.  0  PHP Solutions: Dynamic Web Design Made Easy, Second Edition
+277.  0  Web Design for ROI: Turning Browsers into Buyers & Prospects into Leads
+278.  0  Adaptive Web Design
+279.  0  Web Standards Creativity: Innovations in Web Design with XHTML, CSS, and DOM Scripting
+280.  0  Web Design Garage
+281.  0  Web Application Design Patterns
+282.  0  Web Design All-in-One For Dummies, 2nd Edition
+283.  0  Pro iOS Web Design and Development: HTML5, CSS3, and JavaScript
+284.  0  DOM Scripting: Web Design with JavaScript and the Document Object Model
+285.  0  Professional CSS: Cascading Style Sheets for Web Design, Second Edition
+286.  0  Beginning CSS: Cascading Style Sheets for Web Design, Second Edition
+287.  0  Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with XHTML and CSS, Second Edition
+288.  0  Web Application Design Handbook
+289.  0  AdvancED DOM Scripting: Dynamic Web Design Techniques
+290.  0  Designing the Obvious: A Common Sense Approach to Web Application Design
+291.  0  Eric Meyer on CSS: Mastering the Language of Web Design
+292.  0  Web Anatomy: Interaction Design Frameworks that Work
+293.  0  Designing the Moment: Web Interface Design Concepts in Action
+294.  0  Design and Build Great Web APIs
+295.  0  SOA and Web Services Interface Design
+296.  0  Communicating Design: Developing Web Site Documentation for Design and Planning
+297.  0  Leading Content Design
+298.  0  Design for Safety
+299.  0  Expressive Design Systems
+300.  0  10 Mega Responsive Websites with HTML, CSS, and JavaScript
+301.  0  Practical Design Discovery
+302.  0  The Partnership Economy
+303.  0  Reputation Management, 4th Edition
+304.  0  Webflow by Example
+305.  0  The Responsive Web
+306.  0  Building Responsive Data Visualization for the Web
+307.  0  The Design Studio Method
+308.  0  Adobe Creative Suite 6 Design and Web Premium All-in-One For Dummies
+309.  0  Voice Content and Usability
+310.  0  The frontend's high performance responsive design
+311.  0  Usability Matters
+312.  0  Etiquette For Dummies
+313.  0  Eyetracking Web Usability
+314.  0  An Introduction to Information Design
+315.  0  The Responsible Company
+316.  0  How to Protect (Or Destroy) Your Reputation Online
+317.  0  Designing for Respect
+318.  0  Usability Testing and Research
+319.  0  Usability Testing for Survey Research
+320.  0  HTML5 and CSS3: Building Responsive Websites
+321.  0  Information, Communication, and Space Technology
+322.  0  Responsive Mobile Design: Designing for Every Device
+323.  0  Prioritizing Web Usability
+324.  0  Responsive Design with WordPress: How to make great responsive themes and plugins
+325.  0  The New Era of the CCO
+326.  0  Responsive Security
+327.  0  Building a responsive, mobile-first news platform at BBC News
+328.  0  Creating a New Library
+329.  0  Interactive Design for New Media and the Web
+330.  0  Going Responsive
+331.  0  Reputation Strategy and Analytics in a Hyper-Connected World
+332.  0  Enterprise Integration and Information Architecture
+333.  0  Access by Design: A Guide to Universal Usability for Web Designers
+334.  0  Customer-Centered Design: A New Approach to Web Usability
+335.  0  The Invisible Librarian
+336.  0  Whaling for Beginners
+337.  0  Static Site Generators
+338.  0  Advances in Affective and Pleasurable Design
+339.  0  Visual Usability
+340.  0  The Myth and Magic of Library Systems
+341.  0  SPIKE your Brand ROI: How to Maximize Reputation and Get Results
+342.  0  Building Responsive Websites
+343.  0  Information Professionals' Career Confidential
+344.  0  Managing the One-Person Library
+345.  0  Skills to Make a Librarian
+346.  0  Library 3.0
+347.  0  Information Engineering and Education Science
+348.  0  The Smashing Idea Book: From Inspiration to Application
+349.  0  Managing Your Information Using Evernote: Gather, Organize, Archive and Share Your Information (Que Video)
+350.  0  Responsive HTML Email
+351.  0  Information Trapping: Real-Time Research on the Web
+352.  0  The Patron-Driven Library
+353.  0  Revolutionize Learning & Development: Performance and Innovation Strategy for the Information Age
+354.  0  Radical Information Literacy
+355.  0  Proactive Marketing for the New and Experienced Library Director
+356.  0  The Responsive City: Engaging Communities Through Data-Smart Governance
+357.  0  Corporate Reputation
+358.  0  Information Evaluation
+359.  0  Usable Usability: Simple Steps for Making Stuff Better
+360.  0  My Xbox® One
+361.  0  Information Architecture for the World Wide Web, Second Edition
+362.  0  Organisational Culture for Information Managers
+363.  0  Understanding Librarians
+364.  0  The Information Diet
+365.  0  Crisis Information Management
+366.  0  The Death of Corporate Reputation: How Integrity Has Been Destroyed on Wall Street
+367.  0  How Caesars Entertainment Is Betting on Sustainability
+368.  0  Reputation, Stock Price, and You: Why the Market Rewards Some Companies and Punishes Others
+369.  0  Cyberwar and Information Warfare
+370.  0  Meeting the Needs of Student Users in Academic Libraries
+371.  0  Library Technology and User Services
+372.  0  Finding official British Information
+373.  0  The Power of Reputation: Strengthen the Asset That Will Make or Break Your Career
+374.  0  Instructional Strategies and Techniques for Information Professionals
+375.  0  Usability in Government Systems
+376.  0  Information Overload: A System for Better Managing Everyday Data
+377.  0  Management of Information Organizations
+378.  0  Infochemistry: Information Processing at the Nanoscale
+379.  0  New Directions for Academic Liaison Librarians
+380.  0  Lifelong Learning for Engineers and Scientists in the Information Age
+381.  0  My Xbox®: Xbox 360®, Kinect™, and Xbox LIVE®
+382.  0  The Basics of ISD Revisited
+383.  0  Information Dynamics in Virtual Worlds
+384.  0  Branding and Design: Creating a Highly Memorable Brand for the Web
+385.  0  233 Tips and Tricks for Recruiting Users as Participants in Usability Studies
+386.  0  Reputation Rules: Strategies for Building Your Company's Most valuable Asset
+387.  0  Visionary Leaders for Information
+388.  0  The Information and Knowledge Professional's Career Handbook
+389.  0  Managing Information Risk: A Director's Guide
+390.  0  LogoLounge Master Library, Volume 1
+391.  0  Beyond the Usability Lab
+392.  0  LogoLounge Master Library, Volume 2
+393.  0  Moderating Usability Tests
+394.  0  Wild West 2.0: How to Protect and Restore Your Online Reputation on the Untamed Social Frontier
+395.  0  Semiconductors and the Information Revolution
+396.  0  Understanding Your Users
+397.  0  Decoupling Drupal: A Decoupled Design Approach for Web Applications
+398.  0  Design for Wellbeing
+399.  0  Kicking Butt with MIDP and MSA: Creating Great Mobile Applications
+400.  0  The Xbox 360 Pocket Guide
+401.  0  In Focus/Case Study-A Responsible Company That's Making the Grade
+402.  0  Web Animation using JavaScript: Develop and Design
+403.  0  Cost-Justifying Usability, 2nd Edition
+404.  0  Contextual Design, 2nd Edition
+405.  0  Fame & Fortune: How Successful Companies Build Winning Reputations
+406.  0  Design for Climate Change
+407.  0  Managing Information Access to an Enterprise Information System Using J2EE and Services Oriented Architecture
+408.  0  Complex Responsive Processes in Organizations
+409.  0  The Designer's Guide to Product Vision: Learn to build your strategic influence to shape the future
+410.  0  Mobilizing Web Sites: Develop and Design
+411.  0  Adobe® CS4 Web Workflows: Building Web Sites With Adobe® Creative Suite® 4
+412.  0  Usability Engineering
+413.  0  Lead Designer's Handbook
+414.  0  Designing Across Senses
+415.  0  Urban Lighting for People
+416.  0  Usability Engineering
+417.  0  The Design and Business Video Collection 2016
+418.  0  Design Activism
+419.  0  2017 Design Salary Survey
+420.  0  Better Buildings
+421.  0  Design and Deploy web sites with Macromedia® Dreamweaver® MX 2004 and Contribute® 3: Training from the Source
+422.  0  Rescue and Reuse
+423.  0  Loft Conversion Handbook
+424.  0  An Introduction to Architectural Conservation
+425.  0  2016 Design Salary Survey
+426.  0  Automated Lighting, 3rd Edition
+427.  0  Designing Web APIs with Strapi
+428.  0  Write Web Apps with Dart: Develop and Design
+429.  0  Where Code and Content Meet: Design Patterns for Web Content Management and Delivery, Personalisation and User Participation
+430.  0  Docker Management Design Patterns: Swarm Mode on Amazon Web Services
+431.  0  Dylan Field on Designing for Designers
+432.  0  The Automated Lighting Programmer's Handbook, 3rd Edition
+433.  0  The Essential Keynotes Video Collection 2016
+434.  0  Irresistible Apps: Motivational Design Patterns for Apps, Games, and Web-based Communities
+435.  0  Computers are lazy: Fight back with the UI stack
+436.  0  Implementing Cloud Design Patterns for AWS
+437.  0  Visual Alchemy: The Fine Art of Digital Montage
+438.  0  The Automated Lighting Programmer's Handbook, 2nd Edition
+439.  0  Designing and Prototyping Interfaces with Figma
+440.  0  Do Good: How Design Can Change the World
+441.  0  A Fine Line: How Design Strategies Are Shaping the Future of Business
+442.  0  Refactoring HTML: Improving the Design of Existing Web Applications
+443.  0  API Design Patterns, video edition
+444.  0  The Zen of CSS Design: Visual Enlightenment for the Web
+445.  0  Do You Matter?: How Great Design Will Make People Love Your Company
+446.  0  PHP 8 Objects, Patterns, and Practice: Mastering OO Enhancements, Design Patterns, and Essential Development Tools
+447.  0  API Design Patterns
+448.  0  Interaction Design, 5th Edition
+449.  0  Designing Great Web APIs
+450.  0  Making the Web Work: Designing Effective Web Applications
+451.  0  Full-Stack Web Development with Angular
+452.  0  TypeScript 4 Design Patterns and Best Practices
+453.  0  Visual Design of GraphQL Data: A Practical Introduction with Legacy Data and Neo4j
+454.  0  Joint Cognitive Systems
+455.  0  API Testing and Development with Postman
+456.  0  The Sustainable Design Book
+457.  0  Microsoft Expression Design on Demand
+458.  0  Modern Java EE Design Patterns
+459.  0  DV 101: A Hands-On Guide for Business, Government & Educators
+460.  0  Visual Design: Ninety-five things you need to know. Told in Helvetica and dingbats.
+461.  0  Take Control of PDFpen, 3rd Edition
+462.  0  Continuous API Management, 2nd Edition
+463.  0  Evil by Design: Interaction design to lead us into temptation
+464.  0  Learning Web-based Virtual Reality: Build and Deploy Web-based Virtual Reality Technology
+465.  0  Building Native Web Components: Front-End Development with Polymer and Vue.js
+466.  0  Beginning Pixlr Editor: Learn to Edit Digital Photos Using this Free Web-Based App
+467.  0  LINQifying TheBeerHouse: An N-Tier LINQ Web Application with ASP.NET 2.0 Website Programming: Problem - Design - Solution
+468.  0  Refining Design for Business: Using analytics, marketing, and technology to inform customer-centric design
+469.  0  Talk to Me
+470.  0  How to Design Websites
+471.  0  Designing Training and Instructional Programs for Older Adults
+472.  0  WebSphere Application Server V8.5 Concepts, Planning, and Design Guide
+473.  0  Prototyping with Origami Studio
+474.  0  Fluid Web Typography
+475.  0  Advanced Features for Adobe’s CC Libraries: Enhance Your Workflow and Web Projects with Adobe Software
+476.  0  Producing New and Digital Media
+477.  0  Getting Started with Freelancing - A Practical Guide for Web Developers
+478.  0  Micro Frontends in Action video edition
+479.  0  Web performance is user experience
+480.  0  Data Scraping and Data Mining from Beginner to Pro with Python
+481.  0  Designing Effective Library Tutorials
+482.  0  IBM WebSphere Application Server V8 Concepts, Planning, and Design Guide
+483.  0  Designing the Conversation: Techniques for Successful Facilitation
+484.  0  WebSphere Application Server V8.5 Concepts, Planning, and Design Guide
+485.  0  Lumen Programming Guide: Writing PHP Microservices, REST and Web Service APIs
+486.  0  Expert PHP and MySQL: Application Design and Development
+487.  0  PCB Design for Absolute Beginners: Layout Printed Circuit Boards in a Web Browser
+488.  0  Modular Design Frameworks: A Projects-based Guide for UI/UX Designers
+489.  0  Interaction Design: Beyond Human-Computer Interaction, 2nd Edition
+490.  0  Always In Fashion: From Clerk to CEO -- Lessons for Success in Business and in Life
+491.  0  Web Applications with Javascript or Java
+492.  0  White Space is Not Your Enemy
+493.  0  Interaction Flow Modeling Language
+494.  0  Designing and Producing Media-Based Training
+495.  0  Jumpstart UIKit: Learn to Build Enterprise-Level, Feature-Rich Websites that Work Elegantly with Minimum Fuss
+496.  0  Python Programming with Design Patterns
+497.  0  Web Animation Prototyping with After Effects
+498.  0  The Open Brand: When Push Comes to Pull in a Web-Made World
+499.  0  Practical Web Analytics for User Experience
+500.  0  Bridging UX and Web Development

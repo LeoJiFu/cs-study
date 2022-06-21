@@ -1,0 +1,532 @@
+[
+  {
+    "id": "https://www.safaribooksonline.com/api/v1/book/9780134086040/chapter/ch01.html",
+    "archive_id": "9780134086040",
+    "ourn": "urn:orm:book:9780134086040:chapter:ch01.html",
+    "last_modified_time": "2020-05-19T08:26:49.481Z",
+    "issued": "2015-08-27T00:00:00Z",
+    "format": "book",
+    "content_format": "book",
+    "authors": [
+      "Paul Farris",
+      "Neil Bendle",
+      "Phillip E. Pfeifer",
+      "David J. Reibstein"
+    ],
+    "publishers": [
+      "Pearson"
+    ],
+    "academic_excluded": false,
+    "language": "en",
+    "title": "Marketing Metrics: The Manager’s Guide to Measuring Marketing Performance, Third Edition",
+    "url": "https://learning.oreilly.com/api/v1/book/9780134086040/chapter/ch01.html",
+    "web_url": "/library/view/marketing-metrics-the/9780134086040/ch01.html",
+    "source": "application/epub+zip",
+    "archive": "https://learning.oreilly.com/api/v1/book/9780134086040/",
+    "content_type": "chapter",
+    "natural_key": [
+      "9780134086040",
+      "ch01.html"
+    ],
+    "chapter_title": "1. Introduction",
+    "minutes_required": 28.75,
+    "virtual_pages": 25,
+    "duration_seconds": -1,
+    "has_assessment": false,
+    "timestamp": "2021-10-26T12:35:12.653Z",
+    "average_rating": 5000,
+    "number_of_followers": 0,
+    "number_of_items": 0,
+    "number_of_reviews": 1,
+    "popularity": 978428421,
+    "report_score": 5000,
+    "cover_url": "https://learning.oreilly.com/library/cover/9780134086040/",
+    "date_added": "2019-08-30T19:41:17.723Z",
+    "topics": [
+      "260192d1-24b9-405a-b757-cd1853ec63bb"
+    ],
+    "topics_payload": [
+      {
+        "uuid": "260192d1-24b9-405a-b757-cd1853ec63bb",
+        "slug": "marketing",
+        "name": "Marketing",
+        "score": null
+      }
+    ]
+  },
+  {
+    "id": "https://www.safaribooksonline.com/api/v1/book/9780137010325/chapter/ch17s02.html",
+    "archive_id": "9780137010325",
+    "ourn": "urn:orm:book:9780137010325:chapter:ch17s02.html",
+    "last_modified_time": "2020-05-19T07:44:52.515Z",
+    "issued": "2008-10-31T00:00:00Z",
+    "format": "book",
+    "content_format": "book",
+    "authors": [
+      "Sandy Carter"
+    ],
+    "publishers": [
+      "IBM Press"
+    ],
+    "academic_excluded": false,
+    "language": "en",
+    "title": "The New Language of Marketing 2.0: How to Use ANGELS to Energize Your Market",
+    "url": "https://learning.oreilly.com/api/v1/book/9780137010325/chapter/ch17s02.html",
+    "web_url": "/library/view/the-new-language/9780137010325/ch17s02.html",
+    "source": "application/epub+zip",
+    "archive": "https://learning.oreilly.com/api/v1/book/9780137010325/",
+    "content_type": "chapter",
+    "natural_key": [
+      "9780137010325",
+      "ch17s02.html"
+    ],
+    "chapter_title": "16 Show Me the Money: A Discussion with Google, the Marketing Leadership Council, and MarketingNPV",
+    "minutes_required": 28.75,
+    "virtual_pages": 25,
+    "duration_seconds": -1,
+    "has_assessment": false,
+    "timestamp": "2021-10-28T03:42:42.542Z",
+    "average_rating": 4000,
+    "number_of_followers": 0,
+    "number_of_items": 0,
+    "number_of_reviews": 1,
+    "popularity": 594828160,
+    "report_score": 4000,
+    "cover_url": "https://learning.oreilly.com/library/cover/9780137010325/",
+    "date_added": "2019-09-02T07:34:56.658Z",
+    "topics": [
+      "260192d1-24b9-405a-b757-cd1853ec63bb"
+    ],
+    "topics_payload": [
+      {
+        "uuid": "260192d1-24b9-405a-b757-cd1853ec63bb",
+        "slug": "marketing",
+        "name": "Marketing",
+        "score": null
+      }
+    ]
+  },
+  {
+    "id": "https://www.safaribooksonline.com/api/v1/book/9788131774885/chapter/xhtml/chapter006.xhtml",
+    "archive_id": "9788131774885",
+    "ourn": "urn:orm:book:9788131774885:chapter:xhtml%2fchapter006.xhtml",
+    "last_modified_time": "2021-06-12T03:24:21.905Z",
+    "issued": "2006-07-19T00:00:00Z",
+    "format": "book",
+    "content_format": "book",
+    "authors": [
+      "K. N. Krishnaswamy",
+      "Appa Iyer Sivakumar",
+      "M. Mathirajan"
+    ],
+    "publishers": [
+      "Pearson India"
+    ],
+    "academic_excluded": false,
+    "language": "en",
+    "title": "Management Research Methodology: Integration of Principles, Methods and Techniques",
+    "url": "https://learning.oreilly.com/api/v1/book/9788131774885/chapter/xhtml/chapter006.xhtml",
+    "web_url": "/library/view/management-research-methodology/9788131774885/xhtml/chapter006.xhtml",
+    "source": "application/epub+zip",
+    "archive": "https://learning.oreilly.com/api/v1/book/9788131774885/",
+    "content_type": "chapter",
+    "natural_key": [
+      "9788131774885",
+      "xhtml/chapter006.xhtml"
+    ],
+    "chapter_title": "6. Experimental Research",
+    "minutes_required": 98.9,
+    "virtual_pages": 86,
+    "duration_seconds": -1,
+    "has_assessment": false,
+    "timestamp": "2021-10-26T04:31:38.140Z",
+    "average_rating": 4000,
+    "number_of_followers": 0,
+    "number_of_items": 0,
+    "number_of_reviews": 1,
+    "popularity": 838972208,
+    "report_score": 4000,
+    "cover_url": "https://learning.oreilly.com/library/cover/9788131774885/",
+    "date_added": "2019-09-01T13:25:58.596Z",
+    "topics": [
+      "4206cf00-18b3-4211-994f-862c46f3c38c"
+    ],
+    "topics_payload": [
+      {
+        "uuid": "4206cf00-18b3-4211-994f-862c46f3c38c",
+        "slug": "user-research",
+        "name": "User Research",
+        "score": null
+      }
+    ]
+  },
+  {
+    "id": "https://www.safaribooksonline.com/api/v1/book/9781138001121/chapter/chapter-33.html",
+    "archive_id": "9781138001121",
+    "ourn": "urn:orm:book:9781138001121:chapter:chapter-33.html",
+    "last_modified_time": "2021-06-11T04:01:32.741Z",
+    "issued": "2013-08-13T00:00:00Z",
+    "format": "book",
+    "content_format": "mockingbird-v2-id",
+    "authors": [
+      "Khaled Mahmoud"
+    ],
+    "publishers": [
+      "CRC Press"
+    ],
+    "academic_excluded": false,
+    "language": "en",
+    "title": "Durability of Bridge Structures",
+    "url": "https://learning.oreilly.com/api/v1/book/9781138001121/chapter/chapter-33.html",
+    "web_url": "/library/view/durability-of-bridge/9781138001121/chapter-33.html",
+    "source": "application/pdf",
+    "archive": "https://learning.oreilly.com/api/v1/book/9781138001121/",
+    "content_type": "chapter",
+    "natural_key": [
+      "9781138001121",
+      "chapter-33.html"
+    ],
+    "chapter_title": "Design of Idemli Bridges in landslide areas (1/2)",
+    "minutes_required": 10.35,
+    "virtual_pages": 9,
+    "duration_seconds": -1,
+    "has_assessment": false,
+    "timestamp": "2021-10-28T02:29:10.210Z",
+    "average_rating": 0,
+    "number_of_followers": 0,
+    "number_of_items": 0,
+    "number_of_reviews": 0,
+    "popularity": 560729077,
+    "report_score": 0,
+    "cover_url": "https://learning.oreilly.com/library/cover/9781138001121/",
+    "date_added": "2020-04-07T23:41:56.866Z",
+    "topics": [
+      "ffa1c9fc-00e8-425b-8fb6-1bf15eb39ea1"
+    ],
+    "topics_payload": [
+      {
+        "uuid": "ffa1c9fc-00e8-425b-8fb6-1bf15eb39ea1",
+        "slug": "personal-finance",
+        "name": "Personal Finance",
+        "score": null
+      }
+    ]
+  },
+  {
+    "id": "https://www.safaribooksonline.com/api/v1/book/9781119534921/chapter/c01.xhtml",
+    "archive_id": "9781119534921",
+    "ourn": "urn:orm:book:9781119534921:chapter:c01.xhtml",
+    "last_modified_time": "2020-09-23T21:48:19.809Z",
+    "issued": "2019-12-12T00:00:00Z",
+    "format": "book",
+    "content_format": "book",
+    "authors": [
+      "Petr Ekel",
+      "Witold Pedrycz",
+      "Joel Pereira Jr."
+    ],
+    "publishers": [
+      "Wiley"
+    ],
+    "academic_excluded": false,
+    "language": "en",
+    "title": "Multicriteria Decision-Making Under Conditions of Uncertainty",
+    "url": "https://learning.oreilly.com/api/v1/book/9781119534921/chapter/c01.xhtml",
+    "web_url": "/library/view/multicriteria-decision-making-under/9781119534921/c01.xhtml",
+    "source": "application/epub+zip",
+    "archive": "https://learning.oreilly.com/api/v1/book/9781119534921/",
+    "content_type": "chapter",
+    "natural_key": [
+      "9781119534921",
+      "c01.xhtml"
+    ],
+    "chapter_title": "1 Decision‐Making in Problems of System Design, Planning, Operation, and Control",
+    "minutes_required": 59.8,
+    "virtual_pages": 52,
+    "duration_seconds": -1,
+    "has_assessment": false,
+    "timestamp": "2021-10-28T04:16:58.154Z",
+    "average_rating": 0,
+    "number_of_followers": 0,
+    "number_of_items": 0,
+    "number_of_reviews": 0,
+    "popularity": 579804702,
+    "report_score": 0,
+    "cover_url": "https://learning.oreilly.com/library/cover/9781119534921/",
+    "date_added": "2020-09-23T21:40:47.797Z",
+    "topics": [
+      "7f319d47-4ef1-403e-b071-ceddd26311fd"
+    ],
+    "topics_payload": [
+      {
+        "uuid": "7f319d47-4ef1-403e-b071-ceddd26311fd",
+        "slug": "forecasting",
+        "name": "Forecasting",
+        "score": null
+      }
+    ]
+  },
+  {
+    "id": "https://www.safaribooksonline.com/api/v1/book/9781118644812/chapter/Wiley08898_Chapter12.html",
+    "archive_id": "9781118644812",
+    "ourn": "urn:orm:book:9781118644812:chapter:Wiley08898_Chapter12.html",
+    "last_modified_time": "2021-06-11T02:45:05.658Z",
+    "issued": "2014-10-27T00:00:00Z",
+    "format": "book",
+    "content_format": "book",
+    "authors": [
+      "David Weaver",
+      "Laura Lawton"
+    ],
+    "publishers": [
+      "Wiley"
+    ],
+    "academic_excluded": true,
+    "language": "en",
+    "title": "Tourism Management, 5th Edition",
+    "url": "https://learning.oreilly.com/api/v1/book/9781118644812/chapter/Wiley08898_Chapter12.html",
+    "web_url": "/library/view/tourism-management-5th/9781118644812/Wiley08898_Chapter12.html",
+    "source": "application/epub+zip",
+    "archive": "https://learning.oreilly.com/api/v1/book/9781118644812/",
+    "content_type": "chapter",
+    "natural_key": [
+      "9781118644812",
+      "Wiley08898_Chapter12.html"
+    ],
+    "chapter_title": "12 Tourism research",
+    "minutes_required": 72.45,
+    "virtual_pages": 63,
+    "duration_seconds": -1,
+    "has_assessment": false,
+    "timestamp": "2021-10-25T21:10:17.158Z",
+    "average_rating": 0,
+    "number_of_followers": 0,
+    "number_of_items": 0,
+    "number_of_reviews": 0,
+    "popularity": 698907996,
+    "report_score": 0,
+    "cover_url": "https://learning.oreilly.com/library/cover/9781118644812/",
+    "date_added": "2019-08-30T19:09:25.725Z",
+    "topics": [
+      "9c453bc7-cca4-4968-ad54-384ff22ded2c"
+    ],
+    "topics_payload": [
+      {
+        "uuid": "9c453bc7-cca4-4968-ad54-384ff22ded2c",
+        "slug": "fintech",
+        "name": "FinTech",
+        "score": null
+      }
+    ]
+  },
+  {
+    "id": "https://www.safaribooksonline.com/api/v1/book/9781491979822/chapter/ch01.html",
+    "archive_id": "9781491979822",
+    "ourn": "urn:orm:book:9781491979822:chapter:ch01.html",
+    "last_modified_time": "2020-05-19T18:57:43.744Z",
+    "issued": "2016-12-15T00:00:00Z",
+    "format": "book",
+    "content_format": "book",
+    "authors": [
+      "John Schrom"
+    ],
+    "publishers": [
+      "O'Reilly Media, Inc."
+    ],
+    "academic_excluded": false,
+    "language": "en",
+    "title": "Introduction to electronic health records",
+    "url": "https://learning.oreilly.com/api/v1/book/9781491979822/chapter/ch01.html",
+    "web_url": "/library/view/introduction-to-electronic/9781491979822/ch01.html",
+    "source": "application/epub+zip",
+    "archive": "https://learning.oreilly.com/api/v1/book/9781491979822/",
+    "content_type": "chapter",
+    "natural_key": [
+      "9781491979822",
+      "ch01.html"
+    ],
+    "chapter_title": "Representing Health Data",
+    "minutes_required": 42.55,
+    "virtual_pages": 37,
+    "duration_seconds": -1,
+    "has_assessment": false,
+    "timestamp": "2021-10-27T23:32:54.529Z",
+    "average_rating": 0,
+    "number_of_followers": 0,
+    "number_of_items": 0,
+    "number_of_reviews": 0,
+    "popularity": 578879458,
+    "report_score": 0,
+    "cover_url": "https://learning.oreilly.com/library/cover/9781491979822/",
+    "date_added": "2019-08-30T11:21:18.577Z",
+    "topics": [
+      "14e1cf8c-dc6b-4e0e-9ec6-3473a8b79eb2"
+    ],
+    "topics_payload": [
+      {
+        "uuid": "14e1cf8c-dc6b-4e0e-9ec6-3473a8b79eb2",
+        "slug": "records-management",
+        "name": "Records Management",
+        "score": null
+      }
+    ]
+  },
+  {
+    "id": "https://www.safaribooksonline.com/api/v1/book/9780750667999/chapter/chapter-29.html",
+    "archive_id": "9780750667999",
+    "ourn": "urn:orm:book:9780750667999:chapter:chapter-29.html",
+    "last_modified_time": "2021-06-11T00:43:46.820Z",
+    "issued": "2011-02-23T00:00:00Z",
+    "format": "book",
+    "content_format": "mockingbird-v2-id",
+    "authors": [
+      "David Loader"
+    ],
+    "publishers": [
+      "Butterworth-Heinemann"
+    ],
+    "academic_excluded": false,
+    "language": "en",
+    "title": "Operations Risk",
+    "url": "https://learning.oreilly.com/api/v1/book/9780750667999/chapter/chapter-29.html",
+    "web_url": "/library/view/operations-risk/9780750667999/chapter-29.html",
+    "source": "application/pdf",
+    "archive": "https://learning.oreilly.com/api/v1/book/9780750667999/",
+    "content_type": "chapter",
+    "natural_key": [
+      "9780750667999",
+      "chapter-29.html"
+    ],
+    "chapter_title": "“Risk scoring”",
+    "minutes_required": 2.3,
+    "virtual_pages": 2,
+    "duration_seconds": -1,
+    "has_assessment": false,
+    "timestamp": "2021-10-27T15:51:29.147Z",
+    "average_rating": 0,
+    "number_of_followers": 0,
+    "number_of_items": 0,
+    "number_of_reviews": 0,
+    "popularity": 520158528,
+    "report_score": 0,
+    "cover_url": "https://learning.oreilly.com/library/cover/9780750667999/",
+    "date_added": "2020-04-05T10:10:50.468Z",
+    "topics": [
+      "0319a312-f7fb-48df-90b6-272c4022297f"
+    ],
+    "topics_payload": [
+      {
+        "uuid": "0319a312-f7fb-48df-90b6-272c4022297f",
+        "slug": "operational-risk",
+        "name": "Operational Risk",
+        "score": null
+      }
+    ]
+  },
+  {
+    "id": "https://www.safaribooksonline.com/api/v1/book/9781119596127/chapter/b01.xhtml",
+    "archive_id": "9781119596127",
+    "ourn": "urn:orm:book:9781119596127:chapter:b01.xhtml",
+    "last_modified_time": "2021-08-04T23:17:51.965Z",
+    "issued": "2020-06-22T00:00:00Z",
+    "format": "book",
+    "content_format": "book",
+    "authors": [
+      "Tony Boobier"
+    ],
+    "publishers": [
+      "Wiley"
+    ],
+    "academic_excluded": false,
+    "language": "en",
+    "title": "AI and the Future of Banking",
+    "url": "https://learning.oreilly.com/api/v1/book/9781119596127/chapter/b01.xhtml",
+    "web_url": "/library/view/ai-and-the/9781119596127/b01.xhtml",
+    "source": "application/epub+zip",
+    "archive": "https://learning.oreilly.com/api/v1/book/9781119596127/",
+    "content_type": "chapter",
+    "natural_key": [
+      "9781119596127",
+      "b01.xhtml"
+    ],
+    "chapter_title": "Appendix: Fintech in BankingFintech in Banking",
+    "minutes_required": 37.95,
+    "virtual_pages": 33,
+    "duration_seconds": -1,
+    "has_assessment": false,
+    "timestamp": "2021-10-25T22:29:07.546Z",
+    "average_rating": 0,
+    "number_of_followers": 0,
+    "number_of_items": 0,
+    "number_of_reviews": 0,
+    "popularity": 838818076,
+    "report_score": 0,
+    "cover_url": "https://learning.oreilly.com/library/cover/9781119596127/",
+    "date_added": "2021-08-04T23:17:34.379Z",
+    "topics": [
+      "c44cbd83-0306-49a2-be7f-ef48e5757b6f"
+    ],
+    "topics_payload": [
+      {
+        "uuid": "c44cbd83-0306-49a2-be7f-ef48e5757b6f",
+        "slug": "artificial-intelligence",
+        "name": "Artificial Intelligence",
+        "score": null
+      }
+    ]
+  },
+  {
+    "id": "https://www.safaribooksonline.com/api/v1/book/9788131785782/chapter/xhtml/chapter006.xhtml",
+    "archive_id": "9788131785782",
+    "ourn": "urn:orm:book:9788131785782:chapter:xhtml%2fchapter006.xhtml",
+    "last_modified_time": "2021-06-12T00:59:57.871Z",
+    "issued": "2016-05-02T00:00:00Z",
+    "format": "book",
+    "content_format": "book",
+    "authors": [
+      "M. Mathirajan",
+      "Appa Iyer Sivakumar",
+      "K. N. Krishnaswamy"
+    ],
+    "publishers": [
+      "Pearson India"
+    ],
+    "academic_excluded": false,
+    "language": "en",
+    "title": "Management Research Methodology: Integration of Principles, Methods and Techniques",
+    "url": "https://learning.oreilly.com/api/v1/book/9788131785782/chapter/xhtml/chapter006.xhtml",
+    "web_url": "/library/view/management-research-methodology/9788131785782/xhtml/chapter006.xhtml",
+    "source": "application/epub+zip",
+    "archive": "https://learning.oreilly.com/api/v1/book/9788131785782/",
+    "content_type": "chapter",
+    "natural_key": [
+      "9788131785782",
+      "xhtml/chapter006.xhtml"
+    ],
+    "chapter_title": "6. Experimental Research",
+    "minutes_required": 98.9,
+    "virtual_pages": 86,
+    "duration_seconds": -1,
+    "has_assessment": false,
+    "timestamp": "2021-10-27T23:53:57.708Z",
+    "average_rating": 0,
+    "number_of_followers": 0,
+    "number_of_items": 0,
+    "number_of_reviews": 0,
+    "popularity": 724771017,
+    "report_score": 0,
+    "cover_url": "https://learning.oreilly.com/library/cover/9788131785782/",
+    "date_added": "2019-09-11T09:24:16.136Z",
+    "topics": [
+      "5baa9ef5-7776-4572-82c6-eaf9c6cb88d6"
+    ],
+    "topics_payload": [
+      {
+        "uuid": "5baa9ef5-7776-4572-82c6-eaf9c6cb88d6",
+        "slug": "team-management",
+        "name": "Team Management",
+        "score": null
+      }
+    ]
+  }
+]
